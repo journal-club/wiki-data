@@ -2,11 +2,11 @@
 <!-- SUBTITLE: Welcome to Bits Wiki -->
 
 # Welcome
-Bits Wiki aims to be the living archive of BITS Pilani Hyderabad Campus as we move ahead in
-space and time.
+Bits Wiki aims to be the  student and crowd sourced living archive of BITS Pilani Hyderabad Campus as we move ahead in space and time.
 
-Bits Wiki is the student and crowd sourced archive of everything related to Bits Hyderabad. You'll
-find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
+![Bits Pilani Hyderabad Campus Hyderabad](/uploads/bits-pilani-hyderabad-campus-hyderabad.jpg "Bits Pilani Hyderabad Campus Hyderabad")
+
+You'll find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
 
 
 -----
@@ -29,7 +29,6 @@ your email and name for identity and conflict resolution. We do not allow anonym
 
 ***This is just a document for testing bits wiki's deployment and should be replaced with actual text.***
 
-![54](/uploads/54.jpg "54")
 
 **Note:** This document is itself written using Markdown; you
 can [see the source for it by adding '.text' to the URL](/projects/markdown/syntax.text).
