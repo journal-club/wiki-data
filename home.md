@@ -6,8 +6,26 @@
 Bits Wiki is the student and crowd sourced archive of everything related to Bits Hyderabad. You'll
 find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
 
-**Note** Contributors welcome. You must login to edit content and your edits will be tagged with
+This project aims to be the living archive of BITS Pilani Hyderabad Campus as we move ahead in
+space and time.
+
+-----
+
+## Index
+
+Top level index:
+
+1. [Student Organisations](/orgs)
+
+
+## Contributing
+
+Are you a Bitsian? Are you familiar with the campus? Please fill up the gaps that you spot.
+
+Contributors welcome. You must login to edit content and your edits will be tagged with
 your email and name for identity and conflict resolution. We do not allow anonymous edits.
+
+
 
 ***This is just a document for testing bits wiki's deployment and should be replaced with actual text.***
 
