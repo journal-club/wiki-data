@@ -2,12 +2,12 @@
 <!-- SUBTITLE: Welcome to Bits Wiki -->
 
 # Welcome
+Bits Wiki aims to be the living archive of BITS Pilani Hyderabad Campus as we move ahead in
+space and time.
 
 Bits Wiki is the student and crowd sourced archive of everything related to Bits Hyderabad. You'll
 find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
 
-This project aims to be the living archive of BITS Pilani Hyderabad Campus as we move ahead in
-space and time.
 
 -----
 
