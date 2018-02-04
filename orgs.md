@@ -18,5 +18,6 @@ Some of them are:
 
 1. [Crux](/orgs/crux) - the computing and programming club
 2. [Journal Club](/orgs/journal-club) - the journalism club
+3. [Dota](/orgs/dota) - the websites and poster boys.
 
 The list will keep expanding.
