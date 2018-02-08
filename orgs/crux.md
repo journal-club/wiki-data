@@ -11,3 +11,4 @@ embedded systems programming, competetive coding, web and app development, etc.
 
 The current secretary is [Rohitt Vashishtha](/u/rohitt-vashishtha) and the current president
 is [Samkit Jain](/u/samkit-jain).
+We have many members like Bhasin and Basu.
