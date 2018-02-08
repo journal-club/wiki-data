@@ -1,5 +1,5 @@
 <!-- TITLE: Crux -->
-<!-- SUBTITLE: A quick summary of C -->
+<!-- SUBTITLE: A quick summary of Crux -->
 
 # Crux - The Computing And Programming Club
 
