@@ -1,7 +1,7 @@
 <!-- TITLE: Crux -->
-<!-- SUBTITLE: A quick summary of Crux -->
+<!-- SUBTITLE: A quick summary of C -->
 
-# Crux - the computing and programming club
+# Crux - The Computing And Programming Club
 
 Crux does some cool stuff, like managing the technical aspects of this Wiki, and the overall
 websites in collaboration with the [DoTA](orgs/dota), among other things.
