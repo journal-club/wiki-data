@@ -1,5 +1,5 @@
 <!-- TITLE: DoTA -->
-<!-- SUBTITLE: A quick summary of Dota -->
+<!-- SUBTITLE: A quick summary of DoTA -->
 
 # Depart :(
 Technical Arts is being Dissolved.
