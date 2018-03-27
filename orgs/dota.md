@@ -1,4 +1,4 @@
-<!-- TITLE: Dota -->
+<!-- TITLE: DoTA -->
 <!-- SUBTITLE: A quick summary of Dota -->
 
 # Depart :(
