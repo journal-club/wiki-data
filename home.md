@@ -22,7 +22,8 @@ Top level index:
 5. [FAQ for outsiders](/faq)
 
 # Links for Students
-[Event Organization](/rulebooks/event-organization)
+1. [Event Organization Rule book](/rulebooks/event-organization)
+2. 
 # Contributing
 
 Are you a Bitsian? Are you familiar with the campus? Please fill up the gaps that you spot.
