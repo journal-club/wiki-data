@@ -1,23 +1,18 @@
 <!-- TITLE: Student Organisations -->
-<!-- SUBTITLE: A quick summary of various bodies -->
+<!-- SUBTITLE: Recognised student organisations at BITS Hyderabad are mostly of three types - clubs, which are usually focussed on extracurricular activities like dance, music, and drama. Departments, which primarily work for the fests ARENA, ATMOS, and Pearl. Technical Associations and Clubs are focussed on working in a specific area of science or technology.  -->
 
-# Student Organisations
+# Clubs
+Clubs on campus today are:
 
-Our campus has a lot of student organisations, which can be classified on the basis of their work as:
-
-1. Technical
-2. Cultural
-
-and on the basis of their structure/constitution as:
-
-1. Clubs
-2. Departments
-3. Associations
-
-Some of them are:
-
-1. [Crux](/orgs/crux) - The computing and programming club.
-2. [Journal Club](/orgs/journal-club) - The journalism club.
-3. [Dota](/orgs/dota) - The department that handles websites, posters and apps related to fests.
+1. [Journal Club](/orgs/journal-club) - The journalism club
+2. English Language Activities Society - The literary club
+3. Dance Club
+4. Music Club
+5. Dramatics Club
+6. Shades
+7. Cooking Club
+8. SaFL
+9. Hindi Tarang
+. [Dota](/orgs/dota) - The department that handles websites, posters and apps related to fests.
 
 The list will keep expanding.
