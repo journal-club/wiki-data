@@ -1,7 +1,2 @@
 <!-- TITLE: DoTA -->
-<!-- SUBTITLE: A quick summary of DoTA -->
-
-# Depart :(
-Technical Arts is being Dissolved.
-
-Abhilash Verma, the current web designer, has set his eyes on it.
+<!-- SUBTITLE: DoTA, or Department of Technical Arts, is responsible for desigining graphics (such as posters, banners, placards, and logos) for fests and developing web and Android apps for the fests.-->
