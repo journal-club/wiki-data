@@ -1,5 +1,5 @@
-<!-- TITLE: Fests -->
-<!-- SUBTITLE: A quick summary of Fests -->
+<!-- TITLE: List of Fests and Events on Campus -->
+<!-- SUBTITLE: This page will give a list of student organised fests and events at BITS Pilani Hyderabad Campus. -->
 
 # Student Organised Festivals
 
@@ -7,3 +7,4 @@
 2. [Arena](/fests/arena) - sports fest
 3. [Pearl](/fests/pearl) - cultural fest
 4. [Verba Maximus](/fests/vm) - literary fest
+5. [BITSMUN](/fests/BITSMUN) - Model United Nations Conference
