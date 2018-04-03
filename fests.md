@@ -3,7 +3,7 @@
 
 # Student Organised Festivals
 
-1. [Atmos](/fests/atmos) - Techno-Management fest
+1. [ATMOS](/fests/atmos) - Techno-Management fest
 2. [Arena](/fests/arena) - Sports fest
 3. [Pearl](/fests/pearl) - Cultural fest
 4. [Verba Maximus](/fests/vm) - Literary fest
