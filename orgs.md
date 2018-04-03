@@ -5,7 +5,7 @@
 Clubs on campus today are:
 
 1. [Journal Club](/orgs/journal-club) - The journalism club
-2. English Language Activities Society - The literary club
+2. [English Language Activities Society](/orgs/elas) - The literary club
 3. Dance Club
 4. Music Club
 5. Dramatics Club
