@@ -18,3 +18,5 @@ The upcoming editon of Atmos, which will occur most likely in October 2018. For 
 ## Atmos 2013
 
 ## Atmos 2012
+
+The first edition of Atmos, for more details, [click here](https://wiki.bits-hyd.org/fests/atmos/atmos-2012).
