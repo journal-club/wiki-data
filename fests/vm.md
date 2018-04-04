@@ -15,13 +15,12 @@ The Organising Committee for Verba Maximus inducts members towards the ending of
 
 ## Writing
 
-* **Picture Perspective**
-* **Symphonies of the Soul**
-* **Yin Yang**
-* **The Man from Amorium**
-* **Sherlocked**
+* [Picture Perspective](/fests/vm/Picture_Perspective)
+* [Symphonies of the Soul](/fests/vm/SoS)
+* [Yin Yang](/fests/vm/YinYang)
+* [The Man from Amorium](fests/vm/MFA)
+* [Sherlocked](fests/vm/Sherlocked)
 
 ## Others
-
-* **LIT Quiz**
-* **Spell Bee**
+* [LIT Quiz](/fests/vm/LITQuiz)
+* [Spell Bee](/fests/vm/Spell_Bee)
