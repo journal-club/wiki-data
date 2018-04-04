@@ -10,4 +10,4 @@ There wouldn't be any good in the world, if there was no evil. No truth without 
 - Write a complementary(not necessarily opposite)version for whatever your partner has written.
 
 
-**Duration -2 Hrs**
+**Duration- 2 Hrs**
