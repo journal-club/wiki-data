@@ -1,4 +1,4 @@
-![26910415 1607657146014312 987055241609931145 O](/uploads/26910415-1607657146014312-987055241609931145-o.jpg "26910415 1607657146014312 987055241609931145 O"){.align-center}<!-- TITLE: Yin Yang -->
+<!-- TITLE: Yin Yang -->
 <!-- SUBTITLE: View a situation in contrasting, yet complementary, perspectives, and weave a plot worth the prize. -->
 
 # Overview
