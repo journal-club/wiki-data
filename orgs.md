@@ -16,10 +16,10 @@ Clubs on campus today are:
 
 # Departments
 1. [DoTA](/orgs/dota) - The department that handles websites, posters and apps related to fests.
-2. [DoSM](/orgs/dosm) - 
-3. [DePP](/orgs/depp) - 
-4. [DoPE](/orgs/dope) - 
-5. [DoRA](/orgs/dora) - 
-6. [DoVE](/orgs/dove) - 
-7. [DoPy](/orgs/dopy) - 
+2. [DoSM](/orgs/dosm) - in charge of negotiating with sponsors for fests
+3. [DePP](/orgs/depp) - in charge of Publicity and Public Relations
+4. [DoPE](/orgs/dope)
+5. [DoRA](/orgs/dora) 
+6. [DoVE](/orgs/dove) 
+7. [DoPy](/orgs/dopy) 
 The list will keep expanding.
