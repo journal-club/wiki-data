@@ -7,6 +7,8 @@ About atmos
 
 ## Atmos 2018
 
+The upcoming editon of Atmos, which will occue most likely in October 2018. For more details, [see this page](/fests/atmos/2018).
+
 ## Atmos 2017
 
 ## Atmos 2016
