@@ -1,13 +1,5 @@
 <!-- TITLE: Yin Yang -->
-<!-- SUBTITLE: View a situation in contrasting, yet complementary, perspectives, and weave a plot worth the prize. -->
+<!-- SUBTITLE: View a situation in contrasting, yet complementary, perspectives, and weave a plot around it. -->
 
 # Overview
-There wouldn't be any good in the world, if there was no evil. No truth without lies. The universe is about balance, and so is this event. There are always multiple perspectives to a story, and it's up to you to write them. Participate in teams of two to write complementary pieces of writing, that together make up a whole.
-
-# Rules 
-- Participate in teams of two.
-- Write the yin or yang version of a prompt that suits your liking and swap with your partner.
-- Write a complementary(not necessarily opposite)version for whatever your partner has written.
-
-
-**Duration- 2 Hrs**
+Yin Yang is a writing event in [Verba Maximus](/fests/vm) in which participants in teams of two write complementary pieces of writing, that together make up a whole. You have to write the yin or the yang of a prompt you are given and then swap with your partner. After swapping, you need to write a complementary (not necessarily opposite) version for whatever your partner has written).
