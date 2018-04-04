@@ -1,4 +1,4 @@
-<!-- TITLE: Arena:where Sledgends Are Born -->
+<!-- TITLE: Arena: Where Sledgends Are Born -->
 <!-- SUBTITLE: A quick summary of Arenawhere Sledgends Are Born -->
 
 # Arena: Where Sledgends are born?
