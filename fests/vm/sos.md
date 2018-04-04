@@ -11,4 +11,7 @@
 - The content of the write-up must be inspired by the music played.
 - Contestants can choose a minimum of one musical piece to act as an inspiration for what they write.
 
+
+
+
 ** Duration - 1.5 hrs  **
