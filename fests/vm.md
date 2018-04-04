@@ -7,10 +7,10 @@ The Organising Committee for Verba Maximus inducts members towards the ending of
 ## Speaking
 
 * [Slam Poetry](/fests/vm/SlamPoetry) 
-* **Debate**
-* **The Devil's Advocate**
-* **Group Discussion**
-* **JAM**
+* [Debate](/fests/vm/Debate)
+* [The Devil's Advocate](/fests/vm/TDA)
+* [Group Discussion](/fests/vm/GD)
+* [JAM](/fests/vm/JAM)
 
 
 ## Writing
