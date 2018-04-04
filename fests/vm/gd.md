@@ -1,5 +1,5 @@
 <!-- TITLE: Group Discussion -->
-<!-- SUBTITLE: A quick summary of Gd -->
+<!-- SUBTITLE: If you can't add to the discussion,don't subtract by talking -->
 
 # Overview
 Put those reasoning and communication skills to the test as VM brings to you an extremely fun filled evening with the Group Discussion.
