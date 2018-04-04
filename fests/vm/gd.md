@@ -30,6 +30,6 @@ Students can take on various roles during the discussion:
 - Team Building and Cooperation Skills
 - Attitude And Confidence
 
-**Duration- 4 Hrs **
+** Duration- 4 Hrs **
 
 
