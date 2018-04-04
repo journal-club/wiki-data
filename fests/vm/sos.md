@@ -14,4 +14,3 @@
 
 
 
-** Duration - 1.5 hrs  **
