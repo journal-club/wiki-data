@@ -1,13 +1,7 @@
 <!-- TITLE: The Devil's Advocate -->
-<!-- SUBTITLE: An event which will test your oratory skills and your ability to convince people in a cause they do not believe in -->
+<!-- SUBTITLE: A literary event where you try to convince people in a cause you don't believe in.-->
 
 # Overview
-Think you're the master of your words? If you think you're good at convincing people, we provide this twisted take on an extempore, the Devil's Advocate. 
-You'll be provided with an unpopular, maybe infamous, or a topic that might seem morally wrong. But, you've got to defend it.
-Be the Devil's Advocate and convince the judges to let him off scot-free.
-
+In this extempore event, participants are provided an unpopular opinion, or a topic that seems morally wrong. You have to defend the topic you are given, however controversial it might be. 
 # Rules
-
-- Topic will be given on the spot
-- 15 minutes of preparation time
-- Length of speaking time is 4 minutes
+Generally, the topic is given on the spot, and a small amount of prep time (~10-15 minutes) is given, after which you'll have to speak for ~3-4 minutes.
