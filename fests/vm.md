@@ -4,7 +4,7 @@
 The Organising Committee for Verba Maximus inducts members towards the ending of the first semeter of the academic year. Before inductions, the heads of all the departments are decided. The departments that form the VM OC are Sponsorship, Publicity (Offline and Online), Design, Event Management, Photography and Videography. 
 
 # Events 
-##Speaking
+## Speaking
 
 * **Slam Poetry**
 * **Debate**
@@ -13,7 +13,7 @@ The Organising Committee for Verba Maximus inducts members towards the ending of
 * **JAM**
 
 
-##Writing
+## Writing
 
 * **Picture Perspective**
 * **Symphonies of the Soul**
@@ -21,7 +21,7 @@ The Organising Committee for Verba Maximus inducts members towards the ending of
 * **The Man from Amorium**
 * **Sherlocked**
 
-##Others
+## Others
 
 * **LIT Quiz**
 * **Spell Bee**
