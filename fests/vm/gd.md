@@ -20,4 +20,16 @@ Students can take on various roles during the discussion:
 
 **Judging Criteria:**
 
+- Content
+- Creativity
+- Flow Of Thoughts
+- Body Language
+- Ability to direct the group
+- Speech, pronunciation and fluency
+- Persuasive Skills
+- Team Building and Cooperation Skills
+- Attitude And Confidence
+
+**Duration- 4 Hrs **
+
 
