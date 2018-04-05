@@ -20,13 +20,13 @@ The competition is primarily intended towards the student community and smaller 
 ## Phase I:
 50 best teams will be shortlisted from all the online submissions received.
 ## Phase II:
-All the teams which qualify Phase I of Tech Expo will have to exhibit their project at ATMOS 2017 which will be held at BITS Pilani Hyderabad Campus from 27th to 29th of October. The final winners will be awarded after the judging of Phase II.
+All the teams which qualify Phase I of Tech Expo will have to exhibit their project at Atmos which will be held at BITS Pilani Hyderabad Campus . The final winners will be awarded after the judging of Phase II.
 ## Prize:
 - **Innovation Award:** One project from the expo will be given funding by a sponsor for showing exceptional prospects. This funding will depend on the requirements of the team.
 - **The ATMOS Innovation Awards:** These awards are for students and budding start-ups. The total prize amount would be given based on the decision of judges.
 ## Judging:
-The judging will be based on the pitch given by the teams about their project on the final day (29th October 2017).
+The judging will be based on the pitch given by the teams about their project on the final day .
 
-A panel of judges will be evaluating the entries. The panel will include professors from BITS Hyderabad, guest dignitaries of ATMOS 2017 including venture capitalists, angel investors and leading industry experts, in their respective fields. Participants will have to present their project to the panel of judges in the given time. The criteria would be originality, creativity, current feasibility and the overall demonstration. Teamwork will also be an important factor for participating teams.
+A panel of judges will be evaluating the entries. The panel will include professors from BITS Hyderabad, guest dignitaries of Atmos including venture capitalists, angel investors and leading industry experts, in their respective fields. Participants will have to present their project to the panel of judges in the given time. The criteria would be originality, creativity, current feasibility and the overall demonstration. Teamwork will also be an important factor for participating teams.
 
 A working demonstration of the prototype, while not mandatory, would boost your chances of winning.
