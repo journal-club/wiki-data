@@ -6,6 +6,9 @@ Atmos is the annual techno-management festival of BITS Pilani, Hyderabad Campus,
 
 In 2015, BITS MUN Hyderabad was organized alongside Atmos as a collaboration and has witnessed wide engagement from students across the country. The annual Tech Expo was launched in the 5th edition-Atmos 2016 as a platform for innovators to showcase their projects to prospective sponsors and incubators. The current edition will be held from 27 to 29 October 2017.
 
+## Workshops 
+A broad range of workshops ranging from a few hours to multiple days, in diverse disciplines like [Computer Science][1], [Mechanical Engineering][2], [Industrial Engineering][3],[ Electronics][4], [Cinema][5], [Design][6],[Aerodynamics][7],E mics, Biology etc. is one of the highlights of the festival. They include, an IOT Workshop, Augmented reality workshop, Cloud Computing workshop, Industrial Automation workshop, Petroleum Refining workshop, Workshops in Aerodynamics, Filmmaking, Electronics among others. Each new edition sees many newer and different workshops.
+
 
 - **Atmos 2018**
 The upcoming editon of Atmos, which will occur most likely in October 2018. For more details, [see this page](/fests/atmos/2018).
