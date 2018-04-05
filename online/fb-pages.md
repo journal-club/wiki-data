@@ -21,3 +21,9 @@
 12. [VFx Club](https://www.facebook.com/club.vfx/)
 13. [BITS Embryo](https://www.facebook.com/BITSEmbryoHyd/)
 14. [Shades](https://www.facebook.com/Shades.BPHC/)
+
+# Department Pages
+1. [DoPY](https://www.facebook.com/DoPY.BPHC/)
+2. [DoVE](https://www.facebook.com/dovebitshyd/)
+3. [Arts and Deco](https://www.facebook.com/artsndecobphc/)
+4. [LSD](https://www.facebook.com/LSD.bphc/)
