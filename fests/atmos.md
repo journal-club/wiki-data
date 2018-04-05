@@ -40,18 +40,18 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 [10]: [/fests/atmos/ReverseCoding]
 [11]: [/fests/atmos/Algomaniac]
 
-_ **The Courtroom**
+- **The Courtroom**
 	Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details,[See this page](/fests/atmos/TheCourtroom)
 	
 - **Suit Up **
 	This national event not only involves your decision-making skills, but also incorporates negotiation, trickery and presence of mind to develop a company worth reckoning. There are multiple aspects at play here, including the temperament of the other participants, valuation of assets and marketing above market standards. All of this is in the quest to birth an industry that redefines business models to get ahead of the competition. Teams of up to four battle it out in a showcase of talent, skill and above all, nerves to emerge as the ones who can truly lead effectively and bring to the forefront their capabilities that are mercilessly tested in the real-world corporate environment. In Suit-Up we also include a real-world mimicking market which is represented by the algorithm used to calculate the company’s holdings at the end of every step that gets them closer to the end, which adds an extra dimension of realism in the game. For more details, [See this page](/fests/atmos/SuitUp)
 - **Sudhar**
 	Do you think you can use your entrepreneurial skills to fix flawed systems of the society? Then ‘Sudhar’ is the event for you to attend. It is the perfect opportunity to test your capabilities of leveraging technology to design a business model that solves present-day issues. There are many issues that are presently receiving high attention in the current social enterprise sector, so bewarethere is no dearth of competition to your ideas. Is yours good enough to make the cut? So…wannabe Muhammad Yunuses and Bunker Roys, pull up your socks- Sudhaar is coming soon (pun totally intended). For more details, [See this page](/fests/atmos/Sudhar)
-	- **Prodigal Designer**
+- **Prodigal Designer**
 	Do you have a passion for designing? Are you waiting for an opportunity to flex your CAD skills? This ATMOS, we bring you Prodigal Designer: an exclusive CAD based designing event. Get ready to let your imagination soar and hone your skills! For more details, [See this page](/fests/atmos/ProdigalDesigner)
-	- **Manager's dilemma**
+- **Manager's dilemma**
 	Manager’s Dilemma is a Case Study event conducted by the E-CELL. This event allows participants to apply managerial concepts to solve real-life problems in the operations field. It takes the participants through grueling rounds of quizzing, testing them in areas of current business affairs, management strategy, and general knowledge. It scrupulously allows you to go beyond the text of the case and lets you use your creative and case solving skills to their best. For more details, [See this page](/fests/atmos/Manager'sDilemma)
-	-  **
+-  **
 
 ## History
 
