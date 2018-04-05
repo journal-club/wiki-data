@@ -35,9 +35,12 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 - **Anatomy of Murder**
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/AOM)
 - **Code Jam**
-Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money.
+Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money. For more details ,[See this page](/fests/atmos/Code_jam)
 
-Other coding competitions include the Reverse Coding challenge, and Algomaniac, which tests your analytical prowess along with pattern recognition skills.
+Other coding competitions include the [Reverse Coding challenge][10], and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
+
+[10]:[/fests/atmos/ReverseCoding)
+[11]:(/fests/atmos/Algomaniac)
 
 ## History
 
@@ -49,11 +52,18 @@ The upcoming editon of Atmos, which will occur most likely in October 2018. For 
 This was latest edition of Atmos which was in October 2017. For Details, [See this page](/fests/atmos/2017)
 
  - **Atmos 2016**
+ The fifth edition had as its title sponsor Cyient with Co-title sponsors being Prodigy Finance and WATConsult, a part of the Dentsu Aegis Network among others like State Bank of India, Oracle Corporation etc. Mrs. Tessy Thomas, Project Director of Agni-V was present as the Chief Guest for the inauguration. A new event was introduced this year namely, Project JumpStart, where 4 prominent start-up founders had an interactive session with the audience. Various renowned speakers addressed at the ATMOS Conclave this year including Padma Bhushan winner and founder of Narayana Health, Devi Prasad Shetty. Another new event set up by the Electrical engineering department was Quark Expo, which aims to provide an excellent platform for electrical enthusiasts to showcase their projects and talents and win prizes. The Finance and Investment club- Bulls and Bears conducted a first ever Case study event where participants had to showcase their skills and display a shrewd understanding of Finance and the Market, to be judged by a panel. Microsoft also hosted a Cloud Computing Workshop on Azure Machine Learning, providing an opportunity to learn more about the field of data analytics. Another highlight of the fest was the Python PyBITS conference organized in association with Python Software Foundation.There was a workshop on Animated Film making conducted by DreamWorks as well.
+
+The headliner event being the Tech Expo aimed at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. It witnessed wide participation from teams across the country, both independent and from various colleges like IIT Bombay, IIT Kanpur etc. WATCounsult has established an innovation lab called INNOWAT at their Mumbai office, and the first of its projects received funding at this event.
 
  - **Atmos 2015**
+ The 2015 event was sponsored by a number of organizations, including [Coca-Cola](https://en.wikipedia.org/wiki/Coca-Cola), [Uninor](https://en.wikipedia.org/wiki/Telenor_India), [Hero MotoCorp](https://en.wikipedia.org/wiki/Hero_MotoCorp) and [Redbull](https://en.wikipedia.org/wiki/Red_Bull). Several workshops, competitions and talks were organized over three days, including a two-day hackathon organized by[ Microsoft](https://en.wikipedia.org/wiki/Microsoft), and an Hackathon by [Firefox](https://en.wikipedia.org/wiki/Firefox_OS). Dr, G. Satheesh Reddy, the technological adviser to the Defence Minister and Director, Research Center Imarat (DRDO) and Justice Markandey Katju, retired Chief Justice of India and former Chairman of the Press Council of India were the guests of honor.The finals of Enigma were conducted by quizmaster Vikram Joshi, with the winners of eight regional rounds participating. BITS MUN Hyderabad 2015 was also organized with a pre-conference headliner event. With a footfall of over 8000, ATMOS 2015 was the biggest to date.
 
  - **Atmos 2014**
+ The festival ran from 9 to 12 October this year with growing focus on the management aspect of the festival, including several events based on finance and managing firms. The fest was graced by the presence of the Telangana IT minister,[K. T. Rama Rao](https://en.wikipedia.org/wiki/K._T._Rama_Rao). This year's Enigma established it on the national scene with over 250 teams participating in the regional rounds and the finals conducted in Hyderabad. Atmos 2014 registered a footfall of over 5000 over three days.
 
  - **Atmos 2013**
+Atmos 2013 was organized from 10 to 13 October. Various events, workshops, and talks were hosted including a Raspberry Pi workshop and a Windows 8 Appfest. Enigma 2013 was organized too, with the finals at Hyderabad. BITS MUN Hyderabad 2013 was organized alongside Atmos this year.
 
  - **Atmos 2012**
+ The turnout for the festival in 2012 was about 200 colleges from all over India. The festival ran for three days from 25 to 27 October. Notable companies like [Wikipedia][https://en.wikipedia.org/wiki/Wikipedia] and [Dreamworks Animation][https://en.wikipedia.org/wiki/DreamWorks_Animation] conducted workshops, while other events included robotics and circuit Design competitions.
