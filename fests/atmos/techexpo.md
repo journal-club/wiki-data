@@ -13,4 +13,25 @@ The competition is primarily intended towards the student community and smaller 
 - The competition is open to all registered students and start-ups (launched less than 18 months before).
 - Participants can register as an individual or as a team.
 - A team can register for more than one entry. However, a single participant cannot be in two different teams.
-- 
+- The participants must note that the current feasibility of successful completion of your product/idea will serve as a very important parameter for your selection into the main event.
+- Registered candidates will be required to email a summary of their projects on or before 15th October 2017, 11:59 PM. This will serve as the first phase of the competition. This mail must be sent to techexpoatmos@gmail.com. Please follow the rules for this submission. The summary should comprise 
+- - Title of the project.
+- - Specific domain of project in not more than 30 characters.
+- - Abstract (max. 150 words)
+- - Inspiration/Genesis
+- - A short video (< 120 seconds) about the project. This video will be accepted even if the project is not complete.
+
+# Competition Format
+## Phase I:
+50 best teams will be shortlisted from all the online submissions received.
+## Phase II:
+All the teams which qualify Phase I of Tech Expo will have to exhibit their project at ATMOS 2017 which will be held at BITS Pilani Hyderabad Campus from 27th to 29th of October. The final winners will be awarded after the judging of Phase II.
+## Prize:
+- **Innovation Award:** One project from the expo will be given funding by a sponsor for showing exceptional prospects. This funding will depend on the requirements of the team.
+- **The ATMOS Innovation Awards:** These awards are for students and budding start-ups. The total prize amount would be given based on the decision of judges.
+## Judging:
+The judging will be based on the pitch given by the teams about their project on the final day (29th October 2017).
+
+A panel of judges will be evaluating the entries. The panel will include professors from BITS Hyderabad, guest dignitaries of ATMOS 2017 including venture capitalists, angel investors and leading industry experts, in their respective fields. Participants will have to present their project to the panel of judges in the given time. The criteria would be originality, creativity, current feasibility and the overall demonstration. Teamwork will also be an important factor for participating teams.
+
+A working demonstration of the prototype, while not mandatory, would boost your chances of winning.
