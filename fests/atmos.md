@@ -35,9 +35,7 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 - **Anatomy of Murder**
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/AOM)
 - **Code Jam**
-Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money. For more details ,[See this page](/fests/atmos/Code_jam)
-
-Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
+Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money. For more details ,[See this page](/fests/atmos/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
 
 [10]: [/fests/atmos/ReverseCoding]
 [11]: [/fests/atmos/Algomaniac]
