@@ -9,4 +9,4 @@
 6. [Movie Club](https://www.facebook.com/themovieclub.bphc/)
 7. [Crimson Curtain](https://www.facebook.com/dramaticsatbphc/)
 8. [The Daily BITSian](https://www.facebook.com/thedailybitsian/)
-9. [Wall Street Club BPHC](https://www.facebook.com/WST.BPHC/)
+9. [Wall Street Club](https://www.facebook.com/WST.BPHC/)
