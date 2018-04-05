@@ -64,4 +64,4 @@ The headliner event being the Tech Expo aimed at providing a platform for thinke
 Atmos 2013 was organized from 10 to 13 October. Various events, workshops, and talks were hosted including a Raspberry Pi workshop and a Windows 8 Appfest. Enigma 2013 was organized too, with the finals at Hyderabad. BITS MUN Hyderabad 2013 was organized alongside Atmos this year.
 
  - **Atmos 2012**
- The turnout for the festival in 2012 was about 200 colleges from all over India. The festival ran for three days from 25 to 27 October. Notable companies like [Wikipedia][https://en.wikipedia.org/wiki/Wikipedia] and [Dreamworks Animation][https://en.wikipedia.org/wiki/DreamWorks_Animation] conducted workshops, while other events included robotics and circuit Design competitions.
+ The turnout for the festival in 2012 was about 200 colleges from all over India. The festival ran for three days from 25 to 27 October. Notable companies like [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) and [Dreamworks Animation](https://en.wikipedia.org/wiki/DreamWorks_Animation) conducted workshops, while other events included robotics and circuit Design competitions.
