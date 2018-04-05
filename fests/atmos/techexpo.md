@@ -14,12 +14,7 @@ The competition is primarily intended towards the student community and smaller 
 - Participants can register as an individual or as a team.
 - A team can register for more than one entry. However, a single participant cannot be in two different teams.
 - The participants must note that the current feasibility of successful completion of your product/idea will serve as a very important parameter for your selection into the main event.
-- Registered candidates will be required to email a summary of their projects on or before 15th October 2017, 11:59 PM. This will serve as the first phase of the competition. This mail must be sent to techexpoatmos@gmail.com. Please follow the rules for this submission. The summary should comprise 
-- - Title of the project.
-- - Specific domain of project in not more than 30 characters.
-- - Abstract (max. 150 words)
-- - Inspiration/Genesis
-- - A short video (< 120 seconds) about the project. This video will be accepted even if the project is not complete.
+- Registered candidates will be required to email a summary of their projects. This will serve as the first phase of the competition. 
 
 # Competition Format
 ## Phase I:
