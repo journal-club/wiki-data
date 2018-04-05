@@ -19,4 +19,5 @@ General Body Meeting (GBMs) are convened every semester by the Council, the CRC,
 The CRC and the EC are independent bodies working closely with administration to ensure smooth running of the Council and its bodies. CRC can review the working of the Council or the Union’s Organs at any given point by enjoining any member(s) of the same to maintain records or proofs of financial transactions in any form and the Election Commission is responsible for conducting the elections in the campus including the Clubs and other bodies under the Union.
 
 Any good constitution will always show a balance of power and this constitution too under Section XIX has defined the procedure for removal of the elected members if found guilty for any offence by the Disciplinary Committee or the Examination Committee.
+
 With the Election season nearby we at the Journal Club hope that the candidate will not violate any rules laid out by the constitution and contest a fair election.
