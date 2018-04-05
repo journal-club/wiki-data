@@ -36,10 +36,11 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/AOM)
 - **Code Jam**
 Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money. For more details ,[See this page](/fests/atmos/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
+
 [10]: [/fests/atmos/ReverseCoding]
 [11]: [/fests/atmos/Algomaniac]
 
-- ** The Courtroom**
+- **The Courtroom**
 	Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details,[See this page](/fests/atmos/TheCourtroom)
 	
 - **Suit Up**
@@ -62,17 +63,7 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 It’s time to test your basic robotics skills! A line follower robot is an automated vehicle capable of following a line without any human intervention. For more details, [See this page](/fests/atmos/LineFollower)
 - **Cubing Atmosphere**
 Cubing Atmosphere will be a 2-day event, consisting of cube solving events that will consist of ten interesting sub-categories such as:
-
-	1.3x3 cube
-	2.4x4 cube
-	3.5x5 cube
-	4.2x2 cube
-	5.3x3 blindfolded
-	6.3x3 one-handed
-	7.3x3 with feet
-	8.Megaminx
-	9.Pyraminx
-	10.Skewb
+1.3x3 cube	2.4x4 cube	3.5x5 cube	4.2x2 cube	5.3x3 blindfolded	6.3x3 one-handed	7.3x3 with feet	8.Megaminx	9.Pyraminx	10.Skewb
  For more details, [See this page](/fests/atmos/CubingAtmosphere)
 - **Contraption**
  Mr. Sheldon is stuck between devil and the deep sea. He is in bad shape and looks blue around the gills. He needs to crank out an important paper in office tomorrow but he is too off colour. The alarm bells are ringing and things are getting out of his hand. With odds worse than ever, help him set up a working atmosphere tonight. He’ll be grateful if you lend him a hand. Design and build an unconventional sequence of steps to carry out his basic easy pie tasks. So, let us see who triumphs this big draw game and keeps up with the Joneses!
