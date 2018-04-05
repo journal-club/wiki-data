@@ -1,5 +1,5 @@
 <!-- TITLE: Club Pages -->
-<!-- SUBTITLE: Here are the links to all the club Pages of BPHC -->
+<!-- SUBTITLE: Here are the links to all the club pages of BPHC -->
 
 1. [Journal Club](https://www.facebook.com/JournalClubBPHC/)
 2. [Dance Club](https://www.facebook.com/thedanceclubbphc/)
