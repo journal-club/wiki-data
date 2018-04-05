@@ -17,3 +17,7 @@
 8. [The Daily BITSian](https://www.facebook.com/thedailybitsian/)
 9. [Wall Street Club](https://www.facebook.com/WST.BPHC/)
 10. [SAFL](https://www.facebook.com/langbphc/)
+11. [CRUx](https://www.facebook.com/cruxbphc/)
+12. [VFx Club](https://www.facebook.com/club.vfx/)
+13. [BITS Embryo](https://www.facebook.com/BITSEmbryoHyd/)
+14. [Shades](https://www.facebook.com/Shades.BPHC/)
