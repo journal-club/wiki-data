@@ -50,8 +50,30 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 	Do you have a passion for designing? Are you waiting for an opportunity to flex your CAD skills? This ATMOS, we bring you Prodigal Designer: an exclusive CAD based designing event. Get ready to let your imagination soar and hone your skills! For more details, [See this page](/fests/atmos/ProdigalDesigner)
 - **Manager's dilemma**
 	Manager’s Dilemma is a Case Study event conducted by the E-CELL. This event allows participants to apply managerial concepts to solve real-life problems in the operations field. It takes the participants through grueling rounds of quizzing, testing them in areas of current business affairs, management strategy, and general knowledge. It scrupulously allows you to go beyond the text of the case and lets you use your creative and case solving skills to their best. For more details, [See this page](/fests/atmos/Manager'sDilemma)
--  **
+-  **Nostrum Vitae**
+  "Survival of the Fittest". This is something that we have been hearing for a long time now. This is your chance at proving that you are the one to survive. Test your knowledge in Medical sciences and Pharmaceutical sciences  to progress to further rounds. For more details, [See this page](/fests/atmos/NostrumVitae)
+-  **Hawking Wizard**
+  This is your chance to manage a business. Teamwork, Resource Allocation and Time Management are essential for the task at hand. Every decision taken when you are heading a business has to be taken after understanding all the factors at play. For more details, [See this page](/fests/atmos/HawkingWizard)
+-  **Googled**
+  The event is fairly simple, you are given a set of questions and you are supposed to answer them correctly. Seems mundane doesn't it? But there is a catch. You are allowed access to the internet. That means you can use Google.Yes. You read that right. You can use Google. If you think you are the one who can make Google dance to your tune then go ahead to [this page](/fests/atmos/Googled) to know more about the event.
+-  **Enigma**
+   It can’t get any bigger than this! This is the “Mother of all Quizzes”. Sweat it out against some of the greatest quizzers in the country in this national level quiz. It’s a quiz, answer the questions to the best of your ability, because anything less: won’t be enough. For more details, [See this page](/fests/atmos/Enigma)
+- **Line Follower**
+It’s time to test your basic robotics skills! A line follower robot is an automated vehicle capable of following a line without any human intervention. For more details, [See this page](/fests/atmos/LineFollower)
+- **Cubing Atmosphere**
+Cubing Atmosphere will be a 2-day event, consisting of cube solving events that will consist of ten interesting sub-categories such as:
 
+	1.3x3 cube
+	2.4x4 cube
+	3.5x5 cube
+	4.2x2 cube
+	5.3x3 blindfolded
+	6.3x3 one-handed
+	7.3x3 with feet
+	8.Megaminx
+	9.Pyraminx
+	10.Skewb
+ For more details, [See this page](/fests/atmos/CubingAtmosphere)
 ## History
 
 
