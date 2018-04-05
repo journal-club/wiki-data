@@ -36,10 +36,10 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/AOM)
 - **Code Jam**
 Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money. For more details ,[See this page](/fests/atmos/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
-
 [10]: [/fests/atmos/ReverseCoding]
 [11]: [/fests/atmos/Algomaniac]
-- **The Courtroom**
+
+- ** The Courtroom**
 	Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details,[See this page](/fests/atmos/TheCourtroom)
 	
 - **Suit Up**
@@ -74,6 +74,18 @@ Cubing Atmosphere will be a 2-day event, consisting of cube solving events that 
 	9.Pyraminx
 	10.Skewb
  For more details, [See this page](/fests/atmos/CubingAtmosphere)
+- **Contraption**
+ Mr. Sheldon is stuck between devil and the deep sea. He is in bad shape and looks blue around the gills. He needs to crank out an important paper in office tomorrow but he is too off colour. The alarm bells are ringing and things are getting out of his hand. With odds worse than ever, help him set up a working atmosphere tonight. He’ll be grateful if you lend him a hand. Design and build an unconventional sequence of steps to carry out his basic easy pie tasks. So, let us see who triumphs this big draw game and keeps up with the Joneses!
+ For more details, [See this page](/fests/atmos/Contraption)
+ - **Chemhunt**
+ Alchemy brings to you another version of its headliner event ‘Chem-Hunt’, where you combine your instinctive hunting skills and some basic chemistry knowledge to walk yourself through victory with handsome cash prize! In a two round event, the first one checks your basic knowledge of Chemistry. You can team up with 2-3 people for this round. As we proceed further, only five teams qualify for the next round, which is exactly what that motivates people to fight for it. This brings out the hunter within you. You will get questions whose answers will be there in daily usage items in and around you. The hunting team which takes minimum time to answer and find those objects wins the competition! For more details, [See this page](/fests/atmos/Chemhunt)
+ - **Bombsquad**
+ To use an autonomous or manually controlled robot to move cubes from pre-marked areas in the Arena to pre-marked safe zones for depositing them. For more details, [See this page](/fests/atmos/Bombsquad)
+ - **Cataclysmic Deduction**
+ Get your detective instincts rolling as you set out on the way to solve the mystery behind an industrial mishap. Put yourself into the workers’ shoes, get that feeling of working in an industry and tell us how you would have acted in order to prevent the mishap and save your friends and family in such a grim situation. But be careful: as you've set your feet in that gigantic industry! For more details ,[See this page](/fests/atmos/CataclysmicDeduction)
+- **Beam It**
+Civil Engineering is a about building- creating. Getting out there and getting your hands dirty. But it’s also about precision and technique. So, combine your knowledge of structural design and the science of mix design in this event. Beam It! Create your own structure out of scratch! You have the leeway to customize the material proportions as you wish, to design a structure that withstands more load than your competitors. So get your teammates and be ready to brainstorm and create! For more details , [See this page](/fests/atmos/BeamIt).
+
 ## History
 
 
