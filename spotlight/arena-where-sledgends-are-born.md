@@ -1,5 +1,5 @@
 <!-- TITLE: Arena: Where Sledgends Are Born -->
-<!-- SUBTITLE: A quick summary of Arenawhere Sledgends Are Born -->
+<!-- SUBTITLE: Published on 18th February, 2018 by Vinith Bhandari, Journal Club-->
 
 # Arena: Where Sledgends are born?
  ***Disclaimer***: The views and opinions expressed below are solely those of the original author.
