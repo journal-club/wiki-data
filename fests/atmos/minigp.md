@@ -1,5 +1,5 @@
-<!-- TITLE: Minigp -->
-<!-- SUBTITLE: A quick summary of Minigp -->
+<!-- TITLE: MiniGP -->
+<!-- SUBTITLE:  -->
 
 # Problem Statement
 Participants are expected to race their remote control based, IC engine cars through 3 events: drag, time trial and race. The teams completing the laps in the best possible time will qualify for a grand final race. The design skills and application of real-world driving skills to the miniature cars shall be put to test.
