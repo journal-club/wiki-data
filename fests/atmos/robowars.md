@@ -41,7 +41,7 @@
 
 # Pneumatics
 - Robot can use pressurized non-inflammable gases to actuate pneumatic devices. Maximum allowed outlet nozzle pressure is 10 bar. The storage tank and pressure regulators used by teams need to be certified and teams using pneumatics are required to produce the Safety and Security letters at the Registration Desk at the venue. Failing might lead to direct disqualification.
-- Participants must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge. Also there should be provision to check the cylinder pressure on the bot. - - The organisers will not provide any equipment to gauge the pressure.
+- Participants must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge. Also there should be provision to check the cylinder pressure on the bot.  - The organisers will not provide any equipment to gauge the pressure.
 - The maximum pressure in cylinder should not exceed the rated pressure at any point of time.
 - You must have a safe way of refilling the system and determining the on board pressure.
 - All pneumatic components on board a robot must be securely mounted. Care must be taken while mounting the pressure vessel and armour to ensure that if ruptured it will not escape the robot.
