@@ -4,7 +4,12 @@
 2.  [Arena](https://www.facebook.com/bits.arena/) - Sports Fest
 3.  [Pearl](https://www.facebook.com/bitspearl/) - Cultural Fest
 4.  [Verba Maximus](https://www.facebook.com/verbamaximus/) - Literary Fest
-5.  [TedX BITS Hyderabad](https://www.facebook.com/TEDxBITSHyderabad/) - Student Organised Independent TED-based event
+5.  [BITSMUN Hyderabad](https://www.facebook.com/bitsmun.hyd/)
+6.  [TedX BITS Hyderabad](https://www.facebook.com/TEDxBITSHyderabad/) - Student Organised Independent TED-based event
+6.  [RIXA](https://www.facebook.com/RIXA.BPHC/) - 
+7.  [Renaissance](https://www.facebook.com/Renaissancebphc/)
+8.  [Finnovate](https://www.facebook.com/bits.finnovate/)
+9.  [TechWeek](https://www.facebook.com/techweekBPHC/)
 
 # Club Pages
 1. [Journal Club](https://www.facebook.com/JournalClubBPHC/)
@@ -25,5 +30,5 @@
 # Department Pages
 1. [DoPY](https://www.facebook.com/DoPY.BPHC/)
 2. [DoVE](https://www.facebook.com/dovebitshyd/)
-3. [Arts and Deco](https://www.facebook.com/artsndecobphc/)
+3. [Departments of Arts and Deco](https://www.facebook.com/artsndecobphc/)
 4. [LSD](https://www.facebook.com/LSD.bphc/)
