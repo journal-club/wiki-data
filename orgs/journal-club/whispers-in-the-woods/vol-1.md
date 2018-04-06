@@ -6,5 +6,5 @@ Whispers in the Wood became a reality for the first time on September 27th,  201
 
 - [Issue 1](/orgs/journal-club/whispers-in-the-woods/vol-1/1)
 - [Issue 2](/orgs/journal-club/whispers-in-the-woods/vol-1/2)
-- [Issue 3](orgs/journal-club/whispers-in-the-woods/vol-1/3)
-- [Issue 4](orgs/journal-club/whispers-in-the-woods/vol-1/4)
+- [Issue 3](/orgs/journal-club/whispers-in-the-woods/vol-1/3)
+- [Issue 4](/orgs/journal-club/whispers-in-the-woods/vol-1/4)
