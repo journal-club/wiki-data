@@ -1,13 +1,13 @@
 <!-- TITLE: Bhavans -->
 <!-- SUBTITLE: Hostels buildings in BITS Hyderabad are called Bhavans. -->
 
-# List of Bhavans
-1. [Malaviya Bhawan]()
-2. [Meera Bhawan]()
-3. [Gautam Bhavan]()
-4. [Valmiki Bhavan]()
-5. [Gandhi Bhavan]()
-6. [Budh Bhavan]()
-7. [Krishna Bhavan]()
-8. [Ram Bhavan]()
-9. [Shankar Bhavan]()
+# List of Bhawans
+1. [Malaviya Bhawan](/campus/bhawans/malaviya)
+2. [Meera Bhawan](/campus/bhawans/meera)
+3. [Gautam Bhawan](/campus/bhawans/gautam)
+4. [Valmiki Bhawan](/campus/bhawans/valmiki)
+5. [Gandhi Bhawan](/campus/bhawans/gandhi)
+6. [Budh Bhawan](/campus/bhawans/budh)
+7. [Krishna Bhawan](/campus/bhawans/krishna)
+8. [Ram Bhawan](/campus/bhawans/ram)
+9. [Shankar Bhawan](/campus/bhawans/shankar)
