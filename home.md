@@ -8,7 +8,8 @@ BITS Wiki aims to be the student and crowd sourced living archive of BPHC as we 
 <!--![Bits Pilani Hyderabad Campus Hyderabad](/uploads/bits-pilani-hyderabad-campus-hyderabad.jpg "Bits Pilani Hyderabad Campus Hyderabad")-->
 
 You'll find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
------
+
+----
 
 # Index
 
