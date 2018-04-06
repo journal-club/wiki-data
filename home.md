@@ -18,9 +18,7 @@ Top level index:
 
 1. [Student Organisations](/orgs)
 2. [Festivals](/fests)
-3. [Notable Alumni](/alumni)
-4. [Notable Events](/events)
-5. [FAQ for outsiders](/faq)
+3. [FAQ for outsiders](/faq)
 
 # Links for Students
 1. [Event Organization Rule book](/rulebooks/event-organization)
