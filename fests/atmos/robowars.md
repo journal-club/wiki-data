@@ -1,5 +1,5 @@
 <!-- TITLE: Robowars -->
-<!-- SUBTITLE: A quick summary of Robowars -->
+<!-- SUBTITLE: War doesn't determine who is right . Only who is left. -->
 
 # Instructions 
 - All participants are to build and operate robots at their own risk. Combat robotics is dangerous. Please take care to not hurt yourself or others when building, testing and competing.
