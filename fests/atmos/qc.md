@@ -1,5 +1,5 @@
-<!-- TITLE: Qc -->
-<!-- SUBTITLE: A quick summary of Qc -->
+<!-- TITLE: Quadcopter Challenge -->
+<!-- SUBTITLE:  -->
 
 # Problem Statement
 Participants are expected to Design and build a flying drone to complete the tasks with highest points possible. There are two rounds and a BONUS round in the competition. There is an optional BONUS round to show your outstanding design, manoeuvring capabilities.
