@@ -25,6 +25,7 @@ Top level index:
 # Links for Students
 1. [Event Organization Rule book](/rulebooks/event-organization)
 2. [List of BPHC Related Facebook Pages](/online/fb-pages)
+3. [List of BPHC Related Facebook Groups](/online/fb-groups)
 # Contributing
 
 Are you a Bitsian? Are you familiar with the campus? Please fill up the gaps that you spot.
