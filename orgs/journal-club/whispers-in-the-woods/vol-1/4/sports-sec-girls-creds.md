@@ -1,5 +1,5 @@
-<!-- TITLE: Sports Sec Girls Creds -->
-<!-- SUBTITLE: A quick summary of Sports Sec Girls Creds -->
+<!-- TITLE: Credentials of Sports Secretary Girls Nominee -->
+<!-- SUBTITLE: Journal Club talks to the sports secretary (girls) nominee. -->
 
 ## Kritika Kasliwal
 **What clubs and departments have you worked with so far?**
