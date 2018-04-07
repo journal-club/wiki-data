@@ -9,9 +9,8 @@ BITS Wiki aims to be the student and crowd sourced living archive of BPHC as we 
 
 You'll find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
 
-----
 
-[![News Icon 2](/uploads/icons/news-icon-2.png "News Icon 2")](/news)
+[![News Icon 2](/uploads/icons/news-icon-2.png)](/news "Campus News")
 
 # Index
 
