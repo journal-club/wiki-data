@@ -1,4 +1,4 @@
-<!-- TITLE: Credentials of Cult Sec Nominees -->
+<!-- TITLE: Credentials of CultSec Girls Nominees -->
 <!-- SUBTITLE: Journal Club talks to the cultural secretary nominees to find out more about them.-->
 
 ## Eti Singh
