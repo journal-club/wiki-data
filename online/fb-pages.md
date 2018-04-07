@@ -26,6 +26,7 @@
 12. [VFx Club](https://www.facebook.com/club.vfx/)
 13. [BITS Embryo](https://www.facebook.com/BITSEmbryoHyd/)
 14. [Shades](https://www.facebook.com/Shades.BPHC/)
+15. [Hindi Tarang](https://www.facebook.com/hinditarang/)
 
 # Department Pages
 1. [DoPY](https://www.facebook.com/DoPY.BPHC/)
