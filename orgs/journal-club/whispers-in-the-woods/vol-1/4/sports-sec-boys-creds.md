@@ -1,5 +1,5 @@
-<!-- TITLE: Sports Sec Boys Creds -->
-<!-- SUBTITLE: A quick summary of Sports Sec Boys Creds -->
+<!-- TITLE: Credentials of Sports Secretary Boys Nominees -->
+<!-- SUBTITLE: Journal Club talks to the sports secretary nominees to find out more about them. -->
 
 ## Sohith Deva
 **What clubs and departments have you worked in so far?**
