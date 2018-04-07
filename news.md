@@ -10,10 +10,10 @@ The 'Latest' section contains news published in the last month or so, and the ot
 1. **[Students' Union Constitution Review](/news/constitution-review)**
 2. **[Overview of Role of Postholders](/news/post-holders)**
 3. **[A Review of SUC 2017-18](/news/suc-2017-18)**
-4. **[Creds Overview: Cultural Secretary Boys](/news/cult-sec-boys-creds.md)**
-5. **[Creds Overview: Cultural Secretary Girls](/news/cult-sec-girls-creds.md)**
-6. **[Creds Overview: Sports Secretary Boys](/news/sports-sec-boys-creds.md)**
-7. **[Creds Overview: Sports Secretary Girls](/news/sports-sec-girls-creds.md)**
+4. **[Creds Overview: Cultural Secretary Boys](/news/cult-sec-boys-creds)**
+5. **[Creds Overview: Cultural Secretary Girls](/news/cult-sec-girls-creds)**
+6. **[Creds Overview: Sports Secretary Boys](/news/sports-sec-boys-creds)**
+7. **[Creds Overview: Sports Secretary Girls](/news/sports-sec-girls-creds)**
 
 # Archives
 Following sections are organized by date and publication type.
