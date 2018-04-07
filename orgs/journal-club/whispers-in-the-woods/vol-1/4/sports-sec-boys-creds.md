@@ -18,7 +18,7 @@ Until now, we have confined ourselves to college sports. But I would like to tak
 
 ## Yashvardhan Shukla
 **What clubs and departments have you worked in so far?**
-I'm in the cricket team, I’ve represented the campus in DoSM 2016 last year and won silver. Also, I’ve worked in 6 departments- DoSH, DoRA, LSD, DoSM, DePP and Firewallz.
+I'm in the cricket team, I’ve represented the campus in BOSM 2016 last year and won silver. Also, I’ve worked in 6 departments- DoSH, DoRA, LSD, DoSM, DePP and Firewallz.
 
 **What kind of leadership experience do you have?**
 In DePP and DoSM I had a team of juniors working under me, and it was a lot of work and responsibility. Also any event in Football which took place, I would be given the responsibility. Any kinds of delays which happened I had to take care of it. So, I had a team in Arena working under me and everything was smooth sailing. Also, I managed the blitzkrieg event which could not have been successfully done all alone. 
@@ -27,5 +27,8 @@ In DePP and DoSM I had a team of juniors working under me, and it was a lot of w
 What I’ve learnt so far is that where the mistakes have taken place in whatever I’ve done for the campus so far and that I think is the most important thing. Overcoming the ones mistakes is the most important thing. In all my experiences I’ve learnt the places where one could go wrong and have tried my best to overcome them. So now I’m confident that if I’m elected the sports secretary I’ll know the things one could do and not do for the best. I’m now sure that I’ll be able to tackle all the problems facing me in the future.
 
 **Any significant work outside the clubs and departments?**
-I co-organized the Redbull 3-on-3 basketball tournament also many other sponsored events from outside the campus. And what is your general/crude vision for the campus? I’d want to so everyone of this campus participate in at least one event in their campus life and make sure the person who is interested will have ample opportunities to do so.
+I co-organized the Redbull 3-on-3 basketball tournament also many other sponsored events from outside the campus. 
+
+**And what is your general/crude vision for the campus?**
+I’d want to so everyone of this campus participate in at least one event in their campus life and make sure the person who is interested will have ample opportunities to do so.
 
