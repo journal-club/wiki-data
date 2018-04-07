@@ -1,0 +1,1 @@
+../orgs/journal-club/whispers-in-the-woods/vol-1/4/sports-sec-girls-creds.md
