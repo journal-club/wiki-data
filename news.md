@@ -19,4 +19,4 @@ Following sections are organized by date and publication type.
 
 | Date | Title |
 | --- | --- |
-| 18th February, 2018 | [**Arena: Where Sledgends Are Born](/spotlight/arena-where-sledgends-are-born)** |
+| 18th February, 2018 | **[Arena: Where Sledgends Are Born](/spotlight/arena-where-sledgends-are-born)** |
