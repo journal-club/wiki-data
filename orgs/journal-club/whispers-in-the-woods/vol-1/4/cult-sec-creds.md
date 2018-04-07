@@ -16,7 +16,7 @@ I want people to explore more and try out new things and get the best out of the
 
 ## Yashasvi Chennawar
 **What clubs and departments have you worked for?**
-I've worked for DePP, DoVE, Firewallz. When it comes to clubs, I've worked for the Journal Club, VfX, Fashion Society. I was part of the Verba Maximus OC. 
+I've worked for DePP, DoVE, Firewallz. When it comes to clubs, I've worked for the Journal Club, VFx, Fashion Society and was also part of the Verba Maximus OC. 
 
 **What kind of leadership experience do you have?**
 I'm currently a part of the Student Mess Council. Managing a campus of 3500 students on the issues of food can be very difficult and working for takes a lot of skill and patience. 
