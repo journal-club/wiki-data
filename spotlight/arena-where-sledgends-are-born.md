@@ -9,6 +9,7 @@
 **Sledging**! A simple word to explain the practice of a player seeking to gain an advantage by verbally intimidating an opposing player. What happens when the audience gets involved in the same? The trash talk is often quite entertaining, but where do you draw the line? Where is the full stop?
 
 The below article is based on my views and understanding of the recent issue.
+
 I completely agree with the age-old saying; what happens on the field, stays on the field. But when the home audience keeps hurling abuses at the opponents, it becomes off the field and that is a very unsportsmanlike thing to do. This kind of a thing is definitely not in the spirit of the game and it gives a bad impression of our college to the teams playing.
 
 England captain **Douglas Jardine** - who was public enemy No.1 in Australia during the tense Bodyline series - complained to counterpart Bill Woodfull about Australian players swearing at him, to which Woodfull replied: “Now which of you bastards called this bastard a bastard?”
