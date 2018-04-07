@@ -11,6 +11,8 @@ You'll find plenty of information including magazine archives, club posts, fest 
 
 ----
 
+[![News Icon 2](/uploads/icons/news-icon-2.png "News Icon 2")](/news)
+
 # Index
 
 Top level index:
