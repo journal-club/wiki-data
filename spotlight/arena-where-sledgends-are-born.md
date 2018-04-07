@@ -2,9 +2,9 @@
 <!-- SUBTITLE: Published on 18th February, 2018 by Vinith Bhandari, Journal Club-->
 
 # Arena: Where Sledgends are born?
+![Jc 1802](/uploads/news/jc-1802.jpg "Jc 1802"){.pagelogo}
+
  ***Disclaimer***: The views and opinions expressed below are solely those of the original author.
- 
- ![](http://swd.bits-hyderabad.ac.in/chronicles/uploads/jc1802.jpg)
 
 **Sledging**! A simple word to explain the practice of a player seeking to gain an advantage by verbally intimidating an opposing player. What happens when the audience gets involved in the same? The trash talk is often quite entertaining, but where do you draw the line? Where is the full stop?
 
