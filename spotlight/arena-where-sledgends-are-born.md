@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Published on 18th February, 2018 by Vinith Bhandari, Journal Club-->
 
 # Arena: Where Sledgends are born?
-![Jc 1802](/uploads/news/jc-1802.jpg "Jc 1802"){.pagelogo}
+![Jc 1802](/uploads/news/jc-1802.jpg "Jc 1802"){.center}
 
  ***Disclaimer***: The views and opinions expressed below are solely those of the original author.
 
