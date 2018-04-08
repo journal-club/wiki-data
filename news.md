@@ -1,9 +1,12 @@
 <!-- TITLE: News -->
 <!-- SUBTITLE: Campus news and articles, published by the Journal Club and affiliates -->
 
-The 'Latest' section contains news published in the last month or so, and the other stuff is moved down into organized sections.
+Read about Elections 2018 coverage from JC including constitution review, manifesto reviews, interviews and more.
+
+---
 
 # Latest
+The 'Latest' section contains news published in the last month or so, and the other stuff is moved down into organized sections.
 
 ## Elections 2018
 
