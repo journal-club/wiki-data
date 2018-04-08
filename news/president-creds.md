@@ -12,7 +12,7 @@ While leading the BITSMUN sponsorship, I was given the task of bringing in a spo
 Working with different teams over the two years I learnt that each person has a different mindset and I can cater to these mindsets and bring out the best in people. Also each department or organizing committee has a different way of working and since I have been a part of most, I have collected these experiences.
 
 **Any significant works outside of the general departments and clubs?**
-I was a part of the Admissions Division. Under AD I worked to get companies to put up stalls and sell their products on campus during admissions and I got 10k in 2 days. We were responsible for the smooth working of the admission process. I am also an ARCD volunteer. I am the treasurer of Brindavanam. I have also worked for NSS and Nirmaan.
+I was a part of the Admissions Division. I worked to get companies to put up stalls and sell their products on campus during admissions and I got 10k in 2 days. We were responsible for the smooth working of the admission process. I am also an ARCD volunteer. I am the treasurer of Brindavanam. I have also worked for NSS and Nirmaan.
 
 **A general vision for the campus?**
 My vision is to increase the general participation and interest in clubs, departments and associations all the while maintaining their standards. I also feel that we need to be more united on campus. Not just on organizing committees or teams but between the general public. If we are united then I’m sure we can tackle any obstacle, be it in getting better facilities or organizing the fests better. I want to make the campus into a big group of many people instead of many groups of a few people.
