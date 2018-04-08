@@ -19,7 +19,7 @@ My vision is to increase the general participation and interest in clubs, depart
 
 ## Aman Syed
 **What departments and clubs have you worked in so far?**
-The 3 departments that I am a part of are DoSM, DoPE and DePP. Other than that, I was in the Department of Arts and Deco in my first year. I’m a member of BITS Embryo, the CSA Core Committee, I’ve been the BITSMUN Online Publicity head for BITSMUN ‘17, was a part of BITSMUN OC ‘16 & ‘17, Verba Maximus OC ‘16 & ’17, ELAS and the Gitanjali Core Committee.
+The 3 departments that I am a part of are DoSM, DoPE and DePP. Other than that, I was in the Department of Arts and Deco in my first year. I’m a member of BITS Embryo, the CSA Core Committee, I’ve been the BITSMUN Online Publicity head for BITSMUN ‘17, was a part of BITSMUN OC ‘16 & ‘17, Verba Maximus OC ‘17 & ’18, ELAS and the Gitanjali Core Committee.
  
 **What kind of leadership experiences you have in these departments and clubs?**
 This last year in DoSM was an amazing lesson in leadership and persistence for me; my team was the one of two teams working all the way till Pearl out of the 15 that started. Coming to DoPE, I was in-charge for the biggest night; handling Amit Trivedi’s pro-show taught me a lot about crisis management. Under DePP, I helped handle Online Publicity for Atmos, and Corporate Publicity for Pearl.
