@@ -19,6 +19,7 @@ The 'Latest' section contains news published in the last month or so, and the ot
 7. **[Creds Overview: Sports Secretary Girls](/news/sports-sec-girls-creds)**
 8. **[Creds Overview: President](/news/president-creds)**
 9. **[Creds Overview: GenSec](/news/gensec-creds)**
+10. **[The North-South Divide](/news/north-south-divide)**
 
 # Archives
 Following sections are organized by date and publication type.
