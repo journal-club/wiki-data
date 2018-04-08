@@ -18,6 +18,7 @@ The 'Latest' section contains news published in the last month or so, and the ot
 6. **[Creds Overview: Sports Secretary Boys](/news/sports-sec-boys-creds)**
 7. **[Creds Overview: Sports Secretary Girls](/news/sports-sec-girls-creds)**
 8. **[Creds Overview: President](/news/president-creds)**
+9. **[Creds Overview: GenSec](/news/gensec-creds)**
 
 # Archives
 Following sections are organized by date and publication type.
