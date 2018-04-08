@@ -3,7 +3,7 @@
 
 ## Charan Meka
 **What Clubs and Departments have you worked in so far?**
-I have been working actively for DePP since my first semester, I first worked informally for DoSM in the first semester and got a sponsorship of about 85k for ATMOS ’16. I got inducted and have been working in DoSM since. I have also worked for Controlz in ATMOS ’16 and Firewallz for ARENA. I have also worked in BITSMUN OC for which I was the sponsorship head this year, and VM OC for which I was the offline publicity head. I was also part of DoPE.
+I have been working actively for DePP since my first semester, I first worked informally for DoSM in the first semester and got a sponsorship of about 85k for ATMOS ’16. I got inducted and have been working in DoSM since. I have also worked for Controlz in ATMOS ’16 and Firewallz for ARENA. I was a member of the BITSMUN OC and lead the spons. team as the sponsorship head this year, and VM OC for which I was the offline publicity head. I was also part of DoPE.
 
 **What kind of leadership experience do you have?**
 While leading the BITSMUN sponsorship, I was given the task of bringing in a sponsorship of 1 lakh or above, which is a tough task considering the fact that BITSMUN attracts a limited number of people. Moreover, the event was preponed as it was clashing with another event. But at the end the sponsorship was bought in and the event was conducted smoothly. This Verba Maximus saw the highest footfall and being the offline publicity head, I take part of the credit. BITSMUN and VM were perhaps the biggest leadership challenges that I took and I can proudly say that I successfully tackled both.
