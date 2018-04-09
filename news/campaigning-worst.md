@@ -10,9 +10,9 @@ The Rights of the General Body as given by the Election Commission for the Gener
 5. **No campaigning is allowed before 5PM (1PM on Saturdays) and after 11PM in working days.**
 6. **In case of ragging or threats, students should immediately call any member of the Election Commission.**
 
-Now that we have reminded ourselves about what powers we hold as members of the General Body, let us now look into some of the disturbing things we have picked up this Election Season. It is worth mentioning again that this is just our attempt to keep things clear for the members of the GB including us and is not biased towards one particular person. 
+Now that we have reminded ourselves about what powers we hold as members of the General Body, let us now look into some of the **disturbing things** we have picked up this Election Season. It is worth mentioning again that this is just our attempt to keep things clear for the members of the GB including us and is not biased towards one particular person. 
 
-It has been brought to our attention that some of the candidates out of ignorance or in their ambition of getting elected have put vague and impossible promises in their manifestos, which they simply do not possess the power to enforce if elected to be a part of the SUC. If we are not mistaken, we overheard a candidate as part of their campaign promising to take BITS to the top 5 spots in the National Institute Ranking Framework’s (NIRF) annual rankings. Why don’t we leave the Administration to worry about such issues? Then there were some who wanted to delve into the matters of the SMC or GAD. They might be highly ambitious and noble for their thoughts but there are designated people for every concern and hence we have the elections to elect the right people for the right post. One simply cannot impose their free will upon whatever seems fancy enough to go on their manifesto or their campaign speeches. 
+It has been brought to our attention that some of the candidates out of ignorance or in their ambition of getting elected have put vague and impossible promises in their manifestos, which they simply do not possess the power to enforce if elected to be a part of the SUC. If we are not mistaken, we overheard **a candidate** as part of their campaign **promising to take BITS to the top 5 spots in the** National Institute Ranking Framework’s **(NIRF) annual rankings**. Why don’t we leave the Administration to worry about such issues? Then there were some who wanted to delve into the matters of the SMC or GAD. They might be highly ambitious and noble for their thoughts but there are designated people for every concern and hence we have the elections to elect the right people for the right post. One simply cannot impose their free will upon whatever seems fancy enough to go on their manifesto or their campaign speeches. 
 
 ## An Interview
 A respected member of our college, a current post-holder, and a person who's held positions of responsibility, and **whose identity we do not wish to disclose** has wished to confirm some of these disturbing facts and answer our queries. These are the answers given to our team by the member:
@@ -25,8 +25,6 @@ Apparently, EC should moderate the QT meetings and public gatherings during elec
 
 
 -----
-
-
 It has come to our notice that there have been a few moments in the meetings that happened in this span of time that led to some unwanted outbursts from some of the campaigning teams, which is disturbing considering campaigning demands a certain decorum. Such incidents will adversely affect the candidate and may not go down well with general body.
 
 Keeping the aforementioned six points in mind, we would like to conclude this article by saying that every member of the general body has the power to decide who they want to support. Every member should take this power seriously and make a responsible decision in choosing their representatives. One should not hesitate to **take it to the EC**, any **official** or even** JC** for that matter if they feel like something is not the way it is supposed to be.
