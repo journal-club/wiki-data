@@ -3,12 +3,12 @@
 
 The Rights of the General Body as given by the Election Commission for the General Elections 2018 are as follows -  
 
-1. All the General Body Members hold the right to say NO to campaigning. We have the right to say no to take part in campaigning or get campaigned to.  
-2. Only students whose names are in the Campaigners’ List of the candidate can campaign. We as the General Body members can always verify with the candidate or the EC if a particular candidate is part of the Campaigning List or not.
-3. All the students of 2017 batch hold the right to ask for the Campaigning Slip, and the campaigner has to produce it, failing which the candidate, whose campaigner it was, is liable for appropriate action. Not many of us seem to be aware of this rule, but we do have the right to ask campaigner for the campaigning slip.
-4. The Administrative Block must not be used as a place for election propaganda.
-5. No campaigning is allowed before 5PM (1PM on Saturdays) and after 11PM in working days.
-6. In case of ragging or threats, students should immediately call any member of the Election Commission.
+1. **All the General Body Members hold the right to say NO to campaigning**. We have the right to say no to take part in campaigning or get campaigned to.  
+2.** Only students whose names are in the Campaigners’ List of the candidate can campaign. **We as the General Body members can always verify with the candidate or the EC if a particular candidate is part of the Campaigning List or not.
+3. **All the students of 2017 batch hold the right to ask for the Campaigning Slip**, and the campaigner has to produce it, failing which the candidate, whose campaigner it was, is liable for appropriate action. Not many of us seem to be aware of this rule, but we do have the right to ask campaigner for the campaigning slip.
+4. **The Administrative Block must not be used as a place for election propaganda.**
+5. **No campaigning is allowed before 5PM (1PM on Saturdays) and after 11PM in working days.**
+6. **In case of ragging or threats, students should immediately call any member of the Election Commission.**
 
 Now that we have reminded ourselves about what powers we hold as members of the General Body, let us now look into some of the disturbing things we have picked up this Election Season. It is worth mentioning again that this is just our attempt to keep things clear for the members of the GB including us and is not biased towards one particular person. 
 
