@@ -1,5 +1,5 @@
 <!-- TITLE: The North South Divide -->
-<!-- SUBTITLE: By Vinith Bhandari -->
+<!-- SUBTITLE: - Vinith Bhandari -->
 
 From the title, it is clear, what the matter in this article is going to be. Elections are one of the worst times in college life. Only one thing is not fake during this period, which is the below the belt campaigning and dirty manipulation just for the sake of a position. This article is not an exaggeration but is as presented, witnessed, recalled and processed by the people concerned.
 
