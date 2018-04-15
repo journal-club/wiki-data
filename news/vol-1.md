@@ -1,5 +1,5 @@
 <!-- TITLE: Whispers in the Woods: Volume 1 -->
-<!-- SUBTITLE: The first volume of Whispers in the Woods, published between 2017-18. -->
+<!-- SUBTITLE: The first volume of Whispers in the Woods, published in the academic year 2017-18. -->
 
 # Overview
 Whispers in the Wood became a reality for the first time on September 27th,  2017 when the first edition of WITW was published. In that academic year of 2017-18, [Journal Club](/orgs/journal-club) published a total of four editions of WITW, two in each semester.
