@@ -26,7 +26,7 @@ Top level index:
 3. [List of BPHC Related Facebook Groups](/online/fb-groups)
 # Contributing
 
-Are you a Bitsian? Are you familiar with the campus? Please fill up the gaps that you spot.
+Are you a BITSian? Are you familiar with the campus? Please fill up the gaps that you spot.
 
 Contributors welcome. You must login to edit content and your edits will be tagged with your email and name for identity and conflict resolution. We do not allow anonymous edits.
 
