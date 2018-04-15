@@ -1,39 +1,12 @@
-<!-- TITLE: Whisper in the Woods Vol 1 Issue 4 -->
-<!-- SUBTITLE: Published April 2018 -->
+<!-- TITLE: Whispers in the Woods: Volume 1 -->
+<!-- SUBTITLE: The first volume of Whispers in the Woods, published between 2017-18. -->
 
-# In Want of the World
+# Overview
+Whispers in the Wood became a reality for the first time on September 27th,  2017 when the first edition of WITW was published. In that academic year of 2017-18, [Journal Club](/orgs/journal-club) published a total of four editions of WITW, two in each semester.
 
-> “Do you know the difference between a pack and a herd, Minu?” burped the Frog King in his little
-> well. He had just seen the Madagascar movie and was evidently triggered.
-> 
-> “The members of a herd, Minu…have each other’s back”, he nodded wisely… “and most importantly,
-> herds don’t exist.”
-> 
-> “What’s that Sire?”
-> 
-> “You heard me. There are only packs in this world, where everybody craves power for breakfast and
-> feeds on the masses’ despair for dessert. There’s no such thing as a herd. It’s a pigment of the
-> imagination.”
-> 
-> “Figment, Sire.”
-> 
-> “Not at all, Minu. I’m naturally green and warty.”
-> 
-> “Pardon me, Sire.”
-> 
-> The Frog King waved airily and croaked a despondent croak. “It is time to fight elections, Minu. Get
-> my manifesto ready.”
-
-# List of Articles
-## The Basics
-1. [SU Constitution Review](/news/witw/vol-1/4/constitution-review)
-2. [Role of Postholders](/news/witw/vol-1/4/post-holders)
-3. [A Review of SUC 2017-18](/news/witw/vol-1/4/suc-2017-18)
-
-## Credentials of the Candidates
-4. [Credentials of the CultSec Girls Nominees](/news/witw/vol-1/4/cult-sec-girls-creds)
-5. [Credentials of the CultSec Boys Nominee](/news/witw/vol-1/4/cult-sec-boys-creds)
-6. [Credentials of the Sports Sec Boys Nominees](/news/witw/vol-1/4/sports-sec-boys-creds)
-7. [Credentials of the Sports Sec Girls Nominee](/news/witw/vol-1/4/sports-sec-girls-creds)
-8. [Credentials of the GenSec Nominees](/news/witw/vol-1/4/gensec-creds)
-9. [Credentials of the Presidential Candidates](/news/witw/vol-1/4/prez-creds)
+| Issue | Published | Mode of Publication |
+| --- | --- | --- |
+| [Issue 1](/news/witw/vol-1/1) | Sept 2017 | Print |
+| [Issue 2](/news/witw/vol-1/2) | Dec 2017 | Online, Joomag |
+| [Issue 3](/news/witw/vol-1/3) | Feb 2018 | Print |
+| [Issue 4](/news/witw/vol-1/4) | Apr 2018 | Online, BITS Wiki |
