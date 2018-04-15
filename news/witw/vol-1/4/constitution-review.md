@@ -1,0 +1,24 @@
+<!-- TITLE: SU Constitution Review -->
+<!-- SUBTITLE: A quick review of the SU Constitution, in the days leading upto the elections-->
+
+A constitution is a set of fundamental principles or rules according to which a state or an organization runs. It enshrines the principle that any government exists to protect the rights of all citizens and has no legitimate power to deprive any citizen or class of citizens of their rights without due process of law. The Student Union Council of BPHC is governed by one such constitution to protect and honour the rights of the student community by all means possible.
+
+For any constitution its preamble sets the guiding purpose and principles in the document. As of the year 2017, the preamble states - 
+
+> “We, the students of BITS, Pilani - Hyderabad Campus, believing in the need of an immaculate student government, do hereby promulgate and adopt this constitution as a guiding force for the Students’ Union, that shall embody the ideals and principles of democracy. We solemnly resolve to - protect the rights of the student community by all fair means available to us, endeavour to impart a sense of fair-play and security among the students, promote all activities relating to academic awareness, cultural affluence, physical welfare and general welfare; develop the Institute into a centre of technological excellence and to uphold and promote the core values of integrity, righteousness and liberty.”
+
+The constitution consists of 28 different sections explaining the rights of its members, hierarchy in the SU, powers of the post holders etc. It even comprises of the procedure to contest and conduct general elections in the campus. The Students’ Union Council, (hereafter simply mentioned as the Council) is completely elected by the Students’ Union (hereafter simply mentioned Union) through a secret ballot. All the members of the Union constitute the General Body.
+
+As per the constitution, the Council is the supreme governing body of the Union but it also states that the Union has a higher say, thus establishing the supremacy of the Union. This allows the Union to direct their queries to their elected representatives – the Council. Not to forget, any motion initiated by at least one – third of the Union and passed by at least two – thirds of the Union shall be binding upon the Council and its organs.
+
+The Council consists of the President, the General Secretary, Cultural Secretary (boys and girls), Sports Secretary (boys and girls), A Higher Degree Representative, Hostel Representatives (H – reps) and An Ex-Officio Member (nominated by the out-going council). All the Departments and the Student Mess Council are the organs of the Council. Clubs (funded by the Council) shall be a constituent of the Council.
+
+An important body under the Council is the Student Mess Council (SMC). It consists of a maximum of five members all of whom are elected by the Union. On position shall be reserved for a female representative. They are the communication channel between the mess caterers and the Union. They shall be responsible for addressing concerns regarding all mess affairs. They may also oversee the functioning of other food outlets on campus.    
+
+General Body Meeting (GBMs) are convened every semester by the Council, the CRC, the EC or any member of the Union as and when the need for the same arises. These GBMs are mainly conducted to review the working of the Council or to propose major issues like Amendments to the Constitution or any of it adjuncts, Fest Budgets, Motion of Confidence/ No – Confidence, Referendums or any other agenda which the EC seems fit and minor issues concerning clubs, departments, hostels etc. The EC shall moderate the GBM. Any motion to pass or fail in these GBMs requires at least two – thirds of the Union to be present.
+
+The CRC and the EC are independent bodies working closely with administration to ensure smooth running of the Council and its bodies. CRC can review the working of the Council or the Union’s Organs at any given point by enjoining any member(s) of the same to maintain records or proofs of financial transactions in any form and the Election Commission is responsible for conducting the elections in the campus including the Clubs and other bodies under the Union.
+
+Any good constitution will always show a balance of power and this constitution too under Section XIX has defined the procedure for removal of the elected members if found guilty for any offence by the Disciplinary Committee or the Examination Committee.
+
+With the Election season nearby we at the Journal Club hope that the candidate will not violate any rules laid out by the constitution and contest a fair election.
