@@ -6,20 +6,26 @@ Read about Elections 2018 coverage from JC including constitution review, manife
 ---
 
 # Latest
-The 'Latest' section contains news published in the last month or so, and the other stuff is moved down into organized sections.
+The latest section contains news published in the last one month. After a month, they're organised into the archives.
 
 ## Elections 2018
 
-1. **[Students' Union Constitution Review](/news/constitution-review)**
-2. **[Overview of Role of Postholders](/news/post-holders)**
-3. **[A Review of SUC 2017-18](/news/suc-2017-18)**
-4. **[Creds Overview: Cultural Secretary Boys](/news/cult-sec-boys-creds)**
-5. **[Creds Overview: Cultural Secretary Girls](/news/cult-sec-girls-creds)**
-6. **[Creds Overview: Sports Secretary Boys](/news/sports-sec-boys-creds)**
-7. **[Creds Overview: Sports Secretary Girls](/news/sports-sec-girls-creds)**
-8. **[Creds Overview: President](/news/president-creds)**
-9. **[Creds Overview: GenSec](/news/gensec-creds)**
-10. **[The North-South Divide](/news/north-south-divide)**
+### The Basics
+1. [SU Constitution Review](/news/witw/vol-1/4/constitution-review)
+2. [Role of Postholders](/news/witw/vol-1/4/post-holders-role)
+3. [A Review of SUC 2017-18](/news/witw/vol-1/4/suc-2017-18)
+
+### Credentials of the Candidates
+4. [Credentials of the CultSec Girls Nominees](/news/witw/vol-1/4/cult-sec-girls-creds)
+5. [Credentials of the CultSec Boys Nominee](/news/witw/vol-1/4/cult-sec-boys-creds)
+6. [Credentials of the Sports Sec Boys Nominees](/news/witw/vol-1/4/sports-sec-boys-creds)
+7. [Credentials of the Sports Sec Girls Nominee](/news/witw/vol-1/4/sports-sec-girls-creds)
+8. [Credentials of the GenSec Nominees](/news/witw/vol-1/4/gensec-creds)
+9. [Credentials of the Presidential Candidates](/news/witw/vol-1/4/prez-creds)
+
+### Campaigning
+10. [The North-South Divide](/news/witw/vol-1/4/north-south)
+11. [Campaigning at its Worst](/news/witw/vol-1/4/campaign-worst)
 
 # Archives
 Following sections are organized by date and publication type.
