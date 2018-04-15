@@ -1,1 +1,0 @@
-../orgs/journal-club/whispers-in-the-woods/vol-1/4/cult-sec-creds.md
