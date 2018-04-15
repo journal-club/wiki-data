@@ -1,6 +1,8 @@
 <!-- TITLE: Campaigning At Its Worst -->
 <!-- SUBTITLE: As the Doomsday approaches, the pressure on the candidates to express themselves, to reach out to and convince as many students as possible has increased too. But the need to do so ended up spoiling the spirit of the much anticipated General Election 2018 for some of the students on campus.  Journal Club presents an informative piece to remind the General Body Members of their role and power during the time of elections. -->
 
+![Campaigns And Elections](/uploads/news/campaigns-and-elections.jpg "Campaigns And Elections"){.align-center}
+
 The Rights of the General Body as given by the Election Commission for the General Elections 2018 are as follows -  
 
 1. **All the General Body Members hold the right to say NO to campaigning**. We have the right to say no to take part in campaigning or get campaigned to.  
