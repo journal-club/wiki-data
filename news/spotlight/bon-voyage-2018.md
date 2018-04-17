@@ -18,6 +18,8 @@ In the process of celebrating our seniors, have we really made sure that everyon
 Is this a sign of apathy and lenience towards deductions for events on campus without the approval of the payers? Should this continue?
  
 ---
+Footnotes:
+
 <sup>1</sup> The total deduction for Teacher’s Day was ₹71,000 By tradition, it’s something that has been funded by freshers. Roughly Rs. 30,000 of this amount was left over after the celebration, and this was carried over to fund other activities. With almost half of this being sent towards Bon Voyage, is this fair to the freshers some of whom were allegedly not entirely comfortable with contributing. Why deduct this much if it’s unnecessary?
 
 <sup>2</sup> A breakdown of how the money will be spent, according to a RAF member:
