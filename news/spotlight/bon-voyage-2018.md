@@ -1,6 +1,5 @@
 <!-- TITLE: Bon Voyage 2018 Deductions-->
 <!-- SUBTITLE: ₹420 is being deducted from every 2016 batch student on campus. Journal Club, BITS Hyderabad looks at the issue to understand who's paying for Bon Voyage, and how much.   -->
-'- *Shanmukh Kali Prasad, Rohit Dwivedula*
 
 Bon Voyage is a farewell event for seniors in their third year that's funded by their immediate juniors. This year's Bon Voyage is to be held on the 22nd of April. It’s an event that has been considered a tradition of sorts. A tradition that may happen to involve a bit of unfair transactions. The Recreational Activities Forum, also called RAF, organizes Bon Voyage every year. Apart from this, they’re also the ones who screen the weekly movies in the auditorium and organize Teachers’ Day Celebrations. They’re not affiliated with the SU and do not involve themselves with the business of fests.
 
@@ -30,4 +29,5 @@ Is this a sign of apathy and lenience towards deductions for events on campus wi
 <sup>4</sup> The exact procedure by which the deductions were approved is still unclear. 
 
 <sup>5</sup> The other two deductions being the deduction of ₹1000 for Pearl and ₹200 for ATMOS, along with the compulsary deductions for Moonlight Dinners. 
-
+---
+*Article by Shanmukh Padmanabhuni and Rohit Dwivedula*
