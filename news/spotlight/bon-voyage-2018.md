@@ -29,5 +29,5 @@ Is this a sign of apathy and lenience towards deductions for events on campus wi
 <sup>4</sup> The exact procedure by which the deductions were approved is still unclear. 
 
 <sup>5</sup> The other two deductions being the deduction of ₹1000 for Pearl and ₹200 for ATMOS, along with the compulsary deductions for Moonlight Dinners. 
----
+
 *Article by Shanmukh Padmanabhuni and Rohit Dwivedula*
