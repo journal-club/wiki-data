@@ -30,6 +30,6 @@ Footnotes:
 
 <sup>4</sup> The exact procedure by which the deductions were approved is still unclear. 
 
-<sup>5</sup> The other two deductions being the deduction of ₹1000 for Pearl and ₹200 for ATMOS, along with the compulsory deductions for Moonlight Dinners. 
+<sup>5</sup> The other two un-consented deductions were for the two moonlight dinners organised by the messes. Also, the deductions for Pearl and ATMOS of of ₹1000 and ₹200 respectively, while passed through GBMs and is legally okay, might still be morally un-consented as money is still being deducted from people who voted against/didn't agree to the motion.
 
 *Article by Shanmukh Padmanabhuni and Rohit Dwivedula*
