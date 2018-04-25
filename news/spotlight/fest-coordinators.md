@@ -1,5 +1,5 @@
 <!-- TITLE: Fest Coordinators -->
-<!-- SUBTITLE: Published 25th April, 2018 -->
+<!-- SUBTITLE: 25th April, 2018 -->
 
 On 19th April, 2018, the President of the SUC 2018-2019 posted a notice on BPHC Shoutbox calling all students from the 2016 batch for selection to the posts of Fest Coordinator for ATMOS, Arena and Pearl respectively. The notice stated a GBM would be held later on to “formalise the posts” and “set specific roles and boundaries” for these posts. 
 
@@ -28,4 +28,7 @@ He said that while the decision to appoint Fest Coordinators wasn’t entirely t
 
 Considering all of these facts, there still remain a lot of grey areas in terms of the selection, implementation and responsibilities of the Fest Coordinators, and other members of the SUC, in general, and it is a sincere hope that light is shed on these areas for the benefit of the General Body.
 
-*All information used in this article has been procured by direct communication with the parties involved.*
+**All information used in this article has been procured by direct communication with the parties involved.**
+
+*Article by Sriya Suri and Kushagra K Chanda*
+*Published 25th April, 2018*
