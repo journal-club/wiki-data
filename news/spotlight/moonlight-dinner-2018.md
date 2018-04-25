@@ -1,5 +1,5 @@
-<!-- TITLE: Moonlight Dinner 2018 -->
-<!-- SUBTITLE: A quick summary of Moonlight Dinner 2018 -->
+<!-- TITLE: Mud in the Moon -->
+<!-- SUBTITLE: A look at the Moonlight Dnner, and how the SMC works. -->
 
 On the midnight of 21st February 2018, the SMC announced a “Moonlight Dinner<sup>1</sup>” (MLD) scheduled for 25th of the same month. It was intended to be a ‘delightful dinner to promote student-faculty interaction’. However, the general body was evidently disappointed as the dinner certainly failed to justify the hype surrounding it. The SMC@BPHC<sup>2</sup> group was flooded with a plethora of complaints ranging from sub-standard food quality to dusty conditions around the dining area following the dinner.
 
