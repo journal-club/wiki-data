@@ -1,4 +1,4 @@
-<!-- TITLE: DisCo -->
+<!-- TITLE: DisCo: Everything You Need to Know -->
 <!-- SUBTITLE: September 24th, 2017 -->
 
 The Disciplinary Committee, or DisCo for short, is something which intrigues most students on campus. For some, coming under the purview of it is a nightmare come true, while for others, it is a badge they wear with pride, something ‘cool’. But strangely, for something so important, there exists virtually no information about the process, and its workings. This article aims to detail all of this as comprehensively as possible.
