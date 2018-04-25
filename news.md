@@ -11,7 +11,7 @@
 | 13th March, 2018 | **[Mud in the Moon](/news/spotlight/moonlight-dinner-2018)** |
 
 # Elections 2018
-Coverage of the Students Union Council Elections 2018. 
+Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/vol-1/4) to read the complete release.
 
 ### The Basics
 1. [SU Constitution Review](/news/witw/vol-1/4/constitution-review)
