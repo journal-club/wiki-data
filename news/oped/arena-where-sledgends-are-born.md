@@ -15,8 +15,6 @@ England captain **Douglas Jardine** - who was public enemy No.1 in Australia dur
 
 Now this is what sledging is. What happened during the recent incident is something very different. We are aware of bottles being thrown at players even internationally, but should it ever come to that? You can disqualify players, give them cards, but what will you do to the audience? The audience cannot behave in barbaric ways, negligent of its attitude and charm its way into entertainment at the cost of a team it is hosting. To be honest, the crowd better behave, not just because they are being told to do so, but in sheer respect for an individual who has come here in spirit of sportsmanship. At this point, it is better to forget about the incidents that have taken place; but we should take a lesson from this fiasco and mend our ways accordingly.
 
-**Disclaimer**: The views and opinions expressed below are solely those of the author.
 
 *Article by Vinith Bhandari*
-
 *Originally published on BITS Chronicles on 18th February, 2018.*
