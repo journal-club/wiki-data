@@ -3,8 +3,6 @@
 
 Ah, women! What would we do without them? The nurturing wombs of life, the welcoming lovers, the butt of campus gender ratio jokes and the butts in TOI newspapers. They do it all, pun you wish were intended. 2017 was the year of the Woman. With the #MeToo and the Women’s March in the US, the ladies took up a fair share of public limelight to whine about their problems. And gosh, whine they did! According to CBS news, 1.7 million tweets of MeToo spread across 85 countries. 
 
-![Think You Bully Me](/uploads/news/think-you-bully-me.jpg "Think You Bully Me"){.align-center}
-
 Back home in India though, Asifa happens to be the top trending word in porn and marital rape is considered to be perfectly legitimate, justified even. According to the HRD Ministry, in 2017, there has been a 50% increase in reported cases on sexual harassment from various higher education institutions across the country. 149 cases of sexual harassment were reported from universities and 39 cases from colleges and other institutions in 2017.
 
 These are just the reported cases. An overwhelming majority of such crimes remain silently borne. The immense cultural conditioning and iron-strong patriarchy ensures that most women accept the injustice as a ‘normal’ part of life. The story is shared in closed rooms, with the closest of friends, with a macabre, closed laugh. “Yes, something like this happened to me too…”, they say. Very few go on record, keeping the system safe and secure, allowing it to perpetrate for generations.  
@@ -20,6 +18,8 @@ But being sexually harassed carries a very different flavor for the victim: more
 Even Joanne Kathleen Rowling had to suppress her own name because her publishers doubted her sex would prevent the world from meeting Harry. No matter how woke we are, we live suppressed and fearful of the glass ceiling. The famed glass ceiling: it’s transparent, invisible. It’s made out of co-ed schools where teachers tell boys in secret to not be ‘distracted by the girls’. It’s made out of department meetings held in the boys’ hostel basements after 2.00 am. It’s made out of feeble biological ‘facts’ about ‘hormones’ and ‘female dispositions’. It’s made out of our gender ratio. It’s made out of the abrupt knocking in the middle of the night if you don’t give your biometric attendance before Intime. It starts out thin, then grows tall with you. 
 
 These ‘lite’ things work in sync, all together to form a menacing monster called Patriarchy- the ‘get of jail free’ card that the perpetrators always seem to have. Patriarchy puts pressure on our systems and makes life tougher in the long run for everybody, regardless of gender. Freedom and creativity remain stifled in the pursuit of impossible gender expectations. Nevertheless, we have come a long way. In 1818, Western Christian missionaries started the first schools in India open to girls. In 1876, Calcutta University first allowed women to attend only the exams. In 1879, Bethune college became the first college to allow women. And here we all are are today at BPHC, both men and women, in 2018, all because of the centuries old feminist struggle to break the status quo.  While Merriam Webster’s Word of the Year was ‘Feminism’, Oxford gave that title to ‘Youthquake.’ That makes us all a part of breaking the present status quo of macabre silence. Me too. You too.
+
+![Think You Bully Me](/uploads/news/think-you-bully-me.jpg "Think You Bully Me"){.align-center}
 
 *Op-Ed article by Niharika Shankar*
 *23rd April, 2018*
