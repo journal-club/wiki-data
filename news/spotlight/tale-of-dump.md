@@ -1,5 +1,7 @@
 <!-- TITLE: The Tale Of The Dump -->
 
+![Burn It All Tale Of Dump](/uploads/news/burn-it-all-tale-of-dump.jpg "Burn It All Tale Of Dump"){.align-center}
+
 It’s a surprisingly breezy summer evening. You decide that the weather is too good to be locked in your room, you open the door and step out only to be bombarded by an extremely foul smell. The smell that mostly emanates in the evenings or late at night is a problem for all of us at BPHC. We have often wondered what the cause of the stench is. After digging around we have found out that the root of our problem is located about 3 km away from our campus, the Jawahar Nagar Dump Yard. Spread over an area of 350 acres, the waste from the entirety of the twin cities is dumped here.
 
 ## A Background
