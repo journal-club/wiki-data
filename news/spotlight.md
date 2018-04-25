@@ -5,6 +5,7 @@
 
 | Date<sup>1</sup> | Title |
 | --- | --- | --- |
+| 25th April, 2018 | **[Fest Coordinators](/news/spotlight/fest-coordinators)** |
 | 17th April, 2018 | **[Bon Voyage 2018 Deductions](/news/spotlight/bon-voyage-2018)** | 
 | 13th March, 2018 | **[Mud in the Moon](/news/spotlight/moonlight-dinner-2018)** |
 | 18th February, 2018 | **[Arena: Where Sledgends Are Born](/news/spotlight/arena-where-sledgends-are-born)** |
