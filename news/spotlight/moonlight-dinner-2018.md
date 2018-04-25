@@ -40,15 +40,15 @@ According to the Constitution<sup>9</sup>, the SMC is only a communication chann
 
 <sup>8</sup> According to the SU Constitution:
 
-	> SECTION VI: FINANCIAL TRANSACTIONS 
-	> FT3 category: Transactions other than those specified in FT1 and FT2 categories (intra-college activities).
-	> The President shall be solely responsible for all financial matters and statements pertaining to FT1 category and FT3 category. 
-	> SECTION VII: DECISIONS REGARDING FINANCIAL TRANSACTIONS
-	> 3. Minor budget propositions must be presented to the CRC. The CRC reserves the right to suggest changes in the budget or reject the proposal.
+	SECTION VI: FINANCIAL TRANSACTIONS 
+	FT3 category: Transactions other than those specified in FT1 and FT2 categories (intra-college activities).
+	The President shall be solely responsible for all financial matters and statements pertaining to FT1 category and FT3 category. 
+	SECTION VII: DECISIONS REGARDING FINANCIAL TRANSACTIONS
+	3. Minor budget propositions must be presented to the CRC. The CRC reserves the right to suggest changes in the budget or reject the proposal.
 
 <sup>9</sup>https://docs.google.com/document/d/1eKRfi9xBndlJ8QZHQp2KVKiLpV6EFOikD0-Q5Gr0v0s/edit 
 
 <sup>10</sup> According to the SU Constitution:
 
-	> SECTION V: STUDENTS’ MESS COUNCIL
-	> 3.The SMC shall serve as the communication channel between the mess caterers and the Union.
+	SECTION V: STUDENTS’ MESS COUNCIL
+	3.The SMC shall serve as the communication channel between the mess caterers and the Union.
