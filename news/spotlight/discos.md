@@ -3,6 +3,7 @@
 
 The Disciplinary Committee, or DisCo for short, is something which intrigues most students on campus. For some, coming under the purview of it is a nightmare come true, while for others, it is a badge they wear with pride, something ‘cool’. But strangely, for something so important, there exists virtually no information about the process, and its workings. This article aims to detail all of this as comprehensively as possible.
 
+![Disco](/uploads/news/disco.jpg "Disco"){.align-center}
 # The Committee
 The Committee consists of 6 members: the Associate Dean of the Students Welfare Division (who acts as the convener of the Committee), the Chief Warden, two teachers and two student representatives. The student representatives are picked by the Students’ Union Council and vetted thoroughly by the SWD Associate Dean in terms of their academic and disciplinary record and other students’ opinion of them, before being approved by the Senate. In order to maintain gender equality, there is always one male student and one female student in the Committee. All members of the Committee have equal say and the majority decision is enforced.
 
