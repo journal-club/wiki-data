@@ -25,19 +25,28 @@ According to the Constitution<sup>9</sup>, the SMC is only a communication chann
 # References
 
 1. Abbreviated to MLD, https://www.facebook.com/groups/249589865080586/permalink/1842164969156393/ 
+
 2. https://www.facebook.com/groups/249589865080586/ 
+
 3. https://www.facebook.com/groups/249589865080586/permalink/1846421495397407/ 
+
 4. https://www.facebook.com/groups/249589865080586/permalink/1842164969156393/ see second comment
+
 5. The manager of Mess-2 told us some details of the proposed dinner; 500 plates would be made available for faculty and staff at no cost to them, the price of the second dinner would be the same, but the menu was yet to be decided. 
+
 6. https://www.facebook.com/groups/249589865080586/permalink/1690049871034571/
+
 7. ₹119 + 31 (additional for the MLD), this is including no snacks for the day. 
+
 8. SU Constitution
 > SECTION VI: FINANCIAL TRANSACTIONS 
 > FT3 category: Transactions other than those specified in FT1 and FT2 categories (intra-college activities).
 > The President shall be solely responsible for all financial matters and statements pertaining to FT1 category and FT3 category. 
 > SECTION VII: DECISIONS REGARDING FINANCIAL TRANSACTIONS
 > 3. Minor budget propositions must be presented to the CRC. The CRC reserves the right to suggest changes in the budget or reject the proposal.
+
 9. https://docs.google.com/document/d/1eKRfi9xBndlJ8QZHQp2KVKiLpV6EFOikD0-Q5Gr0v0s/edit 
+
 10. SU Constitution
 > SECTION V: STUDENTS’ MESS COUNCIL
 > 3.The SMC shall serve as the communication channel between the mess caterers and the Union.
