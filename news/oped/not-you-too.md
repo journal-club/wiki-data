@@ -19,7 +19,9 @@ Even Joanne Kathleen Rowling had to suppress her own name because her publishers
 
 These ‘lite’ things work in sync, all together to form a menacing monster called Patriarchy- the ‘get of jail free’ card that the perpetrators always seem to have. Patriarchy puts pressure on our systems and makes life tougher in the long run for everybody, regardless of gender. Freedom and creativity remain stifled in the pursuit of impossible gender expectations. Nevertheless, we have come a long way. In 1818, Western Christian missionaries started the first schools in India open to girls. In 1876, Calcutta University first allowed women to attend only the exams. In 1879, Bethune college became the first college to allow women. And here we all are are today at BPHC, both men and women, in 2018, all because of the centuries old feminist struggle to break the status quo.  While Merriam Webster’s Word of the Year was ‘Feminism’, Oxford gave that title to ‘Youthquake.’ That makes us all a part of breaking the present status quo of macabre silence. Me too. You too.
 
-![Think You Bully Me](/uploads/news/think-you-bully-me.jpg "Think You Bully Me"){.align-center}
+<center>
+<img src = "https://wiki.bits-hyd.org/uploads/news/think-you-bully-me.jpg" width = 250px>{.align-center}
+</center>
 
 *Op-Ed article by Niharika Shankar*
 *23rd April, 2018*
