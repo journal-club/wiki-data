@@ -10,6 +10,15 @@
 | 17th April, 2018 | **[Bon Voyage 2018 Deductions](/news/spotlight/bon-voyage-2018)** | 
 | 13th March, 2018 | **[Mud in the Moon](/news/spotlight/moonlight-dinner-2018)** |
 
+
+# OpEds
+*For a complete list of Opinion Editorials, [click here](/news/oped).
+
+| Date | Title | Author |
+| --- | --- | --- |
+| 23rd April, 2018 | **[Certainly Not You Too!](/news/oped/not-you-too)** | Niharika Shankar |
+| 18th February, 2018 | **[Arena: Where Sledgends Are Born](/news/oped/arena-where-sledgends-are-born)** | Vinith Bhandari |
+
 # Elections 2018
 Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/vol-1/4) to read the complete release.
 
