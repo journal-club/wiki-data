@@ -3,6 +3,8 @@
 
 On 19th April, 2018, the President of the SUC 2018-2019 posted a notice on BPHC Shoutbox calling all students from the 2016 batch for selection to the posts of Fest Coordinator for ATMOS, Arena and Pearl respectively. The notice stated a GBM would be held later on to “formalise the posts” and “set specific roles and boundaries” for these posts. 
 
+![Fc Fiasco](/uploads/news/fc-fiasco.png "Fc Fiasco"){.align-center}
+
 The selection procedure includes “filtration of applicants based on their SOPs, interview with the outgoing President, respective Secretaries of the fest, General Secretary and outgoing FOB, with each having one vote, in the presence of EC, CRC, incoming SUC and FOB” followed by which “the candidate who gets more votes will be appointed as Fest Coordinator”.
 
 Interestingly enough, the proposal to appoint Fest Coordinators for ATMOS, Arena and Pearl from the academic year 2018-2019 was brought up at the GBM held on 15th November, 2017,where it was explained that while the SUC is elected for the welfare of the campus, they have conventionally been focussing more on fests. Hence, the post of a Fest Coordinator would be necessary, “as the representative of the President during a fest. The Fest Coordinator would be the head of the concerned departments (the CoStAA/StuCCA/CoSSAC body) of the fest” and “the Secretary will head the Senate”. Out of the 335 General Body members present, 191 members voted in favour, initiating further discussion on said idea in the future. However, considering how this was less than two-thirds of the General Body members, the proposal could not be implemented.
