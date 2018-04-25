@@ -1,14 +1,17 @@
 <!-- TITLE: News -->
 <!-- SUBTITLE: Campus news and articles, published by the Journal Club and affiliates -->
 
-Read about Elections 2018 coverage from JC including constitution review, manifesto reviews, interviews and more.
+# Spotlight
+*For a complete list of spotlights, click [here](/news/spotlight)*
 
----
+| Date | Title |
+| --- | --- |
+| 25th April, 2018 | **[Fest Coordinators](/news/spotlight/fest-coordinators)** |
+| 17th April, 2018 | **[Bon Voyage 2018 Deductions](/news/spotlight/bon-voyage-2018)** | 
+| 13th March, 2018 | **[Mud in the Moon](/news/spotlight/moonlight-dinner-2018)** |
 
-# Latest
-The latest section contains news published in the last one month. After a month, they're organised into the archives.
-
-## Elections 2018
+# Elections 2018
+Coverage of the Students Union Council Elections 2018. 
 
 ### The Basics
 1. [SU Constitution Review](/news/witw/vol-1/4/constitution-review)
@@ -26,13 +29,3 @@ The latest section contains news published in the last one month. After a month,
 ### Campaigning
 10. [The North-South Divide](/news/witw/vol-1/4/north-south)
 11. [Campaigning at its Worst](/news/witw/vol-1/4/campaign-worst)
-
-# Archives
-Following sections are organized by date and publication type.
-
-## Spotlight
-
-
-| Date | Title |
-| --- | --- |
-| 18th February, 2018 | **[Arena: Where Sledgends Are Born](/spotlight/arena-where-sledgends-are-born)** |
