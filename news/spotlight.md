@@ -7,7 +7,7 @@
 | --- | --- | --- |
 | 17th April, 2018 | **[Bon Voyage 2018 Deductions](/news/spotlight/bon-voyage-2018)** | 
 | 18th February, 2018 | **[Arena: Where Sledgends Are Born](/news/spotlight/arena-where-sledgends-are-born)** |
-| 31st August, 2017 | **[The Tale of the Dump](news/spotlight/tale-of-dump)** |
+| 31st August, 2017 | **[The Tale of the Dump](/news/spotlight/tale-of-dump)** |
 
 </center>
 
