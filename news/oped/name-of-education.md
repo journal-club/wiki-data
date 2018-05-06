@@ -4,24 +4,20 @@
 Come this semester, we saw yet another exodus of faculty from our campus to universities elsewhere. This has become so frequent a phenomenon that we have started to get surprised why the remaining good professors haven't done so yet. We have begun coming to terms with the fact that we might not be a great college after all. This internalization of mediocrity is more concerning than the actual exodus. The recent NIRF ranking, where BITS-Pilani has been ranked below IITH and even VIT at 26 (overall), should be our wakeup call for students, faculty, and the administration, lest all be lost.
 
 Regardless of questions of NIRF’s accuracy and objectivity, there are a lot of concerns that the institute faces.
-
-## A Biography of Lecture Slides
-
+# A Biography of Lecture Slides
 Being knowledgeable might make one a good conversationalist. Having passion for a subject might make one a good researcher. Being a good orator might make one a good opinion influencer. But none of these makes one a good teacher. Teaching is an art in itself and it requires you to be a good storyteller and a dramatist. This one very important trait is missing in most of the faculty on our campus. It is a tragedy that we take pride in being students of a premier college and we learn more things of substance from online resources than we do in our classrooms.
 
-It’s not that the students are faultless. There is a degree of blame that falls on the them also, in their exploitative use of zero attendance and what not. But that is not to say that the faculty is faultless and amazing for students to be motivated to attend class.
+It’s not that the students are faultless. There is a degree of blame that falls on the them also, in their exploitative use of zero attendance and what not. But that is not to say that the faculty is amazing, for students to be motivated to attend class.
 
 Let’s takes the slides, for instance. Most of them are a photocopy of the textbook and are so chaotic that even the faculty try to figure out the stuff in them while teaching. And the ones that are made for the class, forget being comprehensive, are not even intelligible. There’s nothing fundamentally wrong in teaching without slides. In fact, I would rather prefer it. In which case, making incomprehensible and platitude-filled slides is a wasteful exercise. Why bother wasting time on something that serves no purpose?
 
 Then comes the teaching itself. Expecting the faculty to have an in-depth knowledge aside, the least that is now expected is an enthusiasm to teach, to entertain questions and understand them, and to confess ignorance if one is unable to address them. None of these happen most of the time. Teaching has been reduced to defining terms and solving trivial examples from the textbook. We have moved from rote-learning of the definition to rote-learning of the example. Accomplishment identified!
 
-
 It feels like I am listening to an audiobook. It feels like I am learning for the grade or a job interview. Where is the catering to the curiosity of the student? Where is the push to be creative? Where is the attempt to treat the students as not just seekers but as fellow deliberators on the subject? 
 
 One doesn’t have to invest in physical props to arouse enthusiasm. Rather, investing in preparing for the class and relating the course content with real-life phenomena or scenarios would do it. After all, what we learn here goes beyond writing exams to applying in real world. All that is required is an intent to make students comprehend. What is seen in BITS, however, is the lazy approach of continuing the same old thing, with the justification that there are textbooks and online resources anyway. And then comes the practice of studying-this-much-is-enough-for-the-exam signals. This has vexed people to the extent that profound questions don’t get asked. And, even when asked, are either brushed aside or addressed with wrong answer.
 
-## The Examination System
-
+# The Examination System
 Come exams, ctrl-c questions from from Mac Technological Institute, New University, Watermellon University and ctrl+v to QP. So much for deducting marks on grounds of plagiarism. Firstly, it is unfair to students who don’t know that questions come from such-and-such professor abroad. Worse, in an attempt to not give the ditto questions, some numbers are tweaked, sometimes making the question itself wrong and contradictory. Then, during the exam, comes a wrong correction of that mistake, then right correction and finally another wrong correction. Apt way of ruining the whole paper for the student. More interesting, however, are the original questions. Framed in such bad English and so ambiguous, you’d have to write everything there is in the textbook, and hope that you answered the question. 
 
 And there is evaluation. Very relevant things like neatness, attendance, and acquaintance with the instructor are seen to be correlating with good score (could be spurious). Same answer to the same question by different people fetches different marks many a times. And the amount of marks you can get increased during revaluation depends on how much you can pester the instructor and how the instructor ‘objectively’ judges (on the day of paper distribution, that is) whether you know stuff or not. I no longer know why we have exams.
@@ -34,7 +30,7 @@ The above is just a diagnosis. I don’t have means to go into what causes these
 
 Of course, not all of this doesn’t apply to all the faculty. There are as many good teachers as there aren’t, though nowhere near enough in numbers. But even those that we have many a times face the constraint of dearth of student enthusiasm. Which is what can be thought of as...
 
-## A Stable Equilibrium at Lite
+# A Stable Equilibrium at Lite
 <center>
 <i>
 God said, “Let there be Light.” And there were BITSians. “No, no. Light. ARGHHH!”
