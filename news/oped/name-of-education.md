@@ -34,8 +34,9 @@ Of course, not all of this doesn’t apply to all the faculty. There are as many
 <center>
 <i>
 God said, “Let there be Light.” And there were BITSians. “No, no. Light. ARGHHH!”
-<i/>
+</i>
 </center>
+
 Somewhere along our journey here, we as a campus (or even as a university) might have realized that we may not be able to compete with those tall elephants of IITs, and probably have sought to discover a competitive advantage in being entrepreneurial or being the managers or being, in some sense, the cultural crowd. And it is important to explore that too, to be able to build the brand, which we have been fairly successful in through fests, startups and the rest of it. But at what cost? 
 
 The faculty exodus has been happening primarily because they do not see a future for their own research on the campus. Good faculty don’t look to students as those who are just to be herded from the beginning of the sem to the end by giving lectures to impartus cameras, by marking lousy answer sheets, by entertaining ridiculous arguments during revaluation and by re-designing assignments because students cannot do them. They look for potential collaborators in students, they look forward to students knocking on their chamber doors and asking them for projects to do, for proposing new ideas, and for deliberating on those ideas. And what do they get? Applications for projects that are done to finish the credit requirements without ruining the grades. Projects are a joke for us. It’s only natural that they leave our campus.
