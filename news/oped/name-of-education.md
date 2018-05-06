@@ -4,6 +4,9 @@
 Come this semester, we saw yet another exodus of faculty from our campus to universities elsewhere. This has become so frequent a phenomenon that we have started to get surprised why the remaining good professors haven't done so yet. We have begun coming to terms with the fact that we might not be a great college after all. This internalization of mediocrity is more concerning than the actual exodus. The recent NIRF ranking, where BITS-Pilani has been ranked below IITH and even VIT at 26 (overall), should be our wakeup call for students, faculty, and the administration, lest all be lost.
 
 Regardless of questions of NIRF’s accuracy and objectivity, there are a lot of concerns that the institute faces.
+<center>
+![Education And Grades](/uploads/news/education-and-grades.jpg "Education And Grades")
+</center>
 # A Biography of Lecture Slides
 Being knowledgeable might make one a good conversationalist. Having passion for a subject might make one a good researcher. Being a good orator might make one a good opinion influencer. But none of these makes one a good teacher. Teaching is an art in itself and it requires you to be a good storyteller and a dramatist. This one very important trait is missing in most of the faculty on our campus. It is a tragedy that we take pride in being students of a premier college and we learn more things of substance from online resources than we do in our classrooms.
 
