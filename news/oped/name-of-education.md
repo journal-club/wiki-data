@@ -51,4 +51,4 @@ PS: Of course, I do not take a personal moral high-ground in any regard. I see m
 
 PPS: The intent is not to take dig at anyone or any collective (faculty or students) but to initiate a debate. In this attempt, I might have taken liberties on facts that I am not aware of. Apologies if misrepresentations did seep in.
 
-*Op-Ed article by Sharad Hotha.*
+*Op-Ed article by Sharad Hotha. Edited by Rohit Dwivedula*
