@@ -1,5 +1,5 @@
 <!-- TITLE: In the Name of Education -->
-<!-- SUBTITLE: Published 6th May, 2018 -->
+<!-- SUBTITLE: An opinion editorial by Sharad Hotha, who talks about the education campus. -->
 
 Come this semester, we saw yet another exodus of faculty from our campus to universities elsewhere. This has become so frequent a phenomenon that we have started to get surprised why the remaining good professors haven't done so yet. We have begun coming to terms with the fact that we might not be a great college after all. This internalization of mediocrity is more concerning than the actual exodus. The recent NIRF ranking, where BITS-Pilani has been ranked below IITH and even VIT at 26 (overall), should be our wakeup call for students, faculty, and the administration, lest all be lost.
 
@@ -50,4 +50,4 @@ PS: Of course, I do not take a personal moral high-ground in any regard. I see m
 
 PPS: The intent is not to take dig at anyone or any collective (faculty or students) but to initiate a debate. In this attempt, I might have taken liberties on facts that I am not aware of. Apologies if misrepresentations did seep in.
 
-*Op-Ed article by Sharad Hotha. Edited by Rohit Dwivedula*
+*Op-Ed article by Sharad Hotha. Edited by Rohit Dwivedula. Published 6th May, 2018.*
