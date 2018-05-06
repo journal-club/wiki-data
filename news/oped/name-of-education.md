@@ -1,12 +1,11 @@
 <!-- TITLE: In the Name of Education -->
-<!-- SUBTITLE:  -->
+<!-- SUBTITLE: Published 6th May, 2018 -->
 
 Come this semester, we saw yet another exodus of faculty from our campus to universities elsewhere. This has become so frequent a phenomenon that we have started to get surprised why the remaining good professors haven't done so yet. We have begun coming to terms with the fact that we might not be a great college after all. This internalization of mediocrity is more concerning than the actual exodus. The recent NIRF ranking, where BITS-Pilani has been ranked below IITH and even VIT at 26 (overall), should be our wakeup call for students, faculty, and the administration, lest all be lost.
 
 Regardless of questions of NIRF’s accuracy and objectivity, there are a lot of concerns that the institute faces.
 
-## A Biography of Lectures and Lecture Slides
-
+# A Biography of Lectures and Lecture Slides
 Being knowledgeable might make one a good conversationalist. Having passion for a subject might make one a good researcher. Being a good orator might make one a good opinion influencer. But none of these makes one a good teacher. Teaching is an art in itself and it requires you to be a good storyteller and a dramatist. This one very important trait is missing in most of the faculty on our campus. It is a tragedy that we take pride in being students of a premier college and we learn more things of substance from online resources than we do in our classrooms.
 
 It’s not that the students are faultless. There is a degree of blame that falls on the them also, in their exploitative use of zero attendance and what not. But that is not to say that the faculty is faultless and amazing for students to be motivated to attend class.
@@ -19,16 +18,14 @@ It feels like I am listening to an audiobook. It feels like I am learning for th
 
 One doesn’t have to invest in physical props to arouse enthusiasm. Rather, investing in preparing for the class and relating the course content with real-life phenomena or scenarios would do it. After all, what we learn here goes beyond writing exams to applying in real world. All that is required is an intent to make students comprehend. What is seen in BITS, however, is the lazy approach of continuing the same old thing, with the justification that there are textbooks and online resources anyway. And then comes the practice of giving hints right before the exam, “studying this-much-is-enough-for-the-exam signal. This has vexed people to the extent that profound questions don’t get asked. And, even when asked, are either brushed aside or addressed with wrong answer.
 
-## The Examination System
-
+# The Examination System
 Come exams, ctrl-c questions from from Mac Institute of Technology, New University, Watermellon University and ctrl+v to QP. So much for deducting marks on grounds of plagiarism. Firstly, it is unfair to students who don’t know that questions come from such-and-such professor abroad. Worse, in an attempt to not give the ditto questions, some numbers are tweaked, sometimes making the question itself wrong and contradictory. Then, during the exam, comes a wrong correction of that mistake, then right correction and finally another wrong correction. Apt way of ruining the whole paper for the student. More interesting, however, are the original questions. Framed in such bad English and so ambiguous, you’d have to write everything there is in the textbook, and hope that you answered the question. 
 
 And there is evaluation. Very relevant things like neatness, attendance, and acquaintance with the instructor are seen to be correlating with good score (could be spurious). Same answer to the same question by different people fetches different marks many a times. And the amount of marks you can get increased during revaluation depends on how much you can pester the instructor and how the instructor ‘objectively’ judges (on the day of paper distribution, that is) whether you know stuff or not. I no longer know why we have exams.
 
 Then there is TAship. They are there to help in making slides, help students in tutorials, clearing doubts, assignments and what not. Aaand, Voila! They are utilized… for mark entry. TAs are supposed to get a good grade in that subject so that they can enter marks and evaluate MCQ exams? Students think TAship is a free 12k, and in some courses this is true.
 
-## The Curriculum
-
+# The Curriculum
 A three credit course for learning how to apply matrices in Physics? A three credit course to learn that NMR exists and forgetting it later? Two credit courses to wear coats and waste 2 hours a week in lab? A five credit course to waste a summer in the name of exposure to industry for the sake of those who got good stations? Seriously? If it’s about giving a free 10, how about just giving a free 10 without wasting faculty and student time? 
 
 The above is just a diagnosis. I don’t have means to go into what causes these phenomena. But it is a sad state of affairs. Research and teaching are related but different professions. Teaching requires the action, the timbre, the care, the caution and the immersion of an actor playing in a theatre and a mother telling her child a story. Students need inspiration and active mentorship. That is how a better breed of professionals, entrepreneurs, and researchers are nurtured. 
@@ -36,8 +33,9 @@ The above is just a diagnosis. I don’t have means to go into what causes these
 Of course, not all of this doesn’t apply to all the faculty. There are as many good teachers as there aren’t, though nowhere near enough in numbers. But even those that we have many a times face the constraint of dearth of student enthusiasm. Which is what can be thought of as...
 
 ## A Stable Equilibrium at Lite
-
+<center>
 God said, “Let there be Light.” And there were BITSians. “No, no. Light. ARGHHH!”
+</center>
 
 Somewhere along our journey here, we as a campus (or even as a university) might have realized that we may not be able to compete with those tall elephants of IITs, and probably have sought to discover a competitive advantage in being entrepreneurial or being the managers or being, in some sense, the cultural crowd. And it is important to explore that too, to be able to build the brand, which we have been fairly successful in through fests, startups and the rest of it. But at what cost? 
 
@@ -49,3 +47,5 @@ We shouldn’t forget that we are a university. Academics are important. And tha
 PS: Of course, I do not take a personal moral high-ground in any regard. I see myself as guilty as any. And concerned we all should be, as I.
 
 PPS: The intent is not to take dig at anyone or any collective (faculty or students) but to initiate a debate. In this attempt, I might have taken liberties on facts that I am not aware of. Apologies if misrepresentations did seep in.
+
+*Op-Ed article by Sharad Hotha.*
