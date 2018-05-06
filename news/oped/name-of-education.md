@@ -36,6 +36,8 @@ The above is just a diagnosis. I don’t have means to go into what causes these
 Of course, not all of this doesn’t apply to all the faculty. There are as many good teachers as there aren’t, though nowhere near enough in numbers. But even those that we have many a times face the constraint of dearth of student enthusiasm. Which is what can be thought of as...
 
 # A Stable Equilibrium at Lite
+
+
 <center>
 <i>
 God said, “Let there be Light.” And there were BITSians. “No, no. Light. ARGHHH!”
