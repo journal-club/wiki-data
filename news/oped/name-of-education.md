@@ -43,7 +43,9 @@ The faculty exodus has been happening primarily because they do not see a future
 
 It is disheartening that we have, knowingly or unknowingly, started to celebrate academic mediocrity. Smaller syllabus, easier assignments, simpler projects, and tutorial numericals’ models in exams are worshipped. Whether the instructor gives grades leniently is the most important factor in selecting a course. We abhor reading journal papers for coursework. We complain whenever the coursework is heavy. We do not respond to initiatives by SU and the Administration in proportion to the numbers we are in. So much for being a technical college.
 We shouldn’t forget that we are a university. Academics are important. And that doesn’t mean studying half-baked concepts with no idea as to what they mean and running a riot to get marks increased and feeling elated or depressed according to what grade one gets, but being actually serious about a chosen area of study or research. What percentage of us publish a decent research paper through our stay at college? What percentage of us have actually founded startup ventures? What percentage of us pursue something because we love it and not because we get placed or get a PS? What percentage of us actually gain enough competence in the domain we love to be employable? These aren’t rhetorical questions but those that require a closer look and actual quantification. Our stated objective should be our identity, not that of the herd we follow.
-----
+
+-----
+
 PS: Of course, I do not take a personal moral high-ground in any regard. I see myself as guilty as any. And concerned we all should be, as I.
 
 PPS: The intent is not to take dig at anyone or any collective (faculty or students) but to initiate a debate. In this attempt, I might have taken liberties on facts that I am not aware of. Apologies if misrepresentations did seep in.
