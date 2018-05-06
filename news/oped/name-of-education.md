@@ -35,7 +35,8 @@ Of course, not all of this doesn’t apply to all the faculty. There are as many
 # A Stable Equilibrium at Lite
 
 <center>
-*God said, “Let there be Light.” And there were BITSians. “No, no. Light. ARGHHH!”*
+
+<i>God said, “Let there be Light.” And there were BITSians. “No, no. Light. ARGHHH!”</i>
 </center>
 
 Somewhere along our journey here, we as a campus (or even as a university) might have realized that we may not be able to compete with those tall elephants of IITs, and probably have sought to discover a competitive advantage in being entrepreneurial or being the managers or being, in some sense, the cultural crowd. And it is important to explore that too, to be able to build the brand, which we have been fairly successful in through fests, startups and the rest of it. But at what cost? 
