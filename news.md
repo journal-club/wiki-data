@@ -4,21 +4,24 @@
 # Spotlight
 *For a complete list of spotlights, click [here](/news/spotlight)*
 
-| Date | Title |
-| --- | --- |
+| Date<sup>1</sup> | Title |
+| --- | --- | --- |
 | 25th April, 2018 | **[Fest Coordinators](/news/spotlight/fest-coordinators)** |
 | 17th April, 2018 | **[Bon Voyage 2018 Deductions](/news/spotlight/bon-voyage-2018)** | 
 | 13th March, 2018 | **[Mud in the Moon](/news/spotlight/moonlight-dinner-2018)** |
-
+| 24th September, 2017 | **[DisCo: Everything You Need to Know](/news/spotlight/discos)** |
+| 31st August, 2017 | **[The Tale of the Dump](/news/spotlight/tale-of-dump)** |
+<i><sup>1</sup> Date of original publication. Some spotlights that were initially published on BITS Chronicles have been republished on this website.</i>  
 
 # OpEds
 *For a complete list of Opinion Editorials, [click here](/news/oped).
 
 | Date | Title | Author |
 | --- | --- | --- |
+| 9th May, 2018 | **[BITS Fee Hike Protest: Day 4](/news/oped/day-4-fee-hike-protest)** | Nikita Mandapati |
+| 6th May, 2018 | **[In the Name of Education](/news/oped/name-of-education)** | Sharad Hotha |
 | 23rd April, 2018 | **[Certainly Not You Too!](/news/oped/not-you-too)** | Niharika Shankar |
 | 18th February, 2018 | **[Arena: Where Sledgends Are Born](/news/oped/arena-where-sledgends-are-born)** | Vinith Bhandari |
-
 # Elections 2018
 Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/vol-1/4) to read the complete release.
 
