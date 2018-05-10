@@ -2,17 +2,17 @@
 <!-- SUBTITLE: Welcome to BITS Hyderabad's Wiki!  -->
 
 # Welcome
-Welcome to BITS Wiki, an initiative by the community of BPHC for developing a crowd-sourced of archive about BITS Hyderabad as we move ahead in space and time. 
+Welcome to BITS Wiki, an initiative by the community of BPHC for developing a crowd-sourced of archive about BITS Hyderabad as we move ahead in space and time. The vision for BITS Wiki is to someday have information about everything you'd want to know about the campus, providing information you need at your fingertips. 
 
 <center>
 <img src = "https://wiki.bits-hyd.org/uploads/bits-pilani-hyderabad-campus-hyderabad.jpg" alt = "Bits Pilani Hyderabad Campus Hyderabad" width = 600 px caption="A view of the campus">
 </center>
 
-You'll find plenty of information including magazine archives, club posts, fest histories etc on this wiki.
+The wiki also serves as the archive of all publications of the Journal Club on campus. You can find all the archives in the news section of this wiki.
 
-
-[![News Icon 2](/uploads/icons/news-icon-2.png)](/news "Campus News")
-
+<center>
+<a href = "https://wiki.bits-hyd.org/news" caption = "News Archives"> <img src="https://wiki.bits-hyd.org/uploads/icons/news-icon-2.png"></a>
+</center>
 # Index
 
 Top level index:
