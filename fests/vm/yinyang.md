@@ -4,6 +4,8 @@
 # Overview
 Yin Yang is a writing event in [Verba Maximus](/fests/vm) in which participants in teams of two write complementary pieces of writing, that together make up a whole. You have to write the yin or the yang of a prompt you are given and then swap with your partner. After swapping, you need to write a complementary (not necessarily opposite) version for whatever your partner has written).
 
+![26910415 1607657146014312 987055241609931145 O](/uploads/26910415-1607657146014312-987055241609931145-o.jpg "26910415 1607657146014312 987055241609931145 O")
+
 # Rules
 - It's a team event.
 - You have to write the yin or yang version of a prompt that suits your liking and swap with your partner
