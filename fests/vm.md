@@ -25,4 +25,4 @@ The Organising Committee for Verba Maximus inducts members towards the ending of
 * [LIT Quiz](/fests/vm/LITQuiz)
 * [Spell Bee](/fests/vm/Spell_Bee)
 
-# 
+
