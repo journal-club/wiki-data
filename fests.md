@@ -3,8 +3,8 @@
 
 # Student Organised Festivals
 
-1. [Atmos](/fests/atmos) - technical fest
-2. [Arena](/fests/arena) - sports fest
-3. [Pearl](/fests/pearl) - cultural fest
-4. [Verba Maximus](/fests/vm) - literary fest
+1. [Atmos](/fests/atmos) - Technical fest
+2. [Arena](/fests/arena) - Sports fest
+3. [Pearl](/fests/pearl) - Cultural fest
+4. [Verba Maximus](/fests/vm) - Literary fest
 5. [BITSMUN](/fests/BITSMUN) - Model United Nations Conference
