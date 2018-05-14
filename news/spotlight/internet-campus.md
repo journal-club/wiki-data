@@ -36,7 +36,7 @@ Some changes are still in requirement for optimal internet usage. These include 
 
 Note: Mbps in the current article means “Megabits per second”. Same goes for Gbps.
 
-# Acknowledgements:
+# Acknowledgements
 - Saivivek Peddi (IPC Student Nucleus Member)
 - Sreekar Chigurupati
 - Aditya Krishna (SU nominated Student Representative in 2015)
