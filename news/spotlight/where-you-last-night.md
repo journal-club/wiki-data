@@ -1,11 +1,12 @@
 <!-- TITLE: Where Were You Last Night? -->
-<!-- SUBTITLE: A quick summary of Where You Last Night -->
+<!-- SUBTITLE: Each morning the chowkidars at the gates of the girls hostels are handed a list of "biometric defaulters". Girls who had not verified their entry into the hostel the previous night are made to sign an undertaking and inquired about what they were doing last night and where they were. While the biometric attendance system is a great measure for ensuring the safety of the students, is it also being used unfairly against the girls? -->
 
 Two hours after midnight every day, BITS campus reverberates with the sound of the hostel chowkidars’ whistle, signaling to all the nocturnal wanderers that it’s time to tuck in for the night. Girls and boys head back to their respective hostels before the Bhawan gates close, lest they’re left to fend for themselves in the cold, dark night outside. 
 
 Before going to their rooms however, the girls give proof of their return to the hostel through a biometric scanner. The system of biometric attendance is a wonderful safety measure, a way to monitor and ensure that the student is present and healthy. 
 
 Every time a student doesn’t give biometric, it is registered in the hostel supervisor’s records. The next day when the chowkidar sees the student on her way in or out of the hostel, she is made to sign an undertaking citing her reasons for not giving biometric attendance. But, if the student is not seen by the chowkidar outside her room, the assistant supervisor goes to the student’s room to check if she’s in her room and is ok, following which she is made to sign the undertaking. Considering most of us at BITS are allotted single rooms, this protocol of checking up on the students makes certain that the student is not in any peril due to ill health or any other reason for that matter.
+
 
 Then why is such an important safekeeping measure only restricted to the girls? Does the administration not care enough about the safety of its male students? Why isn’t a similar system of checks implemented for the boys? 
 
