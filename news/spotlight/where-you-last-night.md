@@ -30,3 +30,5 @@ But why then are these rules imposed only on a section of the population and not
 If the sole motive of biometric attendance was safety then there are better methods to implement it. Calls can and should be made to parents if the whereabouts of the students are not known to the administration and if they believe the student’s well being is somehow threatened. But the way it is done now seems unfair, prejudiced and is an extremely convenient way to shame girls for what their male counterparts do not have to think twice about.
 
 While every system has pros and cons, this one certainly can be used in a more proper way.
+
+*Article by Aishwarya Rebelly. Originally published on SWD BITS Chronicles.* 
