@@ -9,6 +9,7 @@
 | 6th May, 2018 | **[In the Name of Education](/news/oped/name-of-education)** | Sharad Hotha |
 | 23rd April, 2018 | **[Certainly Not You Too!](/news/oped/not-you-too)** | Niharika Shankar |
 | 18th February, 2018 | **[Arena: Where Sledgends Are Born](/news/oped/arena-where-sledgends-are-born)** | Vinith Bhandari |
+| 11th February, 2018 | **[Hope](/news/oped/hope)** | Mrunalini Ramnath |
 
 </center>
 
