@@ -11,6 +11,7 @@
 | 28th February, 2018 | **[Where Were You Last Night?](/news/spotlight/where-you-last-night)**| 
 | 24th September, 2017 | **[DisCo: Everything You Need to Know](/news/spotlight/discos)** |
 | 31st August, 2017 | **[The Tale of the Dump](/news/spotlight/tale-of-dump)** |
+| 18th February, 2017 | **[Internet on Campus](/news/spotlight/internet-campus) |**
 
 </center>
 
