@@ -4,9 +4,9 @@
 # Rules
 Each team shall comprise of a maximum of 4 members and a minimum of 3 members. The competition would be a three-day event as follows:
 
-* Day 1: Casting the beams, columns and slabs.
-* Day 2: Removing the mould and Curing.
-* Day 3: Assembling the structure and Load bearing test.
+* **Day 1**: Casting the beams, columns and slabs.
+* **Day 2**: Removing the mould and Curing.
+* **Day 3**: Assembling the structure and Load bearing test.
 
 # Specifications
 1. The teams will have to cast: a) 6 columns of length 15cm each. The diameter of the column is 1’’. b) 7 beams of length 15cm each. The width of each beam is 1’’. c) 1 slab of cross section area 30cm x15cm. The thickness of the slab should be 1’’.
