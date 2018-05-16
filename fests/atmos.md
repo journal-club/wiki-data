@@ -48,7 +48,7 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 - **Sudhar**
 	Do you think you can use your entrepreneurial skills to fix flawed systems of the society? Then ‘Sudhar’ is the event for you to attend.For more details, [See this page](/fests/atmos/Sudhar)
 - **Prodigal Designer**
-	Do you have a passion for designing? Are you waiting for an opportunity to flex your CAD skills? This ATMOS, we bring you Prodigal Designer: an exclusive CAD based designing event. Get ready to let your imagination soar and hone your skills! For more details, [See this page](/fests/atmos/ProdigalDesigner)
+	Do you have a passion for designing? Are you waiting for an opportunity to flex your CAD skills?For more details, [See this page](/fests/atmos/ProdigalDesigner)
 - **Manager's dilemma**
 	Manager’s Dilemma is a Case Study event conducted by the E-CELL. This event allows participants to apply managerial concepts to solve real-life problems in the operations field. For more details, [See this page](/fests/atmos/Manager'sDilemma)
 -  **Nostrum Vitae**
@@ -56,7 +56,7 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 -  **Hawking Wizard**
   This is your chance to manage a business. Teamwork, Resource Allocation and Time Management are essential for the task at hand. Every decision taken when you are heading a business has to be taken after understanding all the factors at play. For more details, [See this page](/fests/atmos/HawkingWizard)
 -  **Googled**
-  The event is fairly simple, you are given a set of questions and you are supposed to answer them correctly. Seems mundane doesn't it? But there is a catch. You are allowed access to the internet. That means you can use Google.Yes. You read that right. You can use Google. If you think you are the one who can make Google dance to your tune then go ahead to [this page](/fests/atmos/Googled) to know more about the event.
+  The event is fairly simple, you are given a set of questions and you are supposed to answer them correctly. Seems mundane doesn't it? But there is a catch. If you think you are the one who can make Google dance to your tune then go ahead to [this page](/fests/atmos/Googled) to know more about the event.
 -  **Enigma**
    It can’t get any bigger than this! This is the “Mother of all Quizzes”. Sweat it out against some of the greatest quizzers in the country in this national level quiz. It’s a quiz, answer the questions to the best of your ability, because anything less: won’t be enough. For more details, [See this page](/fests/atmos/Enigma)
 - **Line Follower**
