@@ -21,7 +21,7 @@ A broad range of workshops ranging from a few hours to multiple days, in diverse
 
 ## Competitions 
 - **Tech Expo**
-	The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. In its first edition itself, it witnessed wide participation from teams across the country, both independent and from various colleges like IIT Bombay, IIT Kanpur etc.
+	The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. 
 	For more details , [See this page](/fests/atmos/Tech_Expo)
 - **i-Navigate**
 Teams are supposed to design and build an accelerometer based hand gesture controlled (manually controlled) robot and maneuver it through the arena with agility.
@@ -35,7 +35,7 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 - **Anatomy of Murder**
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/AOM)
 - **Code Jam**
-Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present. Teams of two can participate and code in any language from the given options. Contestants are judged on mathematical ability and how well they implement algorithms. The competition consists of a set of challenging algorithmic problems which must be solved in a fixed amount of time. There are 2 rounds and the top 25 teams enter the finals, where the winners are given prize money. For more details ,[See this page](/fests/atmos/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
+Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present.  For more details ,[See this page](/fests/atmos/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
 
 [10]: [/fests/atmos/ReverseCoding]
 [11]: [/fests/atmos/Algomaniac]
@@ -44,7 +44,7 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 	Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details,[See this page](/fests/atmos/TheCourtroom)
 	
 - **Suit Up**
-	This national event not only involves your decision-making skills, but also incorporates negotiation, trickery and presence of mind to develop a company worth reckoning. There are multiple aspects at play here, including the temperament of the other participants, valuation of assets and marketing above market standards. All of this is in the quest to birth an industry that redefines business models to get ahead of the competition. Teams of up to four battle it out in a showcase of talent, skill and above all, nerves to emerge as the ones who can truly lead effectively and bring to the forefront their capabilities that are mercilessly tested in the real-world corporate environment. In Suit-Up we also include a real-world mimicking market which is represented by the algorithm used to calculate the company’s holdings at the end of every step that gets them closer to the end, which adds an extra dimension of realism in the game. For more details, [See this page](/fests/atmos/SuitUp)
+	This national event not only involves your decision-making skills, but also incorporates negotiation, trickery and presence of mind to develop a company worth reckoning.  For more details, [See this page](/fests/atmos/SuitUp)
 - **Sudhar**
 	Do you think you can use your entrepreneurial skills to fix flawed systems of the society? Then ‘Sudhar’ is the event for you to attend. It is the perfect opportunity to test your capabilities of leveraging technology to design a business model that solves present-day issues. There are many issues that are presently receiving high attention in the current social enterprise sector, so bewarethere is no dearth of competition to your ideas. Is yours good enough to make the cut? So…wannabe Muhammad Yunuses and Bunker Roys, pull up your socks- Sudhaar is coming soon (pun totally intended). For more details, [See this page](/fests/atmos/Sudhar)
 - **Prodigal Designer**
