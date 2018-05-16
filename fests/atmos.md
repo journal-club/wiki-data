@@ -36,6 +36,7 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/AOM)
 - **Code Jam**
 Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present.  For more details ,[See this page](/fests/atmos/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
+
 [10]: [/fests/atmos/ReverseCoding]
 [11]: [/fests/atmos/Algomaniac]
 
@@ -45,7 +46,7 @@ Code Jam is Atmos' headliner coding contest. Conducted in association with Hacke
 - **Suit Up**
 	This national event not only involves your decision-making skills, but also incorporates negotiation, trickery and presence of mind to develop a company worth reckoning.  For more details, [See this page](/fests/atmos/SuitUp)
 - **Sudhar**
-	Do you think you can use your entrepreneurial skills to fix flawed systems of the society? Then ‘Sudhar’ is the event for you to attend. It is the perfect opportunity to test your capabilities of leveraging technology to design a business model that solves present-day issues. There are many issues that are presently receiving high attention in the current social enterprise sector, so bewarethere is no dearth of competition to your ideas. Is yours good enough to make the cut? So…wannabe Muhammad Yunuses and Bunker Roys, pull up your socks- Sudhaar is coming soon (pun totally intended). For more details, [See this page](/fests/atmos/Sudhar)
+	Do you think you can use your entrepreneurial skills to fix flawed systems of the society? Then ‘Sudhar’ is the event for you to attend.For more details, [See this page](/fests/atmos/Sudhar)
 - **Prodigal Designer**
 	Do you have a passion for designing? Are you waiting for an opportunity to flex your CAD skills? This ATMOS, we bring you Prodigal Designer: an exclusive CAD based designing event. Get ready to let your imagination soar and hone your skills! For more details, [See this page](/fests/atmos/ProdigalDesigner)
 - **Manager's dilemma**
