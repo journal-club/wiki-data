@@ -1,5 +1,4 @@
 <!-- TITLE: Suit Up -->
-<!-- SUBTITLE: A quick summary of Suitup -->
 
 # Format
 This competition is open to all.
