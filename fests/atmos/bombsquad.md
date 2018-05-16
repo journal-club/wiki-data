@@ -91,3 +91,40 @@ All the bombs will initially be kept in the Bomb Quarantine part of the Arena an
 
 The progression of the top four teams in the Knockout round is as follows:
 
+### Scoring System
+
+Placing Bombs
+* Points awarded = Number of Bombs left after the round is over x 50 points
+Defusing Bombs
+* Quarantining: 50 points
+### Penalty
+Placing Bombs
+* No penalties
+Defusing Bombs
+* Bomb Explosion: -30 points and the bomb cannot be defused again
+# Rules and Guidelines
+The organizers reserve the right to change any of the above said rules, at any time. Changes will be notified on the website and Facebook page. It is the participant’s responsibility to stay updated.
+
+## Setup Time
+* The participants will get 10 minutes of setup time for calibration and testing prior to the competition, according to a schedule that will be made available at the start of the event.
+* Ensure that all of the vehicle's sensors, especially the WiFi module and wireless control are working properly.
+* The bot must be placed in the starting point on the Arena, at the beginning of each round.
+## Competition
+* Before the start of a round, one participant from each team should be selected for controlling the robot. Only one person is allowed to control the robot until the round is completed.
+* Participants will not be permitted to enter the Arena or touch any of the bombs inside or outside the Arena, during a match.
+*  A robot can only move one bomb at a time.
+* The robots can come in contact with the walls but should not damage it.
+* Participants should not dismantle their robots before the competition results are announced as the robots might need to be checked by the organizers at a later stage to ensure that the participants have not violated any of the rules.
+* In case of any dispute, the verdict of the judges is final.
+## Disqualification
+A team may be disqualified due to, but not limited to the following:
+
+* The robot fails to meet any of the criteria in the Bot Specifications section.
+* The robot damages a bomb when moving it.
+* The participating team is not ready in time for the start of their turn.
+* The robot damages the Competition Arena.
+
+# Paritcipation
+* Participants can register in teams of 1-4 people.
+* Students from different educational institutes can form a team.
+* All participants must have a valid ID card from their educational institute.
