@@ -1,5 +1,5 @@
 <!-- TITLE: Googled -->
-<!-- SUBTITLE: COMPETITION -->
+<!-- SUBTITLE: Only Google can be your Saviour. -->
 
 # General Rules:
 1. There will be on-spot registrations in teams of two.
