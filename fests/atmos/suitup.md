@@ -7,4 +7,4 @@ This competition is open to all.
 2.There is no eligibility criterion.
 3.Teams of up to 4 can participate.
 
-Winner: Teams with the maximum assets as judged by the panel will win the event.
+**Winner:** Teams with the maximum assets as judged by the panel will win the event.
