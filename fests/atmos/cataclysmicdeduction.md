@@ -1,5 +1,5 @@
 <!-- TITLE: Cataclysmic Deduction -->
-<!-- SUBTITLE: COMPETITION -->
+<!-- SUBTITLE: Be a detective in an inductrial scenario. -->
 
 # Event Overview
 1.The event will consist of 2 audio-visual rounds.
