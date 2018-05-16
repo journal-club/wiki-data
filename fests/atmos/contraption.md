@@ -34,10 +34,10 @@ Different types of energy conversions to complete the task will be awarded diffe
 ### Judging Criteria:
 1. Number of energy conversions
 2. Number of steps in contraption
-3.Types of energy conversions
-4.Complexity of the overall contraption
-5.Innovation and aesthetics
-6.In case of a tie, time taken to complete the tasks
+3. Types of energy conversions
+4. Complexity of the overall contraption
+5. Innovation and aesthetics
+6 .In case of a tie, time taken to complete the tasks
 
 ### Guidelines for Abstract Submission:
 1.The abstract should contain a detailed write up of each and every step in a tabular form.
