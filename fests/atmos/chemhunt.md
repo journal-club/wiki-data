@@ -10,7 +10,7 @@ This is to check your basic knowledge about the reactions involved in chemistry 
 
 # Rules
 1.The Round 2 of Chem Hunt will be divided into 3 parts.
-2.In the first part there will be a question given to you. The answer to that question will be a compound having a specific color. You will be given a map ,which will have a marked place with the same color. You will have to go that place to get your next clue.
+2. In the first part there will be a question given to you. The answer to that question will be a compound having a specific color. You will be given a map ,which will have a marked place with the same color. You will have to go that place to get your next clue.
 3.For the second part ,once you reach at the correct place, you shall find your next question. The answer to the question will be the name of a chemical compound or element. The first and the last alphabet of your answer shall be given to you as a code which will be marked on the map. You are required to go the place that has the code marked on it. There you will find your final clue.
 4.The third part of the Hunt is as follows- You will be given a question. The question will have properties and uses of a chemical compound. You need to guess the chemical compound and get a substance in which the same compound is present.
 5.The questions will be provided at the entrance of the correct locations given on the map.
