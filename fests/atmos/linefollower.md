@@ -1,5 +1,5 @@
 <!-- TITLE: Line Follower -->
-<!-- SUBTITLE: A quick summary of Linefollower -->
+<!-- SUBTITLE: Line Follower is a robotics event in Atmos, the technical fest of our campus. -->
 
 # About the Event :
 *It’s time to test your basic robotics skills! A line follower robot is an automated vehicle capable of following a line without any human intervention.*
@@ -15,7 +15,7 @@ Design an autonomous robot capable of following a guided path on the ground. The
 7. The participants are solely responsible for the safety of their robots and equipment. The organisers are not responsible for any incidents/accidents caused by participants or their equipment.
 8. Potential difference between any two points at any time during competition cannot exceed 24V. We understand that a battery rated at 24V can exceed by few volts when fully charged.
 # General Format :
-The competition itself, is open to all. It generallyy has two rounds.
+The competition itself, is open to all. It generally has two rounds.
 ## Round 1
 The robot should follow a given line path on the ground without wandering off the track in the shortest time. The robot is free to take a pre-programmed path.
 ## Round 2
