@@ -26,3 +26,18 @@ The Organising Committee for Verba Maximus inducts members towards the ending of
 * [Spell Bee](/fests/vm/Spell_Bee)
 
 
+# History
+## 2018
+
+## 2017
+
+## 2016
+
+## 2015
+
+## 2014
+
+## 2013
+
+
+
