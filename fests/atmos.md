@@ -57,7 +57,7 @@ Manager’s Dilemma is a Case Study event conducted by the E-CELL. This event al
 ### Nostrum Vitae
 "Survival of the Fittest". This is something that we have been hearing for a long time now. This is your chance at proving that you are the one to survive. Test your knowledge in Medical sciences and Pharmaceutical sciences  to progress to further rounds. For more details, [See this page](/fests/atmos/events/nostrum-vitae)
 ### Hawking Wizard
-This is your chance to manage a business. Teamwork, Resource Allocation and Time Management are essential for the task at hand. Every decision taken when you are heading a business has to be taken after understanding all the factors at play. For more details, [See this page](/fests/atmos/events/HawkingWizard)
+This is your chance to manage a business. Teamwork, Resource Allocation and Time Management are essential for the task at hand. Every decision taken when you are heading a business has to be taken after understanding all the factors at play. For more details, [See this page](/fests/atmos/events/hawking-wizard)
 ### Googled
   The event is fairly simple, you are given a set of questions and you are supposed to answer them correctly. Seems mundane doesn't it? But there is a catch. If you think you are the one who can make Google dance to your tune then go ahead to [this page](/fests/atmos/events/Googled) to know more about the event.
 ### Enigma
