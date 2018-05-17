@@ -15,7 +15,7 @@ To stir water in a tumbler for at least 5 seconds.
 ## Logistic rules:
 1.A team should have minimum 2 and maximum 4 members.
 2.Each team should prepare and SUBMIT an abstract of the design and schematic (of the setup) with all the steps and energy conversions duly and clearly mentioned along with at least 1 neat diagram.
-3.NO AC/DC power will be provided to any team.
+3.**NO** AC/DC power will be provided to any team.
 4.Use of explosive conversions is NOT allowed during the working of contraption.
 ## Event rules:
 1.An initial time-period of 60 min. will be given to each team to setup their contraptions.
