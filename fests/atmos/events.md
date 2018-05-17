@@ -3,18 +3,18 @@
 
 # Header
 ### Tech Expo
-The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. For more details , [See this page](/fests/atmos/events/Tech_Expo)
+The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. For more details, [visit this page](/fests/atmos/events/Tech_Expo)
 ### i-Navigate
 Teams are supposed to design and build an accelerometer based hand gesture controlled (manually controlled) robot and maneuver it through the arena with agility.
-For more details , [See this page](/fests/atmos/events/i-navigate)
+For more details, [visit this page](/fests/atmos/events/i-navigate)
 ### Robowars
-In this event, fighting robots constructed by teams participate in one-on-one fights, clearing various stages leading up to a final. Staged in a closed arena, Robowars is one of the most popular and thrilling events in the fest, attracting a large audience. For more details , [See this page](/fests/atmos/events/Robowars)
+In this event, fighting robots constructed by teams participate in one-on-one fights, clearing various stages leading up to a final. Staged in a closed arena, Robowars is one of the most popular and thrilling events in the fest, attracting a large audience. For more details, [visit this page](/fests/atmos/events/Robowars)
 ### Quadcopter Challenge
-Quadcopter Challenge is an event for quadcopters constructed by teams of students. In this event, the competitors build multi-colour drones and fly them through obstacles of increasing difficulty, completing challenges with points being awarded for each round. For more details , [See this page](/fests/atmos/events/QC)
+Quadcopter Challenge is an event for quadcopters constructed by teams of students. In this event, the competitors build multi-colour drones and fly them through obstacles of increasing difficulty, completing challenges with points being awarded for each round. For more details, [visit this page](/fests/atmos/events/QC)
 ### Mini GP
-Mini GP is another team event, where teams have to construct and race remote-based internal combustion engined cars through tracks of increasing complexity, including Qualifiers and head-to-head races. Another crowd-puller, the rules for competition are based on real world racing events and attracts great participation as well. For more details , [See this page](/fests/atmos/events/MiniGP)
+Mini GP is another team event, where teams have to construct and race remote-based internal combustion engined cars through tracks of increasing complexity, including Qualifiers and head-to-head races. Another crowd-puller, the rules for competition are based on real world racing events and attracts great participation as well. For more details, [visit this page](/fests/atmos/events/MiniGP)
 ### Anatomy of Murder
-This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/events/AOM)
+This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details, [visit this page](/fests/atmos/events/AOM)
 ### Code Jam
 Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present.  For more details ,[See this page](/fests/atmos/events/Code_jam).Other coding competitions include the [Reverse Coding Challenge](/fests/atmos/events/reverse-coding) , and [Algomaniac](/fests/atmos/events/Algomaniac), which tests your analytical prowess along with pattern recognition skills.
 ### The Courtroom
@@ -48,4 +48,4 @@ To use an autonomous or manually controlled robot to move cubes from pre-marked 
 ### Cataclysmic Deduction
 Get your detective instincts rolling as you set out on the way to solve the mystery behind an industrial mishap. Put yourself into the workers’ shoes, get that feeling of working in an industry and tell us how you would have acted in order to prevent the mishap and save your friends and family in such a grim situation. But be careful: as you've set your feet in that gigantic industry! For more details ,[See this page](/fests/atmos/events/cataclysmic-deduction)
 ### Beam It
-Civil Engineering is a about building- creating. Getting out there and getting your hands dirty. But it’s also about precision and technique. So, combine your knowledge of structural design and the science of mix design in this event. Beam It! Create your own structure out of scratch! You have the leeway to customize the material proportions as you wish, to design a structure that withstands more load than your competitors. So get your teammates and be ready to brainstorm and create! For more details , [See this page](/fests/atmos/events/BeamIt)
+Civil Engineering is a about building- creating. Getting out there and getting your hands dirty. But it’s also about precision and technique. So, combine your knowledge of structural design and the science of mix design in this event. Beam It! Create your own structure out of scratch! You have the leeway to customize the material proportions as you wish, to design a structure that withstands more load than your competitors. So get your teammates and be ready to brainstorm and create! For more details, [visit this page](/fests/atmos/events/BeamIt)
