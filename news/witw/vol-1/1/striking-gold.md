@@ -1,24 +1,11 @@
 <!-- TITLE: On Striking Gold -->
 <!-- SUBTITLE: An interview with Adithya Murali -->
 
-**How did you feel when you first saw the
-Campus?**
-I am a person who likes to explore, academically that is. So, my first thought was
-that I wanted to be the director of this campus someday. It felt like a world of
-possibilities. It was a great feeling.
+**How did you feel when you first saw the Campus?**
+I am a person who likes to explore, academically that is. So, my first thought was that I wanted to be the director of this campus someday. It felt like a world of possibilities. It was a great feeling.
 
-**What kept you motivated across the
-years in accomplishing such a high
-CGPA?**
-I guess motivation is the wrong kind of thing to ascribe something to. Because,
-there was a phase when I was bothered by my performance. In the first year I happened
-to be one of those who performed well. We all come from the best of our
-schools and colleges. And it’s very competitive here. So, first year, I think was a
-little hard work and a lot of luck. But what really kept me going after that was that I
-loved my subjects. I want to do research and I will pursue a PhD. I chose most of
-the subjects I had, I took MSc Maths by choice and then BE. Computer Science
-too. It was never that I got this, I took this. My motivation is very simple: I love what I
-study.
+**What kept you motivated across the years in accomplishing such a high CGPA?**
+I guess motivation is the wrong kind of thing to ascribe something to. Because, there was a phase when I was bothered by my performance. In the first year I happened to be one of those who performed well. We all come from the best of our schools and colleges. And it’s very competitive here. So, first year, I think was a little hard work and a lot of luck. But what really kept me going after that was that I loved my subjects. I want to do research and I will pursue a PhD. I chose most of the subjects I had, I took MSc Maths by choice and then BE. Computer Science too. It was never that I got this, I took this. My motivation is very simple: I love what I study.
 
 **What is one thing that you are proud
 of?**
@@ -57,4 +44,4 @@ change a thing.
 Stay in school. Don’t do drugs? Follow your dreams. I think it’s the most cliched
 thing to say. But, I’d say follow the clichés, there is a reason they work.
 
-*Written by Raman and Edited by Musaiyab*
+*Article by Raman Sarda and edited by Musaiyab Ali Mirza*
