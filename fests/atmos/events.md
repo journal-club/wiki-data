@@ -1,10 +1,5 @@
 <!-- TITLE: List of Atmos Events -->
 <!-- SUBTITLE: This page gives an alphabetically sorted list of events that were conducted in ATMOS. -->
-
-# Header
-<!-- TITLE: List of Atmos Events -->
-<!-- SUBTITLE: This page gives an alphabetically sorted list of events that were conducted in ATMOS. -->
-
 # Header
 ### Tech Expo
 The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. For more details, [visit this page](/fests/atmos/events/Tech_Expo)
