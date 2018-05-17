@@ -30,7 +30,6 @@ We have seen a really encouraging turnout for the recent inductions. We really h
 I am just a representative of Team Vulcan and we would never have made it this far without the collaboration of our teammates. Fresh inductees have been adding renewed vigour and past members have left us with a platform for further progress. The efforts of Pranjal Shukla, Nikhil Mishra, Shaaban Karim, Manjeet Budania, Sanika Khadkikar, Utkarsh Rastogi, Vedanth Narayan, Gautam Tota, Prathmesh Jagtap, Ajith Reddy, Konark Joshi, Aditya Vashisth, Ankur Indauliya have been instrumental in getting us to where we are today. I really hope I’m not missing any names. :)
 
 
-<right>
-Interviewed by Mohammed Burk & Anirudh Sreevastav
-</right>
+
+*Interviewed by Mohammed Burk & Anirudh Sreevastav*
 
