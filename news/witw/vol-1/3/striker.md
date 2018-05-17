@@ -1,4 +1,4 @@
-<!-- TITLE: Striker:Ultimate Frisbee -->
+<!-- TITLE: Striker: Ultimate Frisbee -->
 <!-- SUBTITLE: Excerpts from an interview with Aditya Vidhate, the founder of Ultimate Frisbee BPHC. -->
 
 ## What sparked your interest in Frisbee?
@@ -21,3 +21,5 @@ We started with very few players and even fewer remained after a week. I was lea
 
 ## Is there anything else you’d like to share?
 I am happy that Ultimate has finally started receiving recognition. It gives worth to all our efforts that we put in each day for over a year now, and me personally for almost 3 years. We have a long way to go from here. We have to win over teams from across India. With my amazing team and their enthusiasm and hard work, I have to hustle and guide BPHC Ultimate towards greatness. I have a vision, and I shall achieve it with my team by my side.
+
+*Interviewed by Venkatesh Jaya & Vamsi Nallappareddy*
