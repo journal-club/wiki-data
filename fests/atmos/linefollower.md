@@ -21,6 +21,7 @@ The robot should follow a given line path on the ground without wandering off th
 ## Round 2
 * The robot should reach the end point without colliding with walls (height 25cm) along its path. The path may be continuous or broken. Further instructions about the track will be given during the main competition.
 * This track will consist of both lines, as well as walls, as given in the problem statement above. However the lines and walls will be mutually exclusive, meaning there will not be any lines between the walls (see image for reference).
+
 ![Line Follower Track Round 2](/uploads/line-follower-track-round-2.png "Line Follower Track Round 2"){.align-center}
 # Track Specifications :
 * The thickness of the line path will be uniform and equal to 3 centimetres in both rounds.
