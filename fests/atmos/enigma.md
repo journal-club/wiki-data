@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Enigma -->
 
 # Overview :
-*It can’t get any bigger than this! This is the “Mother of all Quizzes”. Sweat it out against some of the greatest quizzers in the country in this national level quiz. It’s a quiz, answer the questions to the best of your ability, because anything less: won’t be enough*.
+*It can’t get any bigger than this! This is the **“Mother of all Quizzes”**. Sweat it out against some of the greatest quizzers in the country in this national level quiz. It’s a quiz, answer the questions to the best of your ability, because anything less: won’t be enough*.
 Regionals will be held across India with the Hyderabad Regionals and the National Finals being held over the course of ATMOS itself.
 ## Regionals :
 They will follow a standard general quiz format and have two parts: prelims and finals. They will be held across most major cities.
