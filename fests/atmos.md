@@ -43,10 +43,7 @@ Mini GP is another team event, where teams have to construct and race remote-bas
 ### Anatomy of Murder
 This event is based on forensic skills and crime scene analysis. The first round is a written quiz testing knowledge of basic forensic skills. In the second round, three member teams gather evidence including blood samples and fingerprints and trace a killer. For more details , [See this page](/fests/atmos/events/AOM)
 ### Code Jam
-Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present.  For more details ,[See this page](/fests/atmos/events/Code_jam).Other coding competitions include the [Reverse Coding Challenge][10] , and [Algomaniac][11], which tests your analytical prowess along with pattern recognition skills.
-
-[10]: [/fests/atmos/events/ReverseCoding]
-[11]: [/fests/atmos/events/Algomaniac]
+Code Jam is Atmos' headliner coding contest. Conducted in association with HackerEarth, it aims to find the best coder present.  For more details ,[See this page](/fests/atmos/events/Code_jam).Other coding competitions include the [Reverse Coding Challenge](/fests/atmos/events/reverse-coding) , and [Algomaniac][/fests/atmos/events/Algomaniac], which tests your analytical prowess along with pattern recognition skills.
 ### The Courtroom
 Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details,[See this page](/fests/atmos/events/TheCourtroom)
 ### Suit Up
