@@ -8,3 +8,5 @@ The club conducts several events throughout the year, the headliner event being 
 Other than Crimson Curtain, the club also organises events throughout the year. Be it workshops, or their performances during the opening ceremonies of the three fests, they are bound to keep you hooked. For example, even though the drama they enacted during the opening ceremony of ATMOS went on way past midnight, people were so engrossed in their act, that no one paid any heed to the time!
 
 In the last few years, interest in dramatics has grown considerably among the students of our campus .This would require the club to conduct more workshops to sate their interest! This just goes to show that the Dramatics Club has a bright future lying ahead of it. After all, who doesn't like great acting?
+
+*Article by Vishal Prabhu & Rithvik Donnipadu*
