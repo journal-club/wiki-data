@@ -53,7 +53,7 @@ Do you think you can use your entrepreneurial skills to fix flawed systems of th
 ### Prodigal Designer
 Do you have a passion for designing? Are you waiting for an opportunity to flex your CAD skills?For more details, [See this page](/fests/atmos/events/prodigal-designer)
 ### Manager's Dilemma
-Manager’s Dilemma is a Case Study event conducted by the E-CELL. This event allows participants to apply managerial concepts to solve real-life problems in the operations field. For more details, [See this page](/fests/atmos/events/Manager'sDilemma)
+Manager’s Dilemma is a Case Study event conducted by the E-CELL. This event allows participants to apply managerial concepts to solve real-life problems in the operations field. For more details, [See this page](/fests/atmos/events/managers-dilemma)
 ### Nostrum Vitae
 "Survival of the Fittest". This is something that we have been hearing for a long time now. This is your chance at proving that you are the one to survive. Test your knowledge in Medical sciences and Pharmaceutical sciences  to progress to further rounds. For more details, [See this page](/fests/atmos/events/NostrumVitae)
 ### Hawking Wizard
