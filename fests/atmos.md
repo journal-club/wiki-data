@@ -3,12 +3,13 @@
 # Introduction
 Atmos is the three-day annual techno-management festival of BITS Hyderabad, the first edition of which took place in 2012. Atmos usually features a wide range of events, workshops, quizzes, lectures, technical exhibitions and competitions. Usually held in the months of October or November, Atmos also hosts Enigma, a national-level quizzing competition. Most competitions at Atmos have monetary prizes for winning, with the prize amounts decided months in advance by the Fest Organising Body (FOB). Paid certification workshops are also conducted during Atmos. Apart from tech-related events and competitions, the fest also has shows by professional artists (pro-shows) like stand-up performances, bands and DJs. Also, in 2015 and 2013, BITSMUN Hyderabad was organized alongside Atmos. The [next edition](/fests/atmos/2018) of Atmos will probably take place in October 2018. 
 # History
-**Atmos 2017**
+## Atmos 2017
 *Main Article: [Atmos 2017](/fests/atmos/2017)*
 Atmos 2017 was the sixth and most recent edition of the technical fest. Organised between October 27th and 29th, with the theme "Cyberpunk: A Neon Dystopia", the latest edition pf the fest saw significantly higher participation than the earlier editions. Stand-up comedian Rahul Subramanian and Hindi rock band *The Local Train* performed at BITS during the fest. 
 
-**Atmos 2016**
+## Atmos 2016
 *Main Article: [Atmos 2017](/fests/atmos/2016)*
+
 The fifth edition of Atmos took place on 14-16th October, 2016, with Mrs. Tessy Thomas, Project Director of Agni-V, as the chief guest for the inauguration ceremony. Various renowned speakers addressed at the Atmos Conclave this year including Padma Bhushan winner and founder of Narayana Health, Devi Prasad Shetty. This edition of Atmos saw new events such as Project JumpStart, QuarkExpo, and a Case Study Competition by the now-defunct Bulls and Bears Club. Cyient was the title sponsor of the fest. Among other sponsors were Progidy Finance, WATConsult, Oracle and State Bank of India. 
  
 ## Atmos 2015
