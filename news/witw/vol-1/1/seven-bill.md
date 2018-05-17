@@ -15,8 +15,7 @@ be a thing in the age of information. The root of this issue is a tangled mess w
 seems to coincide with social media and the internet increasingly becoming the primary source and sink of opinions, news and all the fluff they come with.
 Incorrect or misinterpreted information is spread all over the internet. One can also not fully deny that social networking has fuelled
 such groups by giving them a place to find like-minded people and therefore, find strength in numbers. It is basic human psychology – the larger the mob is, the
-more righteous their cause begins to feel to those involved. These fanatics are also the product of an issue that we have been fighting for far too long. Yet again, deeprooted
-racism rears its ugly head. This would then mean that the education system has been an abysmal failure. A blatant sign pointing towards this is the show of
+more righteous their cause begins to feel to those involved. These fanatics are also the product of an issue that we have been fighting for far too long. Yet again, deeprooted racism rears its ugly head. This would then mean that the education system has been an abysmal failure. A blatant sign pointing towards this is the show of
 fanaticism within universities itself. Take for example, the previously mentioned Charlottesville protest where white nationalists marched through the University of Virginia
 or even the polluting display of destructive nationalism at JNU and Delhi University. These are only a few of the many little reasons which add up to the actions of a person,
 eventually becoming a collective. The quick fix to this, frankly put, doesn’t exist. Do we need a more effective education system? Yes, but there is no foolproof
