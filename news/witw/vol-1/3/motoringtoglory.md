@@ -20,6 +20,7 @@ One of the best things about Vulcan is that it’s not just about the results. I
 ## How did you get the expertise for designing an ATV for the competition?
 Aditya Narayan was the design head when I joined SAE in my first year. After him, Vashisht took over the designing role, and now we have Pranjal Shukla and Shaaban Karim who are handling the design. It’s a process of passing knowledge from one batch to the next. It’s not just a two-step process of designing the ATV on CAD and then building it. There is a lot of back and forth between the designers and the builders. 
 
+<centre>
 ## What is Team Vulcan’s reputation on campus?
 Most people on campus are in the dark about Team Vulcan. In my first year, even I didn’t know much about the team. However, of late, I’ve heard my juniors say that a lot of people have been very appreciative of the long hours that we’ve been putting in at the workshop.
 
