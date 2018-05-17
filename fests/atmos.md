@@ -29,7 +29,7 @@ The turnout for the festival in 2012 was about 200 colleges from all over India.
 
 # Events 
 *For a complete list of ATMOS events over the years, [click here](/fests/atmos/events).*
-## **Tech Expo
+## Tech Expo
 The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. For more details , [See this page](/fests/atmos/Tech_Expo)
 ## i-Navigate
 Teams are supposed to design and build an accelerometer based hand gesture controlled (manually controlled) robot and maneuver it through the arena with agility.
