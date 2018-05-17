@@ -9,3 +9,5 @@ ARC also participates in competitions like eYantra. In 2016, a four member team 
 Sharath Golluri, Technical Secretary of BPHC and Treasurer of the ARC, says that ARC for him is more than just building robots – “It’s also about developing your interpersonal skills”. Sharath is an excellent example to show that your field of study in BITS is not a barrier to you following your interests. Even though his branch maybe Civil Engineering, he is probably better known for his achievements in Robotics. Inductions to ARC are usually announced late-November or in the first weeks of December. Inductions are a two-round process, the first round being a robotics project. To get inducted, you will have to make a robot that does a basic task - like cleaning floors, following a line on the floor, responding to a clap or noise, or recognize handwriting. The robotics project, which will have to be done over the winter break, will qualify you for Round 2, which is a personal interview.
 
 Ultimately, the ARC is the Mecca of BPHC for someone interested in robotics.
+
+*Article by Rohit Dwivedula and Shreyam Kumar. Edited by Rohitt Vashishta.*
