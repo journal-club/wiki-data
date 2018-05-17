@@ -56,3 +56,5 @@ change a thing.
 **Any message for your juniors?**
 Stay in school. Don’t do drugs? Follow your dreams. I think it’s the most cliched
 thing to say. But, I’d say follow the clichés, there is a reason they work.
+
+*Written by Raman and Edited by Musaiyab*
