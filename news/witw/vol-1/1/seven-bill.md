@@ -22,5 +22,4 @@ eventually becoming a collective. The quick fix to this, frankly put, doesn’t 
 method to create one. Even if we do, we will have to ensure positive influence all through every single person’s life and it will still take two whole generations to solve.
 Hitting hard with law enforcement? To quote Albert Einstein, “If people are good only because they fear punishment, and hope for reward, then we are a sorry lot
 indeed.” It is my belief that law enforcement can only go so far, for it was not meant to chain down the masses but to set individuals on a righteous path. The
-change therefore will take time, and to that end, we need to do our bit and stay on the right path and propagate what we know to be peaceful methods. Time and again humanity
-has faced radical elements of many kinds and has overcome them. This time need not be any different
+change therefore will take time, and to that end, we need to do our bit and stay on the right path and propagate what we know to be peaceful methods. Time and again humanity has faced radical elements of many kinds and has overcome them. This time need not be any different
