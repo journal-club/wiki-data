@@ -1,4 +1,4 @@
-<!-- TITLE: Pearljam -->
+<!-- TITLE: Pearl Jam -->
 <!-- SUBTITLE: Acoustic Band Competition -->
 
 ## RULES 
