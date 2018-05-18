@@ -9,6 +9,7 @@ The idea of a college fest for BITS-Pilani Hyderabad was initially conceived by 
 Over the 9 years since its first edition, the fest grew into one of the biggest fests in the states of Telangana and Andhra Pradesh and a widely known college fest across India. National and international artists and bands including Farhan Akhtar, Grammy-winning Wolfmother, Vishal–Shekhar, Xandria, and Dark Tranquility have performed during the pro-shows of the fest.
 # Themes
 In each edition of Pearl since 2010, the organizing body has based the events and shows of the fest on a theme. The themes of the editions so far are:
+<center>
 
 | Date | Theme |
 |--|--|--|
@@ -21,5 +22,7 @@ In each edition of Pearl since 2010, the organizing body has based the events an
 |[Pearl 2016](/fests/pearl/2016)|**Live Evil**|
 |[Pearl 2017](/fests/pearl/2017)|**The Carnivalesque Episode**|
 |[Pearl 2018](/fests/pearl/2018)|**Wanderlust**|
+
+</center>
 # Events 
 For a complete list of Pearl events over the years, [click here](/fests/pearl/events)
