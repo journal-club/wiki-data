@@ -26,26 +26,33 @@ Since its inception, Till Deaf has witnessed the metamorphosis of bands like Fra
 ## Quiz
 ## Writing
 ### Bullseye
-[click here](/fests/pearl/events/bullseye)
+Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?[click here](/fests/pearl/events/bullseye)
 ### Caption It !
-[click here](/fests/pearl/events/captionit)
+Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. [click here](/fests/pearl/events/captionit)
 ### Minute to Win It !
-[click here](/fests/pearl/events/minutetowinit)
+Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
+
+Happy Gaming![click here](/fests/pearl/events/minutetowinit)
 ### Time Machine 
-[click here](/fests/pearl/events/timemachine)
+Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[click here](/fests/pearl/events/timemachine)
 ### Ukti
-[click here](/fests/pearl/events/ukti)
+"किस्सों की ख़िश्तें जोड़ते हैं हम रास्तों को रहबर कहते हैं, हर जज़्बात पन्नों सा पलटते हैं हम अपनी कहानियों जैसे ही होते हैं... "
+
+इस संसार में मौजूद हर कुछ , भले ही हवा का झोंका ही क्यों ना हो , कई कहानियां ओढ़े रहता है। कुछ बयां नहीं हो पाती , कुछ सही पते पर नहीं पहुँचती , कुछ अनसुनी हो जाती हैं और कुछ आपके रूह को भी झूम उठने को मज़बूर कर देती हैं। अंजाम कहानी का जो भी हो , बयां होना ही उसकी नियति है ; और कागज़ से दिल तक का सफर उसका जीवन।
+
+इस पर्ल, हिंदी-तरंग आपके आपके किये ला रहा है "उक्ति ", आपकी रचनाओं के लिए एक उम्दा मंच।
+
+तो आइये, कुछ लिखते हैं !
+
+In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine : Ashlesha https://hinditarangbphc.wordpress.com [click here](/fests/pearl/events/ukti)
 ### Words of a Feather
-[click here](/fests/pearl/events/woaf)
+If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. [click here](/fests/pearl/events/woaf)
 ## Photography
 ### Expressions
-A candid is a photograph captured through motion mostly, without creating a posed appearance.
-*For more details regarding the event,[click here](/fests/pearl/events/expressions)*
+[click here](/fests/pearl/events/expressions)
 ### Guess What ?
-Guess what the subject of each photograph is?
-*[Click here](/fests/pearl/events/guesswhat) to know more*
+[click here](/fests/pearl/events/guesswhat)
 ### Restrospective
- Come and participate in our flagship event - "Retrospective" which gives photographers all across India a chance to display their art.
-*For more details regarding the event,[click here](/fests/pearl/events/restrospective)*
+[click here](/fests/pearl/events/restrospective)
 ## Fine Arts
 ## Miscellaneous
