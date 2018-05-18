@@ -11,4 +11,4 @@
 * **QuBITS**- Test your quizzing mastermind with the plethora of quizzes as a part of the quizzing festival.
 * **Mr. and Ms. Pearl**- Prove your prowess as an all-rounder and stand a chance to win the grand prize along with the ultimate title.
 
-*-Article by Sriya Suri*
+*Article by Sriya Suri*
