@@ -82,3 +82,4 @@ The competitive coding club on campus has always been extra active with its educ
 
 # Post-Fest Mag
 1. [Talks in ATMOS 2017](/news/fests/atmos-17/talks)
+2. [Departments ATMOS 2017](/news/fests/atmos-17/depts)
