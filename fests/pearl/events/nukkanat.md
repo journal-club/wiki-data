@@ -1,0 +1,11 @@
+<!-- TITLE: Nukkad-Natak -->
+<!-- SUBTITLE: Nukkad Natak is a street play competition hosted and organised by Crimson Curtain during Pearl. -->
+The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe.
+# Rules
+1. Number of members in a team should not be more than 18.
+2. Theme can be chosen by the team but should not be against any particular caste, custom, society or socio-economic background.
+3. Use of props and Musical Instruments is optional. The required props, costumes and musical instruments have to be arranged by the team themselves.
+4. Use of fire/water/explosives/fire crackers or any other potential harmful substances is strictly prohibited.
+5. The street play should be primarily in English / Hindi although short paragraphs in other regional languages are allowed. Excessive use of profanity is discouraged.
+6. Scripts can be original or adapted. Although if adapted script is being performed it is compulsory to give credits to the concerned person/group.
+7. Decision of judges will be final and no objection will be entertained.
