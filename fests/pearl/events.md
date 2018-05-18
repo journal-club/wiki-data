@@ -19,7 +19,7 @@
 * [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-Fun event
 ## Film
 ### India Film Project - Campus Connect
-A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more details rergarding the event,[click here](/fests/pearl/events/filmproject)*
+ *For more details rergarding the event,[click here](/fests/pearl/events/filmproject)*
 ### Kaleidoscope
 Kaleidoscope is the annual film making competition conducted by BITS Pilani Hyderabad Campus during it's cultural festival Pearl.All the person has to do is submit a film online and then it will be shortlisted by us.The winner will be announced during Pearl.*For more details rergarding the event,[click here](/fests/pearl/events/kaleidoscope)*
 ### Pitch It to Win It
@@ -29,13 +29,13 @@ Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pit
 ### Album Art
 
 ## Quiz
-[ENT Quiz](/fests/pearl/events/entq)
-[General Quiz](/fests/pearl/events/genq)
-[India Quiz](/fests/pearl/events/indq)
-[Midnight AV Quiz](/fests/pearl/events/midavq)
-[Open General Quiz](/fests/pearl/events/opgenq)
-[Sports Quiz](/fests/pearl/events/spoq)
-[Travel and Living Quiz](/fests/pearl/events/tlq)
+* [ENT Quiz](/fests/pearl/events/entq)
+* [General Quiz](/fests/pearl/events/genq)
+* [India Quiz](/fests/pearl/events/indq)
+* [Midnight AV Quiz](/fests/pearl/events/midavq)
+* [Open General Quiz](/fests/pearl/events/opgenq)
+* [Sports Quiz](/fests/pearl/events/spoq)
+* [Travel and Living Quiz](/fests/pearl/events/tlq)
 ## Writing
 ### Bullseye
 Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
