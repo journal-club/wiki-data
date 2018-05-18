@@ -8,7 +8,7 @@ The participants have to model using any CAD software.
 # Competition Rounds :
 ## Round 1 (Online Round) : 
 Round 1 will test the participant's basic knowledge about CAD. The participants will be provided a questionnaire which needs to be completed and submitted by e-mail. Based upon the performance, students will be shortlisted for second round (spot round). The CAD files need to be mailed as .IGS format files as well as in format of default extension of the software and mentioning the software used in mail to the specified mail id. 
-## Round 2(spot round) : 
+## Round 2 (Spot round) : 
 The second round is a spot round which will be held on Birla Institute of Technology & Science, Pilani – Hyderabad Campus. Its problem statement will be announced on the day of the event.
 **NOTE : The organizers will provide systems with CREO software installed in them only; if any participant wishes to use any other CAD software they need to bring their own laptops.**
 # Rules :
