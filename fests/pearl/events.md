@@ -36,7 +36,7 @@
 * [Travel and Living Quiz](/fests/pearl/events/tlq)
 ## Writing
 ### Bullseye
-Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
+
 *For more details regarding the event,[Click here](/fests/pearl/events/bullseye)*
 ### Caption It !
 Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. 
