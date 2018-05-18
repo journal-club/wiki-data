@@ -10,3 +10,4 @@
 7. [Krishna Bhawan](/campus/bhawans/krishna)
 8. [Ram Bhawan](/campus/bhawans/ram)
 9. [Shankar Bhawan](/campus/bhawans/shankar)
+10. [Vyas Bhawan](/campus/bhawans/vyas)
