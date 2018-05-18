@@ -21,19 +21,10 @@ Since its inception, Till Deaf has witnessed the metamorphosis of bands like Fra
 ### Terpsichore
 [click here](/fests/pearl/events/terpsichore)
 ## Drama
-### Charades 
-' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. [click here](/fests/pearl/events/char)
-### Mono Acting
-“It’s the adrenaline rush you only get from being in front of an audience. It’s addictive.” -Raphael Saadiq
-Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage. This Pearl’18, Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. [click here](/fests/pearl/events/monoa)
-### Natya-Shastra
-Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a privilege of BITS Pilani Hyderabad Campus to present you the stage play event of Crimson Curtain, 'Natya Shastra'. Come, captivate those minds, do what you always do, the world’s your stage. [click here](/fests/pearl/events/natsha)
-### Nukkad-Natak
-The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. [click here](/fests/pearl/events/nukkanat)
-### Torque A-Wheeee
-As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. [click here](/fests/pearl/events/torqueawheeee)
 ## Film
 ## Art
+### Album Art
+
 ## Quiz
 ## Writing
 ### Bullseye
@@ -42,7 +33,8 @@ Crossword with a twist! Find words using the given letters to earn points. Do yo
 Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. [Click here](/fests/pearl/events/captionit) for more details.
 ### Minute to Win It !
 Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
-Happy Gaming! [Click here](/fests/pearl/events/minutetowinit)
+
+[Happy Gaming!](/fests/pearl/events/minutetowinit)
 ### Time Machine 
 Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[Click here](/fests/pearl/events/timemachine) for more detials.
 ### Ukti
