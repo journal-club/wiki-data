@@ -1,7 +1,7 @@
-<!-- TITLE: Cinematictrailer -->
-<!-- SUBTITLE: A quick summary of Cinematictrailer -->
+<!-- TITLE: Cinematic Trailer -->
+<!-- SUBTITLE: Create a appealing trailer -->
 
-# Header
+
 Teams of one.
 This event is an opportunity for newbies and veterans alike since it depends a lot on creativity than on skills. It gives you the taste of the effort and excitement that goes into creating an appealing trailer.
 
