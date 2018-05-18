@@ -12,11 +12,35 @@
 [click here](/fests/pearl/events/tddwa)
 
 ## Dance
+### Abhivyaktika
+[click here](/fests/pearl/events/abhivyakti)
+### Soul 'O
+[click here](/fests/pearl/events/soulo)
+### Terpsichore
+[click here](/fests/pearl/events/terpsichore)
 ## Drama
 ## Film
 ## Art
 ## Quiz
 ## Writing
+### Bullseye
+[click here](/fests/pearl/events/bullseye)
+### Caption It !
+[click here](/fests/pearl/events/captionit)
+### Minute to Win It !
+[click here](/fests/pearl/events/minutetowinit)
+### Time Machine 
+[click here](/fests/pearl/events/timemachine)
+### Ukti
+[click here](/fests/pearl/events/ukti)
+### Words of a Feather
+[click here](/fests/pearl/events/woaf)
 ## Photography
+### Expressions
+[click here](/fests/pearl/events/expressions)
+### Guess What ?
+[click here](/fests/pearl/events/guesswhat)
+### Restrospective
+[click here](/fests/pearl/events/restrospective)
 ## Fine Arts
 ## Miscellaneous
