@@ -1,5 +1,5 @@
 <!-- TITLE: Kaleidoscope -->
-<!-- SUBTITLE:  -->
+<!-- SUBTITLE:Short Movie Competition  -->
 
 **Content Notice: It is the responsibility of the entrants to ensure that no copyright laws are violated. Content with explicit sex & violence and / or contrary to public decency/order will not be permitted.**
 
