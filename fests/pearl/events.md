@@ -36,7 +36,7 @@ Pearl brings to you, "Minute To Win It!", a team-event, which consists of a seri
 ### Time Machine 
 Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[Click here](/fests/pearl/events/timemachine) for more detials.
 ### Ukti
-In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com) [Click here](/fests/pearl/events/ukti) for more details.
+In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). For more details, [Click here](/fests/pearl/events/ukti).
 ### Words of a Feather
 If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. [Click here](/fests/pearl/events/woaf) for more details .
 ## Photography
