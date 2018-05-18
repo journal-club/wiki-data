@@ -28,12 +28,15 @@ Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a 
 ### Nukkad-Natak
 The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. *For more details regarding the event,[click here](/fests/pearl/events/nukkanat)*
 ### Torque A-Wheeee
-As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more ddetails rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
+As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more details rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
 ## Film
 ### India Film Project - Campus Connect
-A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more ddetails rergarding the event,[click here](/fests/pearl/events/filmproject)*
+A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more details rergarding the event,[click here](/fests/pearl/events/filmproject)*
 ### Kaleidoscope
-Kaleidoscope is the annual film making competition conducted by BITS Pilani Hyderabad Campus during it's cultural festival Pearl.All the person has to do is submit a film online and then it will be shortlisted by us.The winner will be announced during Pearl.*For more ddetails rergarding the event,[click here](/fests/pearl/events/kaleidoscope)*
+Kaleidoscope is the annual film making competition conducted by BITS Pilani Hyderabad Campus during it's cultural festival Pearl.All the person has to do is submit a film online and then it will be shortlisted by us.The winner will be announced during Pearl.*For more details rergarding the event,[click here](/fests/pearl/events/kaleidoscope)*
+### Pitch It to Win It
+Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pitch It to Win It is short story idea pitch desk event. *For more details regarding the event,[click here](/fests/pearl/events/pitchit)*
+### 
 ## Art
 ### Album Art
 
