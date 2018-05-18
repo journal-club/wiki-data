@@ -56,7 +56,7 @@ Ever wondered how your distorted face sketch could turn out to be a great piece 
 This is an online event. Bring out the artist in you! Submit an artwork based on the given themes.
 *For more details regarding the event,[click here](/fests/pearl/events/masterstroke)*
 ### Paint a Face
-Grab a brush and some paints and make a face your canvas. The theme for the event is 'Cities of the world'. We would like to see designs that represent the city that you live in or love to visit in a face painted design. It could depict landmarks, culture, the people; something that tells the story of a particular city.
+Grab a brush and some paints and make a face your canvas. 
 *For more details regarding the event,[click here](/fests/pearl/events/paintaface)*
 ### Pictionary 
 A classic ice-breaker game in which the goal is to get your team mate to correctly identify something that is drawn within the time limit.
