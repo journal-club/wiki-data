@@ -37,12 +37,8 @@
 ## Writing
 [Bullseye](/fests/pearl/events/bullseye)-Crossword
 [Caption It !](/fests/pearl/events/captionit)-come up with amazing captions for the given picture prompts
-### Minute to Win It !
-
-*For more details regarding the event,[Click here](/fests/pearl/events/minutetowinit)*
-### Time Machine 
-Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.
-*For more details regarding the event,[Click here](/fests/pearl/events/timemachine)*
+[Minute to Win It !](/fests/pearl/events/minutetowinit)-SAFL Event
+[Time Machine](/fests/pearl/events/timemachine)-
 ### Ukti
 In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). 
 *For more details regarding the event,[Click here](/fests/pearl/events/ukti)*
