@@ -1,4 +1,4 @@
-<!-- TITLE: Anatakshari -->
+<!-- TITLE: Antakshari -->
 <!-- SUBTITLE: A quick summary of Anatakshari -->
 
 # Header
