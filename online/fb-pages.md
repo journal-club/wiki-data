@@ -35,3 +35,7 @@
 2. [DoVE](https://www.facebook.com/dovebitshyd/)
 3. [Departments of Arts and Deco](https://www.facebook.com/artsndecobphc/)
 4. [LSD](https://www.facebook.com/LSD.bphc/)
+
+# Technical Associations
+1. [IEEE BPHC Student Branch](https://www.facebook.com/IEEEBPHC)
+2. 
