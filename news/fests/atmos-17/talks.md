@@ -15,6 +15,20 @@ While talking about his paper publications, Dr. Abhas recalled an instance of ar
 Abhas Mitra, talking in a video interview after the talk, said that BITS Hyderabad was one of the most exciting and bright places he has visited so far, and was of the opinion that the infrastructure we have is aesthetically pleasing. Despite not there being a very large turnout for his talk, he said he was extremely satisfied as the people who had come were an amazing audience and paid very close attention to his talk.
 
 # Dilip chhabria
-This Atmos we also had the amazing opportunity to interact with and listen to the automobile designer Dilip Chhabria. His story is truly inspiring to the engineers of BPHC present as it gave the same old message with a interesting angle. The vehicle customization market is a small one and in the 90’s even more so. But the vision, determination, hard work and with a lot of skill he achieved the near impossible. Today DC challenges the Italian design houses in terms of quality and has expanded redesigning everything from buses to planes. The interactive session at the end of his presentation gave the audience a chance to learn from him and he was more than happy to see future generations entering the sector and also gave a lot of insightful advice both in his field and how to succeed in life.
+This Atmos we also had the amazing opportunity to interact with and listen to the automobile designer Dilip Chhabria. His story is truly inspiring to the engineers of BPHC present as it gave the same old message with a interesting angle. The vehicle customization market is a small one and in the 90’s even more so. But the vision, determination, hard work and with a lot of skill he achieved the near impossible. Today DC challenges the Italian design houses in terms of quality and has expanded redesigning everything from buses to planes. The interactive session at the end of his presentation gave the audience a chance to learn from him and he was more than happy to see future generations entering the sector and also gave a lot of insightful advice both in his field and how to succeed in life
+
+# The Tech Talk
+The ATMOS, 2017, with lot many other good things, also brought up a talk with the Tech Panel that comprised of 
+Raghu Gullapalli - Executive Director, LV Prasad Eye Innovation Labs.
+The talk spinned around Machine Learning and Artificial Intelligence.
+
+Each one of them gave an insight to what was going and has been done into the areas of ML and AI. Raghu Gullapalli specially emphasised on how these areas are helping in the fields of medicine and treatment. As he is originally working for an Eye Lab, he explained how modern technology has helped doctors develop artificial eye cornea and eventually helped many lives. He added that many more artificial organs could be generated and they are are on their way to harness the potential of this field.
+
+Shailesh Kumar, a distinguished Scientist and  Vice President at Ola Cabs
+Shailesh Sir dealt with developments of the ML and AI. He catered each one of us’ queries very passionately and gave a full insight regarding that. While questions came up on AI dread, his answers were truly assuring and ensuring about how any new technology can only be good if human beings utilise it for ethical purposes. He also added that science and technology are meant to progress with time and age. And curtailing technology needn't mean ensuring security. 
+
+On being questioned about the joblessness that AI would bring to an already financially deprived country like India, he answered that any big change comes along with as many challenges. As lifestyles evolve, professions evolve. Where there's a will, there's a way!
+Both the speakers were truly inspirational and honestly implanted in us a zeal to pursue the fields of AI and ML.
+
 
 
