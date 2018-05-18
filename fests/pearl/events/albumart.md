@@ -22,8 +22,6 @@ Online Event. In this event, you have to design a cover for a music album/track.
 
 5. The cover shouldn’t be a rip-off or somewhat similar to a real album cover. It shouldn’t be inspired from the cover of that song/album by the given artist/band.
 
-For reference, click on this link- https://drive.google.com/drive/folders/1lpGUSjGaWgh2rtVU_UZwMSNNX4rXNhST.
-
 
 The top 3 or 5 entries shall be posted on Designers Anonymous’ Facebook page and Instagram account, and shared by the Pearl accounts.
 
