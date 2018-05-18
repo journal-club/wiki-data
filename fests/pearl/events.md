@@ -39,10 +39,13 @@ Since its inception, Till Deaf has witnessed the metamorphosis of bands like Fra
 [click here](/fests/pearl/events/woaf)
 ## Photography
 ### Expressions
-[click here](/fests/pearl/events/expressions)
+A candid is a photograph captured through motion mostly, without creating a posed appearance.
+*For more details regarding the event,[click here](/fests/pearl/events/expressions)*
 ### Guess What ?
-[click here](/fests/pearl/events/guesswhat)
+Guess what the subject of each photograph is?
+*[Click here](/fests/pearl/events/guesswhat) to know more*
 ### Restrospective
-[click here](/fests/pearl/events/restrospective)
+ Come and participate in our flagship event - "Retrospective" which gives photographers all across India a chance to display their art.
+*For more details regarding the event,[click here](/fests/pearl/events/restrospective)*
 ## Fine Arts
 ## Miscellaneous
