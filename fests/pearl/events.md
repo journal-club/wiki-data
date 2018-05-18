@@ -8,8 +8,7 @@
 
 [Pearl Jam](/fests/pearl/events/pearljam)-Acoustic Band Competition
 
-
-### Till Deaf Do We Apart 
+[Till Deaf Do We Apart](/fests/pearl/events/tddwa)-Semi-Professional Band 
 
 ## Dance
 - [Abhivyaktika](/fests/pearl/events/abhivyakti), a solo classical dance competition
