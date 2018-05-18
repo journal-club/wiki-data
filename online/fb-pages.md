@@ -10,6 +10,7 @@
 7.  [Renaissance](https://www.facebook.com/Renaissancebphc/)
 8.  [Finnovate](https://www.facebook.com/bits.finnovate/)
 9.  [TechWeek](https://www.facebook.com/techweekBPHC/)
+10. [Crimson Curtain](https://www.facebook.com/dramaticsatbphc/)
 
 # Club Pages
 1. [Journal Club](https://www.facebook.com/JournalClubBPHC/)
@@ -18,15 +19,14 @@
 4. [Quiz Club](https://www.facebook.com/QuizClubBPHC/)
 5. [ELAS](https://www.facebook.com/ELASatBPHC/)
 6. [Movie Club](https://www.facebook.com/themovieclub.bphc/)
-7. [Crimson Curtain](https://www.facebook.com/dramaticsatbphc/)
-8. [The Daily BITSian](https://www.facebook.com/thedailybitsian/)
-9. [Wall Street Club](https://www.facebook.com/WST.BPHC/)
-10. [SAFL](https://www.facebook.com/langbphc/)
-11. [CRUx](https://www.facebook.com/cruxbphc/)
-12. [VFx Club](https://www.facebook.com/club.vfx/)
-13. [BITS Embryo](https://www.facebook.com/BITSEmbryoHyd/)
-14. [Shades](https://www.facebook.com/Shades.BPHC/)
-15. [Hindi Tarang](https://www.facebook.com/hinditarang/)
+7. [The Daily BITSian](https://www.facebook.com/thedailybitsian/)
+8. [Wall Street Club](https://www.facebook.com/WST.BPHC/)
+9. [SAFL](https://www.facebook.com/langbphc/)
+10. [CRUx](https://www.facebook.com/cruxbphc/)
+11. [VFx Club](https://www.facebook.com/club.vfx/)
+12. [BITS Embryo](https://www.facebook.com/BITSEmbryoHyd/)
+13. [Shades](https://www.facebook.com/Shades.BPHC/)
+14. [Hindi Tarang](https://www.facebook.com/hinditarang/)
 
 # Department Pages
 1. [DoPY](https://www.facebook.com/DoPY.BPHC/)
