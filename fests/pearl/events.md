@@ -1,7 +1,7 @@
 <!-- TITLE: List Of Pearl Events -->
 <!-- SUBTITLE: List of Pearl events, sorted by genre. -->
 
-## Music
+# Music
 ### Gandhaara
 India is a land of cultures. Classical music continues to retain its position as the empress of all music. Raga and Taal have shaped the culture of India from times forgotten, with greats, such as Tansen from Akbar's court to MS Subbulakshmi from the 21st century keeping the flames alive. If you think you are a gifted musician, then prove your mettle and establish your prowess in this pristine art form, here, at Gandhaara.
 *For more details regarding the event,[click here](/fests/pearl/events/gandhaara)*
@@ -13,11 +13,11 @@ Lost amidst the electrically amplified and manipulated music of our current worl
 *For more details regarding the event,[click here](/fests/pearl/events/pearljam)*
 ### Till Deaf Do We Apart 
 Since its inception, Till Deaf has witnessed the metamorphosis of bands like Frank's Got The Funk, Space Is All We Have, Family Cheese, etc. With regionals held all over India, the bands participating make for an enthralling competition.
-## Dance
+# Dance
 - [Abhivyaktika](/fests/pearl/events/abhivyakti), a solo classical dance competition
 - [Soul-O](/fests/pearl/events/soulo), a solo dance competition, with all forms except classical being allowed
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
-## Drama
+# Drama
 ### Charades
 ' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. *For more details regarding the event,[click here](/fests/pearl/events/char)*
 ### Mono-Acting
@@ -29,13 +29,13 @@ Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a 
 The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. *For more details regarding the event,[click here](/fests/pearl/events/nukkanat)*
 ### Torque A-Wheeee
 As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more ddetails rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
-## Film
+# Film
 ### India Film Project - Campus Connect
 A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more ddetails rergarding the event,[click here](/fests/pearl/events/filmproject)*
-## Art
+# Art
 ### Album Art
 
-## Quiz
+# Quiz
 ### ENT Quiz
 Welcome to the MELA. This will definitely stretch the limits of your knowledge, covering everything from modern pop culture to well-renowned classics.
 *For more detaills regarding the event,[Click here](/fests/pearl/events/entq)*
@@ -57,7 +57,7 @@ For all football fanatics and cricket connoisseurs, a chance to show-off the gen
 ### Travel and Living Quiz
 Keeping the theme in mind, Pearl is proud to bring to you the 'Travel and Living' quiz, where you get to test your knowledge on fashion, food and customs from all over the world.
 *For more details regarding this event,[Click here](/fests/pearl/events/tlq)*
-## Writing
+# Writing
 ### Bullseye
 Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
 *For more details regarding the event,[Click here](/fests/pearl/events/bullseye)*
@@ -77,14 +77,14 @@ In this writing event, you would be given the opportunity to write a poem or a s
 ### Words of a Feather
 If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. 
 *For more details regarding the event,[Click here](/fests/pearl/events/woaf)*
-## Photography
+# Photography
 ### Expressions
 [click here](/fests/pearl/events/expressions)
 ### Guess What ?
 [click here](/fests/pearl/events/guesswhat)
 ### Restrospective
 [click here](/fests/pearl/events/restrospective)
-## Fine Arts
+# Fine Arts
 ### A Loaded Potrait
 Ever wondered how your distorted face sketch could turn out to be a great piece of art when combined with satire, humour and artistic skills. A small piece of art can be more powerful than any argument. Presenting 'A Loaded Portrait', where you are expected to make caricature of a famous personality.
 *For more details regarding the event,[click here](/fests/pearl/events/loadedpotrait)*
@@ -98,7 +98,7 @@ Grab a brush and some paints and make a face your canvas.
 A classic ice-breaker game in which the goal is to get your team mate to correctly identify something that is drawn within the time limit.
 Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
 *For more details regarding the event,[click here](/fests/pearl/events/pictionary)*
-## Miscellaneous
+# Miscellaneous
 ### Antakshari
 जाना पहचाना पुराना खेल एक नए अवतार में , जहाँ होंगे कई रोचक राउंड्स। मस्ती से भरी एक शाम जहां मौका होगा कई ईनाम जीतने का। Antakshari is one of the most fun filled events conducted in Pearl. 
 *For more details regarding the event,[click here](/fests/pearl/events/anatakshari)*
