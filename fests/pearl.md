@@ -24,5 +24,6 @@ In each edition of Pearl since 2010, the organizing body has based the events an
 |[Pearl 2018](/fests/pearl/2018)|**Wanderlust**|
 
 </center>
+
 # Events 
 For a complete list of Pearl events over the years, [click here](/fests/pearl/events)
