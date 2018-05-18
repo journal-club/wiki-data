@@ -1,7 +1,7 @@
 <!-- TITLE: Pearl Jam -->
 <!-- SUBTITLE: Acoustic Band Competition -->
 
-## About
+
 Lost amidst the electrically amplified and manipulated music of our current world, the heart sometimes yearns to drown in the pure, soothing, magical sounds acoustic instruments. Do you hyperventilate when someone mentions Damien Rice? Do you just love to sit with a friend, pick up a guitar, and just sing? Well we have just the event for you: Pearl Jam.
 
 ## Rules
