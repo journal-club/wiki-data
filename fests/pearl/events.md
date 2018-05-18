@@ -30,6 +30,8 @@ The street theatre has time and again proved an effective communication tool for
 ### Torque A-Wheeee
 As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more ddetails rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
 ## Film
+### India Film Project - Campus Connect
+A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more ddetails rergarding the event,[click here](/fests/pearl/events/filmproject)*
 ## Art
 ### Album Art
 
