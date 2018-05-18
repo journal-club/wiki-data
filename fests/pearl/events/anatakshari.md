@@ -1,5 +1,5 @@
 <!-- TITLE: Antakshari -->
-<!-- SUBTITLE: A quick summary of Anatakshari -->
+<!-- SUBTITLE: A quick summary of Antakshari -->
 
 # Header
 Teams of four.
