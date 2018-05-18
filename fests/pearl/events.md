@@ -9,7 +9,8 @@ India is a land of cultures. Classical music continues to retain its position as
 Everyone's a good bathroom singer. But if you have the confidence to get out of the mould and be the next Sonu Nigam or Janis Joplin, then Jhankaar is the perfect stage for you to get off to a flying start! Packed with challenges to test your versatility and passion for music, Jhankaar is not something to be missed.
 *For more details reagrding the event,[click here](/fests/pearl/events/jhankaar)*
 ### Pearl Jam
-[click here](/fests/pearl/events/pearljam)
+Lost amidst the electrically amplified and manipulated music of our current world, the heart sometimes yearns to drown in the pure, soothing, magical sounds acoustic instruments. Do you hyperventilate when someone mentions Damien Rice? Do you just love to sit with a friend, pick up a guitar, and just sing? Well we have just the event for you: Pearl Jam.
+*For more details regarding the event,[click here](/fests/pearl/events/pearljam)*
 ### Till Deaf Do We Apart 
 [click here](/fests/pearl/events/tddwa)
 
