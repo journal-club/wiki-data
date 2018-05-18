@@ -9,8 +9,8 @@ The participating teams are expected to choose from a series of given projects, 
 * Every team is a vendor of services with some initial virtual cash.
 * Each round will be of maximum 10 min.
 * In opening round organisers display -
- i) Chart of few projects  
- ii) Chart of few resources available in market.
+ i) Charts of few projects  
+ ii) Charts of few resources available in market.
 * Resources and Projects are unlimited, but a team is allowed to take a project only once.
 * Each team chooses a project ( which has a code for representation), and allocate resources(which again have codes for representation) according to their wish. And they will come to the kiosk of organisers and tell 
 i) Project Code 
