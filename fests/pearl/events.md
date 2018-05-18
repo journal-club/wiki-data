@@ -49,10 +49,7 @@
 [A Loaded Potrait](/fests/pearl/events/loadedpotrait)-Cartoon-ize your face
 [Masterstroke](/fests/pearl/events/masterstroke)-Theme-based Painting Competition
 [Paint a Face](/fests/pearl/events/paintaface)-Face-painting Competition.
-### Pictionary 
-A classic ice-breaker game in which the goal is to get your team mate to correctly identify something that is drawn within the time limit.
-Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
-*For more details regarding the event,[click here](/fests/pearl/events/pictionary)*
+[Pictionary](/fests/pearl/events/pictionary)-Fun-filled event
 ## Miscellaneous
 * [Antakshari](/fests/pearl/events/anatakshari)-Fun-filled event
 * [Football Manager](/fests/pearl/events/footballmanager)-Simulation-based event
