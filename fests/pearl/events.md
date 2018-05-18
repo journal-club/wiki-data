@@ -18,10 +18,9 @@
 * [Nukkad-Natak](/fests/pearl/events/nukkanat)-Street Play
 * [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-Fun event
 ## Film
-### India Film Project - Campus Connect
- *For more details rergarding the event,[click here](/fests/pearl/events/filmproject)*
+[ India Film Project - Campus Connect](/fests/pearl/events/filmproject)
 ### Kaleidoscope
-Kaleidoscope is the annual film making competition conducted by BITS Pilani Hyderabad Campus during it's cultural festival Pearl.All the person has to do is submit a film online and then it will be shortlisted by us.The winner will be announced during Pearl.*For more details rergarding the event,[click here](/fests/pearl/events/kaleidoscope)*
+*For more details rergarding the event,[click here](/fests/pearl/events/kaleidoscope)*
 ### Pitch It to Win It
 Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pitch It to Win It is short story idea pitch desk event. *For more details regarding the event,[click here](/fests/pearl/events/pitchit)*
 ### 
