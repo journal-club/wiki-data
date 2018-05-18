@@ -1,7 +1,7 @@
 <!-- TITLE: Doodler -->
-<!-- SUBTITLE: A quick summary of Doodler -->
 
-# Header
+
+
 Online Event. In this event, you have to create doodle a given word, based on given theme. You can think it of as the Google Doodles.
 
 ## Sequence:
