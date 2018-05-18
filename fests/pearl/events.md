@@ -46,9 +46,7 @@
 * [Guess What ?](/fests/pearl/events/guesswhat)
 * [Restrospective](/fests/pearl/events/restrospective)
 ## Fine Arts
-### A Loaded Potrait
-Ever wondered how your distorted face sketch could turn out to be a great piece of art when combined with satire, humour and artistic skills. A small piece of art can be more powerful than any argument. Presenting 'A Loaded Portrait', where you are expected to make caricature of a famous personality.
-*For more details regarding the event,[click here](/fests/pearl/events/loadedpotrait)*
+[A Loaded Potrait](/fests/pearl/events/loadedpotrait)
 ### Masterstroke
 This is an online event. Bring out the artist in you! Submit an artwork based on the given themes.
 *For more details regarding the event,[click here](/fests/pearl/events/masterstroke)*
