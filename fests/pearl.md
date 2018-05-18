@@ -11,7 +11,7 @@ Over the 9 years since its first edition, the fest grew into one of the biggest 
 In each edition of Pearl since 2010, the organizing body has based the events and shows of the fest on a theme. The themes of the editions so far are:
 <center>
 
-| Date | Theme |
+| Year | Theme |
 |--|--|--|
 |[Pearl 2010](/fests/pearl/2010)|**Genesis**|
 |[Pearl 2011](/fests/pearl/2011)|**Dreamscape**|
