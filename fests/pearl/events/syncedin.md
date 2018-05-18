@@ -1,7 +1,7 @@
-<!-- TITLE: Syncedin -->
-<!-- SUBTITLE: A quick summary of Syncedin -->
+<!-- TITLE: Synced-In -->
 
-# Header
+
+
 A fun event where you unleash your creativity and make a video more interesting by syncing it with different audio.
 
 ## RULES:
