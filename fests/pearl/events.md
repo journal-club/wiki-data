@@ -37,21 +37,47 @@ As Hamlet said to Ophelia, " God has given you one face, and you make yourself a
 ### Album Art
 
 ## Quiz
+### Ent Quiz
+Welcome to the MELA. This will definitely stretch the limits of your knowledge, covering everything from modern pop culture to well-renowned classics.
+*For more detaills regarding the event,[Click here](/fests/pearl/events/entq)*
+### General Quiz
+Sameer Dharur, an alumnus of BPHC and one of the people responsible for putting our current quizzing scene on the map is back to follow up his spectacular quiz at Pearl 17. Sameer has been professionally hosting quizzes- to rave reviews- for over 2 years now. You cannot afford to miss this!
+*For more details regarding this event,[Click here](/fests/pearl/events/genq)*
+### India Quiz
+India, with a varied history ranging back nearly 5000 years, has seen much change throughout its existence, more than almost any other civilization in the world. On that note, we present to you the India Quiz, where we test you on all that there is to know about our nation, its history, and its heritage.
+*For more details regarding this event,[Click here](/fests/pearl/events/indq)*
+### Midnight AV Quiz
+This year, continuing the tradition of hosting the first event of the fest, we bring to you the Midnight AV Quiz, immediately after the inauguration. Consisting of Audio-Visual questions covering the length and breadth of human knowledge, this will be a short and entertaining quiz.
+*For more details regarding this event,[Click here](/fests/pearl/events/midavq)*
+### Open General Quiz
+Calling all folks to the flagship event of QuBITS. Get ready for a challenging yet uncomplicated game, where the questions can be from anywhere, and you only have your brain for company. Ready to pounce?
+*For more details regarding this event,[Click here](/fests/pearl/events/opgenq)*
+### Sports Quiz
+For all football fanatics and cricket connoisseurs, a chance to show-off the genius in you. From how things work to what is going on in the sports world, this quiz is going to cover everything that one can be curious about in sports.
+*For more details regarding this event,[Click here](/fests/pearl/events/spoq)*
+### Travel and Living Quiz
+Keeping the theme in mind, Pearl is proud to bring to you the 'Travel and Living' quiz, where you get to test your knowledge on fashion, food and customs from all over the world.
+*For more details regarding this event,[Click herre](/fests/pearl/events/tlq)*
 ## Writing
 ### Bullseye
-Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?[Click here](/fests/pearl/events/bullseye) for more details.
+Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
+*For more details regarding the event,[Click here](/fests/pearl/events/bullseye)*
 ### Caption It !
-Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. [Click here](/fests/pearl/events/captionit) for more details.
+Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. 
+*For more details regarding the event,[Click here](/fests/pearl/events/captionit)*
 ### Minute to Win It !
 Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
-
-[Happy Gaming!](/fests/pearl/events/minutetowinit)
+Happy Gaming!
+*For more details regarding the event,[Click here](/fests/pearl/events/minutetowinit)*
 ### Time Machine 
-Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[Click here](/fests/pearl/events/timemachine) for more detials.
+Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.
+*For more details regarding the event,[Click here](/fests/pearl/events/timemachine)*
 ### Ukti
-In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). For more details, [Click here](/fests/pearl/events/ukti).
+In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). 
+*For more details regarding the event,[Click here](/fests/pearl/events/ukti)*
 ### Words of a Feather
-If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. [Click here](/fests/pearl/events/woaf) for more details .
+If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. 
+*For more details regarding the event,[Click here](/fests/pearl/events/woaf)*
 ## Photography
 ### Expressions
 [click here](/fests/pearl/events/expressions)
