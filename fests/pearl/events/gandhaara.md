@@ -1,7 +1,7 @@
 <!-- TITLE: Gandhaara -->
 <!-- SUBTITLE: Classical instruments and vocal competition -->
 
-## About 
+
 India is a land of cultures. Classical music continues to retain its position as the empress of all music. Raga and Taal have shaped the culture of India from times forgotten, with greats, such as Tansen from Akbar's court to MS Subbulakshmi from the 21st century keeping the flames alive. If you think you are a gifted musician, then prove your mettle and establish your prowess in this pristine art form, here, at Gandhaara.
 
 
