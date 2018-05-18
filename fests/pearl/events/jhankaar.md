@@ -1,6 +1,9 @@
 <!-- TITLE: Jhankaar -->
 <!-- SUBTITLE: Solo Singing Competition -->
 
+## About 
+Everyone's a good bathroom singer. But if you have the confidence to get out of the mould and be the next Sonu Nigam or Janis Joplin, then Jhankaar is the perfect stage for you to get off to a flying start! Packed with challenges to test your versatility and passion for music, Jhankaar is not something to be missed.
+
 **Team Strength – Solo**
 
 - The participants will be judged on vocal quality & versatility.
