@@ -35,11 +35,9 @@
 * [Sports Quiz](/fests/pearl/events/spoq)
 * [Travel and Living Quiz](/fests/pearl/events/tlq)
 ## Writing
-### Bullseye
-
-*For more details regarding the event,[Click here](/fests/pearl/events/bullseye)*
+[Bullseye](/fests/pearl/events/bullseye)-Crossword
 ### Caption It !
-Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. 
+
 *For more details regarding the event,[Click here](/fests/pearl/events/captionit)*
 ### Minute to Win It !
 Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
