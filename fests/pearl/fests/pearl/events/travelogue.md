@@ -1,7 +1,6 @@
 <!-- TITLE: Travelogue -->
-<!-- SUBTITLE: A quick summary of Travelogue -->
 
-# Header
+
 This is an offline Event. Choose a city. Now, you have been approached by this city’s tourism board for a task. The current situation is that number of travellers in the city hasn’t been great and seems to be on a steady decline. The government sees this city as a main attraction to the state and confident about the great structures and beauty of the city. Hence, it wants to generate a good revenue by improving the tourism, and it starts with good publicity for the same. You have been assigned with the task to make a poster or two to promote the city, highlighting the key features of the city and making it attractive. In short, they want your poster to be the Amitabh Bachchan of Gujarat Tourism. So do your best to reach the expectations and improve the tourism situation in the city.
 
 ## RULES AND REGULATIONS:
