@@ -18,11 +18,9 @@
 * [Nukkad-Natak](/fests/pearl/events/nukkanat)-Street Play
 * [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-Fun event
 ## Film
-[ India Film Project - Campus Connect](/fests/pearl/events/filmproject)
-### Kaleidoscope
-*For more details rergarding the event,[click here](/fests/pearl/events/kaleidoscope)*
-### Pitch It to Win It
-Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pitch It to Win It is short story idea pitch desk event. *For more details regarding the event,[click here](/fests/pearl/events/pitchit)*
+[India Film Project - Campus Connect](/fests/pearl/events/filmproject)-Film-making Competition.
+[Kaleidoscope](/fests/pearl/events/kaleidoscope)-Short Film-making Competition.
+[Pitch It to Win It](/fests/pearl/events/pitchit)-
 ### 
 ## Art
 ### Album Art
