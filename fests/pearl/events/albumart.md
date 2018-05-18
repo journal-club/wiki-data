@@ -1,7 +1,7 @@
-<!-- TITLE: Albumart -->
-<!-- SUBTITLE: A quick summary of Albumart -->
+<!-- TITLE: Album Art -->
+<!-- SUBTITLE: Design a cover for a music album/track -->
 
-# Header
+
 Online Event. In this event, you have to design a cover for a music album/track. Here, it’s more about your creativity and not your graphic designing skills or mastery in a particular software. So, you need not be a skilled designer as such to participate in this event. Now, before you think of something extravagant cover for Thunder by Imagine Dragons, or Divide(the album) by Ed Sheeran, or Thriller(the album) by Michael Jackson, or How Long by Charlie Puth, there are restrictions in this event.
 
 ## Sequence
