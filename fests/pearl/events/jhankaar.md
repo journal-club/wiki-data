@@ -8,6 +8,7 @@
 - The event has 2 rounds. *Preliminary* and *finals*
 
 ## Rounds
+
 ### PRELIMINARY ROUND 
 1. Time per contestant – 5 minutes including setup
 
