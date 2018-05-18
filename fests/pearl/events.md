@@ -49,4 +49,17 @@ If you consider words to be your armor and weaponry in a lone field of chaos, yo
 ### Restrospective
 [click here](/fests/pearl/events/restrospective)
 ## Fine Arts
+### A Loaded Potrait
+Ever wondered how your distorted face sketch could turn out to be a great piece of art when combined with satire, humour and artistic skills. A small piece of art can be more powerful than any argument. Presenting 'A Loaded Portrait', where you are expected to make caricature of a famous personality.
+*For more details regarding the event,[click here](/fests/pearl/events/loadedpotrait)*
+### Masterstroke
+This is an online event. Bring out the artist in you! Submit an artwork based on the given themes.
+*For more details regarding the event,[click here](/fests/pearl/events/masterstroke)*
+### Paint a Face
+Grab a brush and some paints and make a face your canvas. The theme for the event is 'Cities of the world'. We would like to see designs that represent the city that you live in or love to visit in a face painted design. It could depict landmarks, culture, the people; something that tells the story of a particular city.
+*For more details regarding the event,[click here](/fests/pearl/events/paintaface)*
+### Pictionary 
+A classic ice-breaker game in which the goal is to get your team mate to correctly identify something that is drawn within the time limit.
+Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
+*For more details regarding the event,[click here](/fests/pearl/events/pictionary)*
 ## Miscellaneous
