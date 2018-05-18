@@ -10,8 +10,6 @@ Online Event. In this event, you have to design a cover for a music album/track.
 
 2. You will have time till March 24, 2018 to complete the cover and submit it to us. The entries are to be mailed to designclub@hyderabad.bits-pilani.ac.in with the .jpeg or .png file of the cover and the original file, like .psd or .ai file, and also the original images used, if any, as attachment to the mail with the subject as Album Art Cover Submission and body of the mail should have your details and Pearl ID and the name of the artist and album.
 
-3. Winners will be announced on March 25, 2018, 11 P.M.
-
 ## RULES AND REGULATIONS:
 
 1. The dimensions of the cover should be either between 1000px x 1000px and 1500px x 1500px for CD cover or 627px x 382 px for an audio cassette cover.
@@ -24,7 +22,7 @@ Online Event. In this event, you have to design a cover for a music album/track.
 
 5. The cover shouldn’t be a rip-off or somewhat similar to a real album cover. It shouldn’t be inspired from the cover of that song/album by the given artist/band.
 
-For reference, click on this link.
+For reference, click on this link- https://drive.google.com/drive/folders/1lpGUSjGaWgh2rtVU_UZwMSNNX4rXNhST.
 
 
 The top 3 or 5 entries shall be posted on Designers Anonymous’ Facebook page and Instagram account, and shared by the Pearl accounts.
