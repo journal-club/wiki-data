@@ -39,3 +39,4 @@
 # Technical Associations
 1. [IEEE BPHC Student Branch](https://www.facebook.com/IEEEBPHC)
 2. [Team Vulcan BPHC](https://www.facebook.com/teamvulcanbphc/)
+3. [Team Vendetta BPHC](https://www.facebook.com/TeamVendettaBPHC/)
