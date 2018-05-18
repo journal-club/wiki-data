@@ -1,5 +1,5 @@
 <!-- TITLE:Pitch It to Win It -->
-<!-- SUBTITLE: A quick summary of Pitchit -->
+<!-- SUBTITLE: Just pitch your idea for a story within limited time-->
 
 ## Rules and Regulations:
 
