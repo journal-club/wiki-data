@@ -35,16 +35,12 @@
 * [Sports Quiz](/fests/pearl/events/spoq)
 * [Travel and Living Quiz](/fests/pearl/events/tlq)
 ## Writing
-[Bullseye](/fests/pearl/events/bullseye)-Crossword
-[Caption It !](/fests/pearl/events/captionit)-come up with amazing captions for the given picture prompts
-[Minute to Win It !](/fests/pearl/events/minutetowinit)-SAFL Event
-[Time Machine](/fests/pearl/events/timemachine)-
-### Ukti
-In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). 
-*For more details regarding the event,[Click here](/fests/pearl/events/ukti)*
-### Words of a Feather
-If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. 
-*For more details regarding the event,[Click here](/fests/pearl/events/woaf)*
+* [Bullseye](/fests/pearl/events/bullseye)-Crossword
+* [Caption It !](/fests/pearl/events/captionit)-Caption writing event
+* [Minute to Win It !](/fests/pearl/events/minutetowinit)-SAFL Event
+* [Time Machine](/fests/pearl/events/timemachine)-Historical Report Writing
+* [Ukti](/fests/pearl/events/ukti)-Hindi writing event
+* [Words of a Feather](/fests/pearl/events/woaf)-English writing event
 ## Photography
 ### Expressions
 [click here](/fests/pearl/events/expressions)
