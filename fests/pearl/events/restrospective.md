@@ -4,10 +4,6 @@
 # Header
 This Pearl, the National Annual Cultural Fest of BITS Pilani Hyderabad, brings to you "The Photog Fest". Come and participate in our flagship event - "Retrospective" which gives photographers all across India a chance to display their art.
 
-Prizes worth 30K up For grabs
-
-Deadline 10 March 2017
-
 ## THEMES
 
 ### Celebration
