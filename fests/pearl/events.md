@@ -6,11 +6,11 @@
 
 [ Jhankaar](/fests/pearl/events/jhankaar)-Solo Singing Competition
 
-### Pearl Jam
+[Pearl Jam](/fests/pearl/events/pearljam)-Acoustic Band Competition
 
-*For more details regarding the event,[click here](/fests/pearl/events/pearljam)*
+
 ### Till Deaf Do We Apart 
-Since its inception, Till Deaf has witnessed the metamorphosis of bands like Frank's Got The Funk, Space Is All We Have, Family Cheese, etc. With regionals held all over India, the bands participating make for an enthralling competition.
+
 ## Dance
 - [Abhivyaktika](/fests/pearl/events/abhivyakti), a solo classical dance competition
 - [Soul-O](/fests/pearl/events/soulo), a solo dance competition, with all forms except classical being allowed
