@@ -45,6 +45,10 @@ This edition of Slam Poetry witnessed amazing participation. The finals of this 
 **SPELL BEE**
 
  Among many events in this year’s Verba Maximus was BPHC’s version of the Spell Bee, the classic competition which tests your spelling prowess. Participants had to compete in three rounds the first two of which were written. In the third round however, the participants had to orally spell the words in this battle of vocabulary. The air was strife with a spirit of competition as the participants lashed out word after word.
+ 
+** Yin Yang**
+ Black and white, order and chaos, light and darkness are destined upon two sides of the same coin. Yin Yang brought upon us a fresh, unique perspective this VM. Participants had to write 2 sides of the same story,with a teeny twist that one could only write one side of a story, while the other had to be completed by another. The unique concept along with the brilliant prompts made this event a joy to participate ,resulting in more than 100 participations towards the end. The general atmosphere was one of lively discussion with teams coming up with excellent ideas and giving an ingenious take on the prompts before them.
+
 
 
 
