@@ -81,3 +81,4 @@ The competitive coding club on campus has always been extra active with its educ
 ###***Maze perilous***- Another event for robotics buffs. You’ll need to build a robot which is not only fast but also follows commands. The robot has to follow your commands to make it through a perilous maze in less than 5 minutes.
 
 # Post-Fest Mag
+[Talks in ATMOS 2017](/news/fests/atmos-17/talks)
