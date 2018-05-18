@@ -37,7 +37,7 @@ As Hamlet said to Ophelia, " God has given you one face, and you make yourself a
 ### Album Art
 
 ## Quiz
-### Ent Quiz
+### ENT Quiz
 Welcome to the MELA. This will definitely stretch the limits of your knowledge, covering everything from modern pop culture to well-renowned classics.
 *For more detaills regarding the event,[Click here](/fests/pearl/events/entq)*
 ### General Quiz
