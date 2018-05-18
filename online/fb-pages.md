@@ -11,6 +11,7 @@
 8.  [Finnovate](https://www.facebook.com/bits.finnovate/)
 9.  [TechWeek](https://www.facebook.com/techweekBPHC/)
 10. [Crimson Curtain](https://www.facebook.com/dramaticsatbphc/)
+11. [Enigma](https://www.facebook.com/bits.enigma/)
 
 # Club Pages
 1. [Journal Club](https://www.facebook.com/JournalClubBPHC/)
