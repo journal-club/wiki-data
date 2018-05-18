@@ -6,12 +6,7 @@ Online Event. In this event, you have to create doodle a given word, based on gi
 
 ## Sequence:
 
-1. Choose a word of your liking, with the theme being any one of the following:
-
-* Seasons(Summer, Spring, Winter, etc).
-* Carnival.
-* European.
-* Indian. You can start working on your doodle then.
+1. Choose a word of your liking, with the theme given.
 
 2. You have to use the word as the base and make a doodle either of it or on it, keeping the theme in mind.
 
