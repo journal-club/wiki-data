@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Hawkingwizard -->
 
 # About :
-*"If you don't build your dream, someone else will hire you to help them build theirs”*A lot of us have dreamt of having a business of our own, but do you know what's more challenging than starting a business? It is managing that business when it starts to grow! If you think you are the wizard who can manage resources and time most efficiently, then Atmos @Bphc is your place! To all you management enthusiasts out there, this is your HOGWARTS!
+*If you don't build your dream, someone else will hire you to help them build theirs*A lot of us have dreamt of having a business of our own, but do you know what's more challenging than starting a business? It is managing that business when it starts to grow! If you think you are the wizard who can manage resources and time most efficiently, then Atmos @Bphc is your place! To all you management enthusiasts out there, this is your HOGWARTS!
 # Problem Statement :
 The participating teams are expected to choose from a series of given projects, utilising the given labour and resources to maximise their earnings. Time management, Teamwork and Resource allocation skills of the participants are put to test.
 # General Rules :
