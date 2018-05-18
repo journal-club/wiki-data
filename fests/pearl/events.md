@@ -57,7 +57,7 @@ For all football fanatics and cricket connoisseurs, a chance to show-off the gen
 *For more details regarding this event,[Click here](/fests/pearl/events/spoq)*
 ### Travel and Living Quiz
 Keeping the theme in mind, Pearl is proud to bring to you the 'Travel and Living' quiz, where you get to test your knowledge on fashion, food and customs from all over the world.
-*For more details regarding this event,[Click herre](/fests/pearl/events/tlq)*
+*For more details regarding this event,[Click here](/fests/pearl/events/tlq)*
 ## Writing
 ### Bullseye
 Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
