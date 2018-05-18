@@ -12,3 +12,13 @@ The campus presently has eight hostel blocks (known as Bhawans) with more under 
 
 ## Dining Halls
 There are two dining halls, one near the boys hostels and one near the girls hostels, which are run by independent contractors. The mess serves four meals a day (breakfast, lunch, snack and dinner), and functions as an All Night Canteen (ANC) after dinner hours.  [Mess 1](/campus/mess-1) which is nearer the boys hostel, is relatively larger and has a seating capacity of 736872, while [Mess 2](/campus/mess-2), located near the girls hostels, has a seating capacity of 7876.
+
+## Academic Block
+### Library
+### Auditorium
+
+# Eateries
+1. Bits n Bytes
+2. Yummpy's
+3. [Amul](/campus/amul)
+4. [C3](/campus/c3)
