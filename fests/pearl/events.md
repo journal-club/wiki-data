@@ -13,7 +13,7 @@
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
 ## Drama
 [Charades](/fests/pearl/events/char)-Actions speak louder than words
-[Mono-Acting](/fests/pearl/events/monoa)-
+[Mono-Acting](/fests/pearl/events/monoa)-Individual acting competition
 [Natya-Shastra](/fests/pearl/events/natsha)-
 [Nukkad-Natak](/fests/pearl/events/nukkanat)-
 [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-
