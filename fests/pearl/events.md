@@ -12,11 +12,11 @@
 - [Soul-O](/fests/pearl/events/soulo), a solo dance competition, with all forms except classical being allowed
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
 ## Drama
-[Charades](/fests/pearl/events/char)-Actions speak louder than words
-[Mono-Acting](/fests/pearl/events/monoa)-Individual acting competition
-[Natya-Shastra](/fests/pearl/events/natsha)-Stage Play
-[Nukkad-Natak](/fests/pearl/events/nukkanat)-Street Play
-[Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-
+* [Charades](/fests/pearl/events/char)-Actions speak louder than words
+* [Mono-Acting](/fests/pearl/events/monoa)-Individual acting competition
+* [Natya-Shastra](/fests/pearl/events/natsha)-Stage Play
+* [Nukkad-Natak](/fests/pearl/events/nukkanat)-Street Play
+* [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-Fun event
 ## Film
 ### India Film Project - Campus Connect
 A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more details rergarding the event,[click here](/fests/pearl/events/filmproject)*
