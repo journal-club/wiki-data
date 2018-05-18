@@ -2,10 +2,10 @@
 <!-- SUBTITLE: Journal Club's special publication on ATMOS 2017. -->#
 
 # Pre-Fest Mag
-1. [Theme ATMOS 2017](/news/fests/atmos-17/theme musings)
-2. [Editor's note ATMOS 2017](/news/fests/atmos-17/editor's note)
-3. [Departments and clubs ATMOS 2017](/news/fests/atmos-17/departments and clubs)
-4. [Pre fest events ATMOS 2017](/news/fests/atmos-17/pre fest events)
+1. [Theme ATMOS 2017](/news/fests/atmos-17/themes)
+2. [Editor's note ATMOS 2017](/news/fests/atmos-17/editor'snote)
+3. [Departments and clubs ATMOS 2017](/news/fests/atmos-17/depts&clubs)
+4. [Pre fest events ATMOS 2017](/news/fests/atmos-17/preatmos)
 5. [Interviews ATMOS 2017](/news/fests/atmos-17/interviews)
 6. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
 7. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
