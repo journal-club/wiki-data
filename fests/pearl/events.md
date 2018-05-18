@@ -21,6 +21,17 @@ Since its inception, Till Deaf has witnessed the metamorphosis of bands like Fra
 ### Terpsichore
 [click here](/fests/pearl/events/terpsichore)
 ## Drama
+### Charades
+' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. *For more details regarding the event,[click here](/fests/pearl/events/char)*
+### Mono-Acting
+“It’s the adrenaline rush you only get from being in front of an audience. It’s addictive.” -Raphael Saadiq
+Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage. This Pearl’18, Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. *For momre details regarding the event,[click here](/fests/pearl/events/monoa)*
+### Natya-Shastra
+Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a privilege of BITS Pilani Hyderabad Campus to present you the stage play event of Crimson Curtain, 'Natya Shastra'. Come, captivate those minds, do what you always do, the world’s your stage. *For more details regarding the event,[click here](/fests/pearl/events/natsha)*
+### Nukkad-Natak
+The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. *For more details regarding the event,[click here](/fests/pearl/events/nukkanat)*
+### Torque A-Wheeee
+As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more ddetails rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
 ## Film
 ## Art
 ### Album Art
@@ -63,21 +74,3 @@ A classic ice-breaker game in which the goal is to get your team mate to correct
 Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
 *For more details regarding the event,[click here](/fests/pearl/events/pictionary)*
 ## Miscellaneous
-### Antakshari
-जाना पहचाना पुराना खेल एक नए अवतार में , जहाँ होंगे कई रोचक राउंड्स। मस्ती से भरी एक शाम जहां मौका होगा कई ईनाम जीतने का। Antakshari is one of the most fun filled events conducted in Pearl.
-*For more details regarding the event,[click here](/fests/pearl/events/antakshari)*
-### Football Manager
-Simulation of being a football manager. Trading players, making deals during transfer windows and getting the best out of your club. Do you have what it takes to be a football manager?
-*For more details regarding the event,[click here](/fests/pearl/events/footballmanager)*
-### Fraglore
-The signature gaming tournament of Pearl puts to test your trigger fingers! 
-*For more details regarding the event,[click here](/fests/pearl/events/fraglore)*
-### Glitterati
-"Fashion is the armor to survive the armor of everyday reality" If you think you have the panache and elegance to wow everyone with your impeccable or eccentric or intense or soft style statements, show up with those classy shoes on to BITS Pilani, Hyderabad Campus- there is a niche here for every one of you and your fashion expressions. Glitterati, the annual Fashion Event held during Pearl, the National Annual Cultural Festival of BPHC is all set to welcome you to a magical journey into the exciting world of adrenaline rushes of being on the ramp!
-*For more details regarding the event,[click here](/fests/pearl/events/glitterati)*
-### Mr. & Ms. Pearl
-It's finally here- the event everyone wants to be a part of. Showcase your talent on the grandest of stages. Show us your enthusiasm in the face of overwhelming odds. This is your chance to make it big in one of the biggest platforms of South India . The judges are discerning and the crowd demanding, but the hype is unbelievable. Be a part of Mr and Miss Pearl this year and win over everyone with your wit. It's your easiest way into the history books!
-*For more details regarding the event,[click here](/fests/pearl/events/mr&mspearl)*
-### Sherlocked
-Unravel what really happened at the crime scene, as you enact the role of a journalist at a press conference. 
-*For more details regarding the event,[click here](/fests/pearl/events/sherlocked)*
