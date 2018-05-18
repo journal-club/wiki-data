@@ -10,3 +10,5 @@ One of my dearest friends, I am proud to tell you, has managed to achieve this s
 
 My dear friend died soon after he presented these timeless pearls of wisdom to me. In fact, according to expert forensic folklore, he had died a long time ago…but there had been too much inertia for anyone to notice. I heard he was buried with the couch; they were very attached.
 
+*Article by Niharika Shankar*
+
