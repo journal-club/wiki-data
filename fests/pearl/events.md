@@ -44,7 +44,7 @@ Your chance to go back in time and change the course of history. Write a report 
 
 तो आइये, कुछ लिखते हैं !
 
-In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine : Ashlesha https://hinditarangbphc.wordpress.com [click here](/fests/pearl/events/ukti)
+In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine : [Ashlesha]( https://hinditarangbphc.wordpress.com) [click here](/fests/pearl/events/ukti)
 ### Words of a Feather
 If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. [click here](/fests/pearl/events/woaf)
 ## Photography
