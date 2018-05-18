@@ -47,10 +47,8 @@
 * [Restrospective](/fests/pearl/events/restrospective)
 ## Fine Arts
 [A Loaded Potrait](/fests/pearl/events/loadedpotrait)-Cartoon-ize your face
-[Masterstroke](/fests/pearl/events/masterstroke)*
-### Paint a Face
-Grab a brush and some paints and make a face your canvas. 
-*For more details regarding the event,[click here](/fests/pearl/events/paintaface)*
+[Masterstroke](/fests/pearl/events/masterstroke)-Theme-based Painting Competition
+[Paint a Face](/fests/pearl/events/paintaface)-Face-painting Competition.
 ### Pictionary 
 A classic ice-breaker game in which the goal is to get your team mate to correctly identify something that is drawn within the time limit.
 Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
