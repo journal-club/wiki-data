@@ -29,27 +29,13 @@ Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pit
 ### Album Art
 
 ## Quiz
-### ENT Quiz
-Welcome to the MELA. This will definitely stretch the limits of your knowledge, covering everything from modern pop culture to well-renowned classics.
-*For more detaills regarding the event,[Click here](/fests/pearl/events/entq)*
-### General Quiz
-Sameer Dharur, an alumnus of BPHC and one of the people responsible for putting our current quizzing scene on the map is back to follow up his spectacular quiz at Pearl 17. Sameer has been professionally hosting quizzes- to rave reviews- for over 2 years now. You cannot afford to miss this!
-*For more details regarding this event,[Click here](/fests/pearl/events/genq)*
-### India Quiz
-India, with a varied history ranging back nearly 5000 years, has seen much change throughout its existence, more than almost any other civilization in the world. On that note, we present to you the India Quiz, where we test you on all that there is to know about our nation, its history, and its heritage.
-*For more details regarding this event,[Click here](/fests/pearl/events/indq)*
-### Midnight AV Quiz
-This year, continuing the tradition of hosting the first event of the fest, we bring to you the Midnight AV Quiz, immediately after the inauguration. Consisting of Audio-Visual questions covering the length and breadth of human knowledge, this will be a short and entertaining quiz.
-*For more details regarding this event,[Click here](/fests/pearl/events/midavq)*
-### Open General Quiz
-Calling all folks to the flagship event of QuBITS. Get ready for a challenging yet uncomplicated game, where the questions can be from anywhere, and you only have your brain for company. Ready to pounce?
-*For more details regarding this event,[Click here](/fests/pearl/events/opgenq)*
-### Sports Quiz
-For all football fanatics and cricket connoisseurs, a chance to show-off the genius in you. From how things work to what is going on in the sports world, this quiz is going to cover everything that one can be curious about in sports.
-*For more details regarding this event,[Click here](/fests/pearl/events/spoq)*
-### Travel and Living Quiz
-Keeping the theme in mind, Pearl is proud to bring to you the 'Travel and Living' quiz, where you get to test your knowledge on fashion, food and customs from all over the world.
-*For more details regarding this event,[Click here](/fests/pearl/events/tlq)*
+[ENT Quiz](/fests/pearl/events/entq)
+[General Quiz](/fests/pearl/events/genq)
+[India Quiz](/fests/pearl/events/indq)
+[Midnight AV Quiz](/fests/pearl/events/midavq)
+[Open General Quiz](/fests/pearl/events/opgenq)
+[Sports Quiz](/fests/pearl/events/spoq)
+[Travel and Living Quiz](/fests/pearl/events/tlq)
 ## Writing
 ### Bullseye
 Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
