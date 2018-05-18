@@ -1,6 +1,7 @@
 <!-- TITLE: Masterstroke -->
 <!-- SUBTITLE: Bring out the artist in you. -->
 
+This is an online event. Bring out the artist in you! Submit an artwork based on the given themes.
 # Themes
 Depends year to year .
 
