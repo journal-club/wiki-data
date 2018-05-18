@@ -1,5 +1,5 @@
 <!-- TITLE: Gandhaara -->
-<!-- SUBTITLE: A quick summary of Gandhaara -->
+<!-- SUBTITLE: Classical instruments and vocal competition -->
 
 
 **Team Strength - Solo**
