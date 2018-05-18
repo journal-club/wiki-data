@@ -46,10 +46,8 @@
 * [Guess What ?](/fests/pearl/events/guesswhat)
 * [Restrospective](/fests/pearl/events/restrospective)
 ## Fine Arts
-[A Loaded Potrait](/fests/pearl/events/loadedpotrait)
-### Masterstroke
-This is an online event. Bring out the artist in you! Submit an artwork based on the given themes.
-*For more details regarding the event,[click here](/fests/pearl/events/masterstroke)*
+[A Loaded Potrait](/fests/pearl/events/loadedpotrait)-Cartoon-ize your face
+[Masterstroke](/fests/pearl/events/masterstroke)*
 ### Paint a Face
 Grab a brush and some paints and make a face your canvas. 
 *For more details regarding the event,[click here](/fests/pearl/events/paintaface)*
