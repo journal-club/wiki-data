@@ -1,4 +1,4 @@
-<!-- TITLE: CaptionIt -->
+<!-- TITLE: Caption It! -->
 <!-- SUBTITLE:Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. --> 
 
 # Rules:
