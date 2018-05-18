@@ -8,9 +8,7 @@
 - The event has 2 rounds. *Preliminary* and *finals*
 
 ## Rounds
-
-**PRELIMINARY ROUND**
-
+### PRELIMINARY ROUND 
 1. Time per contestant – 5 minutes including setup
 
 2. This round will happen to a closed group of members from the Music Club.
@@ -23,7 +21,7 @@
 
 6. No extra time tuning of the instruments or any other reason will be provided. Shruti box is permitted.
 
-**FINALS**
+### FINALS
 
 1. 8-10 participants will compete in the finals
 
