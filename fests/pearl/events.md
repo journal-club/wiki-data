@@ -14,8 +14,8 @@
 ## Drama
 [Charades](/fests/pearl/events/char)-Actions speak louder than words
 [Mono-Acting](/fests/pearl/events/monoa)-Individual acting competition
-[Natya-Shastra](/fests/pearl/events/natsha)-
-[Nukkad-Natak](/fests/pearl/events/nukkanat)-
+[Natya-Shastra](/fests/pearl/events/natsha)-Stage Play
+[Nukkad-Natak](/fests/pearl/events/nukkanat)-Street Play
 [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-
 ## Film
 ### India Film Project - Campus Connect
