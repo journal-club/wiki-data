@@ -1,7 +1,7 @@
 <!-- TITLE: Gandhaara -->
 <!-- SUBTITLE: A quick summary of Gandhaara -->
 
-# Header
+
 **Team Strength - Solo**
 
 This is an Indian classical solo event. Participants are expected to **STRICTLY** perform either Carnatic or Hindustani music only.
