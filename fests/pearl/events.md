@@ -14,12 +14,10 @@ Lost amidst the electrically amplified and manipulated music of our current worl
 ### Till Deaf Do We Apart 
 Since its inception, Till Deaf has witnessed the metamorphosis of bands like Frank's Got The Funk, Space Is All We Have, Family Cheese, etc. With regionals held all over India, the bands participating make for an enthralling competition.
 ## Dance
-### Abhivyaktika
-[click here](/fests/pearl/events/abhivyakti)
-### Soul 'O
-[click here](/fests/pearl/events/soulo)
-### Terpsichore
-[click here](/fests/pearl/events/terpsichore)
+Dance events conducted during pearl are:
+- [Abhivyaktika](/fests/pearl/events/abhivyakti), a solo classical dance competition
+- [Soul-O](/fests/pearl/events/soulo), a solo dance competition, with all forms except classical being allowed
+- [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
 ## Drama
 ### Charades
 ' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. *For more details regarding the event,[click here](/fests/pearl/events/char)*
@@ -33,14 +31,6 @@ The street theatre has time and again proved an effective communication tool for
 ### Torque A-Wheeee
 As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more ddetails rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
 ## Film
-### India Film Project - Campus Connect
-A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more details, [click here](/fests/pearl/events/filmproj)*
-### Kaleidoscope
-Kaleidoscope is the annual film making competition conducted by BITS Pilani Hyderabad Campus during it's cultural festival Pearl.All the person has to do is submit a film online and then it will be shortlisted by us.The winner will be announced during Pearl. *For more details, [click here](/fests/pearl/events/kaleidoscope)*.
-### Pitch It To Win It
-Ever dreamed of becoming the next Sorkin? Well here’s a push in the right direction. Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pitch It to Win It is short story idea pitch desk event.*For more details, [click here](/fests/pearl/events/pitchittowin)*.
-### Spoiler Alert
-Did you know? “The director of Cannibal Holocaust had to prove in court that the actors were still alive and didn’t get killed during the movie.” For more such interesting questions, do participate in the event “Spoiler Alert!” a movie quiz centered around cinema trivia. *For more details, [click here](/fests/pearl/events/spoileralert)*.
 ## Art
 ### Album Art
 
