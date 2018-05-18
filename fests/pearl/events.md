@@ -42,12 +42,9 @@
 * [Ukti](/fests/pearl/events/ukti)-Hindi writing event
 * [Words of a Feather](/fests/pearl/events/woaf)-English writing event
 ## Photography
-### Expressions
-[click here](/fests/pearl/events/expressions)
-### Guess What ?
-[click here](/fests/pearl/events/guesswhat)
-### Restrospective
-[click here](/fests/pearl/events/restrospective)
+* [Expressions](/fests/pearl/events/expressions)
+* [Guess What ?](/fests/pearl/events/guesswhat)
+* [Restrospective](/fests/pearl/events/restrospective)
 ## Fine Arts
 ### A Loaded Potrait
 Ever wondered how your distorted face sketch could turn out to be a great piece of art when combined with satire, humour and artistic skills. A small piece of art can be more powerful than any argument. Presenting 'A Loaded Portrait', where you are expected to make caricature of a famous personality.
