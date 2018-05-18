@@ -3,7 +3,7 @@
 
 # Overview
 It doesn’t matter what your beliefs are, what matters is to what extent you would go to defend them as you battle it out this Verba Maximus with the classical Debate. Whether you’re for the motion or against it, make sure your opinion is heard and stand a chance to win!
-![Debate](/uploads/debate.jpg "Debate"){.pagelogo}
+
 # Rules
 The debate will be conducted in a 1 on 1-format, its rules being as follows:
 
