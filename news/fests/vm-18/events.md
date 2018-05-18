@@ -16,7 +16,8 @@ Logic, communication skills and teamwork are all put to the test when you are in
 
 **J.A.M**
 
-	As always, this unique and fun-filled event was on everyone's checklist during this edition of Verba Maximus. The indigenous topics left the participants in awe while talented participants gave unique perspectives on the topics given to them. The event room was jam-packed and buzzing with creativity and energy. In between participating and waiting for the result, people could be seen enjoying the performances of other participants,visible proof of how great the event was!
+As always, this unique and fun-filled event was on everyone's checklist during this edition of Verba Maximus. The indigenous topics left the participants in awe while talented participants gave unique perspectives on the topics given to them. The event room was jam-packed and buzzing with creativity and energy. In between participating and waiting for the result, people could be seen enjoying the performances of other participants,visible proof of how great the event was!
+
 	
 ** LIT Quiz**
 
@@ -34,7 +35,8 @@ Verba Maximus 2018’s Sherlocked witnessed an overwhelming number of participan
 
 **SLAM Poetry**
 
-	This edition of Slam Poetry witnessed amazing participation. The finals of this fascinating event saw many heart touching and brilliant performances by some top-notch and inspiring poets who poured their heart and emotions out to the audience. The judges, Diksha Bijlani and Sudeep Pagedar, also gave a splendid performance and left everyone enthralled and content. 
+This edition of Slam Poetry witnessed amazing participation. The finals of this fascinating event saw many heart touching and brilliant performances by some top-notch and inspiring poets who poured their heart and emotions out to the audience. The judges, Diksha Bijlani and Sudeep Pagedar, also gave a splendid performance and left everyone enthralled and content. 
+
 
 **Symphony of the Souls**
 
