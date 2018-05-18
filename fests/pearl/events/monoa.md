@@ -15,3 +15,11 @@ Event Format: Mono-Acting is an individual acting competition hosted and organiz
 9. Use of fire/water/explosives or any other potential harmful substances is strictly prohibited.
 10. Obscenity (at the discretion of the judges) of any kind is not allowed and will lead to immediate disqualification.
 11. The decision of the judges will be final and binding.
+
+# Judging Criteria
+The participants shall be judged on the basis of: 
+1. Voice modulation (as per character relevance) 
+2. Flow of expressions 
+3. Body Language 
+4. Acting skill 
+5. Overall Impact.
