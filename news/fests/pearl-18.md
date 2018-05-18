@@ -1,4 +1,4 @@
-<!-- TITLE: Pearl'18 -->
+<!-- TITLE: Pearl 2018 -->
 <!-- SUBTITLE: A quick glance at magazines  -->
 
 # Pre-fest
