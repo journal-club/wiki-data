@@ -60,21 +60,9 @@ A classic ice-breaker game in which the goal is to get your team mate to correct
 Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
 *For more details regarding the event,[click here](/fests/pearl/events/pictionary)*
 ## Miscellaneous
-### Antakshari
-जाना पहचाना पुराना खेल एक नए अवतार में , जहाँ होंगे कई रोचक राउंड्स। मस्ती से भरी एक शाम जहां मौका होगा कई ईनाम जीतने का। Antakshari is one of the most fun filled events conducted in Pearl. 
-*For more details regarding the event,[click here](/fests/pearl/events/anatakshari)*
-### Football Manager
-Simulation of being a football manager. Trading players, making deals during transfer windows and getting the best out of your club. Do you have what it takes to be a football manager?
-*For more details regarding the event,[click here](/fests/pearl/events/footballmanager)*
-### Fraglore
-The signature gaming tournament of Pearl puts to test your trigger fingers!
-*For more details regarding the event,[click here](/fests/pearl/events/fraglore)*
-### Glitterati
-"Fashion is the armor to survive the armor of everyday reality" If you think you have the panache and elegance to wow everyone with your impeccable or eccentric or intense or soft style statements, show up with those classy shoes on to BITS Pilani, Hyderabad Campus- there is a niche here for every one of you and your fashion expressions. Glitterati, the annual Fashion Event held during Pearl, the National Annual Cultural Festival of BPHC is all set to welcome you to a magical journey into the exciting world of adrenaline rushes of being on the ramp!
-*For more details regarding the event,[click here](/fests/pearl/events/glitterati)*
-### Mr. & Ms. Pearl
-It's finally here- the event everyone wants to be a part of. Showcase your talent on the grandest of stages. Show us your enthusiasm in the face of overwhelming odds. This is your chance to make it big in one of the biggest platforms of South India . The judges are discerning and the crowd demanding, but the hype is unbelievable. Be a part of Mr and Miss Pearl this year and win over everyone with your wit. It's your easiest way into the history books!
-*For more details regarding the event,[click here](/fests/pearl/events/mr&mspearl)*
-### Sherlocked
-Unravel what really happened at the crime scene, as you enact the role of a journalist at a press conference.
-*For more details regarding the event,[click here](/fests/pearl/events/sherlocked)*
+* [Antakshari](/fests/pearl/events/anatakshari)-Fun-filled event
+* [Football Manager](/fests/pearl/events/footballmanager)-Simulation-based event
+* [Fraglore](/fests/pearl/events/fraglore)- Gaming event
+* [Glitterati](/fests/pearl/events/glitterati)- Fashion show
+* [Mr. & Ms. Pearl](/fests/pearl/events/mr&mspearl)- Talent Hunt
+* [Sherlocked](/fests/pearl/events/sherlocked)- Participants solve a crime.
