@@ -1,5 +1,5 @@
 <!-- TITLE: Atmos 2017 -->
-<!-- SUBTITLE: Journal Club's special publication on ATMOS 2017. -->#
+<!-- SUBTITLE: Journal Club's special publication on ATMOS 2017. -->
 
 # Pre-Fest Mag
 1. [Theme ATMOS 2017](/news/fests/atmos-17/themes)
