@@ -24,7 +24,7 @@
 * [Spoiler Alert](/fests/pearl/events/spoilera)-Quiz.
 
 ## Art
-### Album Art
+
 
 ## Quiz
 * [ENT Quiz](/fests/pearl/events/entq)
