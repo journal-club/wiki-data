@@ -12,8 +12,7 @@
 - [Soul-O](/fests/pearl/events/soulo), a solo dance competition, with all forms except classical being allowed
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
 ## Drama
-### Charades
- *For more details regarding the event,[click here](/fests/pearl/events/char)*
+[Charades](/fests/pearl/events/char)-Actions speak louder than words
 ### Mono-Acting
 “It’s the adrenaline rush you only get from being in front of an audience. It’s addictive.” -Raphael Saadiq
 Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage.Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. *For momre details regarding the event,[click here](/fests/pearl/events/monoa)*
