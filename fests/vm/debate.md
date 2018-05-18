@@ -3,7 +3,7 @@
 
 # Overview
 It doesn’t matter what your beliefs are, what matters is to what extent you would go to defend them as you battle it out this Verba Maximus with the classical Debate. Whether you’re for the motion or against it, make sure your opinion is heard and stand a chance to win!
-<align="centre">
+<centre>
 <img src = "https://wiki.bits-hyd.org/uploads/debate.jpg" width=300px>
 </centre>
 # Rules
