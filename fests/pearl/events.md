@@ -12,8 +12,7 @@ Everyone's a good bathroom singer. But if you have the confidence to get out of 
 Lost amidst the electrically amplified and manipulated music of our current world, the heart sometimes yearns to drown in the pure, soothing, magical sounds acoustic instruments. Do you hyperventilate when someone mentions Damien Rice? Do you just love to sit with a friend, pick up a guitar, and just sing? Well we have just the event for you: Pearl Jam.
 *For more details regarding the event,[click here](/fests/pearl/events/pearljam)*
 ### Till Deaf Do We Apart 
-[click here](/fests/pearl/events/tddwa)
-
+Since its inception, Till Deaf has witnessed the metamorphosis of bands like Frank's Got The Funk, Space Is All We Have, Family Cheese, etc. With regionals held all over India, the bands participating make for an enthralling competition.
 ## Dance
 ### Abhivyaktika
 [click here](/fests/pearl/events/abhivyakti)
