@@ -46,10 +46,10 @@
 * [Guess What ?](/fests/pearl/events/guesswhat)
 * [Restrospective](/fests/pearl/events/restrospective)
 ## Fine Arts
-[A Loaded Potrait](/fests/pearl/events/loadedpotrait)-Cartoon-ize your face
-[Masterstroke](/fests/pearl/events/masterstroke)-Theme-based Painting Competition
-[Paint a Face](/fests/pearl/events/paintaface)-Face-painting Competition.
-[Pictionary](/fests/pearl/events/pictionary)-Fun-filled event
+* [A Loaded Potrait](/fests/pearl/events/loadedpotrait)-Cartoon-ize your face
+* [Masterstroke](/fests/pearl/events/masterstroke)-Theme-based Painting Competition
+* [Paint a Face](/fests/pearl/events/paintaface)-Face-painting Competition.
+* [Pictionary](/fests/pearl/events/pictionary)-Fun-filled event
 ## Miscellaneous
 * [Antakshari](/fests/pearl/events/anatakshari)-Fun-filled event
 * [Football Manager](/fests/pearl/events/footballmanager)-Simulation-based event
