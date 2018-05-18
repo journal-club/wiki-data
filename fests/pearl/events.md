@@ -22,16 +22,21 @@ Since its inception, Till Deaf has witnessed the metamorphosis of bands like Fra
 [click here](/fests/pearl/events/terpsichore)
 ## Drama
 ### Charades
-' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. *For more details regarding the event,[click here](/fests/pearl/events/char)*
+' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. 
+*For more details regarding the event,[click here](/fests/pearl/events/char)*
 ### Mono-Acting
 “It’s the adrenaline rush you only get from being in front of an audience. It’s addictive.” -Raphael Saadiq
-Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage.Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. *For momre details regarding the event,[click here](/fests/pearl/events/monoa)*
+Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage.Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. 
+*For more details regarding the event,[click here](/fests/pearl/events/monoa)*
 ### Natya-Shastra
-Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a privilege of BITS Pilani Hyderabad Campus to present you the stage play event of Crimson Curtain, 'Natya Shastra'. Come, captivate those minds, do what you always do, the world’s your stage. *For more details regarding the event,[click here](/fests/pearl/events/natsha)*
+Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a privilege of BITS Pilani Hyderabad Campus to present you the stage play event of Crimson Curtain, 'Natya Shastra'. Come, captivate those minds, do what you always do, the world’s your stage. 
+*For more details regarding the event,[click here](/fests/pearl/events/natsha)*
 ### Nukkad-Natak
-The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. *For more details regarding the event,[click here](/fests/pearl/events/nukkanat)*
+The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. 
+*For more details regarding the event,[click here](/fests/pearl/events/nukkanat)*
 ### Torque A-Wheeee
-As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more ddetails rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
+As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. 
+*For more ddetails regarding the event,[click here](/fests/pearl/events/torqueawheeee)*
 ## Film
 ## Art
 ### Album Art
@@ -39,19 +44,24 @@ As Hamlet said to Ophelia, " God has given you one face, and you make yourself a
 ## Quiz
 ## Writing
 ### Bullseye
-Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?[Click here](/fests/pearl/events/bullseye) for more details.
+Crossword with a twist! Find words using the given letters to earn points. Do you have what it takes to score a bullseye?
+*For more details regrding the event,[click here](/fests/pearl/events/bullseye)*
 ### Caption It !
-Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. [Click here](/fests/pearl/events/captionit) for more details.
+Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. 
+*For more details regarding the event,[click here](/fests/pearl/events/captionit)*
 ### Minute to Win It !
 Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
-
-[Happy Gaming!](/fests/pearl/events/minutetowinit)
+Happy Gaming!
+*For more details regarding the event,[click here](/fests/pearl/events/minutetowinit)*
 ### Time Machine 
-Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[Click here](/fests/pearl/events/timemachine) for more detials.
+Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.
+*For more details regarding the event.[click here](/fests/pearl/events/timemachine)*
 ### Ukti
-In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). For more details, [Click here](/fests/pearl/events/ukti).
+In this writing event, you would be given the opportunity to write a poem or a short story after taking inspiration from a picture shown or a topic provided. Along with exciting cash prizes of 10000 and amazing goodies, you would have an opportunity to publicize your work through our Facebook Page and Monthly Magazine: [Ashlesha](https://hinditarangbphc.wordpress.com). 
+*For more details regarding the event,[click here](/fests/pearl/events/ukti)*
 ### Words of a Feather
-If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. [Click here](/fests/pearl/events/woaf) for more details .
+If you consider words to be your armor and weaponry in a lone field of chaos, you're in for a spin as a significant chunk of your artillery is not yours to choose. With words being hurled at you at specific intervals and time of course, being your foe, curate the chaos you face into a tale of imagination left to run wild with your thoughts. 
+*For more details regarding the event,[click here](/fests/pearl/events/woaf)*
 ## Photography
 ### Expressions
 [click here](/fests/pearl/events/expressions)
