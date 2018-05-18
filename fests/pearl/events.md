@@ -2,13 +2,10 @@
 <!-- SUBTITLE: List of Pearl events, sorted by genre. -->
 
 ## Music
-[ Gandhaara](/fests/pearl/events/gandhaara)
-
-[ Jhankaar](/fests/pearl/events/jhankaar)-Solo Singing Competition
-
-[Pearl Jam](/fests/pearl/events/pearljam)-Acoustic Band Competition
-
-[Till Deaf Do We Apart](/fests/pearl/events/tddwa)-Semi-Professional Band 
+- [Gandhaara](/fests/pearl/events/gandhaara)- Classical Singing Competition
+- [Jhankaar](/fests/pearl/events/jhankaar)-Solo Singing Competition
+- [Pearl Jam](/fests/pearl/events/pearljam)-Acoustic Band Competition
+- [Till Deaf Do We Apart](/fests/pearl/events/tddwa)-Semi-Professional Band 
 
 ## Dance
 - [Abhivyaktika](/fests/pearl/events/abhivyakti), a solo classical dance competition
@@ -16,7 +13,7 @@
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
 ## Drama
 ### Charades
-' Actions speak louder than words ' Having a strong belief in these words, Pearl presents you the game having it's roots in your childhood memories. This skill-oriented game shall test your ability to act in prompt to given clues. *For more details regarding the event,[click here](/fests/pearl/events/char)*
+ *For more details regarding the event,[click here](/fests/pearl/events/char)*
 ### Mono-Acting
 “It’s the adrenaline rush you only get from being in front of an audience. It’s addictive.” -Raphael Saadiq
 Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage.Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. *For momre details regarding the event,[click here](/fests/pearl/events/monoa)*
