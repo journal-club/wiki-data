@@ -17,7 +17,7 @@ The difference between entrepreneurship and social entrepreneurship.
 # General info :
 Your presentation should be of x minutes, maximum. You will be judged on the basis of the feasibility and presentation skills. So, pitch well! 
 There will also be an interactive session with the judge for x minutes. 
-**Some Problem Statements **(nice and terse here…specifications shall be given at the event). 
+**Some Problem Statements ** (nice and terse here…specifications shall be given at the event). 
 a) Providing quality education as opposed to increasing number of educational services. 
 b) Mitigating traffic congestion in cities and urban areas. 
 c) Facilitating rapid, timely access to health care in rural areas. 
