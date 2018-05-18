@@ -1,5 +1,5 @@
 <!-- TITLE: Fxed -->
-<!-- SUBTITLE: A quick summary of Fxed -->
+
 
 # Header
 This is the event exclusively for VFx artists and enthusiasts alike as it is challenging. This events test your visual effects skills as you need to add cool effects to video(s). Rules:
@@ -14,4 +14,3 @@ This is the event exclusively for VFx artists and enthusiasts alike as it is cha
 
 5. Your mail should contain your details and PEARL ID.
 
-6. Drive link for raw footage - https://drive.google.com/drive/folders/1VAKVr7H89T12mCgIIsEARzjTtuPTBLP-
