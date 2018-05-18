@@ -13,15 +13,10 @@
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
 ## Drama
 [Charades](/fests/pearl/events/char)-Actions speak louder than words
-### Mono-Acting
-“It’s the adrenaline rush you only get from being in front of an audience. It’s addictive.” -Raphael Saadiq
-Aiming to capture a mesmerising theatrical experience, Crimson Curtain BPHC introduces to you its Mono Acting Event- Going Solo. Come and showcase your mettle in this solo acting competition where we explore and celebrate the uniqueness of the individual. Utilise props to your benefit and make use of the entire stage. Revel in motions of jubilation, sadness, irritation, anger and showcase your versatility. It’s the perfect opportunity for the actor in you to take the centre stage.Crimson Curtain's mono-acting event gives you the chance showcase your acting chops with a panache. Enjoy the spotlight, all for yourself. *For momre details regarding the event,[click here](/fests/pearl/events/monoa)*
-### Natya-Shastra
-Lights out. The curtain opens. You open your eyes. And cue.You breathe. It is a privilege of BITS Pilani Hyderabad Campus to present you the stage play event of Crimson Curtain, 'Natya Shastra'. Come, captivate those minds, do what you always do, the world’s your stage. *For more details regarding the event,[click here](/fests/pearl/events/natsha)*
-### Nukkad-Natak
-The street theatre has time and again proved an effective communication tool for taking even the toughest message in a simple way to the people. Better known as ‘nukkad-natak’ today,it is perhaps the best way to connect with the common man. Nukkad-nataks are an important tool in creating awareness, empowering the youth and utilizing our right to freedom of speech and expression positively. This colloquial form of drama connects with the youth instantly. In recent years, street theatre has picked up pace and has acquired an image of a more moral nature with just the right kind of fun. These are intimate, brief, direct and address the social/political message head-on with the help of drama. The catchy phrases and songs, crisp script, humour and loudness help in making a long lasting and powerful effect on viewers. The lack of formal atmosphere adds to its appeal and gives it a real lifelike look. Here, at Pearl you have the opportunity to showcase your acting prowess and win great prizes. This is your chance to make the audience believe in what you believe. *For more details regarding the event,[click here](/fests/pearl/events/nukkanat)*
-### Torque A-Wheeee
-As Hamlet said to Ophelia, " God has given you one face, and you make yourself another", we the Dramatics club brings to you an opportunity to showcase your mettle in acting with your grip on your luck. Come and experience the 'Torque' of destiny and try to defeat it with your acting. *For more details rergarding the event,[click here](/fests/pearl/events/torqueawheeee)*
+[Mono-Acting](/fests/pearl/events/monoa)-
+[Natya-Shastra](/fests/pearl/events/natsha)-
+[Nukkad-Natak](/fests/pearl/events/nukkanat)-
+[Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-
 ## Film
 ### India Film Project - Campus Connect
 A shoutout to all the frenzied filmmakers and scriptwriters out there. *For more details rergarding the event,[click here](/fests/pearl/events/filmproject)*
