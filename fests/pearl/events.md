@@ -1,5 +1,5 @@
-<!-- TITLE: List Of Events -->
-<!-- SUBTITLE: Arranged under different genres -->
+<!-- TITLE: List Of Pearl Events -->
+<!-- SUBTITLE: List of Pearl events, sorted by genre. -->
 
 ## Music
 ### Gandhaara
@@ -14,7 +14,6 @@ Lost amidst the electrically amplified and manipulated music of our current worl
 ### Till Deaf Do We Apart 
 Since its inception, Till Deaf has witnessed the metamorphosis of bands like Frank's Got The Funk, Space Is All We Have, Family Cheese, etc. With regionals held all over India, the bands participating make for an enthralling competition.
 ## Dance
-Dance events conducted during pearl are:
 - [Abhivyaktika](/fests/pearl/events/abhivyakti), a solo classical dance competition
 - [Soul-O](/fests/pearl/events/soulo), a solo dance competition, with all forms except classical being allowed
 - [Terpsichore](/fests/pearl/events/terpsichore), a group dance competition
