@@ -8,7 +8,7 @@ Online Event. In this event, you have to design a cover for a music album/track.
 
 1. Choose a song/album by any artist/band. You can then start working on your cover.
 
-2. You will have time till March 24, 2018 to complete the cover and submit it to us. The entries are to be mailed to designclub@hyderabad.bits-pilani.ac.in with the .jpeg or .png file of the cover and the original file, like .psd or .ai file, and also the original images used, if any, as attachment to the mail with the subject as Album Art Cover Submission and body of the mail should have your details and Pearl ID and the name of the artist and album.
+2. The entries are to be mailed to designclub@hyderabad.bits-pilani.ac.in with the .jpeg or .png file of the cover and the original file, like .psd or .ai file, and also the original images used, if any, as attachment to the mail with the subject as Album Art Cover Submission and body of the mail should have your details and Pearl ID and the name of the artist and album.
 
 ## RULES AND REGULATIONS:
 
