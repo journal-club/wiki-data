@@ -47,7 +47,7 @@ This national event not only involves your decision-making skills, but also inco
 ### Tech Expo
 The Tech Expo newly launched in the 5th edition-Atmos 16' aims at providing a platform for thinkers and techies to showcase their projects to prospective sponsors, incubators and mentors. For more details, [visit this page](/fests/atmos/events/Tech_Expo)
 ### The Courtroom
-Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details,[visit this page](/fests/atmos/events/courtroom)
+Become the next Harvey Specter as you defend your client and emerge victorious in the courtroom. Being a lawyer of your firm, you have to defend your firm or accuse the other firm against the violated law; as will be disclosed in the case study. Using the weapon of words and armour of the governmental law, be the saviour of your client. For more details, [visit this page](/fests/atmos/events/courtroom)
 
 
 
