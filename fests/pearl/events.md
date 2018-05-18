@@ -31,8 +31,7 @@ Crossword with a twist! Find words using the given letters to earn points. Do yo
 Stir your brain and come up with amazing captions for the given picture prompts! Creativity is the only criteria of judgement. [Click here](/fests/pearl/events/captionit) for more details.
 ### Minute to Win It !
 Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
-
-[Happy Gaming!](/fests/pearl/events/minutetowinit)
+Happy Gaming! [Click here](/fests/pearl/events/minutetowinit)
 ### Time Machine 
 Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[Click here](/fests/pearl/events/timemachine) for more detials.
 ### Ukti
