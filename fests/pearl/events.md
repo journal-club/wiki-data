@@ -24,7 +24,12 @@
 * [Spoiler Alert](/fests/pearl/events/spoilera)-Quiz.
 
 ## Art
-
+* [Album Art](/fests/pearl/events/albumart)
+* [Cinematic Trailer](/fests/pearl/events/cinematictrailer)
+* [Doodler](/fests/pearl/events/doodler)
+* [Fx'ed](/fests/pearl/events/fx'ed)
+* [Synced-In](/fests/pearl/events/syncedin)
+* [Travelogue](fests/pearl/events/travelogue)
 
 ## Quiz
 * [ENT Quiz](/fests/pearl/events/entq)
