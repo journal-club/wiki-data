@@ -1,5 +1,5 @@
-<!-- TITLE: Hawkingwizard -->
-<!-- SUBTITLE: A quick summary of Hawkingwizard -->
+<!-- TITLE: Hawking-Wizard -->
+<!-- SUBTITLE: A quick summary of Hawking-Wizard -->
 
 # About :
 *If you don't build your dream, someone else will hire you to help them build theirs.* A lot of us have dreamt of having a business of our own, but do you know what's more challenging than starting a business? It is managing that business when it starts to grow! If you think you are the wizard who can manage resources and time most efficiently, then Atmos @Bphc is your place! To all you management enthusiasts out there, this is your HOGWARTS!
