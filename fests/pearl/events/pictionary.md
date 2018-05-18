@@ -1,6 +1,9 @@
 <!-- TITLE: Pictionary -->
 <!-- SUBTITLE:Pick, draw and guess. -->
 
+A classic ice-breaker game in which the goal is to get your team mate to correctly identify something that is drawn within the time limit.
+Ever thought that guessing your friend’s drawing could fetch you money? Well Shades considers that guessing is an art too. We bring forward to you the perfect event that is fun-filled , artistic and that would totally get your adrenaline rushing. It’s a game that matters!
+
 # RULES 
 
 Pictionary would be an event consisting of 3 rounds, each of whose tasks increase in the level of difficulty. The participants play in teams of 2 in all the 3 rounds.
