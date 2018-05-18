@@ -1,6 +1,7 @@
 <!-- TITLE: Kaleidoscope -->
 <!-- SUBTITLE:Short Movie Competition  -->
 
+Kaleidoscope is the annual film making competition conducted by BITS Pilani Hyderabad Campus during it's cultural festival Pearl.All the person has to do is submit a film online and then it will be shortlisted by us.The winner will be announced during Pearl.
 **Content Notice: It is the responsibility of the entrants to ensure that no copyright laws are violated. Content with explicit sex & violence and / or contrary to public decency/order will not be permitted.**
 
 ## RULES AND REGULATIONS
