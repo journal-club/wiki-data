@@ -3,7 +3,8 @@
 
 # Overview :
 Do you think you can use your entrepreneurial skills to fix flawed systems of the society? 
-Then *‘Sudhar’* is the event for you to attend. It is the perfect opportunity to test your capabilities of leveraging technology to design a business model that solves present-day issues. There are many\nissues that are presently receiving high attention in the current social enterprise sector, so bewarethere is no dearth of competition to your ideas. Is yours good enough to make the cut? So…wannabe Muhammad Yunuses and Bunker Roys, pull up your socks- Sudhaar is coming soon (pun totally intended). 
+Then *‘Sudhar’* is the event for you to attend. It is the perfect opportunity to test your capabilities of leveraging technology to design a business model that solves present-day issues. There are many issues that are presently receiving high attention in the current social enterprise sector, so beware there is no dearth of competition to your ideas. Is yours good enough to make the cut? 
+So…wannabe Muhammad Yunuses and Bunker Roys, pull up your socks- Sudhaar is coming soon (pun totally intended). 
 # Some Rules : 
 ## Here’s what you need to know:
 The difference between entrepreneurship and social entrepreneurship.
