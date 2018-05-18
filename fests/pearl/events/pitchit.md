@@ -1,6 +1,8 @@
 <!-- TITLE:Pitch It to Win It -->
 <!-- SUBTITLE: Just pitch your idea for a story within limited time-->
 
+Pitch us your idea for a movie and get a chance to win exciting cash prizes. Pitch It to Win It is short story idea pitch desk event.
+
 ## Rules and Regulations:
 
 * The event will be held in two stages. Stage 1 will be the preliminary round. The shortlisted candidates will move forward to the next stage, which will decide the winners.
