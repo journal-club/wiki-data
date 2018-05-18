@@ -32,7 +32,7 @@ Stir your brain and come up with amazing captions for the given picture prompts!
 ### Minute to Win It !
 Pearl brings to you, "Minute To Win It!", a team-event, which consists of a series of mini-games (word-games), played one after the other (each having a duration of 1 minute), in an intense, competitive environment. The games can be played in any of the following language - French, German, Spanish, Japanese, Sanskrit. A basic understanding of any of these 5 languages would suffice.
 
-Happy Gaming![click here](/fests/pearl/events/minutetowinit)
+Happy Gaming! [click here](/fests/pearl/events/minutetowinit)
 ### Time Machine 
 Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like.[click here](/fests/pearl/events/timemachine)
 ### Ukti
