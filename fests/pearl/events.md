@@ -18,10 +18,11 @@
 * [Nukkad-Natak](/fests/pearl/events/nukkanat)-Street Play
 * [Torque A-Wheeee](/fests/pearl/events/torqueawheeee)-Fun event
 ## Film
-[India Film Project - Campus Connect](/fests/pearl/events/filmproject)-Film-making Competition.
-[Kaleidoscope](/fests/pearl/events/kaleidoscope)-Short Film-making Competition.
-[Pitch It to Win It](/fests/pearl/events/pitchit)-
-### 
+* [India Film Project - Campus Connect](/fests/pearl/events/filmproject)-Film-making Competition.
+* [Kaleidoscope](/fests/pearl/events/kaleidoscope)-Short Film-making Competition.
+* [Pitch It to Win It](/fests/pearl/events/pitchit)-Just pitch your idea for a story within limited time.
+* [Spoiler Alert](/fests/pearl/events/spoilera)-Quiz.
+
 ## Art
 ### Album Art
 
