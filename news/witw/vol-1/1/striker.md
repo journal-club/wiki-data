@@ -4,7 +4,6 @@ With the start of the new year and the largest batch intake till date, the campu
 
 Coming back to our own campus, there have been 2 intra-college cricket matches between the 2 teams, BPHC A and BPHC B led by Ishant Singh and Kritanshu Singh respectively. The first match was won by BPHC B by 2 wickets and the second one by BPHC A by 25 runs. The sports culture on campus is going to be promoted greatly by ‘Blitzkreig’, an oncampus IPL-like event where players are auctioned off to the various ‘buyers’/captains leading to various matches being played amongst themselves. The first auction was for the most loved sport of India: cricket; with the four team captains facing off to bid for the best players on campus. It was hosted by Gargic Mishra and Yashvardhan Shukla. Each captain was given an amount of 40 lakhs to use to build their own dream team.
 
-The auction was for cricket players and enthusiasts of every year. The bids went up to 15 lakhs with the highest one being 15.5 lakhs for star player Harsh Mundra,
-given by Kritanshu Singh. The captains readily bid for several first years as well, with the highest bid for a first year going up to 6 lakhs.
+The auction was for cricket players and enthusiasts of every year. The bids went up to 15 lakhs with the highest one being 15.5 lakhs for star player Harsh Mundra, given by Kritanshu Singh. The captains readily bid for several first years as well, with the highest bid for a first year going up to 6 lakhs.
 
 This edition of Blitzkrieg is no doubt going to be full of excitement and raw talent, with teams battling out for victory!
