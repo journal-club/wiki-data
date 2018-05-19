@@ -32,8 +32,11 @@ There is also an idol of a Shiva Lingam. A unique feature of this temple is that
 
 Bahamani Tombs house many tombs of various Bahamani rulers. One of the tombs belongs to Ahmed Shah Alwali Bahamani, the ninth ruler of Bidar. On its interior, you can witness an array of bright colours.There are also beautiful paintings on the wall and the engraving of verses of Quran is another highlight. The swastika symbol on the mausoleum is another surprising element. But don’t be surprised, as Ahmad Shah was a liberal ruler. Each tomb has a special architectural style and is decorated in a beautiful manner. Visiting the tombs during day time is what will help you see the intricate architecture and other features of the tomb.
 
-         There’s a 21st century saying, which goes by the acronym YOLO. You.Only.Live.Once. This is why, one must live one’s life to the fullest! Traveling definitely does help achieve that! So pack your bags, and go on a trip! You never know how a single trip might be a life changer for you!!
 
+
+
+**         There’s a 21st century saying, which goes by the acronym YOLO. You.Only.Live.Once. This is why, one must live one’s life to the fullest! Traveling definitely does help achieve that! So pack your bags, and go on a trip! You never know how a single trip might be a life changer for you!!
+**
 
 
 *by Rithvik Donnipadu*
