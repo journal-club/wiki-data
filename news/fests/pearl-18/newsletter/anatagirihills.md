@@ -8,8 +8,7 @@ At a distance of 7 km from Vikarabad Bus Stand, 79 km from Hyderabad and 48 km f
 
 On the slopes of Anantagiri Hills, the Musi river, which flows through Hyderabad is born. The small reservoir, the lush green jungle and the jungle trail are added attractions to this place covered by thick vegetation and beautiful streams with fresh water.
 
-<center>
-</center>
+INSERT IMAGE HERE 
 
 * Distance from campus : 102 km
 
@@ -21,12 +20,9 @@ On the slopes of Anantagiri Hills, the Musi river, which flows through Hyderabad
 
 * How to Reach : 
 - By Cab : 
-<center>
-</center>
+INSERT IMAGE HERE
 - By Train: 
-<center>
-
-</center>
+INSERT IMAGE HERE
 
 * Travel Tips: Bugga Rameshwaram Temple is worth a visit Anantagiri Hills which is at a distance of 7 kms. 
 * Budget : Rs.2000/-
