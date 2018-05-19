@@ -7,7 +7,7 @@
 City life can get stressful and sometimes calming walks at the necklace road just don’t cut it. Sometimes you need to take the entire day off so that you can reconnect with yourself. Medak is one of the spots that can make the perfect getaway from Hyderabad.
 
 ### Trip Details :
-**Location** : Medak and Pocharam
+**Location** :  Medak and Pocharam
 **Duration**: 1 Day
 **Distance from Campus **: Medak at 83 km and Pocharam at 106 km.
 **Church Timings **: 9:00 AM to 5:00 PM on weekdays
