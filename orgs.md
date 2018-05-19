@@ -3,17 +3,23 @@
 
 # Clubs
 Clubs on campus today are:
-
-1. [Journal Club](/orgs/journal-club) - The journalism club
-2. [English Language Activities Society](/orgs/elas) - The literary club
-3. [Dance Club](/orgs/dance-club)
-4. [Music Club](/orgs/music-club)
-5. [Dramatics Club](/orgs/dramatics-club)
-6. [Shades](/orgs/shades)
-7. [Cooking Club](/orgs/cooking-club)
-8. [SaFL](/orgs/safl)
-9. [Hindi Tarang](/orgs/hindi-tarang)
-10. [Crux](/orgs/crux)
+1.  [ARC](/orgs/arc) 
+2.  [Bhangra](/orgs/bhangra)
+3.  [Cooking Club](/orgs/cooking-club)
+4.  [CRUx](/orgs/crux)
+5.  [DA](/orgs/da) 
+6.  [Dance Club](/orgs/dance-club) 
+7.  [Dramatics Club](/orgs/dramatics-club)
+8.  [ELAS](/orgs/elas) 
+9.  [Hindi Tarang](/orgs/hindi-tarang)
+10. [Journal Club](/orgs/journal-club) 
+11. [Music Club](/orgs/music-club)
+12. [Photog](/orgs/photog)
+13. [SaFL](/orgs/safl)
+14. [Shades](/orgs/shades)
+15. [Swaranjali](/orgs/swaranjali)
+16. [VFX](/orgs/vfx)
+17. [Wall Street](/orgs/wall-street)
 # Departments
 1. [DoTA](/orgs/dota) - The department that handles websites, posters and apps related to fests.
 2. [DoSM](/orgs/dosm) - in charge of negotiating with sponsors for fests
