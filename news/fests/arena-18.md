@@ -4,4 +4,5 @@
 # List of articles
 - [**Where legends are born**](/news/fests/arena-18/legendsborn)
 - [**Arena**](/news/fests/arena-18/arena)
-- [**A word with the sports secretaries**](/news/fests/arena-18/awordwiththesportssec)
+- [**A word with the Sports Secretaries**](/news/fests/arena-18/awordwiththesportssec)
+- [**Sports and Politics**](/news/fests/arena-18/sportsandpolitics)
