@@ -9,8 +9,8 @@ City life can get stressful and sometimes calming walks at the necklace road jus
 ### Trip Details :
 **Location** :  Medak and Pocharam
 **Duration**: 1 Day
-**Distance from Campus **: Medak at 83 km and Pocharam at 106 km.
-**Church Timings **: 9:00 AM to 5:00 PM on weekdays
+**Distance from Campus**: Medak at 83 km and Pocharam at 106 km.
+**Church Timings**: 9:00 AM to 5:00 PM on weekdays
 **Transportation Options** : Bus/Car
 
 Reaching Medak, the first thing to do would be to visit the Medak Church.This church is said to be one of the largest in Asia. Its rich history, the style of architecture and the old Victorian vibe is sure to enthral your senses. Built by Charles Walker Posnett, a British Wesleyan Methodist in 1924, it is the single largest Diocese in Asia and the second largest in the world. A Diocese is a district under the Pastoral care of the bishop in the Christian Church.
