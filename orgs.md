@@ -6,14 +6,13 @@ Clubs on campus today are:
 
 1. [Journal Club](/orgs/journal-club) - The journalism club
 2. [English Language Activities Society](/orgs/elas) - The literary club
-3. [Dance Club](/dance-club)
-4. [Music Club](/music-club)
-5. [Dramatics Club](/dramatics-club)
-6. [Shades](/shades)
-7. [Cooking Club](/cooking-club)
-8. [SaFL](/safl)
-9. Hindi Tarang
-
+3. [Dance Club](/orgs/dance-club)
+4. [Music Club](/orgs/music-club)
+5. [Dramatics Club](/orgs/dramatics-club)
+6. [Shades](/orgs/shades)
+7. [Cooking Club](/orgs/cooking-club)
+8. [SaFL](/orgs/safl)
+9. [Hindi Tarang](/orgs/hindi-tarang)
 # Departments
 1. [DoTA](/orgs/dota) - The department that handles websites, posters and apps related to fests.
 2. [DoSM](/orgs/dosm) - in charge of negotiating with sponsors for fests
