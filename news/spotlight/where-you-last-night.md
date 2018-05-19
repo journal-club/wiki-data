@@ -6,8 +6,9 @@ Two hours after midnight every day, BITS campus reverberates with the sound of t
 Before going to their rooms however, the girls give proof of their return to the hostel through a biometric scanner. The system of biometric attendance is a wonderful safety measure, a way to monitor and ensure that the student is present and healthy. 
 
 Every time a student doesn’t give biometric, it is registered in the hostel supervisor’s records. The next day when the chowkidar sees the student on her way in or out of the hostel, she is made to sign an undertaking citing her reasons for not giving biometric attendance. But, if the student is not seen by the chowkidar outside her room, the assistant supervisor goes to the student’s room to check if she’s in her room and is ok, following which she is made to sign the undertaking. Considering most of us at BITS are allotted single rooms, this protocol of checking up on the students makes certain that the student is not in any peril due to ill health or any other reason for that matter.
-
-
+<center>
+<img src ="https://wiki.bits-hyd.org/uploads/news/girls-biometric-attendance-form.jpg">
+</center>
 Then why is such an important safekeeping measure only restricted to the girls? Does the administration not care enough about the safety of its male students? Why isn’t a similar system of checks implemented for the boys? 
 
 Unless of course the biometric system is used less as a means of safekeeping and more as a means to police our movements as is evident by the undertaking. If the intention is safety then one signature the next day as proof of well being should be enough. Instead, the undertaking demands that we give one of 3 options reason for not marking attendance: 
