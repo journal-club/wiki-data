@@ -29,3 +29,5 @@
 
 **Q**: What is it about ARENA that makes it unique?
 **Aastha**:ARENA is a sports fest. Sports is something that connects everyone regardless of their other inclinations. At ARENA not only the players but also the non-playing community can have a lot of excitement as they support their team and their sport. For example if you are watching the final of the basketball game and it is a nail-biting finish. The rush you feel in such times cannot be felt in other fests. That’s why I would again request everyone to come out in large numbers to support the players.
+
+*Interviewed by Raghav*
