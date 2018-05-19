@@ -26,6 +26,7 @@ Boys, on the other hand, do not have any system to check their whereabouts despi
 You might wonder what is the problem in declaring one’s whereabouts if she hasn’t done anything wrong? Why is the student reluctant to call her parents if she knows she’s on the right?
 
 Well, it is a matter of principle. Why should an adult over the age of 18, capable of making her own decisions be put through these situations?
+
 One would then argue that this is a college with its own rules to enforce discipline, that the students need to adhere to by virtue of being a part of this community.
 
 But why then are these rules imposed only on a section of the population and not on all individuals?
