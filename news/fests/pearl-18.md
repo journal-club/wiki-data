@@ -11,3 +11,4 @@ Released one day before the start of Pearl 2018, on 22nd March, Fernweh explores
 Yet to be released. Stay tuned for more!
 
 # Newsletter
+Travel Newsletter. [Click here](/news/fests/pearl-18/newsletter)
