@@ -9,7 +9,6 @@ At a distance of 7 km from Vikarabad Bus Stand, 79 km from Hyderabad and 48 km f
 On the slopes of Anantagiri Hills, the Musi river, which flows through Hyderabad is born. The small reservoir, the lush green jungle and the jungle trail are added attractions to this place covered by thick vegetation and beautiful streams with fresh water.
 
 <center>
-![Screen Shot 2018 05 19 At 1 15 50 Pm](/uploads/screen-shot-2018-05-19-at-1-15-50-pm.png "Screen Shot 2018 05 19 At 1 15 50 Pm")
 </center>
 
 * Distance from campus : 102 km
@@ -22,6 +21,8 @@ On the slopes of Anantagiri Hills, the Musi river, which flows through Hyderabad
 
 * How to Reach : 
 - By Cab : 
+<center>
+</center>
 - By Train: 
 <center>
 
