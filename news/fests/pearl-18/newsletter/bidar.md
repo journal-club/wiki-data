@@ -1,7 +1,5 @@
 <!-- TITLE: Bidar -->
-<!-- SUBTITLE: A quick summary of Bidar -->
 
-# Header
 For the Historian in you:
 ## A trip to Bidar:-
                                                               
