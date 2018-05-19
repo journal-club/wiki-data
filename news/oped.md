@@ -13,4 +13,4 @@
 
 </center>
 
-The views and opinions expressed in thes article are those of the authors and do not necessarily reflect the official policy or position of BITS Wiki or Journal Club.
+The views and opinions expressed in these article are those of the authors and do not reflect the official policy or position of BITS Wiki or Journal Club.
