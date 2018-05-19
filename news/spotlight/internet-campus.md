@@ -1,5 +1,5 @@
 <!-- TITLE: Internet Campus -->
-<!-- SUBTITLE: A quick summary of Internet Campus -->
+<!-- SUBTITLE: A spotlight by Journal Club on Campus Internet -->
 
 At BPHC, it is possible for us to live without food for a day, but not without internet, even for an hour. From Facebook and club/department work to accessing academic and professional resources, our lives on campus depend heavily on the internet. It being so crucial to everything we do, any disruption in the net service or speed is bound to cause an uproar and rightly so. Though complaints about the net speed have reduced greatly (particularly after the forming of the IPC Student Nucleus), JC Spotlight intended to cover the campus internet scenario so that all students know of all possible perspectives about it. This was done so that the students could take an informed and mature course of action if some problem arises in future.
 
@@ -41,5 +41,8 @@ Note: Mbps in the current article means “Megabits per second”. Same goes for
 - Sreekar Chigurupati
 - Aditya Krishna (SU nominated Student Representative in 2015)
 - Nischay Ram Mamidi
+
+# Reference
+- [Internet Usage Stats BPHC Aug - Sept 2016 (PDF)](/uploads/news/traffic-stats-bphc-aug-sept-2016.pdf "Traffic Stats Bphc Aug Sept 2016")
 
 *Article by Priyanka Perumalla, Rohitt Vashishtha, Lipi Deepakshi Patnaik. Originally punlished on SWD Chronicles on February 18th, 2017.*
