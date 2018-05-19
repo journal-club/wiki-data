@@ -1,7 +1,5 @@
 <!-- TITLE: Anatagirihills -->
-<!-- SUBTITLE: A quick summary of Anatagirihills -->
 
-# Header
 ## Anantagiri Hills 
 
 At a distance of 7 km from Vikarabad Bus Stand, 79 km from Hyderabad and 48 km from Sangareddy Bus Stand, the Anantagiri Hills are located at Vikarabad of Ranga Reddy district, Telangana. It is being developed as a small hill station and makes for a great tourist spot due to  its proximity to Hyderabad .
