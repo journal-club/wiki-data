@@ -18,7 +18,7 @@ In each edition of Pearl since 2010, the organizing body has based the events an
 |[Pearl 2012](/fests/pearl/2012)|**World 1-2**| |
 |[Pearl 2013](/fests/pearl/2013)|**Hakuna Matata**| |
 |[Pearl 2014](/fests/pearl/2014)|**Incredible India**| |
-|[Pearl 2015](/fests/pearl/2015)|**Odyssey of Legends**| |
+|[Pearl 2015](/fests/pearl/2015)|**Odyssey of Legends**| 12-15 March |
 |[Pearl 2016](/fests/pearl/2016)|**Live Evil**| |
 |[Pearl 2017](/fests/pearl/2017)|**The Carnivalesque Episode**| 17-19 March |
 |[Pearl 2018](/fests/pearl/2018)|**Wanderlust**| 23-25 March|
