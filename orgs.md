@@ -21,4 +21,5 @@ Clubs on campus today are:
 5. [DoRA](/orgs/dora) 
 6. [DoVE](/orgs/dove) 
 7. [DoPy](/orgs/dopy) 
+8. [LSD](/orgs/lsd)
 The list will keep expanding.
