@@ -1,4 +1,3 @@
-<!-- TITLE: Launchpad -->
-<!-- SUBTITLE: A quick summary of Launchpad -->
+<!-- TITLE: LaunchPad -->
+<!-- SUBTITLE: LaunchPad is the entrepreneurial summit of BITS Hyderabad. -->
 
-# Header
