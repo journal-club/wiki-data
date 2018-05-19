@@ -13,7 +13,7 @@ In each edition of Pearl since 2010, the organizing body has based the events an
 
 | Year | Theme | Dates |
 |--|--|--|--|
-|[Pearl 2010](/fests/pearl/2010)|**Genesis**| |
+|[Pearl 2010](/fests/pearl/2010)|**Genesis**| 26-28 March |
 |[Pearl 2011](/fests/pearl/2011)|**Dreamscape**| |
 |[Pearl 2012](/fests/pearl/2012)|**World 1-2**| |
 |[Pearl 2013](/fests/pearl/2013)|**Hakuna Matata**| |
