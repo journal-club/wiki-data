@@ -1,7 +1,5 @@
 <!-- TITLE: Medakandpocharam -->
-<!-- SUBTITLE: A quick summary of Medakandpocharam -->
 
-# Header
  ## Medak and Pocharam
  
 City life can get stressful and sometimes calming walks at the necklace road just don’t cut it. Sometimes you need to take the entire day off so that you can reconnect with yourself. Medak is one of the spots that can make the perfect getaway from Hyderabad.
