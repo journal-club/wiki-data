@@ -1,4 +1,4 @@
-<!-- TITLE: Newsletter -->
+<!-- TITLE: Newsletters -->
 
 
 [**Anantagiri Hiils**](/news/fests/pearl-18/newsletter/anatagirihills)
