@@ -46,4 +46,4 @@ Note: Mbps in the current article means “Megabits per second”. Same goes for
 # Reference
 - [Internet Usage Stats BPHC Aug - Sept 2016 (PDF)](/uploads/news/traffic-stats-bphc-aug-sept-2016.pdf "Traffic Stats Bphc Aug Sept 2016")
 
-*Article by Priyanka Perumalla, Rohitt Vashishtha, Lipi Deepakshi Patnaik. Originally punlished on SWD Chronicles on February 18th, 2017.*
+*Article by Priyanka Perumalla, Rohitt Vashishtha, Lipi Deepakshi Patnaik. Originally published on SWD Chronicles on February 18th, 2017.*
