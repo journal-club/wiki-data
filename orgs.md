@@ -13,13 +13,15 @@ Clubs on campus today are:
 8.  [ELAS](/orgs/elas) 
 9.  [Hindi Tarang](/orgs/hindi-tarang)
 10. [Journal Club](/orgs/journal-club) 
-11. [Music Club](/orgs/music-club)
-12. [Photog](/orgs/photog)
-13. [SaFL](/orgs/safl)
-14. [Shades](/orgs/shades)
-15. [Swaranjali](/orgs/swaranjali)
-16. [VFX](/orgs/vfx)
-17. [Wall Street](/orgs/wall-street)
+11. [Movie Club](/orgs/movie-club)
+12. [Music Club](/orgs/music-club)
+13. [Photog](/orgs/photog)
+14. [Quiz Club](/orgs/quiz-club)
+15. [SaFL](/orgs/safl)
+16. [Shades](/orgs/shades)
+17. [Swaranjali](/orgs/swaranjali)
+18. [VFX](/orgs/vfx)
+19. [Wall Street](/orgs/wall-street)
 # Departments
 1. [DoTA](/orgs/dota) - The department that handles websites, posters and apps related to fests.
 2. [DoSM](/orgs/dosm) - in charge of negotiating with sponsors for fests
