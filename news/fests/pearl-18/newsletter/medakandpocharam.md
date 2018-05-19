@@ -1,4 +1,4 @@
-<!-- TITLE: Medakandpocharam -->
+<!-- TITLE: Medak and Pocharam -->
 
  ## Medak and Pocharam
  
