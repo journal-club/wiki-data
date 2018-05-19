@@ -13,6 +13,7 @@ Clubs on campus today are:
 7. [Cooking Club](/orgs/cooking-club)
 8. [SaFL](/orgs/safl)
 9. [Hindi Tarang](/orgs/hindi-tarang)
+10. [Crux](/orgs/crux)
 # Departments
 1. [DoTA](/orgs/dota) - The department that handles websites, posters and apps related to fests.
 2. [DoSM](/orgs/dosm) - in charge of negotiating with sponsors for fests
