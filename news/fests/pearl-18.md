@@ -9,3 +9,5 @@ Released one day before the start of Pearl 2018, on 22nd March, Fernweh explores
 
 # Post-fest
 Yet to be released. Stay tuned for more!
+
+# Newsletter
