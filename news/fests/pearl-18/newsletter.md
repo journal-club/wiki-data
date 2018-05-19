@@ -1,5 +1,5 @@
 <!-- TITLE: Newsletter -->
-<!-- SUBTITLE: A quick summary of Newsletter -->
+
 
 # Header
 [**Anantagiri Hiils**](/news/fests/pearl-18/newsletter/anatagirihills)
