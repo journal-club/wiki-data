@@ -13,6 +13,8 @@
 
 <i><sup>1</sup> Date of original publication. Some spotlights that were initially published on BITS Chronicles have been republished on this website.</i>  
 
+# General News
+*For a complete list of these articles, click [here](/news/general)*
 # OpEds
 *OpEds, or Opinion Editorials. For a complete list of Opinion Editorials, [click here](/news/oped).*
 
