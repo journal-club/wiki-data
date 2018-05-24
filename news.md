@@ -22,7 +22,7 @@
 | 6th May, 2018 | **[In the Name of Education](/news/oped/name-of-education)** | Sharad Hotha |
 | 23rd April, 2018 | **[Certainly Not You Too!](/news/oped/not-you-too)** | Niharika Shankar |
 | 18th February, 2018 | **[Arena: Where Sledgends Are Born](/news/oped/arena-where-sledgends-are-born)** | Vinith Bhandari |
-# Elections 2018
+# Student Union Elections 2018
 Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/vol-1/4) to read the complete release.
 
 ### The Basics
