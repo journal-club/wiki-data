@@ -1,6 +1,11 @@
 <!-- TITLE: Mess Other Campuses -->
 <!-- SUBTITLE: As Mess 2 desperately tries to win back the students for the next mess registration with a "Dosa Festival" tonight, Mess 1 was quick to follow suit with their own gala dinner on Sunday. While the outcome of these shenanigans will only be revealed when the registrations happen, the eateries on campus have always come to our rescue when we're sick of having sambar in almost every meal of every day. Wondering how fellow BITSians in other campuses survive when they're facing the same? Read on to find out. -->
 
+<center>
+
+![Dosa Mela Poster Mess 2 2017 18](/uploads/news/dosa-mela-poster-mess-2-2017-18.jpg "Dosa Mela Poster Mess 2 2017 18")
+
+</center> 
 
 # Goa
 In the midst of the lush paradise that is the Goan Campus of BITS lie several eateries that aspire to fulfil the culinary needs of the students and faculty alike.
