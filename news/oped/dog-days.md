@@ -4,8 +4,11 @@
 So why did it all start? What are the main points both sides had, and what happened about it finally? This article attempts to sum it all up. Now, unless you’ve been living under a rock, you probably already know most of this stuff, but here’s a brief summary anyway.
 
 # Intro - How it All Began
-
 Over the past few months there have been a lot of isolated incidents involving dogs. From people’s food being snatched and eaten by dogs to an occasional wandering soul being chased by barking dogs in the darkness, these occurrences have become more frequent recently. Hence, an increasing number of people have complained to the SWD and college authorities regarding the issue and the lack of action being taken. There has been serious talk about calling dog catchers and getting all the dogs removed from campus. Hence a group of dog lovers recently decided to take action to dissuade the authorities from taking such actions and keep the dogs on campus.
+
+<center>
+<img src= "https://wiki.bits-hyd.org/uploads/news/dogs-on-campus-2017.jpg" width =350px>
+</center>
 
 The main points being raised by both sides are as follows -
 
