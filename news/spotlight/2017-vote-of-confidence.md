@@ -54,14 +54,17 @@ Though no constitutional provision was violated in the process of conducting the
 # References
 
 [1] The Constitution is available here
+
 [2] Section Q (Amendments to the Constitution)
 Clause 4: The Election Commission shall conduct a review of the entire Constitution every 3 years.
 Clause 5: The reviewed Constitution shall have to be ratified by two thirds of the Union Council.
-[3] Section K : Elections Clause 5: The members of the Union Council shall cease to hold their respective offices if
-(a) A NO-CONFIDENCE motion is passed against them
-(b) As and when they fail to fulfil any of the eligibility criteria as mentioned in the relevant clause(s) of this section.
+
+[3] Section K : Elections Clause 5: The members of the Union Council shall cease to hold their respective offices if (a) A NO-CONFIDENCE motion is passed against them (b) As and when they fail to fulfil any of the eligibility criteria as mentioned in the relevant clause(s) of this section.
+
 [4] Section K (Elections) Clause 18: A student who has been found guilty under any offence by the Disciplinary Committee and has been charged with an offence under the category of Tier-I or above is not eligible to contest in the Students’ Union Council Elections.
+
 [5] Section P (Removal from Office): If any of the elected members has been found guilty under any offence by the Disciplinary Committee and has been charged with an offence under the category of Tier-I or above during their term of office, they will be impeached immediately. This Section also has separate sections depending on the designation of the offender.
+
 [6] As mentioned in the Unfair Means Notice.
-[7] Section S (Flagrant Violations)
-Clause 2: The concerned person shall however resume the responsibility of the post(s), which he ceased to hold due to commitment of the flagrant violation, if a motion of confidence is passed in his favour by at least two–thirds of the concerned electorate the motion of confidence shall have to be initiated by at least one-third of the concerned electorate. A signed memorandum to this effect shall have to be submitted to the Election Commission within a maximum of three days of removal from office.
+
+[7] Section S (Flagrant Violations) Clause 2: The concerned person shall however resume the responsibility of the post(s), which he ceased to hold due to commitment of the flagrant violation, if a motion of confidence is passed in his favour by at least two–thirds of the concerned electorate the motion of confidence shall have to be initiated by at least one-third of the concerned electorate. A signed memorandum to this effect shall have to be submitted to the Election Commission within a maximum of three days of removal from office.
