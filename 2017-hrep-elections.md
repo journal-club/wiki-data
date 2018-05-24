@@ -24,5 +24,4 @@ Being an H-rep is, without a doubt, a lot of work, but the experiences you gain 
 
 
 -----
-
 *Article by Arjun Lokireddy and Harsha Sista. Originally published on SWD BITS Chronicles on 23rd August, 2017.*
