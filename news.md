@@ -1,8 +1,8 @@
 <!-- TITLE: News -->
 <!-- SUBTITLE: Campus news and articles, published by the Journal Club and affiliates -->
 
-# Spotlight
-*For a complete list of spotlights, click [here](/news/spotlight)*
+# Spotlights
+*Highlighting key issues that affect the campus. For a complete list of spotlights, click [here](/news/spotlight)*
 | Date<sup>1</sup> | Title |
 | --- | --- | --- |
 | 25th April, 2018 | **[Fest Coordinators](/news/spotlight/fest-coordinators)** |
@@ -13,7 +13,7 @@
 <i><sup>1</sup> Date of original publication. Some spotlights that were initially published on BITS Chronicles have been republished on this website.</i>  
 
 # OpEds
-*For a complete list of Opinion Editorials, [click here](/news/oped).
+*OpEds, or Opinion Editorials. For a complete list of Opinion Editorials, [click here](/news/oped).*
 
 | Date | Title | Author |
 | --- | --- | --- |
