@@ -5,9 +5,11 @@ List of articles in reverse chronological order:
 
 <center>
 
-| Date<sup>1</sup> | Title |
+| Date<sup>1</sup> | Title & Description |
 | --- | --- | --- |
-| February 4th, 2018| **[212 Bus Tracker Coming Soon](/news/general/212-tracker-soon)** |
+| February 4th, 2018 | **[212 Bus Tracker Coming Soon](/news/general/212-tracker-soon)** |
+| August 23rd, 2017 | **[Fresher Under Pressure](/2017-hrep-elections)**, on the roles and duties of a Hostel Representative |
+
 
 
 </center>
