@@ -21,5 +21,8 @@ The official duties of the H-rep are listed out in the constitution Sections 4 (
 Apart from these official duties, an H-rep is given the opportunity to handle projects of the SUC which are often opportunities to improve your skill set and meet incredible people. Being a part of the SUC gives you an insight into how things work in the real world, and makes you prepared to face it. Negotiating contracts, red tape, and maintaining relationships become a part of your daily life, and this experience will teach you a lot of things.
 
 Being an H-rep is, without a doubt, a lot of work, but the experiences you gain are priceless. How much you take away from this post entirely depends on your enthusiasm and willingness to learn. H-reps have the freedom to pursue a wide range of issues while still being under the safety of the SUC. Ranging from HD channels upgrades all the way to Intime extension have been spearheaded by H-reps. By the end of your term you will have a year full of memories, and have made friends to last a lifetime. 
-----
+
+
+-----
+
 *Article by Arjun Lokireddy and Harsha Sista. Originally published on SWD BITS Chronicles on 23rd August, 2017.*
