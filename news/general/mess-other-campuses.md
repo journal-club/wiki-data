@@ -45,7 +45,7 @@ Situated near hostels away from ANC, Food King supplies South Indian dishes. FK 
 **C’Not**: Dept/club/assoc/placement treat area
 At the far end of the campus, one finds a row of restaurants and stores referred to collectively as ‘C’not’. Golden Dragon, Kamal’s, Cruncheenos, Sharma’s, and Greenfield are popular, and to the non-foodie, there is little difference between them. All the standard North Indian dishes one would come to expect in Rajasthan are served, and the menus are nearly identical.
 
-Curious first years might order a ‘Midnight Beauty’ drink (MNB, for short) and regret the long waiting time that follows while being chased around the rocky, muddy ground from table to table by fearlessstray dogs. Ah, C’not.
+Curious first years might order a ‘Midnight Beauty’ drink (MNB, for short) and regret the long waiting time that follows while being chased around the rocky, muddy ground from table to table by fearless stray dogs. Ah, C’not.
 
 ----
 *Article originally published on November 1st, 2017. In collaboration with English Press Club, BITS Pilani and DoJMA, BITS Goa.*
