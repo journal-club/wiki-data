@@ -1,5 +1,5 @@
 <!-- TITLE: Smart Campus Team Says 212 Tracker Coming Soon -->
-<!-- SUBTITLE: With cashless ANC enabling students to not only make use of their "other advances" but also to order food in advance before even getting there, the Smart Campus team has managed to generate lakhs in revenue with this initiative that was also implemented at the food stalls during Verba Maximus and Arena. Now that the 212 tracker is expected to be functional within a few weeks, the team is reveling in their recent accomplishments and the excited to see their much awaited project go live soon. Read on to find out what the team has in store for us. -->
+<!-- SUBTITLE: With cashless ANC enabling students to not only make use of their "other advances" but also to order food in advance before even getting there, the Smart Campus team has managed to generate lakhs in revenue with this initiative that was also implemented at the food stalls during Verba Maximus and Arena. Now that the 212 tracker is expected to be functional within a few weeks, the team is reveling in their recent accomplishments and the excited to see their much awaited project go live soon. -->
 
 One of the most prominent changes on campus this year has been the launch of the Smart Campus App. Journal Club got the opportunity to interact with the team behind this app to learn more about it.
 
