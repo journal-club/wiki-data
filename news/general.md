@@ -9,6 +9,7 @@ List of articles in reverse chronological order:
 | --- | --- | --- |
 | February 4th, 2018 | **[212 Bus Tracker Coming Soon](/news/general/212-tracker-soon)** |
 | August 23rd, 2017 | **[Fresher Under Pressure](/news/general/2017-hrep-elections)**, on the roles and duties of a Hostel Representative |
+| November 1st, 2017 | **[What a Mess!](/news/general/mess-other-campuses)**, explores the eateries of the other two BITS campuses. In collaboration with EPC, Pilani and DoJMA, Goa.| 
 
 
 
