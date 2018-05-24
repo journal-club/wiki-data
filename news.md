@@ -10,6 +10,7 @@
 | 13th March, 2018 | **[Mud in the Moon](/news/spotlight/moonlight-dinner-2018)** |
 | 24th September, 2017 | **[DisCo: Everything You Need to Know](/news/spotlight/discos)** |
 | 31st August, 2017 | **[The Tale of the Dump](/news/spotlight/tale-of-dump)** |
+
 <i><sup>1</sup> Date of original publication. Some spotlights that were initially published on BITS Chronicles have been republished on this website.</i>  
 
 # OpEds
