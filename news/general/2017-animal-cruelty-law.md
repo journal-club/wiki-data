@@ -2,6 +2,11 @@
 <!-- SUBTITLE: Article by Sharad Hotha.  -->
 
 A law is not a law unless everyone debates it without reading it. It is a ubiquitous phenomenon, not specific to only India. The media and the social media has been abuzz with arguments for and against the new Cattle Rules over the past one week. Some say it is a de facto ban on animal slaughter. Others say that slaughter is not banned per se and the rules are only to ensure that the sold animals are healthy. And the government say that it just did what a Supreme Court order directed it to do. There is a difference in the interpretation of the rules by even the courts.
+
+<center>
+<img src = "https://wiki.bits-hyd.org/uploads/news/to-beef-or-not-to-beef-cartoon.jpg" width = 500>
+</center>
+
 # What are these rules anyway?
 Most of us prefer to rely on News or, worse, Social Media posts. It’s not like we understand the farrago of a bureaucratic document. Here are the important points of the ‘*Prevention of Cruelty to Animals (Regulation of Livestock Markets) 2017*’ as published by the government on 23rd May:
 
