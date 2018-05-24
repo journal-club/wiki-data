@@ -7,6 +7,7 @@ Hello batch of 2017. You have been through a hectic first few weeks: interaction
 <img src="https://wiki.bits-hyd.org/uploads/news/88140-fresher-20-under.jpg" width = 450px>
 
 </center>
+
 Hostel representatives or H-reps are members of SUC elected by their respective electorates i.e. their Bhavan. There is one H-Rep from each Bhawan. The work of the H-rep in one line would be “to represent the Council in the Bhavan and the Bhavan in the Council”. Similar to an MP for a district, it is an H-rep’s responsibility to convey the problems or needs of the hostel to the council.
 # Duties
 The official duties of the H-rep are listed out in the constitution Sections 4 (e) and are summarized below, H-reps:
