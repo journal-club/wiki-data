@@ -3,7 +3,7 @@
 
 <center>
 
-![Dosa Mela Poster Mess 2 2017 18](/uploads/news/dosa-mela-poster-mess-2-2017-18.jpg "Dosa Mela Poster Mess 2 2017 18")
+<img src="https://wiki.bits-hyd.org/uploads/news/dosa-mela-poster-mess-2-2017-18.jpg" width = 450px>
 
 </center> 
 
