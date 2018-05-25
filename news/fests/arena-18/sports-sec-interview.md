@@ -1,5 +1,5 @@
-<!-- TITLE: Awordwiththesportssec -->
-<!-- SUBTITLE: A quick summary of Awordwiththesportssec -->
+<!-- TITLE: A Word With The Sports Secretaries -->
+<!-- SUBTITLE:  -->
 
 ## What are the responsibilities you have as the sports secretary?
 **Aastha**  :As the sports secretary my job is to make sure that the fest runs smoothly. Every little detail is discussed in the Fest Organizing Body meets. The FOB is putting in a lot of effort for ARENA. And also, with Inter-BITS happening this year, the responsibilities have multiplied as we have to co-ordinate with the captains of other campuses of BITS and make sure they too have a memorable fest. We also have to co-ordinate with the teams for issues relating jerseys or equipment that they might require for practice.
@@ -29,4 +29,4 @@
 ## What is it about ARENA that makes it unique?
 **Aastha**:ARENA is a sports fest. Sports is something that connects everyone regardless of their other inclinations. At ARENA not only the players but also the non-playing community can have a lot of excitement as they support their team and their sport. For example if you are watching the final of the basketball game and it is a nail-biting finish. The rush you feel in such times cannot be felt in other fests. That’s why I would again request everyone to come out in large numbers to support the players.
 
-*Interviewed by Raghav*
+*Interviewed by Raghav Challawar.*
