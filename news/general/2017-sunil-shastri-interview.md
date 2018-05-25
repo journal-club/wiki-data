@@ -16,14 +16,14 @@ Yes, I did. Everyone who is in politics has to, at some point or another. For in
 ## In an interview of yours in 2009, you said that you need to enter mainstream politics in order to make changes in the lives of poor and needy. How do you think a common man having no political background can do the that?
 It is a very important question. I don’t think I will be able to answer in a single sentence. I would like to tell you that when it comes down to poor and needy people, everyone should realize his responsibility towards the nation and society. Needy and poor people are one among us and they can’t be separated. Samanatha(equality) should be maintained.
 
-### What are your views on the demonetisation ordinance passed by the government? How far do you think the government’s stated objective can be reached?
+## What are your views on the demonetisation ordinance passed by the government? How far do you think the government’s stated objective can be reached?
 I think that demonetisation was a good move although there were some complications faced by the people all over the country. But the Prime minister made it very clear that by 31st Dec 2016, he will solve it and the problem was solved to a great extent. Also, by 31st March, I think everything has become normal. The purpose was to bring out the black money which was not in circulation. I think the government has succeeded to a great extent in bringing that out. It has certainly improved the economy. This a very positive and bold step towards development.
 
-### Unemployment is one of the burning issues in India today. A person holding a bachelor’s degree in computer science might well end up in a low salary job. What do you think is the prime cause and how do you think we can overcome it?
+## Unemployment is one of the burning issues in India today. A person holding a bachelor’s degree in computer science might well end up in a low salary job. What do you think is the prime cause and how do you think we can overcome it?
 I think we have to concentrate on improving the educational system of India. Also, the selection of courses should be done judiciously. Otherwise , if we go on having a lot of graduates in computers, management, MCA and accounts, the issue cannot be solved. Lots of people study and get trained. But ultimately, if you don’t have proper job opportunities, the frustration among the youth will be tremendous. We have to increase those courses that render a helping hand to the youth in earning good salary jobs. In due course of time, I believe that we will definitely fight unemployment out.
 
-### Is young India taking politics seriously as a career path?
+## Is young India taking politics seriously as a career path?
 I wouldn’t say that all the youth should enter politics. They have to realize that their responsibility lies in building the nation. They must build the nation in whatever way they can. For that, I think politics is one of the ways. But remember, that is not the only way. Be it a doctor or engineer, one’s primary aim is to build a better India.
 
-### Finally,what is your message for the youth of India?
+## Finally,what is your message for the youth of India?
 I think the best message for the youth is what the Prime minister said yesterday, ”Na baithunga, na baithne dunga”. You should realize your responsibilities. You should work as a team and move forward. Accordingly, the country moves forward.
