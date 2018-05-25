@@ -13,7 +13,7 @@ The Lights and Sound Department had a huge task of taking care of all the audio-
 # Department of Recreational Activities (DoRA) 
 DoRA, the Department of Recreational Activities, oversaw the provision of leisure activities which acted as huge stress-busters and rejuvenated the body in between the hectic schedule of ATMOS. Their main event, 'Man of Drones', was a wonderful learning experience for many people who got to know how to control drones using gestures. Also, DoRA made sure that the participants do not feel bored even for a minute with their 24/7 gaming area having LAN gaming and console gaming. All in all, the department proved its mettle in its first Fest and are now gearing up for many more fun-filled Fests.
 
-# Department of Photography (DoPy
+# Department of Photography (DoPy)
 DoPy worked whole-heartedly during the fest, making it beautiful to its core all along. It brought out the magic of the fest by immortalizing the fun and fond memories of the participants in a frame. Workshops were conducted for the juniors which helped them gear up for the fest and contribute as much as possible . With their mastery in the art of candid photography, DoPy once again won the hearts of everyone by encapsulating the euphoria of the fest.
 
 # Controlz
