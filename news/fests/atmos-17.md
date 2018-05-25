@@ -16,8 +16,8 @@ Happy reading!
 
 ## Articles
 1. [Theme ATMOS 2017](/news/fests/atmos-17/themes)
-2. [Departments and clubs ATMOS 2017](/news/fests/atmos-17/depts&clubs)
-3. [Pre fest events ATMOS 2017](/news/fests/atmos-17/preatmos)
+2. [Departments and Clubs: ATMOS 2017](news/fests/atmos-17/dept-club-work), a look at what clubs and departments are doing in anticipation of Atmos 2017.
+3. [Pre-fest events ATMOS 2017](/news/fests/atmos-17/pre-atmos)
 4. [Interviews ATMOS 2017](/news/fests/atmos-17/interviews)
 5. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
 6. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
