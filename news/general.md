@@ -11,6 +11,7 @@ List of articles in reverse chronological order:
 | August 23rd, 2017 | **[Fresher Under Pressure](/news/general/2017-hrep-elections)**, on the roles and duties of a Hostel Representative |
 | November 1st, 2017 | **[What a Mess!](/news/general/mess-other-campuses)**, explores the eateries of the other two BITS campuses. | 
 | July 21st, 2017  | **[The Year That Was: SUC 2016-17](/news/general/suc-2016-17)** |
+| June 21st, 2017 | **[Talk with Sunil Shastri](/news/general/2017-sunil-shastri-interview) |
 | June 11th, 2017 | **[The Covfefe](/news/general/2017-animal-cruelty-law)** |
 
 
