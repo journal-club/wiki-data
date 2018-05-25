@@ -1,20 +1,17 @@
-<!-- TITLE: Interview -->
-# General secretary-Aditya Iyer
-## What are your views on ATMOS 2017? In what ways was this ATMOS different from previous ones?
-Well, it was a very overwhelming experience for us, as the Students’ Union Council and as the FOB.
-It’s always very new and exciting to organize the first fest of the semester, because it’s the first time that we worked together as leading 3rd yearites, and not as executive 2nd yearites or 1st yearites, in all the Departments, Clubs and Associations.
+<!-- TITLE: A Talk With Aditya Iyer -->
+<!-- SUBTITLE: Aditya Iyer is the General Secretary of the campus. -->
 
-After all the efforts that have been put in, the response to ATMOS ’17 was really overwhelming, because this time we have surpassed previous ATMOS’ in terms of footfall. We had more 4000 to 5000 off-campus registrations, which was quite larger than before, so kudos to DePP for that.
-We had two very good pro-shows and amazing talks, from eminent personalities. Our workshops were much better curated this time as well. We had 17 quality workshops and turnout was so huge that we had to close registrations for a lot of them. So in this vein, I guess we had a great ATMOS, probably the best yet, at least in terms of participation.
+## What are your views on ATMOS 2017? In what ways was this ATMOS different from previous ones?
+Well, it was a very overwhelming experience for us, as the Students’ Union Council and as the FOB. It’s always very new and exciting to organize the first fest of the semester, because it’s the first time that we worked together as leading 3rd yearites, and not as executive 2nd yearites or 1st yearites, in all the Departments, Clubs and Associations.
+
+After all the efforts that have been put in, the response to ATMOS ’17 was really overwhelming, because this time we have surpassed previous ATMOS’ in terms of footfall. We had more 4000 to 5000 off-campus registrations, which was quite larger than before, so kudos to DePP for that. We had two very good pro-shows and amazing talks, from eminent personalities. Our workshops were much better curated this time as well. We had 17 quality workshops and turnout was so huge that we had to close registrations for a lot of them. So in this vein, I guess we had a great ATMOS, probably the best yet, at least in terms of participation.
 
 Yes, there are a few things we could have done better, and we are going to have a fest review meet with the FOB, and any General Body members that wish to attend, soon. We will try to pinpoint our strengths and weaknesses so that coming fests keep improving.
 
 ## Talk us through how the post of General Secretary changed your contribution to ATMOS. What were some of the responsibilities that you didn’t have last time?
 Let’s go with a comparison. So, last year I was a 2nd yearite and the role of a 2nd yearite is a crucial one because you are no longer a 1st yearite who needs to be told, step-by-step, exactly what to do. And you’re also not making decisions yet. In 2nd year, you’re somewhere in between, where your main job is, along with your batchmates and juniors, to execute the plan and vision that the 3rd yearites have, asking for their help and guidance where needed.
 
-Of course, the guidance still remains, we do look up to our seniors for advice, but the role has definitely changed. This time, as a part of the FOB, it is our job to make the plans that our juniors will then execute.
-
-As the General Secretary, I was mainly dealing with the Administration. It was new for me, but there needed to be someone who could handle things from the Administration side, take all permissions and get approvals for whatever plans we had.
+Of course, the guidance still remains, we do look up to our seniors for advice, but the role has definitely changed. This time, as a part of the FOB, it is our job to make the plans that our juniors will then execute. As the General Secretary, I was mainly dealing with the Administration. It was new for me, but there needed to be someone who could handle things from the Administration side, take all permissions and get approvals for whatever plans we had.
 
 Other than that, getting the ATMOS merchandise, working with the Departments, and the President and Technical Convenor throughout the fest, were my responsibilities.
 Further, the three of us, and the entire SUC were involved in planning from the start. It was May, I guess when the conference calls started, for ATMOS. The main difference, I think, is the level of our involvement in influencing the direction of the fest and its plans.
