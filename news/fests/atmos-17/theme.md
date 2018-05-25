@@ -1,8 +1,9 @@
 <!-- TITLE: Neon Dystopia -->
 <!-- SUBTITLE: Neon Dystopia was the theme for ATMOS'17. Let's see what our writers have got to say on this idea -->
 
-# Just some Random musings and Humans
+# Just Some Random Musings and Humans
 Signed, GABRIEL.
+
 Hey. Hey, you! Yeah, I’m talking to you alright. Listen carefully, I have very little time left. The organisation has caught my scent already. It won’t be long before they turn me into one of them. One of who you say? Why of course, those creatures who call themselves, what were they called again? - Oh yeah, “Humans”. 
 
 What a silly name. If you are reading this and you think you are a human, snap out of your psychosis. You are not. You are part of the race that originally occupied this planet. We were at the top of the food chain and were at the pinnacle of progress in every aspect possible until one day, they arrived. They, the ones who looked exactly like us, except they weren’t. It was only a few of them at first. We thought they were harmless, friendly even. We warmed up to them, thrilled that we had found another intelligent species. One we could cohabit with. But that was until they slowly started increasing in number. They crept in like pests. Infesting every nook and cranny of the planet. It all happened so steadily, we didn’t realize it before it was too late. They started brainwashing us into believing we were one of them. That we had to work for them, or as they put it, “for the progress of the Human race”. I fear I am the last of our kind who holds this knowledge. I have somehow survived all this time living in hiding, fearing for my life, but I can no longer escape. If you realise who you are, run. Disconnect all human technology around you. Don’t let them turn you again. You are our last hope at fighting this abomination. The day you fail, we will never even have existed. We will be forever turned into a myth. 
