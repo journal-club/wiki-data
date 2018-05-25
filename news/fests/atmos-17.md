@@ -21,6 +21,7 @@ Happy reading!
 4. [Interviews ATMOS 2017](/news/fests/atmos-17/interviews)
 5. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
 6. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
+7. [Atmos through the Ages](/news/fests/atmos-17/atmos-over-time)
 
 # Post-Fest Mag
 1. [Talks in ATMOS 2017](/news/fests/atmos-17/talks)
