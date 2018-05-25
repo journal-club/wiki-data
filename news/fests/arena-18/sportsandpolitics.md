@@ -1,5 +1,4 @@
 <!-- TITLE: Sports and Politics -->
-<!-- SUBTITLE: A quick summary of Sportsandpolitics -->
 
 From multiple nations bargaining for a coveted chance to host the Olympics, to scandals involving selections in National and State sports teams, politics and sports have always been intertwined in ways more than one. For a large part of Indians, the tone of India-Pak relations is set by the outcome of a cricket match and a person cheering a Pakistani victory is declared an anti-national. People believe that sporting at the highest levels of India, is not clean - and that's probably not an unjustified opinion considering multiple allegations of match-fixing, gambling in cricket influencing the matches, and the ever-opaque BCCI.
 
