@@ -1,37 +1,25 @@
 <!-- TITLE: Themes -->
-<!-- SUBTITLE: A quick review of our theme 'neon dystopia' and 'cyberpunk' -->
+<!-- SUBTITLE: A discussion on "Neon Dystopia" and "Cyberpunk", which have come to define Atmos 2017. -->
 
 # ATMOS 2017 – A Neon Dystopia
 Do you remember that ‘OPEN’ sign written in fire red capitals which flickered and zapped before finally turning on? Do you remember how it remained glowing for the rest of the night, playfully calling you in? When all else is asleep, the countless neon lights stand out cheekily against the dark, defying the night.
+
 Neon is a big deal in our culture. By catching our eye at unearthly hours, it symbolises the desires we wouldn’t dare to show in the pious daylight. That is why there is no such thing as a ‘dayclub’. Neon lights are our ambitions all dressed up to party.
+
 Morris W Travers, one of the discoverers of the element Neon was so taken by the enchanting red glow, that he remarked, “the blaze of crimson light from the tube told its own story and was a sight to dwell upon and never forget." And we haven’t since. 
+
 Today, the ‘neon culture’ remains a strong element of our psyches. It evokes the deepest and most intense emotions. Isn’t it curious to know how how intricate technological fabrications of chemical elements, electricity and heat are used to bring these powerful signs to life? It just shows how technology and science are never separated from emotions.
+
 Technology is not a dispassionate entity that exists different from us. Instead, it is the tool that allows us to turn our inner world into physical, tangible objects that shake the outer world.
+
 Which is why, A Neon Dystopia is the perfect theme for this year’s technical festival. What better way to bring out those terrifying ideas and stealthy plans than setting up technical innovation against the backdrop of the metaphorical neon lights? After all, anything goes when it’s dark.
-
--Niharika Shankar
-
 # Cyberpunk
-
-
 Cyberpunk started out as a science fiction genre with a cult following, describing an era of  “High technology, low life”. The theme for this Atmos focuses on the dark side of technology which is embodied by the members of this cult. That our society is moving towards this dystopia, makes the theme all the more relevant. 
+
 Although Cyberpunk began as a literary movement it soon seeped into all forms of art, movies and fashion generating an all-encompassing and ever-growing subculture. It is a complex and multi-layered philosophy, whose dynamics are ever changing as our perception of the future changes.
+
 This philosophy is best described by cyberpunk protagonists, those of a subversive nature, the outsiders, anti-heroes, outcasts, criminals, visionaries, dissenters, misfits, people for whom ethics and social stigmas don’t come in the way of aspirations, who don’t care much for the system or the people who control it, those who are used to fighting for what they feel is right and especially against those who dominate or try to hamper their creative abilities. People chasing avenues such as, time travel, human cloning, designer babies, artificial intelligence. Hacking systems, breaking into restricted passages, and fighting for independence is what defines a cyberpunk revolution. 
+
 Cyberpunk is now. Many of the things that were predicted in cyberpunk are happening today. Designer babies seem to be just a little way ahead now, with stem cell treatments research getting approved, chimeric genetically engineered treatments possible, the lookout for a potential in-vitro womb in progress, Crispr (a molecular tool which has the potential to help manipulate DNA sequence). Improvements in prosthetics and brain computer interface have resulted in brain-controlled prosthetics, a mainstay of cyberpunk. Corporations increasingly dominate global politics, and influence culture creating a situation ripe for subversion. 
+
 Something to look-out for is how we adapt to this whole tech storm which is approaching us. The question that is most important here is, where exactly do we draw the line. The debate is on.
-
-# Atmos Through The Ages
-
-BITS Pilani Hyderabad Campus, one of the most prestigious colleges in India, keeps proving its distinction from time to time. While getting better academically, soaring to greater heights of success each year, it also brings out its most through its fests - Pearl and ATMOS.
-
-ATMOS - The Assimilation of Technically Motivated Souls - has been a display of the college’s thriving technical culture since its inauguration in 2012.
-
-The very first ATMOS in 2012 was indeed a massive crowd-puller. It spanned for three days and saw huge participation from all over the country. Remarkable events such as Robotics and Circuit Design competition were held and  Headliner events included workshops from notable companies like Wikipedia and DreamWorks Animation. Ethical Hacking and Android app development workshops provided an insight into the modern technical trends. 
-
-The National General Quiz, Enigma 2013 was the highlight of ATMOS, 2013. The technical associations organised several competitions. Cannon Wars by the Association of Chemical Engineers, Open Outcry by the Economics Association, Junkyard Wars by the Mechanical Engineering Association garnered several enthusiastic participants. The Computer Science Association’s events like Algomaniac, Brainstorm and Codename were also very popular. There was a Raspberry Pi workshop for robotics enthusiasts and also a Windows 8 Appfest, a coding marathon/heaven for web developers. 
-
-The third edition of ATMOS in 2014 marked a slight deviation in its theme and organisation to accommodate more events on management and finance to completely justify its description as a techno-management festival. New events like Open Outcry, Managers Dilemma and Trading Brains were met with widespread approval. Usual technical events such as RoboWars, CircuitArt and Mini GP continued to engage participants and Enigma 2014 was again a huge success on a national scale with over 250 teams participating in the regionals. A footfall of 5000 was registered over the course of the three days of the fest.
-
-2015 saw the most popular edition of ATMOS ever with a footfall of a whopping 8000 during the three days from 9-11th October. The inauguration was especially well regarded with mind-blowing performances by the Dance and the Dramatics Clubs. Sponsorship saw an all time high with official sponsors including Coca Cola, Red Bull, Uninor and the likes. Guests of honour who turned up for the fest included Dr. G. Satheesh Reddy, technical advisor to the Defence Minister and Director of DRDO and Justice Markandey Katju, former Chief Justice of India and Chairman of the Press Council of India. Suit Up, an event organised by the CEL was one of the most popular events that year. Enigma 2015 finals saw renowned quizzer Vikram Joshi take up the role of quizmaster with the 8 winners of the regional rounds taking part. A grand total of 50k as prize money was up for grabs during Enigma.
-
-The very latest ATMOS, 2016 had a rather interesting theme - Illusions, Paradoxes and Perspectives. Much like the fascinating theme, the inaugural performances by the Music, the Dance, Shades and the Dramatics Clubs were stupefying! DJ Paroma enlivened and brewed up the whole campus with her indelible proShow. The BITSMUN 2016, which was conducted along with ATMOS proved to be a grand success as well. Some of the significant workshops included PyBITS, RC Aircraft, Aerial Photography, IoT and Fastrack Automobile. PyBITS being one of the highlighted events aimed at promoting the usage of Python among the attendees, and at introducing them to new ideas as to the applicability of Python in various programming domains. In addition to already popular headliner events, the major competitive events encompassed Code Jam, Reverse Coding and Algomaniac. Sponsors like Cyient, Prodigy, SBI, Heico and KTM funded the fest making it a grand success. A noteworthy guest oration was delivered by Dr. Devi Shetty, cardiosurgeon, chairman and founder of Narayana Health, Padma Bhushan and Padma Shri laurel.
