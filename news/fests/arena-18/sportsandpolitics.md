@@ -4,6 +4,6 @@ From multiple nations bargaining for a coveted chance to host the Olympics, to s
 
 Tournaments, which are supposed to be a celebration of sportsman spirit and sports themselves, quickly turn ugly due to nationalism and politics having a say. Such pettiness is quite prominent among Indians, but quite less so among their other Asian counterparts.
 
-Indians have been infamous for their overt displays of violent nationalism during cricket matches. Somehow, the amount of solidarity and love for the country seems to hit the roof during such matches...but the public is not to blame. It's the politicians who have deeply instilled the policy of divide and rule, due to which Indians have started alienating other nations. Something clearly needs to change.
+Indians have been infamous for their overt displays of violent nationalism during cricket matches. Somehow, the amount of solidarity and love for the country seems to hit the roof during such matches... but the public is not to blame. It's the politicians who have deeply instilled the policy of divide and rule, due to which Indians have started alienating other nations. Something clearly needs to change.
 
 *Article by Vedika Kulkarni.*
