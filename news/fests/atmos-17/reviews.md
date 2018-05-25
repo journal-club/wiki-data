@@ -14,7 +14,7 @@
 
 **Sarthak Das**: This year, ATMOS was taken to heights never reached before. Increased footfall and never ending enthusiasm of the participants made this year's one the best. Ample food stalls had been put up and offered lots of choices for those who just wanted to sit, eat and have fun. It would have been better if the events had started on time. (IST, not BST) 
  
-## A Veteran’s Musings
+# A Veteran’s ("the seniors") Musings
 
 **Kushagra K Chanda** : If I had to characterize this Atmos in one word, it would be efficiency. Events started with almost no delay, the inaug was short and sweet, and all problems were handled immediately. The FOB has done an amazing job, and the bar has certainly been set very high for all future editions of ATMOS.
 
