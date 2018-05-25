@@ -2,13 +2,25 @@
 <!-- SUBTITLE: Journal Club's special publication on ATMOS 2017. -->
 
 # Pre-Fest Mag
+## Editor's Note
+*“...and the clocks were striking thirteen.”*
+
+What happens when time, one of the widely accepted truths of our lives, is no longer reliable? Who knows how long it’s been since the clock became untrustworthy? Lies become the truth if they serve their purpose. And as the one solid reality of our lives comes crashing down, the world descends into a state of confusion, destruction, fear and uncertainty. This is it. Welcome to our desolate world.
+
+With the uncontrollable, unsustainable pace at which humanity is moving forward, and the prospect of a global disaster increasing with every passing moment, there might just come a moment when we teeter off the edge of anything resembling sanity. Although the prospect of a Terminator-esque world is far-fetched; a lawless, broken world is within the realm of possibility.
+
+ATMOS 2017 explores the possibility of a broken world, where the only truth is technology. The Journal Club thus presents the first edition of “The Clocks Struck Thirteen”, the ATMOS magazine. Read on to see what the Clubs and Departments have been up to, and hear from the Technical Secretary and the President too!
+
+Happy reading!
+[best under neon lights]
+
+## Articles
 1. [Theme ATMOS 2017](/news/fests/atmos-17/themes)
-2. [Editor's note ATMOS 2017](/news/fests/atmos-17/editor'snote)
-3. [Departments and clubs ATMOS 2017](/news/fests/atmos-17/depts&clubs)
-4. [Pre fest events ATMOS 2017](/news/fests/atmos-17/preatmos)
-5. [Interviews ATMOS 2017](/news/fests/atmos-17/interviews)
-6. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
-7. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
+2. [Departments and clubs ATMOS 2017](/news/fests/atmos-17/depts&clubs)
+3. [Pre fest events ATMOS 2017](/news/fests/atmos-17/preatmos)
+4. [Interviews ATMOS 2017](/news/fests/atmos-17/interviews)
+5. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
+6. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
 
 # Post-Fest Mag
 1. [Talks in ATMOS 2017](/news/fests/atmos-17/talks)
