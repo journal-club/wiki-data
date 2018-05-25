@@ -2,6 +2,7 @@
 <!-- SUBTITLE: The Arena Newsletter was released over a span of four days through the Arena 2018 Android App. -->
 
 # List of Articles
+- [New Year, New Me](/news/fests/arena-18/new-year-new-me)
 - [Where Legends are Born](/news/fests/arena-18/legends-born)
 - [Arena](/news/fests/arena-18/arena)
 - [A word with the Sports Secretaries](/news/fests/arena-18/sports-sec-interview)
