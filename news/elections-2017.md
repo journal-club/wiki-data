@@ -1,4 +1,4 @@
-<!-- TITLE: Student Union Elections 2017 -->
+<!-- TITLE: Student Union Council Elections 2017 -->
 <!-- SUBTITLE: Journal Club reports on the Student Union Council (SUC) Elections for the academic year 2017-18. -->
 
 # List of Article
