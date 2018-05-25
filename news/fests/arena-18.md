@@ -1,8 +1,8 @@
-<!-- TITLE: Arena 2018 -->
-<!-- SUBTITLE: A quick glance at the articles published in the Arena App. -->
+<!-- TITLE: Arena 2018 Newsletter -->
+<!-- SUBTITLE: The Arena Newsletter was released over a span of four days through the Arena 2018 Android App. -->
 
 # List of articles
-- [**Where legends are born**](/news/fests/arena-18/legendsborn)
-- [**Arena**](/news/fests/arena-18/arena)
-- [**A word with the Sports Secretaries**](/news/fests/arena-18/awordwiththesportssec)
-- [**Sports and Politics**](/news/fests/arena-18/sportsandpolitics)
+- [Where Legends are Born](/news/fests/arena-18/legendsborn)
+- [Arena](/news/fests/arena-18/arena)
+- [A word with the Sports Secretaries](/news/fests/arena-18/awordwiththesportssec)
+- [Sports and Politics](/news/fests/arena-18/sportsandpolitics)
