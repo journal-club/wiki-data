@@ -1,7 +1,7 @@
 <!-- TITLE: Sunil Shastri on Indian Youth and Politics -->
 <!-- SUBTITLE: An interview with Sunil Shastri, former cabinet minister in the Uttar Pradesh government, when he visited our campus during Pearl 2017. -->
 
-**How did you like our CAMPUS?**
+### **How did you like our campus?**
 I think BITS Pilani is one of the fantastic institutes of our country. I never imagined that BITS Pilani would have such a huge campus in Hyderabad. This is my second visit to BITS Hyderabad. I think I’ll get to see the whole campus only on my third visit.
 
 **"Jai Jawan Jai Kisan".This slogan was given by your father, Shri Lal Bahadur Shastry to enthuse the soldiers and to simultaneously cheer the farmers when the support of both these groups was primary for the nation. What is the 1st thing that comes to your mind when you hear this?**
