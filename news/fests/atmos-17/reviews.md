@@ -1,4 +1,4 @@
-<!-- TITLE: Reviews -->
+<!-- TITLE: Reviews for Atmos 2017 -->
 <!-- SUBTITLE: Just a few excerpts from the conversations we had with our freshman on their very first experience of ATMOS -->
 
 # Freshmen Reviews: 2017 Batch’s Opinions Matter Too! 
