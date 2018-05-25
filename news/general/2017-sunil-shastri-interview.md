@@ -1,6 +1,8 @@
 <!-- TITLE: Sunil Shastri on Indian Youth and Politics -->
 <!-- SUBTITLE: An interview with Sunil Shastri, former cabinet minister in the Uttar Pradesh government, when he visited our campus during Pearl 2017. -->
 
+![Think You Bully Me](/uploads/news/think-you-bully-me.jpg "Think You Bully Me")
+
 ## How did you like our campus?
 I think BITS Pilani is one of the fantastic institutes of our country. I never imagined that BITS Pilani would have such a huge campus in Hyderabad. This is my second visit to BITS Hyderabad. I think I’ll get to see the whole campus only on my third visit.
 
