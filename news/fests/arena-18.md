@@ -5,4 +5,4 @@
 - [Where Legends are Born](/news/fests/arena-18/legendsborn)
 - [Arena](/news/fests/arena-18/arena)
 - [A word with the Sports Secretaries](/news/fests/arena-18/awordwiththesportssec)
-- [Sports and Politics](/news/fests/arena-18/sportsandpolitics)
+- [Sports and Politics](/news/fests/arena-18/sports-politics)
