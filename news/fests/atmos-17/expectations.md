@@ -19,8 +19,7 @@
 
 **Aman Taneja**: A lot of technical and non technical events,with participation from colleges all over India.
 
-Nikhil Bhasin: I expect the tech events to be lit, the competitions to be dope and the pro shows to be rave.
-Looking forward to hearing the guest speaker's talks.. Should be really interesting.
+**Nikhil Bhasin**: I expect the tech events to be lit, the competitions to be dope and the pro shows to be rave. Looking forward to hearing the guest speaker's talks.. Should be really interesting.
 
 **Shreya Agarwal**: Arre bas masti ho jaaye... aur kya chahiye! 
 
