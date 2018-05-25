@@ -7,11 +7,12 @@ List of articles in reverse chronological order:
 
 | Date<sup>1</sup> | Title & Description |
 | --- | --- | --- |
-| February 4th, 2018 | **[212 Bus Tracker Coming Soon](/news/general/212-tracker-soon)** |
-| August 23rd, 2017 | **[Fresher Under Pressure](/news/general/2017-hrep-elections)**, on the roles and duties of a Hostel Representative |
-| November 1st, 2017 | **[What a Mess!](/news/general/mess-other-campuses)**, explores the eateries of the other two BITS campuses. | 
-| July 21st, 2017  | **[The Year That Was: SUC 2016-17](/news/general/suc-2016-17)** |
-| June 11th, 2017 | **[The Covfefe](/news/general/2017-animal-cruelty-law)** |
+| May 10th, 2018 | [Minutes of the Three Campus Meet](/news/general/2018-fee-hike-directors-meet-minutes). A summary of what happened in the meeting of the directors of BITS Pilani and the student representatives of three campuses.  |
+| February 4th, 2018 | [212 Bus Tracker Coming Soon](/news/general/212-tracker-soon) |
+| August 23rd, 2017 | [Fresher Under Pressure](/news/general/2017-hrep-elections), on the roles and duties of a Hostel Representative |
+| November 1st, 2017 | [What a Mess!](/news/general/mess-other-campuses), explores the eateries of the other two BITS campuses. | 
+| July 21st, 2017  | [The Year That Was: SUC 2016-17](/news/general/suc-2016-17) |
+| June 11th, 2017 | [The Covfefe](/news/general/2017-animal-cruelty-law) |
 
 
 </center>
