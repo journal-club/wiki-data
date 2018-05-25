@@ -18,10 +18,11 @@ Happy reading!
 1. [Theme ATMOS 2017](/news/fests/atmos-17/themes)
 2. [Departments and Clubs: ATMOS 2017](news/fests/atmos-17/dept-club-work), a look at what clubs and departments are doing in anticipation of Atmos 2017.
 3. [Pre-ATMOS Events](/news/fests/atmos-17/pre-atmos)
-4. [Interviews ATMOS 2017](/news/fests/atmos-17/interviews)
-5. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
-6. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
-7. [Atmos through the Ages](/news/fests/atmos-17/atmos-over-time)
+4. [Interview with Abhinav Eitireddy](/news/fests/atmos-17/president-interview), SUC President 2017-18.
+5. [Interview with Sharath Golluri](/news/fests/atmos-17/techsec-interview), Technical Secretary of BITS Hyderabad, 2017-18.
+6. [Headliner events ATMOS 2017](/news/fests/atmos-17/events)
+7. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
+8. [Atmos through the Ages](/news/fests/atmos-17/atmos-over-time)
 
 # Post-Fest Mag
 1. [Talks in ATMOS 2017](/news/fests/atmos-17/talks)
