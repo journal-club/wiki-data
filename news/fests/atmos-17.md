@@ -1,7 +1,7 @@
 <!-- TITLE: Atmos 2017 Magazines-->
 <!-- SUBTITLE: Journal Club's special publication on ATMOS 2017. -->
 
-# Pre-Fest Mag
+# Pre-Fest Magazine
 ## Editor's Note
 *“...and the clocks were striking thirteen.”*
 
@@ -24,7 +24,7 @@ Happy reading!
 7. [Freshmen expectations ATMOS 2017](/news/fests/atmos-17/expectations)
 8. [Atmos through the Ages](/news/fests/atmos-17/atmos-over-time)
 
-# Post-Fest Mag
+# Post-Fest Magazine
 1. [Talks in ATMOS 2017](/news/fests/atmos-17/talks)
 2. [Departments ATMOS 2017](/news/fests/atmos-17/depts)
 3. [Interviews ATMOS 2017](/news/fests/atmos-17/interview)
