@@ -5,7 +5,6 @@
 Padma Shri A. S. Kiran Kumar, credited with the development of key scientific instruments aboard the Chandrayaan-1 and Mangalyaan space crafts, held a tele-presence talk on the 2nd day of ATMOS’17. He spoke at length about the humble beginnings of ISRO, and the pivotal role of Vikram Sarabhai in building ISRO from scratch. Emphasizing the importance of space technology in the modern day, he gave examples of how meteorological data from satellites saves thousands of lives predicting cyclones, and how the concept of geomorphological studies could be given to the country by space technology. The ISRO chairman also gave his views on the Mangalyaan mission and pointed out the efficiency of the people working at ISRO, saying it was an example of the maximum output being achieved when the resources are constrained, given, one should always challenge limits. When asked on the biggest challenge faced during the Mangalyaan mission, he explained how the force sunlight (which consists of photons) falling on the space vehicle was enough to change the trajectory of the space vehicle and that they went ahead with the project even though there was a considerable chance of losing it forever.
 
 # Talk by Abhas Mitra
-Abhas Mitra Talk
 Abhas Mitra, an eminent astrophysicist, was at Hyderabad for about 20 hours during ATMOS 2017. Abhas Mitra headed the Astrophysics Section of Bhaba Atomic Research Centre from 2005 to 2015, the last ten years of his career that spanned over three decades. 
 
 During his time here in BITS Hyderabad, Dr. Mitra interacted with physics students, delivered a talk on black holes, dark energy and cosmology, and answered questions at the end. The talk, which was held in the lecture theatre complex, was on the third day of ATMOS from 2PM onwards. In a one and a half hour interactive presentation, Abhas Mitra presented with documentary evidence his views in these areas of cosmology. Abhas Mitra, who is well known for his unique ideas, recounted his views on the Big Bang and astrophysical concepts. He is credited to have resolved the black hole information paradox thirteen years before Stephen Hawking could. 
@@ -14,21 +13,17 @@ While talking about his paper publications, Dr. Abhas recalled an instance of ar
 
 Abhas Mitra, talking in a video interview after the talk, said that BITS Hyderabad was one of the most exciting and bright places he has visited so far, and was of the opinion that the infrastructure we have is aesthetically pleasing. Despite not there being a very large turnout for his talk, he said he was extremely satisfied as the people who had come were an amazing audience and paid very close attention to his talk.
 
-# Talk by Dilip chhabria
+# Talk by Dilip Chhabria
 This Atmos we also had the amazing opportunity to interact with and listen to the automobile designer Dilip Chhabria. His story is truly inspiring to the engineers of BPHC present as it gave the same old message with a interesting angle. The vehicle customization market is a small one and in the 90’s even more so. But the vision, determination, hard work and with a lot of skill he achieved the near impossible. Today DC challenges the Italian design houses in terms of quality and has expanded redesigning everything from buses to planes. The interactive session at the end of his presentation gave the audience a chance to learn from him and he was more than happy to see future generations entering the sector and also gave a lot of insightful advice both in his field and how to succeed in life
 
 # The Tech Talk
-The ATMOS, 2017, with lot many other good things, also brought up a talk with the Tech Panel that comprised of 
-Raghu Gullapalli - Executive Director, LV Prasad Eye Innovation Labs.
-The talk spinned around Machine Learning and Artificial Intelligence.
+The ATMOS, 2017, with lot many other good things, also brought up a talk with the Tech Panel that comprised of Raghu Gullapalli and Shailesh Kumar. Raghu Gullapalli is the Executive Director, LV Prasad Eye Innovation Labs. Shailesh Kumar is a distinguished Scientist and Vice President at Ola Cabs.
 
-Each one of them gave an insight to what was going and has been done into the areas of ML and AI. Raghu Gullapalli specially emphasised on how these areas are helping in the fields of medicine and treatment. As he is originally working for an Eye Lab, he explained how modern technology has helped doctors develop artificial eye cornea and eventually helped many lives. He added that many more artificial organs could be generated and they are are on their way to harness the potential of this field.
+The talk spinned around Machine Learning and Artificial Intelligence. Each one of them gave an insight to what was going and has been done into the areas of ML and AI. Raghu specially emphasised on how these areas are helping in the fields of medicine and treatment. As he is originally working for an Eye Lab, he explained how modern technology has helped doctors develop artificial eye cornea and eventually helped many lives. He added that many more artificial organs could be generated and they are are on their way to harness the potential of this field.
 
-Shailesh Kumar, a distinguished Scientist and  Vice President at Ola Cabs
-Shailesh Sir dealt with developments of the ML and AI. He catered each one of us’ queries very passionately and gave a full insight regarding that. While questions came up on AI dread, his answers were truly assuring and ensuring about how any new technology can only be good if human beings utilise it for ethical purposes. He also added that science and technology are meant to progress with time and age. And curtailing technology needn't mean ensuring security. 
+Shailesh dealt with developments of the ML and AI. He catered everyone’s queries very passionately and gave a full insight regarding that. While questions came up on AI dread, his answers were truly assuring and ensuring about how any new technology can only be good if human beings utilise it for ethical purposes. He also added that science and technology are meant to progress with time and age. And curtailing technology needn't mean ensuring security. 
 
-On being questioned about the joblessness that AI would bring to an already financially deprived country like India, he answered that any big change comes along with as many challenges. As lifestyles evolve, professions evolve. Where there's a will, there's a way!
-Both the speakers were truly inspirational and honestly implanted in us a zeal to pursue the fields of AI and ML.
+On being questioned about the joblessness that AI would bring to an already financially deprived country like India, he answered that any big change comes along with as many challenges. As lifestyles evolve, professions evolve. Where there's a will, there's a way! Both the speakers were truly inspirational and honestly implanted in the audience a zeal to pursue the fields of AI and ML.
 
 
 
