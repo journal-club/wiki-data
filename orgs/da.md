@@ -7,12 +7,15 @@ Inductions happen every semester after a workshop or series of workshops conduct
 # Events in Fests
 Da organises design related events during [Pearl](/fests/pearl) and [Renaissance](/fests/renaissance). In [Pearl 2018](/fests/pearl/2018), Da conducted the events [Album Art](/fests/pearl/events/album-art), [Doodler](/fests/pearl/events/doodler) and [Travelogue](/fests/pearl/fests/pearl/events/travelogue). Also, two paid workshops were also conducted in Pearl'18 - one workshop on UI/UX and the other on Isometric Illustration. 
 # List of Postholders
+<center>
+
 | Year | Secretary | Joint Secretary | Treasurer |
 |--|--|--|--|
 | 2017-18 | Tushar Kanth | Suraj Thotakura | Vikranth Sagar |
 | 2016-17 | S Sai Rajiv Krishna | Abhishek Yadav | Anshik Thareja |
 | 2015-16 | Sairam Ganti | - | - |
 
+</center>
 # Also See
 - Email Address of Da: [designclub@hyderabad.bits-pilani.ac.in](mailto:designclub@hyderabad.bits-pilani.ac.in)
 - [DoTA](/orgs/dota), the department responsible for making posters for Arena, Atmos and Pearl, as well as maintaining the fest websites. 
