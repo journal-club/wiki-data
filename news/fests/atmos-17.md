@@ -1,4 +1,4 @@
-<!-- TITLE: Atmos 2017 Magazines-->
+<!-- TITLE: Atmos 2017 Magazines -->
 <!-- SUBTITLE: Journal Club's special publication on ATMOS 2017. -->
 
 # Pre-Fest Magazine
