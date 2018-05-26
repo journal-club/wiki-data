@@ -5,6 +5,8 @@
 The Department Of Photography or Dopy according to campus lingo, is the student body responsible for capturing all of the campus events and happenings on film. It consists of both a team of Photographers and a team of Editors. It’s one of the few Departments that have essentially have an all-access pass during fests for those amazing behind-the-scene photographs. Dopy is not fest exclusive but works all throughout the year, even for festivals on campus and workshops.
 Like all Departments, Dopy is headed by a team of three. The CoStAAn (ATMOS), the CoSSACn(ARENA) and the StuCCAn(PEARL). 
 
+You can look at their work on their [Facebook](https://www.facebook.com/DoPY.BPHC/) page.
+
 # Inductions
 
 Dopy takes inductions once a semester. They have separate inductions for both Editors and Photographers.
