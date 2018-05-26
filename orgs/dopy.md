@@ -19,3 +19,7 @@ Like all departments, DoPy is headed by a team of three, with each post-holder b
 | 2016-17 | Sajal Bansal | Divyansh Mahajan | Arjun Deshmukh |
 
 </center>
+
+# Also See
+
+The [Facebook](https://www.facebook.com/LaExpuestoPhotography/) and [Instagram](https://www.instagram.com/laexpuesto/) pages of La Expuesto, a collaboration of a few talented photographers from BPHC.
