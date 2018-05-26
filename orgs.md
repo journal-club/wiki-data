@@ -29,7 +29,7 @@ Clubs on campus today are:
 4. [DoPE](/orgs/dope)
 5. [DoRA](/orgs/dora) 
 6. [DoVE](/orgs/dove) 
-7. [DoPy](/orgs/dopy) 
+7. [DoPy](/orgs/dopy) - in charge of Photography on campus 
 8. [LSD](/orgs/lsd)
 
 # Discipline Associations
