@@ -20,7 +20,7 @@ In each edition of Pearl since 2010, the organizing body has based the events an
 |[Pearl 2014](/fests/pearl/2014)|**Incredible India**|6-9 March|
 |[Pearl 2015](/fests/pearl/2015)|**Odyssey of Legends**|12-15 March|
 |[Pearl 2016](/fests/pearl/2016)|**Live Evil**|17-20 March|
-|[Pearl 2017](/fests/pearl/2017)|**The Carnivalesque Episode**|17-19 March|
+|[Pearl 2017](/fests/pearl/2017)|**A Carnivalesque Episode**|17-19 March|
 |[Pearl 2018](/fests/pearl/2018)|**Wanderlust**|23-25 March|
 
 </center>
