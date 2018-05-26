@@ -22,3 +22,4 @@ There are two dining halls, one near the boys hostels and one near the girls hos
 2. [Yummpy's](/campus/yummpys)
 3. [Amul](/campus/amul)
 4. [C3](/campus/c3)
+5. [Connaught Place](/campus/cp)
