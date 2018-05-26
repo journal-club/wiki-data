@@ -17,6 +17,9 @@ There are two dining halls, one near the boys hostels and one near the girls hos
 ### Library
 ### Auditorium
 
+## Connaught Place
+This is the mini shopping centre located on campus. Located beside the basketball court, Connaught Place, or CP as it more commonly called, has everything a BITSIAN needs to fulfill daily necessities. There is an exclusive air-conditioned book store, a hair cutting salon, two stationery stores replete with photocopying and printing, a  general items store and also a beauty parlour. It is also the site for the More Supermarket and the SBI bank along with it's ATM. There's always new food options coming up, and CP will keep getting diverse.
+
 # Eateries
 1. [Bits n Bytes](/campus/bnb)
 2. [Yummpy's](/campus/yummpys)
