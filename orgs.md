@@ -31,4 +31,17 @@ Clubs on campus today are:
 6. [DoVE](/orgs/dove) 
 7. [DoPy](/orgs/dopy) 
 8. [LSD](/orgs/lsd)
+
+# Discipline Associations
+1. [Computer Science Association](/orgs/csa)
+2. [Alchemy](/orgs/alchemy/)
+3. [Axiom](/orgs/axiom)
+4. [ACE](/orgs/ace)
+5. [CEA](/orgs/cea)
+6. [Economics Association](/orgs/eco-assoc)
+7.  [MEA](/orgs/mea)
+8.  [Panacea](/orgs/panacea)
+9.  [PhOEnix](/orgs/phoenix)
+
+
 The list will keep expanding.
