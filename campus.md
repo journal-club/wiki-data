@@ -18,7 +18,7 @@ There are two dining halls, one near the boys hostels and one near the girls hos
 ### Auditorium
 
 # Eateries
-1. Bits n Bytes
-2. Yummpy's
+1. [Bits n Bytes](/campus/bnb)
+2. [Yummpy's](/campus/yummpys)
 3. [Amul](/campus/amul)
 4. [C3](/campus/c3)
