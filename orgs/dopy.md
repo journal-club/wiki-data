@@ -8,8 +8,12 @@ DoPy inudcts new members twice an year. They have separate inductions for editor
 # List of Postholders
 Like all departments, DoPy is headed by a team of three, with each post-holder being responsible for department work during a fest.. The CoStAAn (ATMOS), the CoSSACn (Arena) and the StuCCAn (Pearl), all third-year posts, head the department.
 
+<center>
+
 | Year | CoStAAn | CoSSACn | StuCCAn |
 |--|--|--|--|
 | 2018-19 | Modit Goyal | Abhishek Kumar | Pranav Jhawer |
 | 2017-18 | Ishaan Dewangan | Abhijeet Singh Shekhawat | Mayank Choudhary |
 | 2016-17 | Sajal Bansal | Divyansh Mahajan | Arjun Deshmukh |
+
+</center>
