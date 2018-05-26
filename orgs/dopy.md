@@ -1,17 +1,13 @@
-<!-- TITLE: Dopy -->
-<!-- SUBTITLE: Dopy or The Department of Photography is responsible for capturing all the events happening on campus,including proshows during fests -->
+<!-- TITLE: Department of Photography -->
+<!-- SUBTITLE: Department of Photography, or DoPy,  is responsible for capturing all the events happening on campus,including proshows during fests. -->
 
-# Header
-The Department Of Photography or Dopy according to campus lingo, is the student body responsible for capturing all of the campus events and happenings on film. It consists of both a team of Photographers and a team of Editors. It’s one of the few Departments that have essentially have an all-access pass during fests for those amazing behind-the-scene photographs. Dopy is not fest exclusive but works all throughout the year, even for festivals on campus and workshops.
-Like all Departments, Dopy is headed by a team of three. The CoStAAn (ATMOS), the CoSSACn(ARENA) and the StuCCAn(PEARL). 
 
-You can look at their work on their [Facebook](https://www.facebook.com/DoPY.BPHC/) page.
-
+Department Of Photography, or DoPy, according to campus lingo, is the student body responsible for capturing all of the campus events and happenings on film. It consists of  team of photographers and a team of editors. It’s one of the few departments that have essentially have an all-access pass during fests for behind-the-scene photographs. DoPy is not fest exclusive and works all throughout the year, even for other events on campus.
 # Inductions
-
-Dopy takes inductions once a semester. They have separate inductions for both Editors and Photographers.
-
+DoPy inudcts new members twice an year. They have separate inductions for editors and photographers.  
 # List of Postholders
+Like all departments, DoPy is headed by a team of three, with each post-holder being responsible for department work during a fest.. The CoStAAn (ATMOS), the CoSSACn (Arena) and the StuCCAn (Pearl), all third-year posts, head the department.
+
 | Year | CoStAAn | CoSSACn | StuCCAn |
 |--|--|--|--|
 | 2018-19 | Modit Goyal | Abhishek Kumar | Pranav Jhawer |
