@@ -13,15 +13,15 @@ In each edition of Pearl since 2010, the organizing body has based the events an
 
 | Year | Theme | Dates |
 |--|--|--|--|
-|[Pearl 2010](/fests/pearl/2010)|**Genesis**| 26-28 March |
-|[Pearl 2011](/fests/pearl/2011)|**Dreamscape**| 10-13 February |
-|[Pearl 2012](/fests/pearl/2012)|**World 1-2**| 16-19 February |
-|[Pearl 2013](/fests/pearl/2013)|**Hakuna Matata**| 7-10 March |
-|[Pearl 2014](/fests/pearl/2014)|**Incredible India**| 6-9 March |
-|[Pearl 2015](/fests/pearl/2015)|**Odyssey of Legends**| 12-15 March |
-|[Pearl 2016](/fests/pearl/2016)|**Live Evil**| 17-20 March |
-|[Pearl 2017](/fests/pearl/2017)|**The Carnivalesque Episode**| 17-19 March |
-|[Pearl 2018](/fests/pearl/2018)|**Wanderlust**| 23-25 March |
+|[Pearl 2010](/fests/pearl/2010)|**Genesis**|26-28 March|
+|[Pearl 2011](/fests/pearl/2011)|**Dreamscape**|10-13 February|
+|[Pearl 2012](/fests/pearl/2012)|**World 1-2**|16-19 February|
+|[Pearl 2013](/fests/pearl/2013)|**Hakuna Matata**|7-10 March|
+|[Pearl 2014](/fests/pearl/2014)|**Incredible India**|6-9 March|
+|[Pearl 2015](/fests/pearl/2015)|**Odyssey of Legends**|12-15 March|
+|[Pearl 2016](/fests/pearl/2016)|**Live Evil**|17-20 March|
+|[Pearl 2017](/fests/pearl/2017)|**The Carnivalesque Episode**|17-19 March|
+|[Pearl 2018](/fests/pearl/2018)|**Wanderlust**|23-25 March|
 
 </center>
 
