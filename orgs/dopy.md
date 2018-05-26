@@ -3,6 +3,8 @@
 
 
 Department Of Photography, or DoPy, according to campus lingo, is the student body responsible for capturing all of the campus events and happenings on film. It consists of  team of photographers and a team of editors. It’s one of the few departments that have essentially have an all-access pass during fests for behind-the-scene photographs. DoPy is not fest exclusive and works all throughout the year, even for other events on campus.
+
+You can check out their work on their [Facebook](https://www.facebook.com/DoPY.BPHC/) page. 
 # Inductions
 DoPy inudcts new members twice an year. They have separate inductions for editors and photographers.  
 # List of Postholders
