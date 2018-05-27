@@ -1,7 +1,7 @@
 <!-- TITLE: Operation 136: Press for Sale to the Highest Bidder  -->
 <!-- SUBTITLE: An opinion editorial by XYZ on the Cobrapost Expose and what it means for us. -->
 
-It was close to two months ago, on March 26th, when Cobrapost reported that the largest media houses in India were allegedly ready to accept huge amounts of money to promote the ideology of Hindutva and malign political opponents through character assassination and caricaturing. If this is true, it shows the type blatant opportunists that may be heading some of the biggest organisations masquerading as media houses in India. The expose was titled Operation 136 (symbolic of India's rank of 136 in World Press Freedom Index 2017). <sup>1</sup>
+It was close to two months ago, on March 26th, when Cobrapost reported that the largest media houses in India were allegedly ready to accept huge amounts of money to promote the ideology of Hindutva and malign political opponents through character assassination and caricaturing. If this is true, it shows the type of blatant opportunists that may be heading some of the biggest organisations masquerading as media houses in India. The expose was titled Operation 136 (symbolic of India's rank of 136 in World Press Freedom Index 2017). <sup>1</sup>
 
 These operations were carried out by investigative journalist Pushp Sharma, who went undercover as Acharya Atal, a person who had connections with RSS and wanted to promote Bhagavad Gita. In the sting operations, Atal is seen outlining a **three-phase plan** on how these houses could promote Hindutva and support a political party, in exchange for amounts ranging from a few crore to Rs. 500 crore.
 
