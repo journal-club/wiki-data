@@ -19,7 +19,9 @@ Their response to all these allegations? The Bennett Coleman Group, the company 
 
 Also caught on tape was Vice-President of PayTM, Ajay Sekhar Sharma who was saying that the PMO had asked for the personal data of some users in J&K after stone pelting incidents in Kashmir. He is also seen admitting his relations with the BJP and RSS. PayTM eventually put out a statement saying it shares data with legally compliant requests only. He is not, however, seen on tape mentioning whether the data was provided to the PMO or not. <sup>3</sup>
 
-<img src = "https://wiki.bits-hyd.org/uploads/news/PayTM-Tweet.png">
+<center>
+<img src = "https://wiki.bits-hyd.org/uploads/news/paytm-tweet.png">
+</center>
 
 Other media agencies featuring in the tapes include the Dainik Bhaskar, Radio One, BigFM and nearly 27 others were also seen to be receptive to these ideas. Dainik Sambad and Bartaman were the only newspapers that didn't succumb to this. 
 
