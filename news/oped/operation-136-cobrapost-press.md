@@ -25,7 +25,7 @@ Also caught on tape was Vice-President of PayTM, Ajay Sekhar Sharma who was sayi
 
 Other media agencies featuring in the tapes include the Dainik Bhaskar, Radio One, BigFM and nearly 27 others were also seen to be receptive to these ideas. Dainik Sambad and Bartaman were the only newspapers that didn't succumb to this. 
 
-Even though the tapes might not be completely true, the fact that half the news organisations there haven’t released a statement explaining their side of the story, or rejecting these allegations in itself is worrisome.
+Even though the tapes might present only one side of the story, the fact that most of the news organisations allegedly involved in this haven't released statements or explainations about their side of the story, even **forty-eight hours** after the Cobrapost II release is worrisome.
 
 The fact that some media houses may suck up to the Centre is in itself appalling. What's even more appalling is the fact that none of the other media houses covered this expose. While it may be blamed on management, who might be preventing such articles, journalists too, are complicit to this to some extent as they haven’t spoken up to this. 
 
