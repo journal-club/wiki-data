@@ -37,7 +37,7 @@ Some journalists have tried to release clarifications - Rajdeep Sardesai, for ex
 
 While we shouldn’t be singling Rajdeep Sardesai out, there's a bigger threat that has to be recognized - that the very media that can bring about enormous change and impact to our society is up for sale to the highest bidder.
 
-If they begin to fall under the influence of money, it's up to us, the citizens, to ensure we're not played by the system. It is, there'wave’fore, of the essence, that we are politically aware and mature enough not to be swayed by a media that can be bought. 
+If they begin to fall under the influence of money, it's up to us, the citizens, to ensure we're not played by the system. It is, therefore, of the essence, that we are politically aware and mature enough not to be swayed by a media that can be bought. 
 # References
 <sup>1</sup> [World Press Freedom Index 2017](https://rsf.org/en/ranking/2017)
 <sup>2</sup>[ToI Article: Cobrapost's Sting on Media Groups Based on Doctored Content and Falsification](https://timesofindia.indiatimes.com/india/cobraposts-sting-on-media-groups-based-on-doctored-content-and-falsification/articleshow/64335830.cms)
