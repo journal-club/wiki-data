@@ -1,5 +1,5 @@
 <!-- TITLE: Operation 136: Press for Sale to the Highest Bidder  -->
-<!-- SUBTITLE: An opinion editorial by XYZ on the Cobrapost Expose and what it means for us. -->
+<!-- SUBTITLE: An opinion editorial by Siddharth Sampath on the Cobrapost Expose and what it means for us. -->
 
 It was close to two months ago, on March 26th, when Cobrapost reported that the largest media houses in India were allegedly ready to accept huge amounts of money to promote the ideology of Hindutva and malign political opponents through character assassination and caricaturing. If this is true, it shows the type of blatant opportunists that may be heading some of the biggest organisations masquerading as media houses in India. The expose was titled Operation 136 (symbolic of India's rank of 136 in World Press Freedom Index 2017). <sup>1</sup>
 
@@ -42,3 +42,5 @@ If they begin to fall under the influence of money, it's up to us, the citizens,
 <sup>1</sup> [World Press Freedom Index 2017](https://rsf.org/en/ranking/2017)
 <sup>2</sup>[ToI Article: Cobrapost's Sting on Media Groups Based on Doctored Content and Falsification](https://timesofindia.indiatimes.com/india/cobraposts-sting-on-media-groups-based-on-doctored-content-and-falsification/articleshow/64335830.cms)
 <sup>3</sup>[Link to PayTM Statement](https://twitter.com/Paytm/status/1000042122119143424)
+
+*Article by Siddharth Sampath. Published on 27th May, 2018. The views and opinions expressed in this article are those of the author and do not reflect the official policy or position of Journal Club or BITS Wiki.*
