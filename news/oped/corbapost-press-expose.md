@@ -17,18 +17,19 @@ The head of the largest media conglomerate in India (Financial Times, 2015) is s
 
 Their response to all these allegations? The Bennett Coleman Group, the company that owns ToI, put out a statement saying Vineet Jain and his associates indulged Atal Sharma and carried out a 'reverse sting' to expose him, and that they were planning to find out who was behind him. <sup>2</sup>
 
-Also caught on tape was Vice-President of PayTM, Ajay Sekhar Sharma who was saying that the PMO had asked for the personal data of some users in J&K after stone pelting incidents in Kashmir. He is also seen admitting his relations with the BJP and RSS. PayTM eventually put out a statement saying it shares data with legally compliant requests only. He is not, however, seen on tape mentioning whether the data was provided to the PMO or not.
+Also caught on tape was Vice-President of PayTM, Ajay Sekhar Sharma who was saying that the PMO had asked for the personal data of some users in J&K after stone pelting incidents in Kashmir. He is also seen admitting his relations with the BJP and RSS. PayTM eventually put out a statement saying it shares data with legally compliant requests only. He is not, however, seen on tape mentioning whether the data was provided to the PMO or not. <sup>3</sup>
 
-
+<img src = "https://wiki.bits-hyd.org/uploads/news/PayTM-Tweet.png">
 
 Other media agencies featuring in the tapes include the Dainik Bhaskar, Radio One, BigFM and nearly 27 others were also seen to be receptive to these ideas. Dainik Sambad and Bartaman were the only newspapers that didn't succumb to this. 
 
-Even though the tapes might not be completely true, the fact that half the news organisations there haven’t released a statement explaining their side of the story, or rejecting these allegations in itself is another worrisome symptom.
+Even though the tapes might not be completely true, the fact that half the news organisations there haven’t released a statement explaining their side of the story, or rejecting these allegations in itself is worrisome.
 
-The fact that some media houses may suck up to the Centre is in itself appalling. What's even more appalling ‌is the fact that none of the other media houses covered this expose. While it may be blamed on management, who might be preventing such articles, journalists too, are complicit to this to some extent as they haven’t spoken up to this. 
+The fact that some media houses may suck up to the Centre is in itself appalling. What's even more appalling is the fact that none of the other media houses covered this expose. While it may be blamed on management, who might be preventing such articles, journalists too, are complicit to this to some extent as they haven’t spoken up to this. 
 
 Some journalists have tried to release clarifications - Rajdeep Sardesai, for example, tweeted saying that India Today never silenced him when he was taking up a story. However, other users raised concerns on whether he was being allowed to speak freely only because he never took up controversial issues.
- 
+
+
 
 While we shouldn’t be singling Rajdeep Sardesai out, there's a bigger threat that has to be recognized - that the very media that can bring about enormous change and impact to our society is up for sale to the highest bidder.
 
@@ -39,3 +40,4 @@ If they begin to fall under the influence of money, it's up to us, the citizens,
 # References
 <sup>1</sup> [World Press Freedom Index 2017](https://rsf.org/en/ranking/2017)
 <sup>2</sup>[ToI Article: Cobrapost's Sting on Media Groups Based on Doctored Content and Falsification](https://timesofindia.indiatimes.com/india/cobraposts-sting-on-media-groups-based-on-doctored-content-and-falsification/articleshow/64335830.cms)
+<sup>3</sup>[Link to PayTM Statement](https://twitter.com/Paytm/status/1000042122119143424)
