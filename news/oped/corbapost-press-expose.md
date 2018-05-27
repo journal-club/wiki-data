@@ -5,9 +5,9 @@ It was close to two months ago, on March 26th, when Cobrapost reported that the 
 
 These operations were carried out by investigative journalist Pushp Sharma, who went undercover as Acharya Atal, a person who had connections with RSS and wanted to promote Bhagavad Gita. In the sting operations, Atal is seen outlining a **three-phase plan** on how these houses could promote Hindutva and support a political party, in exchange for amounts ranging from a few crore to Rs. 500 crore.
 
-- Phase 1 of the campaign would involve ‘soft Hindutva’ where the organisation would promote Lord Krishna and Bhagawad Gita in order to propagate "hindutva vibes".
-- Phase 2 would involve content targeting Opposition leaders “Pappu, Bua and Babua” (Rahul Gandhi, Mayawati and Akhilesh Yadav) via jingles and caricatures.
-- Phase 3 would depend on whatever is required in the months that lead up to the 2019 general elections approach in the later part of the year.
+  - Phase 1 of the campaign would involve ‘soft Hindutva’ where the organisation would promote Lord Krishna and Bhagawad Gita in order to propagate "hindutva vibes".
+  - Phase 2 would involve content targeting Opposition leaders “Pappu, Bua and Babua” (Rahul Gandhi, Mayawati and Akhilesh Yadav) via jingles and caricatures.
+  - Phase 3 would depend on whatever is required in the months that lead up to the 2019 general elections approach in the later part of the year.
 
 The sting operation videos released by Cobrapost (link to [playlist](https://www.youtube.com/playlist?list=PLtIitJsHQm64R3FYDlyEqoMB3ZJQUzQ8C)) show media executives of companies such as Scoop Whoop, DNA India, Rediff.com and India TV as well as dozens of other media companies, nodding to these ideas, devising ways to carry this out and sometimes even taking notes. 
 
