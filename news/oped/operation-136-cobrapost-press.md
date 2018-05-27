@@ -43,4 +43,4 @@ If they begin to fall under the influence of money, it's up to us, the citizens,
 <sup>2</sup>[ToI Article: Cobrapost's Sting on Media Groups Based on Doctored Content and Falsification](https://timesofindia.indiatimes.com/india/cobraposts-sting-on-media-groups-based-on-doctored-content-and-falsification/articleshow/64335830.cms)
 <sup>3</sup>[Link to PayTM Statement](https://twitter.com/Paytm/status/1000042122119143424)
 
-*Article by Siddharth Sampath. Published on 27th May, 2018. The views and opinions expressed in this article are those of the author and do not reflect the official policy or position of Journal Club or BITS Wiki.*
+*Article by Siddharth Sampath. Published on 27th May, 2018.*
