@@ -4,8 +4,9 @@
 # List of Articles
 - [New Year, New Me](/news/fests/arena-18/new-year-new-me)
 - [Where Legends are Born](/news/fests/arena-18/legends-born)
-- [Arena](/news/fests/arena-18/arena)
 - [A word with the Sports Secretaries](/news/fests/arena-18/sports-sec-interview)
 - [Sports and Politics](/news/fests/arena-18/sports-politics)
+- [Arena 2018: Done and Dusted](/news/fests/arena-18/done-dusted)
+
 
 *Also see: [Arena: Where Sledgends are Born](/news/oped/arena-where-sledgends-are-born), an op-ed by Vinith Bhandari.*
