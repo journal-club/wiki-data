@@ -13,8 +13,8 @@ ATMOS 2017 explores the possibility of a broken world, where the only truth is t
 
 Happy reading!
 [best under neon lights]
-## PDF Release
-The complete pre-fest magazine, which was published on 26th October, 2017, can be downloaded as a PDF file (size: 2.5MB) by clicking [here](/uploads/news/journal-club-2017-10-26.pdf). Alternatively, you can go trhough the plain text versions of individual articles by clicking on article titles below.  
+## PDF Version
+The complete pre-fest magazine, which was published on 26th October, 2017, can be downloaded as a PDF file (size: 2.5MB) by clicking [here](/uploads/news/journal-club-2017-10-26.pdf). Alternatively, you can go through the plain text versions of individual articles by clicking on article titles below.  
 ## Articles
 1. [Theme ATMOS 2017](/news/fests/atmos-17/themes)
 2. [Departments and Clubs: ATMOS 2017](/news/fests/atmos-17/dept-club-work), a look at what clubs and departments are doing in anticipation of Atmos 2017.
@@ -26,6 +26,9 @@ The complete pre-fest magazine, which was published on 26th October, 2017, can b
 8. [Atmos through the Ages](/news/fests/atmos-17/atmos-over-time)
 
 # Post-Fest Magazine
+## PDF Version
+The complete post-fest magazine, which was published on 13 January, 2018, can be downloaded as a PDF file (size: 1.9MB) by clicking [here](/uploads/news/journal-club-2018-01-13.pdf). Alternatively, you can go through the plain text versions of individual articles by clicking below.
+## Articles
 1. [Talks in ATMOS 2017](/news/fests/atmos-17/talks)
 2. [Departments ATMOS 2017](/news/fests/atmos-17/depts)
 3. [Interviews ATMOS 2017](/news/fests/atmos-17/interview)
