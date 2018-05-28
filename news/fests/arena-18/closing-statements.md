@@ -1,4 +1,4 @@
-<!-- TITLE: Arena -->
+<!-- TITLE: Arena 18: Done and Dusted -->
 
 Arena, the sports fest of BITS Pilani, Hyderabad Campus, is one of the three main  fests the campus is known across India for, and, simultaneously, is one of the best, if not the best sports meets in the entire state of Telengana for students and youth. Arena, brilliantly named for a sports fest, has continued to up the expectations and set benchmarks for itself over the years since its inception. It has been growing and allowing each and every one of its participants grow in experience and mental strength. Its not the zeal, the organizers, the students, nor the dedicated contender base that has made Arena one and only; the place “where legends are born”.
  
