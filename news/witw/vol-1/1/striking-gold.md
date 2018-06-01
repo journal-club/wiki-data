@@ -7,8 +7,7 @@ I am a person who likes to explore, academically that is. So, my first thought w
 **What kept you motivated across the years in accomplishing such a high CGPA?**
 I guess motivation is the wrong kind of thing to ascribe something to. Because, there was a phase when I was bothered by my performance. In the first year I happened to be one of those who performed well. We all come from the best of our schools and colleges. And it’s very competitive here. So, first year, I think was a little hard work and a lot of luck. But what really kept me going after that was that I loved my subjects. I want to do research and I will pursue a PhD. I chose most of the subjects I had, I took MSc Maths by choice and then BE. Computer Science too. It was never that I got this, I took this. My motivation is very simple: I love what I study.
 
-**What is one thing that you are proud
-of?**
+**What is one thing that you are proud of?**
 It’s a little sad but I think this is the wildest thing I have done. My Algebra 2 Compre paper was scheduled for two hours and I finished the paper quite early. But I was very hungry as I had studied the whole night. So, that day I didn’t have the strength to pull through and check my paper. I got out of the hall, went to the cafeteria below, had some Masala Dosas and a milkshake. Came back to the hall, checked the paper, pointed out a couple of mistakes in the question paper, had a nice chat with the instructor and left. In all seriousness, though, the proudest things would be my relations here. I have met some of the nicest people on the planet here. I think, that is something that I will carry with me.
 
 **And one thing that you regret?**
