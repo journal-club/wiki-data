@@ -11,6 +11,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 | 26/Aug/2017 | Bareilly Ki Barfi |
 | 2/Sept/2017 | Toilet: Ek Prem Katha |
 | 16/Sept/2017 | Baadshaho |
+| 30/Sept/2017 | Shubh Mangal Saavdhan |
 | 7/Oct/2017 | Newton |
 | 14/Oct/2017 | Chef |
 | 21/Oct/2017 | Judwaa 2 |
