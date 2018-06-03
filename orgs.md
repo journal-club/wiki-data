@@ -43,5 +43,7 @@ Clubs on campus today are:
 8.  [Panacea](/orgs/panacea)
 9.  [PhOEnix](/orgs/phoenix)
 
+# Other
+1. [RAF](/orgs/raf)
 
 The list will keep expanding.
