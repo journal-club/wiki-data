@@ -1,5 +1,5 @@
 <!-- TITLE: List of Movies Screened in the Auditorium -->
-<!-- SUBTITLE: List of movies have been organised by date of screening.   -->
+<!-- SUBTITLE: List of movies, sorted by date of screening.   -->
 
 Movie screenings in the auditorium are organised by RAF. They usually happen on Saturdays at 8PM. 
 # Academic Year 2017-18
