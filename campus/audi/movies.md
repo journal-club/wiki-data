@@ -33,6 +33,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 | Date | Movie | 
 |--|--|
 | 6/Aug/2016 |  Madaari |
+| 20/Aug/2016 | Sultan | 
 | 27/Aug/2016 | Rustom |
 | 3/Sept/2016 | Kabali |
 | 14/Sept/2016 | Happy Bhaag Jayegi | 
@@ -56,6 +57,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 |--|--|
 | 23/Jan/2016 | Wazir |
 | 6/Feb/2016 | Airlift |
+| 20/Feb/2016 | Saala Khadoos | 
 | 12/Mar/2016 | Saala Khadoos |
 | 26/Mar/2016 | Neerja |
 | 2/Apr/2016 | Jai Gangajal |
