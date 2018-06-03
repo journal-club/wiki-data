@@ -32,6 +32,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 
 | Date | Movie | 
 |--|--|
+| 26/Nov/2016 | Shivaay |
 | 4/Feb/2017 | Dangal |
 | 11/Feb/2017 | Raees |
 | 11/Mar/2017 | Jolly LLB 2 |
@@ -45,6 +46,9 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 
 | Date | Movie | 
 |--|--|
+| 23/Jan/2016 | Wazir |
+| 6/Feb/2016 | Airlift |
+| 12/Mar/2016 | Saala Khadoos |
 | 24/Apr/2016 | Ki and ka |
 
 </center>
