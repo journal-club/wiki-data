@@ -38,6 +38,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 | 14/Sept/2016 | Happy Bhaag Jayegi | 
 | 1/Oct/2016 | Baar Baar Dekho |
 | 8/Oct/2016 | Pink |
+| 29/Oct/2016 | M S Dhoni (The Untold Story) |
 | 5/Nov/2016| Freaky Ali |
 | 26/Nov/2016 | Shivaay |
 | 4/Feb/2017 | Dangal |
