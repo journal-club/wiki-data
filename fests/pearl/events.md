@@ -57,7 +57,7 @@
 * [Pictionary](/fests/pearl/events/pictionary)-Fun-filled event
 ## Miscellaneous
 * [Antakshari](/fests/pearl/events/anatakshari)-Fun-filled event
-* [Football Manager](/fests/pearl/events/footballmanager)-Simulation-based event
+* [Football Manager](/fests/pearl/events/football-manager)-Simulation-based event
 * [Fraglore](/fests/pearl/events/fraglore)- Gaming event
 * [Glitterati](/fests/pearl/events/glitterati)- Fashion show
 * [Mr. & Ms. Pearl](/fests/pearl/events/mr&mspearl)- Talent Hunt
