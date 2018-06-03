@@ -7,6 +7,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 
 | Date | Movie | 
 |--|---|
+| 2/Sept/2017 | Toilet: Ek Prem Katha |
 | 7/Oct/2017 | Newton |
 | 4/Nov/2017 | Secret Superstar |
 | 17/Feb/2018 | Padmaavat |
