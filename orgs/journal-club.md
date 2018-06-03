@@ -8,7 +8,7 @@ A few initiatives of Journal Club includes [fest magazines](/news/fests),  [Whis
 ![Journal Club Logo](/uploads/orgs/jc-logo.jpg)
 *Journal Club Logo*
 
-<center>
+</center>
 
 # List of Postholders
 | Year | Secretary | Joint Secretary | Treasurer |
