@@ -1,7 +1,6 @@
-<!-- TITLE: Footballmanager -->
+<!-- TITLE: Football Manager -->
 <!-- SUBTITLE: A quick summary of Footballmanager -->
 
-# Header
 Simulation of being a football manager. Trading players, making deals during transfer windows and getting the best out of your club. Do you have what it takes to be a football manager?
 
 ## Rules:
