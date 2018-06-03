@@ -1,11 +1,7 @@
 <!-- TITLE: Time Machine -->
-<!-- SUBTITLE: Your chance to go back in time and change the course of history. Write a report on the new timeline in as many words as you like. -->
+<!-- SUBTITLE: Time Machine is an event organised by Journal Club during the fests Pearl/VM.  -->
+
+Time Machine is a **writing event** in which you have to write a news report on a hypothetical scenario given to you as a prompt. The prompts will usually go back  in history and change a key event, which you will have to report in a news article. Journal Club sometimes uses this sort of a format for inductions into the club, also.
 
 # Rules
-The report must be formal, unbiased and journalistic. Participants cannot exceed word limit. It is an individual event with one entry per participant.
-
-# Judging Criteria
-1.  Tone
-2.  Coherence
-3.  Relevance
-4.  Language
+The report is expected to be formal and unbiased (not written like an opinion editorial). It is an individual event which may also have word limits on the maximum size of the article. The entries are usually judged on factors like tone, coherence, relevance and language.
