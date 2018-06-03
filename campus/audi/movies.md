@@ -1,4 +1,18 @@
 <!-- TITLE: List of Movies Screened in the Auditorium -->
-<!-- SUBTITLE: Movie screenings in the auditorium, which usually happen on Saturdays at 8PM, are organised by RAF.  -->
+<!-- SUBTITLE: List of movies have been organised by date of screening.   -->
 
+Movie screenings in the auditorium are organised by RAF. They usually happen on Saturdays at 8PM. 
 # Academic Year 2017-18
+| Date | Movie | 
+|--|---|
+| 7/Oct/2017 | Newton |
+| 4/Nov/2017 | Secret Superstar |
+| 17/Feb/2018 | Padmaavat |
+| 03/Mar/2018 | Aiyaary |
+| 10/Mar/2018 | Padman |
+| 17/Mar/2018 | Tiger Zinda Hai<sup>1</sup> |
+| 7/Apr/2018 | Ittefaq |
+| 28/Apr/2018 | Sonu ke Titu ki Sweety | 
+
+# Footnotes
+<sup>1</sup> The movie that was planned to be screened was *Sonu Ke Titu Ki Sweety*, which was informed in an email on 16th March. However, on March 17th, the movie was changed to *Tiger Zinda Hai*, citing "unforseen circumstances". The original movie was later screened on April 28th, 2018. 
