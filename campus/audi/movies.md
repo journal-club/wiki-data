@@ -31,6 +31,9 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 
 | Date | Movie | 
 |--|--|
+| 4/Feb/2017 | Dangal |
+| 11/Mar/2017 | Jolly LLB 2 |
+| 25/Mar/2017 | Rangoon |
 | 8/Apr/2017 | Badrinath ki Dulhania |
 
 </center>
