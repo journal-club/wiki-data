@@ -57,6 +57,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 |--|--|
 | 16/Jan/2016 | Bajirao Mastani |
 | 23/Jan/2016 | Wazir |
+| 31/Jan/2016 | Nannaku Prematho<sup>2</sup> | 
 | 6/Feb/2016 | Airlift |
 | 20/Feb/2016 | Saala Khadoos | 
 | 12/Mar/2016 | Saala Khadoos |
@@ -69,3 +70,4 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 
 # Footnotes
 <sup>1</sup> The movie that was planned to be screened was *Sonu Ke Titu Ki Sweety*, which was informed in an email on 16th March. However, on March 17th, the movie was changed to *Tiger Zinda Hai*, citing "unforseen circumstances". The original movie was later screened on April 28th, 2018. 
+<sup>2</sup> One of the only Telugu movies screened in the auditorium. The movie, however, was not free. The ticket cost was Rs. 50.
