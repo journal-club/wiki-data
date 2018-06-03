@@ -11,8 +11,12 @@ A few initiatives of Journal Club includes [fest magazines](/news/fests),  [Whis
 </center>
 
 # List of Postholders
+<center>
+
 | Year | Secretary | Joint Secretary | Treasurer |
 |--|--|--|--|
 | 2018-19 | Aishwarya Rebelly | Niharika Shankar | Poornima Venkatapuram |
 | 2017-18 | Nikita Mandapati | Aishwarya Rebelly | Archana Swaminathan |
 | 2016-17 | Sajal Bansal | Divyansh Mahajan | Arjun Deshmukh |
+
+</center>
