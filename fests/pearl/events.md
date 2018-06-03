@@ -43,7 +43,7 @@
 * [Bullseye](/fests/pearl/events/bullseye)-Crossword
 * [Caption It !](/fests/pearl/events/captionit)-Caption writing event
 * [Minute to Win It !](/fests/pearl/events/minutetowinit)-SAFL Event
-* [Time Machine](/fests/pearl/events/timemachine)-Historical Report Writing
+* [Time Machine](/fests/pearl/events/time-machine)-Historical Report Writing
 * [Ukti](/fests/pearl/events/ukti)-Hindi writing event
 * [Words of a Feather](/fests/pearl/events/woaf)-English writing event
 ## Photography
