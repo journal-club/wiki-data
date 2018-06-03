@@ -1,4 +1,4 @@
 <!-- TITLE: Auditorium -->
 <!-- SUBTITLE: BITS Hyderabad's auditorium (or audi) is one of the largest auditoriums in Asia, with a seating capacity of 2500+ people. -->
 
-See: [List of Movies Screened in the Auditorium](/campus/audi/movies)
+Also See: [List of Movies Screened in the Auditorium](/campus/audi/movies)
