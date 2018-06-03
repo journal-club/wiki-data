@@ -55,6 +55,7 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 
 | Date | Movie | 
 |--|--|
+| 16/Jan/2016 | Bajirao Mastani |
 | 23/Jan/2016 | Wazir |
 | 6/Feb/2016 | Airlift |
 | 20/Feb/2016 | Saala Khadoos | 
