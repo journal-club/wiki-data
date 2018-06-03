@@ -1,4 +1,5 @@
 <!-- TITLE: Department of Professional Events -->
-<!-- SUBTITLE: The department that takes care of all the professional events on campus. -->
+<!-- SUBTITLE: Department of Professional Events,or DoPE, takes care of all the professional events on campus. -->
 
-# Header
+# List of Postholders
+# Inductions 
