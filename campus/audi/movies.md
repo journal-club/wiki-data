@@ -27,9 +27,12 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 </center>
 
 # Academic Year 2016-17
+<center>
+
 | Date | Movie | 
 |--|--|
 | 8/Apr/2017 | Badrinath ki Dulhania |
 
+</center>
 # Footnotes
 <sup>1</sup> The movie that was planned to be screened was *Sonu Ke Titu Ki Sweety*, which was informed in an email on 16th March. However, on March 17th, the movie was changed to *Tiger Zinda Hai*, citing "unforseen circumstances". The original movie was later screened on April 28th, 2018. 
