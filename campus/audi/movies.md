@@ -3,6 +3,8 @@
 
 Movie screenings in the auditorium are organised by RAF. They usually happen on Saturdays at 8PM. 
 # Academic Year 2017-18
+<center>
+
 | Date | Movie | 
 |--|---|
 | 7/Oct/2017 | Newton |
@@ -13,6 +15,8 @@ Movie screenings in the auditorium are organised by RAF. They usually happen on 
 | 17/Mar/2018 | Tiger Zinda Hai<sup>1</sup> |
 | 7/Apr/2018 | Ittefaq |
 | 28/Apr/2018 | Sonu ke Titu ki Sweety | 
+
+</center>
 
 # Footnotes
 <sup>1</sup> The movie that was planned to be screened was *Sonu Ke Titu Ki Sweety*, which was informed in an email on 16th March. However, on March 17th, the movie was changed to *Tiger Zinda Hai*, citing "unforseen circumstances". The original movie was later screened on April 28th, 2018. 
