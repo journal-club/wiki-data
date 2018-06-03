@@ -15,6 +15,7 @@ Like all departments, DoPE is headed by a team of three, with each post-holder b
 
 | Year | CoStAAn | CoSSACn | StuCCAn |
 |--|--|--|--|
-| 2018-19 | Vishwaa Narayanan  | Kapil Shah | Pradeep Reddy Sagili |
+| 2018-19 | | | |
+| 2017-18 | Vishwaa Narayanan  | Kapil Shah | Pradeep Reddy Sagili |
 
 </center>
