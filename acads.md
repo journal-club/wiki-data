@@ -1,4 +1,4 @@
-<!-- TITLE: Acads -->
-<!-- SUBTITLE: A quick summary of Acads -->
+<!-- TITLE: Academics -->
+<!-- SUBTITLE: A description of how academics in college works.  -->
 
 # Header
