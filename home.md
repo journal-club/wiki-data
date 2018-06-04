@@ -20,7 +20,8 @@ Top level index:
 1. [Student Organisations](/orgs)
 2. [Festivals and Events](/fests)
 3. [Our Campus](/campus)
-3. [FAQ for outsiders](/faq)
+4. [Academics at BITSH](/acads)
+5. [FAQ for outsiders](/faq)
 
 # Links for Students
 1. [Event Organization Rule book](/rulebooks/event-organization)
