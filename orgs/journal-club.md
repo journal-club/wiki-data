@@ -15,7 +15,7 @@ Initiatives of Journal Club (often abbreviated JC) include [fest magazines](/new
 Whispers in the Woods is the bi-semesterly newsletter of the campus, with the first issue being published in the first semester of the academic year 2017-18. Some issues of the newsletter are printed on newspaper size sheets, while others are released digitally (through publication services such as Joomag). The archives of WITW are available [here](/news/witw).
 
 ## The News Not Reported
-The News Not Reported (or TNNR) is a video journalism event to capture events on campus. Done in collaboration with [Department of Visual Effects](/orgs/dove), the videos are released from JC's [YouTube channel](https://www.youtube.com/channel/UChCi1W0W2yJ7brmuPs2NJlw). 
+The News Not Reported (or TNNR) is a video journalism initiative to capture events on campus. Done in collaboration with [Department of Visual Effects](/orgs/dove), the videos are released from JC's [YouTube channel](https://www.youtube.com/channel/UChCi1W0W2yJ7brmuPs2NJlw). 
 
 ## Fest Magazines
 Journal Club publishes newsletters on the major fests on campus, Atmos, Pearl and Arena, as well Verba Maximus. Fest magazines are initially released in the form of images with text on them, via Facebook. Fest mags are sometimes split into two parts - a pre-fest and a post-fest magazine, with the pre-fest one being released 2-5 days before the fest, and the post-fest magazine being published sometime later. Fest magazines are also available in the [archives](/news/fests), in both plain text format and downloadable PDF format.
