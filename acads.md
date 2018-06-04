@@ -1,4 +1,4 @@
 <!-- TITLE: Academics at BITS Hyderabad -->
-<!-- SUBTITLE: A description of how academics in college works.  -->
-*This page gives a descrption of how the undergraduate degrees, BE(hons) and MSc (hons) work. *
+<!-- SUBTITLE: A description of how the undergraduate degrees at BITS Hyderabad, BE (hons) and MSc (hons) work.  -->
 # Introduction
+BITS offers two types of degrees at the undergraduate level, BE (hons) and MSc (hons). Students who meet the admission requirements, and have a high enough BITSAT score are offered admission to one of these programs. A BE degree generally takes four years of study on campus, while an MSc degree (dual degree) takes 5 years. There are two semesters in a year. At the beginning of each semester, you have to register for courses you wish to pursue that semester and prepare your time-table. During the semester, there will be multiple evaluation components, such as a mid-semester exams, surprise quizzes or tests, lab evaluations and assignments. At the end of each semester, you have comprehensive exams ("compres") that are usually 1.5 hours to 3 hours long and carry a heavy weightage toward your final grade. After the compres end, when you are at home for holidays, your grades are released online through the ERP portal. Grades are usually released about fifteen days after semester ends.
