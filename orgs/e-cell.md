@@ -11,6 +11,6 @@ Managing Temptations, usually conducted as a pre-ATMOS event, is a competition i
 Coffee with CEL is an online-interactive session with business personalities usually live-streamed over Facebook. In the academic year 2017-18 two such sessions were conducted - one with K Vineet, the Chief Business Officer at Mobikwik, and the second one with Deepti Beri, the Chief Commercial Officer at [Sheroes](https://www.facebook.com/sheroesindia). 
 # Also See
 - [Launchpad](/fests/launchpad)
-- [Journal Club Report on E-Cell 2018](news/witw/vol-1/3/launchpad)
+- [Journal Club Report on E-Cell 2018](/news/witw/vol-1/3/launchpad)
 - [E-Cell Facebook Page](https://www.facebook.com/eCELL.BPHC)
 - [E-Cell Website](http://ecell.bits-hyderabad.ac.in/)
