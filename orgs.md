@@ -1,5 +1,5 @@
 <!-- TITLE: Student Organisations -->
-<!-- SUBTITLE: Recognised student organisations at BITS Hyderabad are mostly of three types - clubs, which are usually focussed on extracurricular activities like dance, music, and drama. Departments, which primarily work for the fests ARENA, ATMOS, and Pearl. Technical Associations and Clubs are focussed on working in a specific area of science or technology.  -->
+<!-- SUBTITLE: Student organisations at BITS Hyderabad are mostly of three types - clubs, which are usually focussed on extracurricular activities like dance, music, and drama. Departments, which primarily work for the fests ARENA, ATMOS, and Pearl. Technical Associations and Clubs are focussed on working in a specific area of science or technology.  -->
 
 # Clubs
 Clubs on campus today are:
