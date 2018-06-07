@@ -9,6 +9,6 @@
 5. [India: Prosecute Rampant ‘Honor’ Killings](https://www.hrw.org/news/2010/07/18/india-prosecute-rampant-honor-killings)
 6. [Lesbian newlyweds flee honor killing threats in India](https://foreignpolicy.com/2011/07/29/lesbian-newlyweds-flee-honor-killing-threats-in-india/)
 7. [Being LGBT in India: Some home truths](https://www.livemint.com/Sundayapp/sAYrieZdZKEybKzhP8FDbP/Being-LGBT-in-India-Some-home-truths.html)
-8. [http://journals.sagepub.com/doi/pdf/10.1177/1529100616637616](http://journals.sagepub.com/doi/pdf/10.1177/1529100616637616)
+8. [Association for Pshychological Science: Sexual Orientation, Controversy, and Science](http://journals.sagepub.com/doi/pdf/10.1177/1529100616637616)
 9. [https://www.nami.org/Find-Support/LGBTQ](https://www.nami.org/Find-Support/LGBTQ)
 10. [ https://www.tandfonline.com/doi/abs/10.1080/00224498809551478?journalCode=hjsr20&]( https://www.tandfonline.com/doi/abs/10.1080/00224498809551478?journalCode=hjsr20&)
