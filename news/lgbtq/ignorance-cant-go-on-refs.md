@@ -1,5 +1,5 @@
 <!-- TITLE: Ignorance Cannot Go On -->
-
+<!-- SUBTITLE: To the aid the efforts of LGBTQ awareness, JC brings forth a series of articles. First in line is this article by Gokul Nanda, an ally to the community.-->
 # References
 
 1. [How Christianity Is Becoming More Tolerant of the LGBT Community](http://bigthink.com/21st-century-spirituality/is-christianity-becoming-more-tolerant-of-the-lgbt-community)
