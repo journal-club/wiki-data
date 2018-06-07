@@ -1,5 +1,6 @@
-<!-- TITLE: Ignorance Cannot Go On -References -->
+<!-- TITLE: Ignorance Cannot Go On -->
 
+# References
 
 1. [http://bigthink.com/21st-century-spirituality/is-christianity-becoming-more-tolerant-of-the-lgbt-community](http://bigthink.com/21st-century-spirituality/is-christianity-becoming-more-tolerant-of-the-lgbt-community)
 2. [ https://www.glaad.org/publications/accelerating-acceptance-2018]( https://www.glaad.org/publications/accelerating-acceptance-2018)
