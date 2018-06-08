@@ -19,4 +19,4 @@ Da organises design related events during [Pearl](/fests/pearl) and [Renaissance
 
 # Also See
 - Email Address of Da: [designclub@hyderabad.bits-pilani.ac.in](mailto:designclub@hyderabad.bits-pilani.ac.in)
-- [DoTA](/orgs/dota), the department responsible for making posters for Arena, Atmos and Pearl, as well as maintaining the fest websites. 
+- [DoTA](/orgs/dota), the department responsible for which handles the creatives of the fests, including the maintenance of respective websites and creation of android applications.
