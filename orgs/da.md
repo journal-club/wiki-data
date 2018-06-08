@@ -13,7 +13,7 @@ Da organises design related events during [Pearl](/fests/pearl) and [Renaissance
 |--|--|--|--|
 | 2017-18 | Tushar Kanth | Suraj Thotakura | Vikranth Sagar |
 | 2016-17 | S Sai Rajiv Krishna | Abhishek Yadav | Anshik Thareja |
-| 2015-16 | Sairam Ganti | - | - |
+| 2015-16 | Sairam Ganti | Jaideep Sai | Rajiv Krishna |
 
 </center>
 
