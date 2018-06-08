@@ -5,7 +5,7 @@ Designers Anonymous is the design club of BPHC. Da, as a club is involved in mak
 # Inductions
 Inductions happen every semester after a workshop or series of workshops conducted by the club on the basics of design. These basic workshops usually teach the basics of image manipulation programs like Adobe Photoshop or Illustrator. Inductions generally involve making a poster/artwork on a given theme or topic.
 # Events in Fests
-Da organises design related events during [Pearl](/fests/pearl) and [Renaissance](/fests/renaissance). In [Pearl 2018](/fests/pearl/2018), Da conducted the events [Album Art](/fests/pearl/events/album-art), [Doodler](/fests/pearl/events/doodler) and [Travelogue](/fests/pearl/fests/pearl/events/travelogue). Also, two paid workshops were also conducted in Pearl'18 - one workshop on UI/UX and the other on Isometric Illustration. 
+Da organises design related events during [Pearl](/fests/pearl) and [Renaissance](/fests/renaissance). In [Pearl 2018](/fests/pearl/2018), Da conducted the events [Album Art](/fests/pearl/events/album-art), [Doodler](/fests/pearl/events/doodler) and [Travelogue](/fests/pearl/fests/pearl/events/travelogue). Also, two paid workshops were also conducted in Pearl'18 - one workshop on UI/UX and the other on Isometric (3D) Illustration. 
 # List of Postholders
 <center>
 
