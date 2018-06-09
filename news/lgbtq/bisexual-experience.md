@@ -1,15 +1,15 @@
 <!-- TITLE:  From Sweats to Strength: The Bisexual Experience -->
 <!-- SUBTITLE: Today we bring to you an account from a 2004 batch graduate of the Goa Campus. The alumnus wishes to remain anonymous and identifies as bisexual. -->
 
-<center>
-<img src="/uploads/news/the-bisexual-experience.jpg" width = 400px>
-</center>
-
 I am Anonymous. Yeah, that’s how I would like to introduce myself. I am Anonymous, in my early thirties. No, I won’t even tell you the first letter of my name. The only letter I’ll offer you here is ‘B’, from LGBTQ. I’ve been living two lives ever since I realized I was attracted to both boys and girls. And no, my orientation is not an effect of the child abuse I went through at the ripe old age of seven, which lasted for five years. For some reason, many think that’s a reason to ‘turn’ gay. It’s not.
 
 I remember surfing the internet and finding the meanings of ‘L’, ‘G’ and ‘B’. I remember seeing the bigger picture and realizing I wasn’t alone. I remember finding a dating website for men with similar interests. I remember going on my first date.
 
 It was the second year of engineering. A very strange feeling. Heartbeat so high, ready to explode. I needn’t have worried, though. The first thing he said was, “Are you meeting a stranger for the first time?”. He’d immediately guessed the reason behind my shivering and sweating. Gently, he took me to an isolated spot in a park and shared his experiences of being bisexual, being bisexual after his marriage. He made me feel so comfortable that day, I gained courage. Courage to lead my life normally just like anybody else. Making peace with the fact that I love boys the same way I love girls. The date lasted for only two hours, but I walked away with a lot of knowledge and a polished understanding of my own feelings.
+
+<center>
+<img src="/uploads/news/the-bisexual-experience.jpg" width = 400px>
+</center>
 
 It has been 12 years since then. I don’t have any regrets being bisexual in this country. But in the environment where I come from, I am still afraid to use the ‘B’ word. That part of me is still unseen by my family and many of my friends. When I moved into a metropolis, I could finally expand my circle and hang out with the LGBTQ community. I hang out more with LGBTQ friends than straight ones. They let me live like me.
 
