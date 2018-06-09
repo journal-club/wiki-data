@@ -1,8 +1,9 @@
 <!-- TITLE:  From Sweats to Strength: The Bisexual Experience -->
 <!-- SUBTITLE: Today we bring to you an account from a 2004 batch graduate of the Goa Campus. The alumnus wishes to remain anonymous and identifies as bisexual. -->
 
-
-<img src="/uploads/news/the-bisexual-experience.jpg" width = 300px>
+<center>
+<img src="/uploads/news/the-bisexual-experience.jpg" width = 400px>
+</center>
 
 I am Anonymous. Yeah, that’s how I would like to introduce myself. I am Anonymous, in my early thirties. No, I won’t even tell you the first letter of my name. The only letter I’ll offer you here is ‘B’, from LGBTQ. I’ve been living two lives ever since I realized I was attracted to both boys and girls. And no, my orientation is not an effect of the child abuse I went through at the ripe old age of seven, which lasted for five years. For some reason, many think that’s a reason to ‘turn’ gay. It’s not.
 
