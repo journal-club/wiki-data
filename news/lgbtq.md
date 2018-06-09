@@ -1,5 +1,5 @@
 <!-- TITLE: LGBTQ -->
-<!-- SUBTITLE: A compilation of first person accounts, informative piece and editorials related to the LGBTQ community. -->
+<!-- SUBTITLE: A compilation of first person accounts, informative pieces and editorials related to the LGBTQ community. -->
 <center>
 
 | Date<sup>1</sup> | Title & Description |
