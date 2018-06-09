@@ -14,8 +14,8 @@
 | 28th February, 2018 | **[Where Were You Last Night?](/news/spotlight/where-you-last-night)**| 
 | 24th September, 2017 | **[DisCo: Everything You Need to Know](/news/spotlight/discos)** |
 
-</center>
 <i><sup>1</sup> Date of original publication. Some spotlights that were initially published on BITS Chronicles have been republished on this website.</i>  
+</center>
 
 # General News
 *For a complete list of these articles, click [here](/news/general)*
