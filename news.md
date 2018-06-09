@@ -25,6 +25,9 @@
 | November 1st, 2017 | [What a Mess!](/news/general/mess-other-campuses), explores the eateries of the other two BITS campuses. | 
 | July 21st, 2017  | [The Year That Was: SUC 2016-17](/news/general/suc-2016-17) |
 
+# LGBTQ
+A compilation of first person accounts, informative piece and editorials related to the LGBTQ community. Click [here](/news/lgbtq).
+
 # OpEds
 *OpEds, or Opinion Editorials. For a complete list of Opinion Editorials, [click here](/news/oped).*
 
