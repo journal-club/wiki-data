@@ -4,6 +4,8 @@
 # Spotlights
 *Highlighting key issues that affect the campus. For a complete list of spotlights, click [here](/news/spotlight)*
 
+<center>
+
 | Date<sup>1</sup> | Title & Description |
 | --- | --- | --- |
 | 25th April, 2018 | **[Fest Coordinators](/news/spotlight/fest-coordinators)** |
@@ -12,10 +14,13 @@
 | 28th February, 2018 | **[Where Were You Last Night?](/news/spotlight/where-you-last-night)**| 
 | 24th September, 2017 | **[DisCo: Everything You Need to Know](/news/spotlight/discos)** |
 
+</center>
 <i><sup>1</sup> Date of original publication. Some spotlights that were initially published on BITS Chronicles have been republished on this website.</i>  
 
 # General News
 *For a complete list of these articles, click [here](/news/general)*
+
+<center>
 
 | Date<sup>1</sup> | Title & Description |
 | --- | --- | --- |
@@ -25,11 +30,15 @@
 | November 1st, 2017 | [What a Mess!](/news/general/mess-other-campuses), explores the eateries of the other two BITS campuses. | 
 | July 21st, 2017  | [The Year That Was: SUC 2016-17](/news/general/suc-2016-17) |
 
+</center>
+
+
 # LGBTQ
 A compilation of first person accounts, informative piece and editorials related to the LGBTQ community. Click [here](/news/lgbtq).
 
 # OpEds
 *OpEds, or Opinion Editorials. For a complete list of Opinion Editorials, [click here](/news/oped).*
+<center>
 
 | Date | Title | Author |
 | --- | --- | --- |
@@ -38,6 +47,8 @@ A compilation of first person accounts, informative piece and editorials related
 | 6th May, 2018 | [In the Name of Education](/news/oped/name-of-education) | Sharad Hotha |
 | 23rd April, 2018 | [Certainly Not You Too!](/news/oped/not-you-too) | Niharika Shankar |
 | 18th February, 2018 | [Arena: Where Sledgends Are Born](/news/oped/arena-where-sledgends-are-born) | Vinith Bhandari |
+</center>
+
 # Student Union Elections 2018
 Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/vol-1/4) to read the complete release.
 
