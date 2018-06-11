@@ -11,6 +11,4 @@
 
 </center>
 
-As the articles go on, we’d also like to notify everyone that an anonymous support platform for campus members in the Queer community exists and should anyone want to be a part of this group, they can write to Richa Mittal at zricha1716@gmail.com 
-
-Richa is a 2014 batch student at the Hyderabad Campus and identifies as a lesbian.
+*As the articles go on, we’d also like to notify everyone that an anonymous support platform for campus members in the Queer community exists and should anyone want to be a part of this group, they can write to Richa Mittal at zricha1716@gmail.com. Richa is a 2014 batch student at the Hyderabad Campus and identifies as a lesbian.*
