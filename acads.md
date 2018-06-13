@@ -23,6 +23,6 @@ From the academic year 2017-18 onward, biometric attendance systems were install
 
 From the academic year 2017-18 onwards the institution followed the midsemester system, in lieu of the earlier [T1-T2 system](/acads/t1-t2). There's a midsemester exam in the middle of the semester and compres, along with surprise tests, assignments or in-class quizzes throughout the semester. 
 
-# FAQs
+# FAQs and Other Links
 1. [Minor Degrees](/acads/minors)
 2. [Dual Degrees](/acads/dual)
