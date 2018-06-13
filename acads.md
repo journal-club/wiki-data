@@ -16,8 +16,13 @@ While planning your timetable, you have to ensure that two courses you register 
 
 Registering for courses and sections you want is one of the many freedoms you get at BITS Hyderabad. However, first years do not have a choice in what courses to register to - the first year courses are common for all students, and are compulsary. First years, however, have some choice over what instructor/time slot  they want their classes to be. For subsequent years, there's a set of compulsary courses you have to do for your degree, along with a number of electives. 
 
-# Classes
-Classes start immediately after registration, sometimes from the very next day. While BITS does have the famous 0% attendance policy, it might be wise to attend classes atleast once in a while. Classes are relatively full for the first few days, after which attendance falls sharply. A lot of courses have 20-30% of the course weightage in the form of surprise tests/quizzes in lectures/tutorials, so attending classes becomes necessary. Also, lab classes might have to be attended as every lab session is evaluative and is counted towards the final grade. From the academic year 2017-18 onward, biometric attendance systems were installed in all classrooms and students were asked to mark their attendance. While the 0% attendance rule is still in place, it is not unheard of for professors to use the attendance percentage to decide whether to grant make-up for an exam you missed. Ultimately, it is better to attend atleast a decent number of classes, despite the 0% attendance rule. 
+# Classes and Exams
+Classes start immediately after registration, sometimes from the very next day. While BITS does have the famous 0% attendance policy, it might be wise to attend classes atleast once in a while. Classes are relatively full for the first few days, after which attendance falls sharply. A lot of courses have 20-30% of the course weightage in the form of surprise tests/quizzes in lectures/tutorials, so attending classes becomes necessary. Also, lab classes might have compulsary attendance as every lab session is evaluative and is counted towards the final grade. 
 
-# Examinations
+From the academic year 2017-18 onward, biometric attendance systems were installed in all classrooms and students were asked to mark their attendance. While the 0% attendance rule is still in place, it is not unheard of for professors to use the attendance percentage for other things such as to decide whether or not to grant make-up for an exam you missed. Ultimately, it is better to attend atleast a decent number of classes, despite the 0% attendance rule. 
+
 From the academic year 2017-18 onwards the institution followed the midsemester system, in lieu of the earlier [T1-T2 system](/acads/t1-t2). There's a midsemester exam in the middle of the semester and compres, along with surprise tests, assignments or in-class quizzes throughout the semester. 
+
+# FAQs
+1. [Minor Degrees](/acads/minors)
+2. [Dual Degrees](/acads/dual)
