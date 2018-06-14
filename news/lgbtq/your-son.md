@@ -35,3 +35,5 @@ P.S. Transmen are a minority within a minority and all our community members wou
 3. [Appendix of Terms](https://www.cosmopolitan.com/uk/love-sex/a20730324/lgbt-meaning/)
 4. [Brain scans evidence research](https://interestingengineering.com/transgender-brains-resemble-identified-gender-reveal-mri-scans)
 5. [Kerala Suicide](https://www.thenewsminute.com/article/how-transphobia-and-ignorance-doctors-drove-kerala-trans-man-suicide-81116)
+
+*Published 13th June, 2018.*
