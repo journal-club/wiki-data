@@ -13,4 +13,4 @@ But some situations cannot be avoided by being clever and astute. Family pressur
 
 Representation is the key to make a difference in our lives. The biggest impact is definitely made by mothers who have accepted their children for who they are and speak up for the community. Movies also play an important role in moulding the way people think. Typically, gay men are characters used in comic roles, completely neglecting every side of their personality except the fact that they are attracted to men. There is so much more to us than that. We find love, we have dating problems and commitment issues, we have professional successes and failures, we are extremely capable of feeling emotions other than just fawning over a guy. Portraying us the way we are is the only way to break stereotypes and give the community the justice it deserves.
 
-*Published 12the June, 2018.*
+*Published 12th June, 2018.*
