@@ -27,6 +27,7 @@ My mom, however, had my back. Upon hearing all this, she started crying. She tol
 
 The incident with the astrologer is only one of the many emotionally draining experiences I’ve had to face in my life due to my dysphoria. Thankfully, for me, my mom had my back and I have utmost faith that both my parents will be by my side in all my times of trouble. I’ve made friends and have a strong support system. But what about all the other transgender people out there who don’t have anyone watching out for them? Are they to just continue going through stressful and traumatising incidents until it breaks them? Until they lose all hope?
 
+P.S. Transmen are a minority within a minority and all our community members would rather that you ask us directly any queries than assume, since we are pretty unheard of. To help make this process easier I’ve put together a list of informative links, those can be found below. And if you have any more questions you can email me at batman9[at]protonmail[dot]com. Refrain from bigotry.
 # Helpful links:
 
 1. [BBC](https://youtu.be/udI-Go8KK2Q)
