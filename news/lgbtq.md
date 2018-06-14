@@ -10,6 +10,7 @@
 | 10/June/2018 | [A Facet of Me](/news/lgbtq/facet-of-me), by Samyukta Ramnath, a BPGC alumnus. | 
 | 11/June/2018 | [Section 377 of the Indian Penal Code](/news/lgbtq/ipc-377) |
 | 12/June/2018 | [Shahrukh Khan Made Me Gay](/news/lgbtq/srk-made-me-gay) |
+| 13/June/2018 | [This is Your Son](/news/lgbtq/your-son) |
 
 </center>
 
