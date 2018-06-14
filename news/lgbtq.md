@@ -8,9 +8,9 @@
 | 8/June/2018 | [From Sweats to Strength: The Bisexual Experience](/news/lgbtq/bisexual-experience), an account from a 2004 batch graduate. |
 | 9/June/2018 | [Feeling Free: The Path to Self Acceptance](/news/lgbtq/feeling-free), the story of a 2017 batch student.  |
 | 10/June/2018 | [A Facet of Me](/news/lgbtq/facet-of-me), by Samyukta Ramnath, a BPGC alumnus. | 
-| 11/June/2018 | [Section 377 of the Indian Penal Code](/news/lgbtq/ipc-377) |
+| 11/June/2018 | [Section 377 of the Indian Penal Code](/news/lgbtq/ipc-377),  |
 | 12/June/2018 | [Shahrukh Khan Made Me Gay](/news/lgbtq/srk-made-me-gay), an account from a PhD student at BPHC. |
-| 13/June/2018 | [This is Your Son](/news/lgbtq/your-son) |
+| 13/June/2018 | [This is Your Son](/news/lgbtq/your-son), an account from a current BPHC student who identifies as trans-man. |
 
 </center>
 
