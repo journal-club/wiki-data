@@ -7,8 +7,7 @@ BITSMUN Hyderabad is a three day MUN conference organized by [BITSMUN Society](/
 
 | Year | Dates | Committees |
 |--|--|--|--|
-| 2018-19 | Modit Goyal | Abhishek Kumar |
-| 2017-18 | Ishaan Dewangan | Abhijeet Singh Shekhawat |
-| 2016-17 | Sajal Bansal | Divyansh Mahajan |
+| [2018](/fests/bitsmun/2018) | 26-28 October | UNGA, UNSC, UNHRC, Continuous Crisis Committee, SAARC |
+| [2017](/fests/bitsmun/2017) | 30 Sept - 2 Oct | UNGA, UNHRC, UNSC, NATO, Arab League |
 
 </center>
