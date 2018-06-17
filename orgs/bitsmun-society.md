@@ -1,4 +1,4 @@
-<!-- TITLE: Bitsmun Society -->
-<!-- SUBTITLE: A quick summary of Bitsmun Society -->
+<!-- TITLE: BITSMUN Society -->
+<!-- SUBTITLE: BITSMUN Society is the MUNning Society of our campus.   -->
 
 # Header
