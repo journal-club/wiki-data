@@ -8,3 +8,4 @@
 3. [Pearl](/fests/pearl) - Cultural fest
 4. [Verba Maximus](/fests/vm) - Literary fest
 5. [BITSMUN](/fests/BITSMUN) - Model United Nations Conference
+6. [Tech-Week](/fests/techweek)
