@@ -7,7 +7,7 @@ One of BITSMUN Society's biggest activity every year is organising the three day
 <center>
 
 | Year | SecGen              | Director            | Secretary           |      Treasurer      | Deputy SecGen  |
-|------|---------------------|---------------------|---------------------|:-------------------:|----------------|
+|------|---------------------|---------------------|---------------------|-------------------|----------------|
 | 2018 | Pratyush Agarwal    | Shubham Sharma      | Utkarsh Shankar     | Sundaresan Manickam | Varaali Chawla |
 | 2017 | Madhav Singh        | Ishan Rai           | Shubham Sharma      | Asutosh Sistla      | -              |
 | 2016 | Neel Shah           | Pratyush Pulipaka   | Ishan Rai           | -                   | -              |
