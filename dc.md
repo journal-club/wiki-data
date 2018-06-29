@@ -46,5 +46,14 @@ We also have a [Facebook Group](www.facebook.com/groups/bphcdc) for DC, named "S
 172.16.119.187 - Maithri - 50GB share
 172.16.120.250 - Exotica - 200GB share *premium
 172.16.116.62 - 50GB share
+# Other Sharing Methods
+In case you don't know the BITSMAIL (your_id_number@hyderabad.bits-pilani.ac.in) you are issued comes with **unlimited storage space on Google Drive.** You can use this to backup the 1000s of pictures you'll take over the next few years, or to share large files with your batchmates. Google Drive links are often used to share files with BITSians who are not on campus or during summers to share files. To request a file when you're not on campus, just make a post on the [Stronger DC](www.facebook.com/groups/bphcdc) Facebook Group, and mention you want a drive link. 
 
-Happy downloading, and remember, sharing is caring!
+A few general rules for GDrive links are:
+
+1. Use BITSMail to open links.
+2. Generally, don't try share these links outside of the group.
+3. Before requesting, search the group and folders to see if someone has shared it before. 
+4. Sometimes, links may be encoded for protection. You need to use a decoder such as [Base 64](https://www.base64decode.org/) to decode links.
+
+*Happy downloading, and remember, sharing is caring!*
