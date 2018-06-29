@@ -35,10 +35,12 @@ We also have a [Facebook Group](www.facebook.com/groups/bphcdc) for DC, named "S
 - P.S. If you do not have enough disk space to meet the minimum share requirements (or have a MacBook), you can fill [this form](https://goo.gl/forms/A2HNX5ZEZiePLdkE3) to be considered for VIP access, without sharing. 
 
 # List of Hubs
+## Active Hubs
 172.16.71.71 - LegendHub - 25GB share
 172.16.34.159 - Billi's Den - 50GB share
 
-**Inactive** (You can try once in a while though.)
+## Inactive Hubs
+(They may be restarted some day, though. You can try once in a while.)
 
 172.16.116.225 - Marvel - 50GB share
 172.16.119.187 - Maithri - 50GB share
