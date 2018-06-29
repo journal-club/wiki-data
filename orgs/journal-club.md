@@ -1,7 +1,7 @@
 <!-- TITLE: Journal Club -->
 <!-- SUBTITLE: Journal Club reports news on campus. -->
 
-Initiatives of Journal Club (often abbreviated JC) include [fest magazines](/news/fests),  [Whispers in the Woods](/news/witw) , [The News Not Reported](/orgs/journal-club/the-news-not-reported), [spotlights](/news/spotlight) on issues the campus faces, and this very website that you're now on, BITS Wiki. The club also conducts events like during the fests.
+Initiatives of Journal Club (often abbreviated JC) include [fest magazines](/news/fests),  [Whispers in the Woods](/news/witw) , [The News Not Reported](/orgs/journal-club/the-news-not-reported), [spotlights](/news/spotlight) on issues the campus faces, and this very website that you're now on, BITS Wiki. The club also conducts events during fests.
 
 <center>
 
