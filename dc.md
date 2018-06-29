@@ -22,10 +22,18 @@ So, you’ve successfully connected to LegendHub! Well, you could search for you
 
 We also have a [Facebook Group](www.facebook.com/groups/bphcdc) for DC, named "Stronger DC for BPHC", containing news about the latest files that have been added to the network. You can also post requests and interact with fellow DC users here.
 # Troubleshooting
-- Red bar - settings>Connectivity>manual configuration>untick "let dc++... " and use other options one by one, something should work. 
-- Low speeds - right click on download and search for alternatives 
-- No slots - right click>send private message and ask for a slot
-- Downloads not stopping? View>Download Queue (Ctrl+D) and right click>remove the downloads that you don’t want. You can set priorities to your downloads here!
+## Common Errors
+- **Red bar** - settings>Connectivity>manual configuration>untick "let dc++... " and use other options one by one, something should work. 
+- **Low speeds** - right click on download and search for alternatives. Also, avoid using Campus WiFi for DC++ - use the LAN ports in your room.
+- **No slots** - right click>send private message and ask for a slot, or try **searching for alternatives**
+-** Downloads not stopping?** View>Download Queue (Ctrl+D) and right click>remove the downloads that you don’t want. You can set priorities to your downloads here!
+
+## Sharing issues
+- Settings>Sharing - Add folders which you want to share. 
+- It is recommend to share at least 50-100GB of data for normal use, and 200 GB+ for premium use. A minimum of 25 GB has to be shared though.
+- The best way is to share your DC download directory. Share from your hard drives if your system does not have enough space. Do not remove external storage before closing DC otherwise, it will have to be re hashed.
+- P.S. If you do not have enough disk space to meet the minimum share requirements (or have a MacBook), you can fill [this form](https://goo.gl/forms/A2HNX5ZEZiePLdkE3) to be considered for VIP access, without sharing. 
+
 # List of Hubs
 172.16.71.71 - LegendHub - 25GB share
 172.16.34.159 - Billi's Den - 50GB share
