@@ -26,7 +26,7 @@ We also have a [Facebook Group](www.facebook.com/groups/bphcdc) for DC, named "S
 - **Red bar** - settings>Connectivity>manual configuration>untick "let dc++... " and use other options one by one, something should work. 
 - **Low speeds** - right click on download and search for alternatives. Also, avoid using Campus WiFi for DC++ - use the LAN ports in your room.
 - **No slots** - right click>send private message and ask for a slot, or try **searching for alternatives**
--** Downloads not stopping?** View>Download Queue (Ctrl+D) and right click>remove the downloads that you don’t want. You can set priorities to your downloads here!
+- **Downloads not stopping?** View>Download Queue (Ctrl+D) and right click>remove the downloads that you don’t want. You can set priorities to your downloads here!
 
 ## Sharing issues
 - Settings>Sharing - Add folders which you want to share. 
