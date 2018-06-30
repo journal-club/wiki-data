@@ -13,6 +13,6 @@ BITSMUN Hyderabad is a three day MUN conference organized by [BITSMUN Society](/
 | [2015](/fests/bitsmun/2015) | 9-11 October | UNGA, UNSC, UNHRC, Crisis Committee |
 | [2014](/fests/bitsmun/2014) | 3-5 October | UNGA, UNHRC, ICC, League of Nations, UNSC, Futuristic Military Council |
 | [2013](/fests/bitsmun/2013) | 11-13 October | UNGA (DISEC), UNHRC, Joint Crisis Committee, ERC |
-| [2012](/fests/bitsmun/2012) | - - - | UNHRC, UNSC, UNGA, NATO |
+| [2012](/fests/bitsmun/2012) | 26-28 October | UNHRC, UNSC, UNGA, NATO |
 
 </center>
