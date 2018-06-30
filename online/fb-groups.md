@@ -1,5 +1,5 @@
 <!-- TITLE: List of BPHC Related Facebook Groups -->
-<!-- SUBTITLE: A list of groups. -->
+<!-- SUBTITLE: Other than for official communication from the institiute administration, most of the communication on campus takes place through Facebook Groups. This page gives a list of the main groups. -->
 
 1.**[BPHC ShoutBox](https://www.facebook.com/groups/bphcshoutbox)** - This is the official platform for all campus, club/department notices. This includes announcements related to courses by the faculty as well. It's basically a formal platform where all BITSians, students and staff, are present. 
 2. [BPHC Free Expression Group](https://www.facebook.com/groups/BPHC.Free.Expression.Group/) - A more informal group, this was created to help fellow BITSians for everything under the sun. This is an informal group where you can post your queries and even share your experiences if you think it can help others. 
