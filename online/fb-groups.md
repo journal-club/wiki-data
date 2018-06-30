@@ -16,5 +16,6 @@
 
 -----
 
-*Note: If you're a newcomer (fresher) to BITS, make sure to use your real name and add "BITS Hyderabad" as your place of education on your Facebook profile. This'll make it quicker for admins to verify and approve your entry to these groups.*
 <sup>1</sup> [Dog Days](https://wiki.bits-hyd.org/news/oped/dog-days)
+
+*Note: If you're a newcomer (fresher) to BITS, make sure to use your real name and add "BITS Hyderabad" as your place of education on your Facebook profile. This'll make it quicker for admins to verify and approve your entry to these groups.*
