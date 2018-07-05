@@ -3,6 +3,8 @@
 
 This page gives a list of published fest magazines, in reverse chronological order. 
 
+
+# Academic Year 2017-18
 - [Pearl 2018 Magazine](/news/fests/pearl-18)
 - [Arena 2018 Magazine](/news/fests/arena-18)
 - [Verba Maximus 2018 Magazine](/news/fests/vm-18)
