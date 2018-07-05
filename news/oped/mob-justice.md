@@ -16,7 +16,7 @@ This is how ‘deindividuation’<sup>1</sup> works.
 This is not very different from the mob lynchings that happened since May.  It all started with a WhatsApp forward. Small. Unlike your generic "benefits-of-organic-pesticides" messages or "101-reasons-why-India-is-the-most-cultural-country" forwards that relative seem to love forwarding nowadays, these messages warned of roaming child traffickers and organ harvesters. The problem was, these serious allegations came without a shred of proof and were probably fake.  Fake allegations of serious crime that affected innocent people.
 
 <center>
-<img src = "https://wiki.bits-hyd.org/uploads/news/whatsapp-forwards.png")>
+<img src = "https://wiki.bits-hyd.org/uploads/news/whatsapp-forwards.png" width = 200px>
 </center>
 
 Take for instance, Shanta Devi - a forty year old woman in Ahmedabad. She was killed on 26th June by an angry mob because they suspected she was a child kidnapper. On 1st July, villagers in Maharashtra lynched five people on the same suspicion. On 9th May, a sixty-five year old woman called Rukmani was murdered by a mob in Tamil Nadu, mistaken for a child trafficker. <sup>2</sup>
