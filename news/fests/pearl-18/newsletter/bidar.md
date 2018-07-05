@@ -33,7 +33,9 @@ Bahamani Tombs house many tombs of various Bahamani rulers. One of the tombs bel
 There’s a 21st century saying, which goes by the acronym YOLO. You.Only.Live.Once. This is why, one must live one’s life to the fullest! Traveling definitely does help achieve that! So pack your bags, and go on a trip! You never know how a single trip might be a life changer for you!!
 
 
-*Rithvik Donnipadu*
+
+
+*Article by Rithvik Donnipadu*
 
 
 
