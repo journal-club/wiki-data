@@ -12,6 +12,6 @@ Whisper in the Woods, often abbreviated as WITW, is a newsletter published by th
 | [Issue 1](/news/witw/1-1) | Sept 2017 | Print |
 | [Issue 2](/news/witw/1-2) | Dec 2017 | Online, Joomag |
 | [Issue 3](/news/witw/1-3) | Feb 2018 | Print |
-| [Issue 4](/news/witw/vol-1/4) | Apr 2018 | Online, BITS Wiki |
+| [Issue 4](/news/witw/1-4) | Apr 2018 | Online, BITS Wiki |
 
 </center>
