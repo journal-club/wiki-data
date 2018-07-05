@@ -3,6 +3,8 @@
 
 Arena, the sports fest of BITS Hyderabad, usually takes place in january/February every year. 
 # Arena in Specific Years
+<center>
+
 | Year | Dates | 
 | --- | --- |
 | [Arena 2018](/fests/arena/2018) | 23-25 January |
@@ -12,3 +14,5 @@ Arena, the sports fest of BITS Hyderabad, usually takes place in january/Februar
 | [Arena 2014](/fests/arena/2018) | |
 | [Arena 2013](/fests/arena/2018) | |
 | [Arena 2012](/fests/arena/2018) | |
+
+</center>
