@@ -5,6 +5,7 @@
 
 | Date | Title | Author |
 | --- | --- | --- |
+| 5th July, 2018 | [Bowling Green and Rolling Red](/news/oped/mob-justice) | Niharika Shankar |
 | 27th May, 2018 | [Operation 136: Press for Sale to the Highest Bidder](/news/oped/operation-136-cobrapost-press) | Siddharth Sampath |
 | 9th May, 2018 | [BITS Fee Hike Protest: Day 4](/news/oped/day-4-fee-hike-protest) | Nikita Mandapati |
 | 6th May, 2018 | [In the Name of Education](/news/oped/name-of-education) | Sharad Hotha |
