@@ -1,4 +1,4 @@
 <!-- TITLE: Arena -->
-<!-- SUBTITLE: A quick summary of Arena -->
+<!-- SUBTITLE: Arena is the sports fest of BITS Hyderabad. -->
 
 # Header
