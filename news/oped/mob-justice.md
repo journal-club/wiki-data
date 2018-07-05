@@ -40,14 +40,9 @@ Everyone has the ability to lie. Both the state and the common people. To end th
 So, let us live with that inconvenience for a while. The inconvenience of knowing we live in a world where bad things happen. A world where truth is rarer than a Unicorn. A world where facts have the same meaning as opinions and opinions have the same place as facts.
 
 # References
-1. https://www.britannica.com/topic/deindividuation
-
-2. https://www.thequint.com/quintlab/lynching-in-india/
-
-3. https://en.wikipedia.org/wiki/Lynching_of_Jesse_Washington
-
-4. https://www.rand.org/pubs/research_reports/RR2237.html
-
-5. http://gking.harvard.edu/files/gking/files/50c.pdf?m=1464790150
-
-6. https://rsf.org/en/ranking
+1. [Human Behaviour - Deindividuation](https://www.britannica.com/topic/deindividuation)
+2. [Mob Lynching in India](https://www.thequint.com/quintlab/lynching-in-india/)
+3. [Lynching of Jesse Washington](https://en.wikipedia.org/wiki/Lynching_of_Jesse_Washington)
+4. [Russian Social Media Influence - Understanding Russian Propaganda in Eastern Europe](https://www.rand.org/pubs/research_reports/RR2237.html)
+5. [How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument - Harvard University](http://gking.harvard.edu/files/gking/files/50c.pdf?m=1464790150)
+6. [2018 World Press Freedom Index](https://rsf.org/en/ranking)
