@@ -1,4 +1,4 @@
-<!-- TITLE: Bowling Green and Rolling Red -->
+<!-- TITLE: On Fake News and the Mob -->
 <!-- SUBTITLE: An editorial by Niharika Shankar on Mob Justice. -->
 
 A man, a cat and an angry mob walk into a bar. The cat doesn’t order anything - cats are always drunk anyway. It posts a selfie on the internet and curls up on the bar to nap. The angry mob orders one large ‘Bowling Green’.
