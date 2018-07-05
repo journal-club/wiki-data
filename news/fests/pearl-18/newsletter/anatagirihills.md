@@ -1,6 +1,5 @@
-<!-- TITLE: Anatagirihills -->
+<!-- TITLE: Anatagiri Hills -->
 
-## Anantagiri Hills 
 
 At a distance of 7 km from Vikarabad Bus Stand, 79 km from Hyderabad and 48 km from Sangareddy Bus Stand, the Anantagiri Hills are located at Vikarabad of Ranga Reddy district, Telangana. It is being developed as a small hill station and makes for a great tourist spot due to  its proximity to Hyderabad .
 
@@ -39,7 +38,7 @@ The best season to visit Anantagiri is from October - March.
 
 Temple Timings: 5 am -1 pm and 3 pm - 8.30 pm.
 
-*by Triyasha Ghosh Dastidar*
+*Triyasha Ghosh Dastidar*
 
 
 
