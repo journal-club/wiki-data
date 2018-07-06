@@ -3,6 +3,8 @@
 
 BITSMUN Hyderabad is a three day MUN conference organized by [BITSMUN Society](/orgs/bitsmun-society) in the first semester of every academic year. The first independent edition of BITSMUN took place in the year 2012. BITSMUN 2011 was a collaboration with BITS Pilani, Pliani Campus. 
 # BITSMUN in Specific Years
+*Click on the year to get more information about BITSMUN in that year*
+
 <center>
 
 | Year | Dates | Committees |
