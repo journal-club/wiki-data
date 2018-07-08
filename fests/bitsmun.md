@@ -1,7 +1,7 @@
 <!-- TITLE: BITSMUN Hyderabad -->
 <!-- SUBTITLE: BITSMUN Hyderabad is a three-day Model United Nation conference organised by the BITSMUN Society, usually in Septemeber/October every year.-->
 
-BITSMUN Hyderabad is a three day MUN conference organized by [BITSMUN Society](/orgs/bitsmun-society) in the first semester of every academic year. The first independent edition of BITSMUN took place in the year 2012. BITSMUN 2011 was a collaboration with BITS Pilani, Pliani Campus. 
+BITSMUN Hyderabad is a Model United Nations (MUN) conference organized by [BITSMUN Society](/orgs/bitsmun-society) in the first semester of every academic year. The first independent edition of BITSMUN took place in the year 2012, before which BITSMUN 2011 was organised in collaboration with BITS Pilani, Pliani Campus. 
 # BITSMUN in Specific Years
 *Click on the year to get more information about BITSMUN in that year*
 
@@ -18,5 +18,7 @@ BITSMUN Hyderabad is a three day MUN conference organized by [BITSMUN Society](/
 | [2012](/fests/bitsmun/2012) | 26-28 October | UNHRC, UNSC, UNGA, NATO |
 
 </center>
-
-The three-day event is funded from the registration fees paid by the delegates (usually around Rs. 2000-2500) and sponsorship and associations with educational organisations, news media,  hotels and restaurants and a host of companies in other sectors. Over the last few years, a few partners of BITSMUN include the British Council, Oyo Rooms, Cisco, Murugappa, BSNL, BYJUs, The Hindu and TV5. In some years, including the 2018 edition, BITSMUN was held alongside [ATMOS](/fests/atmos), the technical fest of our college wherein BITSMUN partnered with companies involved in Atmos as well.   
+# Logistics
+The event is organised at the BITS Hyderabad Campus and accomodation is provided for delegates either in the city or on campus. Since organising an MUN with 300+ delegates requires a lot of man-power, the event is usually conducted over a weekend, when there are no classes and students are free. 
+## Funding
+The three-day event is funded from the registration fees paid by the delegates (usually around Rs. 2000-2500) and sponsorship and associations with educational organisations, news media,  hotels and restaurants and a host of companies in other sectors. Over the last few years, a few partners of BITSMUN include the British Council, Oyo Rooms, Cisco, Murugappa, BSNL, BYJUs, The Hindu and TV5. In some years, including the 2018 edition, BITSMUN was held alongside [ATMOS](/fests/atmos), the technical fest of our college wherein BITSMUN partnered with companies involved in Atmos as well.
