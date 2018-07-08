@@ -18,3 +18,5 @@ BITSMUN Hyderabad is a three day MUN conference organized by [BITSMUN Society](/
 | [2012](/fests/bitsmun/2012) | 26-28 October | UNHRC, UNSC, UNGA, NATO |
 
 </center>
+
+The three-day event is funded from the registration fees paid by the delegates (usually around Rs. 2000-2500) and sponsorship and associations with educational organisations, news media,  hotels and restaurants and a host of companies in other sectors. Over the last few years, a few partners of BITSMUN include the British Council, Oyo Rooms, Cisco, Murugappa, BSNL, BYJUs, The Hindu and TV5. In some years, including the 2018 edition, BITSMUN was held alongside [ATMOS](/fests/atmos), the technical fest of our college wherein BITSMUN partnered with companies involved in Atmos as well.   
