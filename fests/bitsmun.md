@@ -18,6 +18,7 @@ BITSMUN Hyderabad is a Model United Nations (MUN) conference organized by [BITSM
 | [2012](/fests/bitsmun/2012) | 26-28 October | UNHRC, UNSC, UNGA, NATO |
 
 </center>
+
 # Logistics
 The event is organised at the BITS Hyderabad Campus and accomodation is provided for delegates either in the city or on campus. Since organising an MUN with 300+ delegates requires a lot of man-power, the event is usually conducted over a weekend, when there are no classes and students are free. 
 ## Funding
