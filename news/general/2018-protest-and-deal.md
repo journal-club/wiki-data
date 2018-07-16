@@ -15,7 +15,7 @@ Finally, ____ days after the protest, a Facebook post was put on BITSians for Ea
 
 Some people celebrated and rejoiced at the wake of the meeting with KMB, while others exhibited more caution. While the fact that the Chancellor himself agreed to the meet and discussed the problems is a reassuring move there exists a need to examine the detail in more detail to see what’s happening. The first thing that's clearly seen in the deal is that the fee hike for this year hadn't been rolled back - all of us will have to pay the announced fee [point #2].
 
-A major problem with the deal is that a large number of the “agreements” are pretty.ambiguous and vague. Also, the initial aim of the protest, rolling back the fee hike isn't happening either and most of the points on the deal are perhaps more about damage control rather than addressing the elephant in the room: that BITS fees are getting insanely high and even modest (5-6% YoY) increases can compound to an insanely high amount in the near future.
+A major problem with the deal is that a large number of the “*agreements*” are pretty ambiguous and vague. Also, the initial aim of the protest, rolling back the fee hike isn't happening either and most of the points on the deal are perhaps more about damage control rather than addressing the elephant in the room: that BITS fees are getting insanely high and even modest (5-6% YoY) increases can compound to an insanely high amount in the near future.
 
 ## “One Batch, One Fee”
 
@@ -23,9 +23,32 @@ One of the major agreements in the deal [point #1] is that the institute will re
 
 On the bright side, this will ensure that educational loans for future batches will cover the entire educational period, without getting exhausted midway. However, planning the finances of the institute for the next five years (which is what the institute will have to do for this to be implemented) is no mean feat. It is therefore possible, that the fee hike every year may be slightly larger to account for any unexpected contingencies that can occur two or three years down the line. Ultimately, we may end up having to pay more than year-on-year fee hikes. Also, future batches joining the institute will have to agree to the four year fees before joining - which might dissuade aspirants from joining. (Many of us joining BITS did not really expect consecutive fee hikes this large. Aspirants assume fee hikes would be a once-in-a-while-thing). Also, the future batches would lose bargaining power over the fees to be paid, as they would've known and agreed to the fees before joining.
 
-The student community was assured that the institute is reviewing the fee structure for currently enrolled batches and that we'd know “*the exact amount to be paid for the complete remaining duration of the enrolment of the current batches by the end of July.*” This is in a way towards the transparent administration we tried to achieve. 
+The student community was assured that the institute is reviewing the fee structure for currently enrolled batches and that we'd know “*the exact amount to be paid for the complete remaining duration of the enrolment of the current batches by the end of July, 2018.*” This is in a way towards the transparent administration we tried to achieve. 
 
 ## Increase in Scholarships
+
+The ‘deal’ mentions that our Chancellor has assured an increase in the number of scholarships given to our students [point #3]. It goes on to say that the  “the criteria for disbursement methods of Merit-Cum-Need (MCN) scholarships will be revamped” to ensure only those who deserve it will get it [point #4]. There however, is no **time frame** for the implementation of this goal, or clear numbers on how many more scholarships will be given. (~25% of students get some form of scholarships today). Also, there's no word on how a superior MCN criteria will be made - the method of using Income Tax returns is probably the most efficient way, but that's what is done right now.  
+
+The student community was also assured that the number of scholarships dispensed from the **Student Aid Fund** would be increased [point #5]. The SAF in Hyderabad campus today, however is far from the ideal body to seek funds from with an opaque process that is controlled by the SAF committee. There was **no induction notice for the SAF committee over the last few years**, and '*trusted*’ students are selected in a very opaque manner that reeks of favoritism. Whether we want a body like this having access to more funds is something we should all ask ourselves. The problems plaguing SAF are not unique to our campus either - SAF money in Pilani campus is not used to sponsor scholarships for students - this was caused due to a host of factors, including lack of institute support. Because of this, SAF is used for sponsoring the participation of students in sports/cultural activities. Siddhartha Namburi, a fourth year Pilani campus student said the Pilani SAF has upto Rs.18 lakh of funds that it effectively cannot use.
+
+## Other Promises
+
+Another example through which the extent of vagueness of the ‘deal’ can be proven is that “*improvements in the Connaught Place (Specific to Hyderabad campus) **will be looked into.***” [point 8].  Again, while there's no stipulated time frame here as well, the fact that there is a confusion on whether the job will be done or not itself speaks volumes.
+
+There were also other points on 'improving TBI’ and 'efforts to establish soft loans’ which do not even try to answer the question of **how** these goals will be achieved. If only our wishes could come true so easily. 
+
+We hope that the assurance from the Chancellor on these issues oil things up in the administration. This being said, the persistent lack of a stipulated time frame, coupled with very vague 'agreements’ in most of the assurances made is very disheartening. With terms so vague, there would be multiple ways to 'prove’ the agreement was honored, even if nothing really changes.
+
+### Not in the Deal: Issues Not Addressed
+
+Finally, the deal doesn't address a lot of issues. There's nothing in the deal about what existing batches will do about their educational loans getting exhausted. Or about why PS2 fees (summer term + semester fee) are so high. More transparency in the working of institute finances remains unseen. The deal doesn't explicitly address the fate of students who'd received show causes notices. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this.
+
+
+
+
+
+
+
 
 
 
