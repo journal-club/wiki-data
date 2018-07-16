@@ -8,7 +8,7 @@ After the meet, the student representatives claimed that they spent a very produ
 
 The next day came. Nothing happened. No announcement. Another day passed. No news. By the third day, people were wondering what had happened. What happened to the announcement that was promised? Did something go wrong?
 
-Finally, five days after the protest, a [Facebook post](https://m.facebook.com/groups/220263411320988?view=permalink&id=2469320449748595) was put on BITSians for Each Other that described the results of the meet with the chancellor.
+Finally, five days after the meeting, a [Facebook post](https://m.facebook.com/groups/220263411320988?view=permalink&id=2469320449748595) was put on BITSians for Each Other that described the results of the meet with the chancellor.
 
 # The Deal
 ## Fee Hike Not Rolled Back
