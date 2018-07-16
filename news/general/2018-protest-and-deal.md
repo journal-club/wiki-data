@@ -15,7 +15,7 @@ Finally, ____ days after the protest, a Facebook post was put on BITSians for Ea
 
 Some people celebrated and rejoiced at the wake of the meeting with KMB, while others exhibited more caution. While the fact that the Chancellor himself agreed to the meet and discussed the problems is a reassuring move there exists a need to examine the detail in more detail to see what’s happening. The first thing that's clearly seen in the deal is that the fee hike for this year hadn't been rolled back - all of us will have to pay the announced fee [point #2].
 
-A major problem with the deal is that a large number of the “*agreements*” are pretty ambiguous and vague. Also, the initial aim of the protest, rolling back the fee hike isn't happening either and most of the points on the deal are perhaps more about damage control rather than addressing the elephant in the room: that BITS fees are getting insanely high and even modest (5-6% YoY) increases can compound to an insanely high amount in the near future.
+A major problem with the deal is that a large number of the “*agreements*” are pretty ambiguous and vague. Also, the initial aim of the protest, rolling back the fee hike isn't happening either and most of the points on the deal are perhaps more about damage control rather than addressing the elephant in the room: that BITS fees are getting insanely high and **even modest (5-6% YoY) increases can compound to an insanely high amount in the near future.**
 
 ## “One Batch, One Fee”
 
@@ -43,7 +43,7 @@ We hope that the assurance from the Chancellor on these issues oil things up in 
 
 Finally, the deal doesn't address a lot of issues. There's **nothing** in the deal about what existing batches will do about their **educational loans getting exhausted**. Or about why **PS2 fees (summer term + semester fee) are so high**. More **transparency in the working of institute finances** remains unseen. The deal doesn't explicitly address the **fate of students** who'd received **show causes notices**. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this.
 
-# Conclusion
+## Conclusion
 
 While the BITS community as a whole has come a long way in these two and a half months, Journal Club sees the need to recognise the support that was received from alumni, many of whom showed monetary support.
 
