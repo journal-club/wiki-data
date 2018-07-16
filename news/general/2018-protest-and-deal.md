@@ -43,7 +43,7 @@ We hope that the assurance from the Chancellor on these issues oil things up in 
 
 Finally, the deal doesn't address a lot of issues. There's **nothing** in the deal about what existing batches will do about their **educational loans getting exhausted**. Or about why **PS2 fees (summer term + semester fee) are so high**. More **transparency in the working of institute finances** remains unseen. The deal doesn't explicitly address the **fate of students** who'd received **show causes notices**. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this.
 
-## Conclusion
+# Conclusion
 
 While the BITS community as a whole has come a long way in these two and a half months, Journal Club sees the need to recognise the support that was received from alumni, many of whom showed monetary support.
 
