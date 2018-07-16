@@ -10,3 +10,5 @@ The next day came. Nothing happened. No announcement. Another day passed. No new
 
 Finally, ____ days after the protest, a Facebook post was put on BITSians for Each Other that described the results of the meet with the chancellor.
 
+# The Deal
+## Fee Hike Not Rolled Back
