@@ -47,7 +47,7 @@ Finally, the deal doesn't address a lot of issues. There's **nothing** in the de
 
 While the BITS community as a whole has come a long way in these two and a half months, Journal Club sees the need to recognise the support that was received from alumni, many of whom showed monetary support.
 
-It was just two months ago all of us watched, live, the three campus teleconference. Dr. Raghurama, BITS Goa Director, in response to a question urged us not to wait for occasions like that meeting to ask campus specific questions. This is indeed something worth thinking about. Take a little time out of your daily lives to sit down and have a little chat with people around you - are things around me working the way they should?
+It was just two months ago all of us watched, live, the [three campus teleconference](/news/general/2018-fee-hike-directors-meet-minutes). Dr. Raghurama, BITS Goa Director, in response to a question urged us not to wait for occasions like that meeting to ask campus specific questions. This is indeed something worth thinking about. Take a little time out of your daily lives to sit down and have a little chat with people around you - are things around me working the way they should?
 
 For now, the protests are over and it's up to us to keep faith in the agreement that has been reached and to perhaps do what the administration always wanted us to - trust them a bit more. Trust them, while we continue to work hard for a better BITS.
 
