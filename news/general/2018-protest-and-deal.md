@@ -39,9 +39,18 @@ There were also other points on 'improving TBI’ and 'efforts to establish soft
 
 We hope that the assurance from the Chancellor on these issues oil things up in the administration. This being said, the persistent lack of a stipulated time frame, coupled with very vague 'agreements’ in most of the assurances made is very disheartening. With terms so vague, there would be multiple ways to 'prove’ the agreement was honored, even if nothing really changes.
 
-### Not in the Deal: Issues Not Addressed
+## Not in the Deal: Issues Not Addressed
 
-Finally, the deal doesn't address a lot of issues. There's nothing in the deal about what existing batches will do about their educational loans getting exhausted. Or about why PS2 fees (summer term + semester fee) are so high. More transparency in the working of institute finances remains unseen. The deal doesn't explicitly address the fate of students who'd received show causes notices. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this.
+Finally, the deal doesn't address a lot of issues. There's **nothing** in the deal about what existing batches will do about their **educational loans getting exhausted**. Or about why **PS2 fees (summer term + semester fee) are so high**. More **transparency in the working of institute finances** remains unseen. The deal doesn't explicitly address the **fate of students** who'd received **show causes notices**. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this.
+
+## Conclusion
+
+While the BITS community as a whole has come a long way in these two and a half months, Journal Club sees the need to recognise the support that was received from alumni, many of whom showed monetary support.
+
+It was just two months ago all of us watched, live, the three campus teleconference. Dr. Raghurama, BITS Goa Director, in response to a question urged us not to wait for occasions like that meeting to ask campus specific questions. This is indeed something worth thinking about. Take a little time out of your daily lives to sit down and have a little chat with people around you - are things around me working the way they should?
+
+For now, the protests are over and it's up to us to keep faith in the agreement that has been reached and to perhaps do what the administration always wanted us to - trust them a bit more. Trust them, while we continue to work hard for a better BITS.
+
 
 
 
