@@ -51,17 +51,4 @@ It was just two months ago all of us watched, live, the [three campus teleconfer
 
 For now, the protests are over and it's up to us to keep faith in the agreement that has been reached and to perhaps do what the administration always wanted us to - trust them a bit more. Trust them, while we continue to work hard for a better BITS.
 
-
-**Credits**
-- *Rohit Dwivedula & Siddharth Sampath*
- 
- **Editor :**
-- *Shanmukh Kaliprasad*
-
-
-
-
-
-
-
-
+*Published 16 July, 2018. Article by Rohit Dwivedula & Siddharth Sampath. Edited by Shanmukh Kali Prasad*
