@@ -8,14 +8,14 @@ After the meet, the student representatives claimed that they spent a very produ
 
 The next day came. Nothing happened. No announcement. Another day passed. No news. By the third day, people were wondering what had happened. What happened to the announcement that was promised? Did something go wrong?
 
-Finally, five days after the meeting, a [Facebook post](https://m.facebook.com/groups/220263411320988?view=permalink&id=2469320449748595) was put on BITSians for Each Other that described the results of the meet with the chancellor.
+Finally, five days after the meeting, a [Facebook post](https://m.facebook.com/groups/220263411320988?view=permalink&id=2469320449748595) was put up on BITSians for Each Other that described the results of the meet with the chancellor.
 
 # The Deal
 ## Fee Hike Not Rolled Back
 
-Some people celebrated and rejoiced at the wake of the meeting with KMB, while others exhibited more caution. While the fact that the Chancellor himself agreed to the meet and discussed the problems is a reassuring move there exists a need to examine the detail in more detail to see what’s happening. The first thing that's clearly seen in the deal is that the fee hike for this year hadn't been rolled back - all of us will have to pay the announced fee [point #2].
+Some people celebrated and rejoiced in the wake of the meeting with KMB, while others exhibited more caution. While the fact that the Chancellor himself agreed to the meet and discussed the problems is a reassuring move, there exists a need to examine the deal in more detail to see what’s happening. The first thing that's clearly seen in the deal is that the fee hike for this year hadn't been rolled back - all of us will have to pay the announced fee [point #2].
 
-A major problem with the deal is that a large number of the “*agreements*” are pretty ambiguous and vague. Also, the initial aim of the protest, rolling back the fee hike isn't happening either and most of the points on the deal are perhaps more about damage control rather than addressing the elephant in the room: that BITS fees are getting insanely high and **even modest (5-6% YoY) increases can compound to an insanely high amount in the near future.**
+A major problem with the deal is that a large number of the “*agreements*” are pretty ambiguous and vague. Also, the initial aim of the protest, rolling back the fee hike isn't happening either and most of the points in the deal are perhaps more about damage control rather than addressing the elephant in the room: that BITS fees are getting insanely high and **even modest (5-6% YoY) increases can compound to an insanely high amount in the near future.**
 
 ## “One Batch, One Fee”
 
@@ -41,7 +41,7 @@ We hope that the assurance from the Chancellor on these issues oil things up in 
 
 ## Not in the Deal: Issues Not Addressed
 
-Finally, the deal doesn't address a lot of issues. There's **nothing** in the deal about what existing batches will do about their **educational loans getting exhausted**. Or about why **PS2 fees (summer term + semester fee) are so high**. More **transparency in the working of institute finances** remains unseen. The deal doesn't explicitly address the **fate of students** who'd received **show causes notices**. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this.
+Finally, the deal doesn't address a lot of issues. There's **nothing** in the deal about what existing batches will do about their **educational loans getting exhausted**. Or about why **PS2 fees (summer term + semester fee) are so high**. More **transparency in the working of institute finances** remains unseen. The deal doesn't explicitly address the **fate of students** who'd received **show causes notices**. Student representatives just said that action wouldn't be taken if the protest was called of now, and that the Chancellor had talked to the VC about this. Also, there has been no email from the admnistration either to students or parents about the meeting or the deal.
 
 # Conclusion
 
