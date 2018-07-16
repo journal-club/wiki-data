@@ -54,7 +54,8 @@ For now, the protests are over and it's up to us to keep faith in the agreement 
 
 **Credits**
 - *Rohit Dwivedula & Siddharth Sampath*
- **Editor**
+ 
+ **Editor :**
 - *Shanmukh Kaliprasad*
 
 
