@@ -1,5 +1,5 @@
 <!-- TITLE: The Verdict -->
-<!-- SUBTITLE: United we stood, together we protested. Alumni and student- hand in hand, for change. Was this the change we were looking for? -->
+<!-- SUBTITLE: United we stood, together we protested. Alumni and student - hand in hand, for change. Was this the change we were looking for? -->
 
 # The Backstory
 More than two months of protests, discussions with the administration and plenty of angry Facebook posts culminated in a coordinated protest by BITSians in various locations in India. In the first week of July, BITSians in Mumbai attempted to protest outside KMB’s office in Worli, Mumbai. While they initially discovered that the police had banned all protests there for two weeks in that area (perhaps for reasons unrelated to our protests), they petitioned the police to allow the protest, and ultimately sent a written request to the office of Shri K M Birla. The Hon’ble Chancellor agreed to meet the student representatives and the date of the meeting was finalised to ______. 
