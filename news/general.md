@@ -7,6 +7,7 @@ List of articles in reverse chronological order:
 
 | Date<sup>1</sup> | Title & Description |
 | --- | --- | --- |
+| July 17th, 2018 | [The Verdict: A Look at the 2018 Fee Hike Protests and the KM Birla Deal](/news/general/2018-protest-and-deal) |
 | May 10th, 2018 | [Fee Hike Protest: Minutes of the Meeting of the Three Campus Meet](/news/general/2018-fee-hike-directors-meet-minutes)  |
 | February 4th, 2018 | [212 Bus Tracker Coming Soon](/news/general/212-tracker-soon) |
 | August 23rd, 2017 | [Fresher Under Pressure](/news/general/2017-hrep-elections), on the roles and duties of a Hostel Representative |
