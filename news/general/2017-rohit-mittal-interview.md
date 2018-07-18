@@ -2,7 +2,7 @@
 <!-- SUBTITLE: "I love being on the set; the rush, all of it." Here's our interview with Rohit Mittal, renowned filmmaker and director of Autohead and Shunya. -->
 
 <center>
-<img src="https://wiki.bits-hyd.org/uploads/news/rohit-mittal.jpg">
+<img src="https://wiki.bits-hyd.org/uploads/news/rohit-mittal.jpg" width=300>
 </center>
 
 **You said that your life always revolved around films. So did you try your hand at other aspects of filmography, for instance, acting?**
