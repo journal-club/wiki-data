@@ -39,4 +39,5 @@ It is because we don’t care enough that powerful people not only get away with
 
 -----
 
-*Article by Kritika Kasliwal and Shrenik Chhajed. Originally published on 5 May, 2017 on SWD BITS Chronicles. *
+
+*Article by Kritika Kasliwal and Shrenik Chhajed. Originally published on 5 May, 2017 on SWD BITS Chronicles.*
