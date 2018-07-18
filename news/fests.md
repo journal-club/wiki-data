@@ -11,4 +11,4 @@ This page gives a list of published fest magazines, in reverse chronological ord
 - [Atmos 2017 Magazine](/news/fests/atmos-17)
 
 # Academic Year 2016-17
--[Pearl 2017 Magazines](/news/fests/pearl-17)
+- [Pearl 2017 Magazines](/news/fests/pearl-17)
