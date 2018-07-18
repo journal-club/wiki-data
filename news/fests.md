@@ -12,3 +12,4 @@ This page gives a list of published fest magazines, in reverse chronological ord
 
 # Academic Year 2016-17
 - [Pearl 2017 Magazines](/news/fests/pearl-17)
+- [Verba Maximus 2017](https://goo.gl/aurKuS) [direct download link, PDF: 2MB]. Plain text versions currently unavailable. 
