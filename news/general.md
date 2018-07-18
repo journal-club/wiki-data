@@ -16,7 +16,8 @@ List of articles in reverse chronological order:
 | June 21, 2017 | [Sunil Shastri, Former Cabinet Minister on Indian Youth and Politics](/news/general/2017-sunil-shastri-on-youth) |
 | June 11th, 2017 | [The Covfefe](/news/general/2017-animal-cruelty-law) |
 | May 30, 2017 | [Interview with Wajid Khan](/news/general/2017-wajid-khan-interview) |
-| May 25, 2017 | [Rohit Mittal on Bollywood and Filmmaking](/news/general/2017-rohit-mittal-interview)
+| May 25, 2017 | [Rohit Mittal on Bollywood and Filmmaking](/news/general/2017-rohit-mittal-interview) |
+| May 21, 2017 | [Interview with Anindo Basu from Nikon India](/news/general/2017-anindo-basu-interview) |
 
 
 </center>
