@@ -1,6 +1,6 @@
 <!-- TITLE: First Year Courses -->
 <!-- SUBTITLE: List of all first year courses common to all branches (except B. Pharma. students).-->
-| Course Code | Course Name | Credits | Textbooks |
+| Code | Course Name | Credits | Textbooks |
 |-|-|-|-|
 | BIO F110 | Biology Laboratory | 1 | Biology Lab Manual |
 | BIO F111 | General Biology | 3 | D. Enger, Frederick C. Ross and David B. Bailey, Concepts in Biology, 14th Edition (BITS Pilani Custom Edition)  |
