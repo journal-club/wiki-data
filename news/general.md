@@ -15,6 +15,7 @@ List of articles in reverse chronological order:
 | July 21st, 2017  | [The Year That Was: SUC 2016-17](/news/general/suc-2016-17) |
 | June 21, 2017 | [Sunil Shastri, Former Cabinet Minister on Indian Youth and Politics](/news/general/2017-sunil-shastri-on-youth) |
 | June 11th, 2017 | [The Covfefe](/news/general/2017-animal-cruelty-law) |
+| May 30, 2017 | [Interview with Wajid Khan](2017-wajid-khan-interview) |
 
 
 </center>
