@@ -6,3 +6,5 @@
 - **Issue 1:** Published 10th October, 2016. [Download PDF](https://goo.gl/bqsazq) (size: 2MB)
 - **Issue 2:** Published 14th October, 2016. [Download PDF]() (size: MB)
 - **Issue 3:** Published 17th November, 2016. [Download PDF]() (size: MB)
+
+Plain text verions of these magazines are currently unavailable. 
