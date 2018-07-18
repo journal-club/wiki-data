@@ -18,6 +18,7 @@ List of articles in reverse chronological order:
 | May 30, 2017 | [Interview with Wajid Khan](/news/general/2017-wajid-khan-interview) |
 | May 25, 2017 | [Rohit Mittal on Bollywood and Filmmaking](/news/general/2017-rohit-mittal-interview) |
 | May 21, 2017 | [Interview with Anindo Basu from Nikon India](/news/general/2017-anindo-basu-interview) |
+| May 5, 2017 | [Panama Papers: Forgot Already?](/news/general/panama-papers) |
 
 
 </center>
