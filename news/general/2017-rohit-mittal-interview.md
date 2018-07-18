@@ -1,6 +1,8 @@
 <!-- TITLE: Rohit Mittal on Bollywood and Filmmaking -->
 <!-- SUBTITLE: "I love being on the set; the rush, all of it." Here's our interview with Rohit Mittal, renowned filmmaker and director of Autohead and Shunya. -->
 
+![Bon Voyage Budget 2018](/uploads/news/bon-voyage-budget-2018.png "Bon Voyage Budget 2018")
+
 **You said that your life always revolved around films. So did you try your hand at other aspects of filmography, for instance, acting?**
 No, I never did. What I mean by my life revolving around films is that I was always really passionate about films. I didn't really think of getting into films until i was 18 or 19 though. That was when I made my first short film, and by that time, it was only direction and writing. I started with writing because I also wanted to be a novelist but I realised that writing a novel is very difficult and also, I was attracted more to the form of screenwriting.
 
