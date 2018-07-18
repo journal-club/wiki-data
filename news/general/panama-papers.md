@@ -31,7 +31,7 @@ The upheaval caused by the revelation was big enough to cost Icelandic Prime Min
 
 The prosecutor against the firm Mossack Fonseca says that there is not enough evidence against the apparent tax evaders. 2.6 TB of data, 4.8 million emails, 3 million database files and 2.1 million pdf files are apparently ‘not enough evidence’.  
 
-As of now, UK made it mandatory to disclose all owner data while British overseas territories have agreed to share data when requested by enforcement agencies . US government made statement regarding legislation to create federal registries regarding actual ownership of any newly created company.
+As of now, UK made it mandatory to disclose all owner data while British overseas territories have agreed to share data when requested by enforcement agencies. US government made statement regarding legislation to create federal registries regarding actual ownership of any newly created company.
 
 # Why should we care? 
 It is because we don’t care enough that powerful people not only get away with but are rather encouraged to commit felonies of all kinds. After a very short span of uproar, the media conveniently forgot about the massive data leak and so did we.
