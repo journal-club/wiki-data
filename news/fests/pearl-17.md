@@ -3,4 +3,4 @@
 
 
 - Pre-fest Magazine (released on 17 March, 2017). [Download PDF](https://goo.gl/624TGZ) (size: 2 MB)
-- Post-fest Magazine (released 9 April, 2017). Download PDF (size: MB) 
+- Post-fest Magazine (released 9 April, 2017). [Download PDF](https://goo.gl/iV3a6h) (size: 1.3MB) 
