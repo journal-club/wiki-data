@@ -54,4 +54,4 @@ Everyone’s doing different genres of photography, everyone has their own speci
 
 -----
 
-*Interviewed by Shubhi Jain, Soham Majumdar, Koushal Devabhaktuni. Originally published on SWD BITS Chronicles on 21 May, 2017*
+*Interviewed by Shubhi Jain, Soham Majumdar, Koushal Devabhaktuni. Originally published on SWD BITS Chronicles on 21 May, 2017. Picture credits [DoPY, BITS Hyderabad](/orgs/dopy)*
