@@ -14,3 +14,4 @@ This page gives a list of published fest magazines, in reverse chronological ord
 - [Pearl 2017 Magazines](/news/fests/pearl-17)
 - [Verba Maximus 2017 Magazine](https://goo.gl/aurKuS) [direct download link, PDF: 2MB]. Plain text versions currently unavailable. 
 - [Arena 2017 Magazines](/news/fests/arena-17) 
+- [ATMOS 2016 Magazines](/news/fests/atmos-16)
