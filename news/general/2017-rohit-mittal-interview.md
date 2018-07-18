@@ -28,3 +28,9 @@ Well, I don’t think we will see radical changes in the old guys and the large 
 
 **In two separate interviews, Anurag Kashyap and Siddharth Roy Kapoor said that it is because of the star-studded, big festival releases that smaller/independent movies get funded as that money is recycled into these films. Your comment?**
 That happened once but studios have stopped funding these movies now as they see no returns in there. Now, due to lack of vision, even large studios like Balaji have shut down movie productions. So, I don’t have much of hope of getting funding from any studio.
+
+
+
+-----
+
+*Interviewed by Koushal Devabhaktuni. Originally published on 25 May, 2017 on SWD BITS Chronicles.*
