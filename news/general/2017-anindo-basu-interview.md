@@ -1,6 +1,8 @@
 <!-- TITLE: Interview with Anindo Basu: Freelance Photographer, Nikon India -->
 <!-- SUBTITLE: Missed him at Pearl'17? Catch Journal Club's interview with photographer Anindo Basu from Nikon India. -->
 
+![88140 Fresher 20 Under](/uploads/news/88140-fresher-20-under.jpg "88140 Fresher 20 Under")
+
 **What is it that attracts you towards photography?**
 The first thing that attracts me towards photography is the essence of what I can capture. Everything can be made beautiful with a camera.
 
