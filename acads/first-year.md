@@ -3,7 +3,7 @@
 
 Students at BITS Hyderabad have 15 compulsory courses to do in the first year of study which have a cumulative weightage of 37 credits. The common courses include Biology, Thermodynamics, and multiple Mathematics courses among others. Here's a brief description of the textbooks you'll need for the courses. (click on links to view the textbooks on online shops):
 
-| Course Name | Credits | Textbooks |
+| Course Name | # | Textbooks |
 |--|-|--|
 | Biology Laboratory | 1 | Biology Lab Manual<sup>1</sup> |
 | General Biology | 3 | Concepts in Biology (14e - BITS Pilani Special Edition)  |
