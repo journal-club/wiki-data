@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Welcome to BITS Hyderabad's Wiki!  -->
 
 # Welcome
-Welcome to BITS Wiki, an initiative by the community of BPHC for developing a crowd-sourced of archive about BITS Hyderabad as we move ahead in space and time. The vision for BITS Wiki is to someday have information about everything you'd want to know about the campus, providing information you need at your fingertips1. 
+Welcome to BITS Wiki, an initiative by the community of BPHC for developing a crowd-sourced of archive about BITS Hyderabad as we move ahead in space and time. The vision for BITS Wiki is to someday have information about everything you'd want to know about the campus, providing information you need at your fingertips. 
 
 <center>
 <img src = "https://wiki.bits-hyd.org/uploads/bits-pilani-hyderabad-campus-hyderabad.jpg" alt = "Bits Pilani Hyderabad Campus Hyderabad" width = 600 px caption="A view of the campus">
