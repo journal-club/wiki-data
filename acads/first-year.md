@@ -1,13 +1,13 @@
 <!-- TITLE: First Year Courses -->
 <!-- SUBTITLE: Information about the first year courses, which are common to all branches (except B. Pharma. students).-->
 
-Students at BITS Hyderabad have 15 compulsory courses to do in the first year of study which have a cumulative weightage of 37 credits. The common courses include Biology, Thermodynamics, multiple Mathematics courses among others. The table below gives a list of textbooks you'll need for the courses. (click on links to view the textbooks on online shops). 
+Students at BITS Hyderabad have 15 compulsory courses to do in the first year of study which have a cumulative weightage of 37 credits. The common courses include Biology, Thermodynamics, and multiple Mathematics courses among others. Here's a brief description of the textbooks you'll need for the courses. (click on links to view the textbooks on online shops):
 
 | Course Name | Credits | Textbooks |
 |-|-|-|
 | Biology Laboratory | 1 | Biology Lab Manual<sup>1</sup> |
 | General Biology | 3 | D. Enger, Frederick C. Ross and David B. Bailey, Concepts in Biology, 14th Edition (BITS Pilani Custom Edition)  |
-| Engineering Graphics | 2 | Engineering Graphics with AutoCAD, Revised Edition, Dhananjay M. Kulkarni, A.P. Rastogi, and Ashoke K. Sarkar |
+| Engineering Graphics | 2 | [Engineering Graphics with AutoCAD](https://amzn.to/2OibRYP) |
 | Thermodynamics | 3 | Fundamentals of Thermodynamics, 7th Edition, Borgnakke and Sonntag. |
 | Technical Report Writing | 2 | Cambridge Academic English C1 Advanced Students Book, Martin Hewings and Craig Thaine |
 | Chemistry Laboratory | 1 | Chemistry Lab Manual |
@@ -22,5 +22,6 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 | General Physics | 3 | T1. An Introduction to Mechanics, by D. Kleppner and R. Kolenkow, Tata McGraw-Hill Edition, 2007. T2. French, Anthony P, Vibrations and Waves, CBS, 2003. |
 
 # Notes
+
 <sup>1</sup> Lab manuals are available at Connaught Place on campus. 
 <sup>2</sup> Many people also use the book *[Let us C](https://amzn.to/2v4vxGK)* by Yashwanth Kanetkar, though it is not an officially prescribed book. 
