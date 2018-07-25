@@ -24,4 +24,4 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 # Notes
 
 <sup>1</sup> Lab manuals are available at Connaught Place on campus. 
-<sup>2</sup> Many people also use the book *[Let us C](https://amzn.to/2v4vxGK)* by Yashwanth Kanetkar, though it is not an officially prescribed book. 
+<sup>2</sup> For the first year computer science course, many people also use the book *[Let us C](https://amzn.to/2v4vxGK)* by Yashwanth Kanetkar, though it is not an officially prescribed text/reference book.
