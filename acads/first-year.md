@@ -11,7 +11,7 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 | Thermodynamics | 3 | [Fundamentals of Thermodynamics, 7th Edition](https://amzn.to/2v6jvMK) |
 | Technical Report Writing | 2 | [Cambridge Academic English](https://amzn.to/2mJSc7a) |
 | Chemistry Laboratory | 1 | Chemistry Lab Manual<sup>1</sup> |
-| General Chemistry | 3 |  [Solomon and Fryhle's Organic Chemistry](https://amzn.to/2NGEjCr), [JD Lee's Inorganic Chemistry](https://amzn.to/2A7PFxf) and [Physical Chemistry by Atkins](https://amzn.to/2Acf49e) |
+| General Chemistry | 3 |  [Solomon and Fryhle](https://amzn.to/2NGEjCr) for organic, [JD Lee] for inorganic (https://amzn.to/2A7PFxf) and [Atkins and de Paula](https://amzn.to/2Acf49e) for physical.|
 | Computer Programming | 4 | [Problem Solving And Program Design In C](https://amzn.to/2v6WeKL) <sup>2</sup> |
  Electrical Sciences | 3 | Leonard S. Bobrow: Fundamentals of Electrical Engineering, Oxford University Press, Second Edition, 2005. |
 | Mathematics – 1 | 3 | George B. Thomas, Maurice D. Weir and Joel Hass, Thomas’ Calculus, Pearson, 12th Edition, 2016. |
