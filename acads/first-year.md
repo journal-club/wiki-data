@@ -1,5 +1,8 @@
 <!-- TITLE: First Year Courses -->
-<!-- SUBTITLE: List of all first year courses common to all branches (except B. Pharma. students).-->
+<!-- SUBTITLE: Information about the first year courses, which are common to all branches (except B. Pharma. students).-->
+
+Students at BITS Hyderabad have 15 compulsory courses to do in the first year of study which have a cumulative weightage of 37 credits. The common courses include Biology, Thermodynamics, multiple Mathematics courses among others. The table below gives a list of textbooks you'll need for the courses. (click on links to view the textbooks on online shops).
+
 | Code | Course Name | Credits | Textbooks |
 |-|-|-|-|
 | BIO F110 | Biology Laboratory | 1 | Biology Lab Manual |
@@ -19,4 +22,4 @@
 | PHY F111 | General Physics | 3 | T1. An Introduction to Mechanics, by D. Kleppner and R. Kolenkow, Tata McGraw-Hill Edition, 2007. T2. French, Anthony P, Vibrations and Waves, CBS, 2003. |
 
 # Notes
-<sup>1</sup> Many people also use the book *Let us C* by Yashwanth Kanetkar, though it is not an officially prescribed book. 
+<sup>1</sup> Many people also use the book *[Let us C](https://amzn.to/2v4vxGK)* by Yashwanth Kanetkar, though it is not an officially prescribed book. 
