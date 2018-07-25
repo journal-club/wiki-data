@@ -11,14 +11,14 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 | Thermodynamics | 3 | [Fundamentals of Thermodynamics, 7th Edition](https://amzn.to/2v6jvMK) |
 | Technical Report Writing | 2 | [Cambridge Academic English](https://amzn.to/2mJSc7a) |
 | Chemistry Laboratory | 1 | Chemistry Lab Manual<sup>1</sup> |
-| General Chemistry | 3 |  [Solomon and Fryhle](https://amzn.to/2NGEjCr) for organic, [JD Lee](https://amzn.to/2A7PFxf) for inorganic  and [Atkins and de Paula](https://amzn.to/2Acf49e) for physical.|
+| General Chemistry | 3 |  [Solomon and Fryhle](https://amzn.to/2NGEjCr) for organic, [JD Lee](https://amzn.to/2A7PFxf) for inorganic and [Atkins and de Paula](https://amzn.to/2Acf49e) for physical.|
 | Computer Programming | 4 | [Problem Solving And Program Design In C](https://amzn.to/2v6WeKL) <sup>2</sup> |
- Electrical Sciences | 3 | Leonard S. Bobrow: Fundamentals of Electrical Engineering, Oxford University Press, Second Edition, 2005. |
-| Mathematics – 1 | 3 | George B. Thomas, Maurice D. Weir and Joel Hass, Thomas’ Calculus, Pearson, 12th Edition, 2016. |
-| Mathematics – 2 | 3 | T1: Elementary Linear Algebra by S. Andrilli and David Hecker, 4th Edition, 2012, ElsevierT2: Complex Variables and Applications by R.V. Churchill and J.W. Brown, 8th Edition, 2008, McGraw-Hill |
-| Probability and Statistics | 3 | Probability and Statistics for Engineering and the Sciences, 8th Edition, Jay L. Devore |
-| Workshop Practce | 2 | Workshop Manual |
-| Physics Laboratory | 1 | Physics Lab Manual |
+ Electrical Sciences | 3 | [Leonard S. Bobrow](https://amzn.to/2LoKRsH) |
+| Mathematics – 1 | 3 | [Thomas Calculus](https://amzn.to/2mFolgq) |
+| Mathematics – 2 | 3 | T1: Elementary Linear Algebra by S. Andrilli and David Hecker, 4th Edition, 2012, Elsevier T2: Complex Variables and Applications by R.V. Churchill and J.W. Brown, 8th Edition, 2008, McGraw-Hill |
+| Probability and Statistics | 3 | [Jay L Devore](https://amzn.to/2Ahb07M) |
+| Workshop Practce | 2 | Workshop Manual<sup>1</sup> |
+| Physics Laboratory | 1 | Physics Lab Manual<sup>1</sup> |
 | General Physics | 3 | T1. An Introduction to Mechanics, by D. Kleppner and R. Kolenkow, Tata McGraw-Hill Edition, 2007. T2. French, Anthony P, Vibrations and Waves, CBS, 2003. |
 
 # Notes
