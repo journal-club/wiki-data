@@ -19,7 +19,7 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 | Probability and Statistics | 3 | [Jay L Devore](https://amzn.to/2Ahb07M) |
 | Workshop Practce | 2 | Workshop Manual<sup>1</sup> |
 | Physics Laboratory | 1 | Physics Lab Manual<sup>1</sup> |
-| General Physics | 3 | T1. An Introduction to Mechanics, by D. Kleppner and R. Kolenkow, Tata McGraw-Hill Edition, 2007. T2. French, Anthony P, Vibrations and Waves, CBS, 2003. |
+| General Physics | 3 | [Kleppner and Kolenkow](https://amzn.to/2mFoWia) for mechanics and [A P French](https://amzn.to/2v40VoE) for waves. |
 
 # Notes
 
