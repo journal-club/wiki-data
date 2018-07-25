@@ -6,7 +6,7 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 | Course Name | Credits | Textbooks |
 |-|-|-|
 | Biology Laboratory | 1 | Biology Lab Manual<sup>1</sup> |
-| General Biology | 3 | D. Enger, Frederick C. Ross and David B. Bailey, Concepts in Biology, 14th Edition (BITS Pilani Custom Edition)  |
+| General Biology | 3 | Concepts in Biology (14e - BITS Pilani Special Edition)  |
 | Engineering Graphics | 2 | [Engineering Graphics with AutoCAD](https://amzn.to/2OibRYP) |
 | Thermodynamics | 3 | [Fundamentals of Thermodynamics, 7th Edition](https://amzn.to/2v6jvMK) |
 | Technical Report Writing | 2 | [Cambridge Academic English](https://amzn.to/2mJSc7a) |
