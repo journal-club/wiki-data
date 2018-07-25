@@ -15,7 +15,7 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 | Computer Programming | 4 | [Problem Solving And Program Design In C](https://amzn.to/2v6WeKL) <sup>2</sup> |
  Electrical Sciences | 3 | [Leonard S. Bobrow](https://amzn.to/2LoKRsH) |
 | Mathematics – 1 | 3 | [Thomas Calculus](https://amzn.to/2mFolgq) |
-| Mathematics – 2 | 3 | T1: Elementary Linear Algebra by S. Andrilli and David Hecker, 4th Edition, 2012, Elsevier T2: Complex Variables and Applications by R.V. Churchill and J.W. Brown, 8th Edition, 2008, McGraw-Hill |
+| Mathematics – 2 | 3 | [Elementary Linear Algebra](https://amzn.to/2LOWg17) and [Complex Variables](https://amzn.to/2LpQ0Rl) |
 | Probability and Statistics | 3 | [Jay L Devore](https://amzn.to/2Ahb07M) |
 | Workshop Practce | 2 | Workshop Manual<sup>1</sup> |
 | Physics Laboratory | 1 | Physics Lab Manual<sup>1</sup> |
