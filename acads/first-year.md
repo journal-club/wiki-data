@@ -1,8 +1,7 @@
 <!-- TITLE: First Year Courses -->
 <!-- SUBTITLE: Information about the first year courses, which are common to all branches (except B. Pharma. students).-->
 
-Students at BITS Hyderabad have 15 compulsory courses to do in the first year of study which have a cumulative weightage of 37 credits. The common courses include Biology, Thermodynamics, and multiple Mathematics courses among others. Here's a brief description of the textbooks you'll need for the courses. 'U" refers to the number of units/credits in the course and click on links to view the textbooks on online shops.
-
+Students at BITS Hyderabad have 15 compulsory courses to do in the first year of study which have a cumulative weightage of 37 credits. The common courses include Biology, Thermodynamics, and multiple Mathematics courses among others. Here's a brief description of the textbooks you'll need for the courses. 'U" refers to the number of units/credits in the course. Click on links to view the textbooks on online marketplaces.
 # Textbooks
 <center>
 
@@ -26,7 +25,7 @@ Students at BITS Hyderabad have 15 compulsory courses to do in the first year of
 
 </center>
 
-A detailed list of textbooks required for all courses is also available in the [Timetable Book for Semester 1](https://goo.gl/1NukUD), 2018-19 (page 62 onwards). For complete names of the textbooks, [click here](https://goo.gl/XNZGRD).
+For complete names of the textbooks, [click here](https://goo.gl/XNZGRD) (PDF). A detailed list of textbooks required for all courses is also available in the [Timetable Book for Semester 1](https://goo.gl/1NukUD), 2018-19 (page 62 onwards). 
 
 # Notes
 
