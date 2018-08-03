@@ -1,5 +1,5 @@
 <!-- TITLE: About -->
-<!-- SUBTITLE: The campus-wiki for BITS Hyderabad. -->
+<!-- SUBTITLE: The campus-wiki of BITS Hyderabad. -->
 
 BITS Wiki is an initiative by [Journal Club](/orgs/jc) and became operational in March 2018. The Wiki has information about the campus (to which any BITSH student can contribute) and a [news section](/news), which is view-only and is maintained by Journal Club. Ultimately, the wiki aims to capture information about everything that happens on campus. This is the second such attempt being made, after the previous wiki had to be shut down. To contribute to the Wiki, or to find out more contact the current coordinator of the Wiki:
 
