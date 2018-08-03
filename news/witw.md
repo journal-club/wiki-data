@@ -2,7 +2,12 @@
 <!-- SUBTITLE: Whispers in the Woods is a bi-semesterly newsletter published by Journal Club. -->
 
 # Overview
-Whisper in the Woods, often abbreviated as WITW, is a newsletter published by the [Journal Club](/orgs/journal-club). The first issue was published in the academic year 2017-18. Various methods of publication are used like a paper newspaper, online release through services such as Joomag, and publication via the BITS Wiki.  
+Whisper in the Woods (abbreviated WITW), is a newsletter published by the [Journal Club](/orgs/journal-club). The first issue was published in September 2017. The newsletters are sometimes printed and distributed on campus, while other issues
+
+The newsletter is released in various formats -
+
+
+like a paper newspaper, online release through services such as Joomag, and publication via the BITS Wiki.  
 # Volume 1
 <center>
 
