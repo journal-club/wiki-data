@@ -5,7 +5,7 @@ BITS Wiki is an initiative by [Journal Club](/orgs/jc) and became operational in
 
 Coordinator: Rohit Dwivedula (2017A7PS0029H)
 
-## Legal and Other Information
+# Legal and Other Information
 
 * This website is maintained by students of BITS Pilani - Hyderabad Campus. Any issues related to IP, bugs, or security issues should be communicated to [journal@hyderabad.bits-pilani.ac.in](mailto:journal@hyderabad.bits-pilani.ac.in)
 * To edit the wiki, you need to sign-in with a Google Email address. All your edits to the wiki are logged and stored with us. This is done to prevent vandalism. Users found to be vandalising this website will be immediately banned. You may also face consequences furthur legal consequences as defined by Indian Law, or college rules.
