@@ -27,8 +27,6 @@ Top level index:
 2. [List of BPHC Related Facebook Pages](/online/fb-pages)
 3. [List of BPHC Related Facebook Groups](/online/fb-groups)
 # Contributing
-Are you a BITSian? Are you familiar with the campus? Help us fill in the gaps you spot on the wiki! Help us make BITS Wiki a record of our campus, as it changes with time!
-
-Contributors welcome. You must login to edit content and your edits will be tagged with your email and name for identity and conflict resolution. We do not allow anonymous edits.
+Are you a BITSian? Are you familiar with the campus? Help us fill in the gaps you spot on the wiki! Help us make BITS Wiki a record of our campus, as it changes with time. Contributors welcome. You must login to edit content and your edits will be tagged with your email and name for identity and conflict resolution. We do not allow anonymous edits. For more information about the wiki, or contributing, [click here](/about).
 
 If you aren't familiar with Markdown, you might want to read [this guide](https://docs.requarks.io/wiki/user-guide/markdown-syntax) for use with this wiki. Also, this document is itself written using Markdown; you can [see the source for it](/source/home) and learn a thing or two. If you're feeling adventurous, just wing your way through the edits. Have fun!
