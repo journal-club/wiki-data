@@ -61,7 +61,7 @@ A compilation of first person accounts, informative piece and editorials related
 </center>
 
 # Student Union Elections 2018
-Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/vol-1/4) to read the complete release.
+Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/1-4) to read the complete release.
 
 ### The Basics
 1. [SU Constitution Review](/news/witw/vol-1/4/constitution-review)
