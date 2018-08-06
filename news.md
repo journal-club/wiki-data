@@ -64,7 +64,7 @@ A compilation of first person accounts, informative piece and editorials related
 Special publication by Journal Club to cover the Students Union Council Elections 2018. [Click here](/news/witw/1-4) to read the complete release.
 
 ### The Basics
-1. [SU Constitution Review](/news/witw/vol-1/4/constitution-review)
+1. [SU Constitution Review](/news/witw/1-4/constitution-review)
 2. [Role of Postholders](/news/witw/vol-1/4/post-holders-role)
 3. [A Review of SUC 2017-18](/news/witw/vol-1/4/suc-2017-18)
 
