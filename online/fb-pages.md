@@ -1,5 +1,6 @@
 <!-- TITLE: List of BITS Hyderabad Related Facebook Pages -->
-# Fest and Event Related Pages
+
+# Fest and Events
 1. [Atmos](https://www.facebook.com/bits.atmos/)
 2.  [Arena](https://www.facebook.com/bits.arena/)
 3.  [Pearl](https://www.facebook.com/bitspearl/)
@@ -14,7 +15,7 @@
 11. [Enigma](https://www.facebook.com/bits.enigma/)
 12. [Catharsis Film Festival](https://www.facebook.com/catharsisfilmfestival/)
 
-# Club Pages
+# Clubs and Organisations
 1. [Journal Club](https://www.facebook.com/JournalClubBPHC/)
 2. [Dance Club](https://www.facebook.com/thedanceclubbphc/)
 3. [Designers Anonymous](https://www.facebook.com/designclubbphc/)
@@ -29,6 +30,7 @@
 12. [BITS Embryo](https://www.facebook.com/BITSEmbryoHyd/)
 13. [Shades](https://www.facebook.com/Shades.BPHC/)
 14. [Hindi Tarang](https://www.facebook.com/hinditarang/)
+15. [Ad Astra](https://facebook.com/bphc.ad.astra/), the astronomy and science club.
 
 # Department Pages
 1. [DoPY](https://www.facebook.com/DoPY.BPHC/)
