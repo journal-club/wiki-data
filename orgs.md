@@ -1,35 +1,35 @@
-<!-- TITLE: Student Organisations -->
-<!-- SUBTITLE: Student organisations at BITS Hyderabad are mostly of three types - clubs, which are usually focussed on extracurricular activities like dance, music, and drama. Departments, which primarily work for the fests ARENA, ATMOS, and Pearl. Technical Associations and Clubs are focussed on working in a specific area of science or technology.  -->
+<!-- TITLE:  Student Organisations -->
+<!-- SUBTITLE: List of student organisations at BITS Hyderabad. -->
 
+Student organisations at BITS Hyderabad are mostly of three types - clubs, which are usually focussed on extracurricular activities like dance, music, and drama; departments, which primarily work for the fests ARENA, ATMOS, and Pearl; Tech Associations which are mainly focussed on working in a specific area of science or technology. Other than this, there are official bodies like the Election Commission and CRC, divisions that help the administration in working with students (SWD/AD/IPC) and other societies. 
 # Clubs
-Clubs on campus today are:
-1.  [ARC](/orgs/arc) 
+1.  [Automation and Robotics Club](/orgs/arc) 
 2.  [Bhangra](/orgs/bhangra)
 3.  [Cooking Club](/orgs/cooking-club)
-4.  [CRUx](/orgs/crux)
-5.  [DA](/orgs/da) 
-6.  [Dance Club](/orgs/dance-club) 
-7.  [Dramatics Club](/orgs/dramatics-club)
-8.  [ELAS](/orgs/elas) 
-9.  [Hindi Tarang](/orgs/hindi-tarang)
-10. [Journal Club](/orgs/journal-club) 
-11. [Movie Club](/orgs/movie-club)
-12. [Music Club](/orgs/music-club)
-13. [Photog](/orgs/photog)
-14. [Quiz Club](/orgs/quiz-club)
-15. [SaFL](/orgs/safl)
-16. [Shades](/orgs/shades)
-17. [Swaranjali](/orgs/swaranjali)
-18. [VFX](/orgs/vfx)
-19. [Wall Street](/orgs/wall-street)
+4.  [Designers Anonymous](/orgs/da) 
+5.  [Dance Club](/orgs/dance-club) 
+6.  [Dramatics Club](/orgs/dramatics-club)
+7.  [English Langauge Activities Society](/orgs/elas) 
+8.  [Hindi Tarang](/orgs/hindi-tarang)
+9. [Journal Club](/orgs/journal-club) 
+10. [Movie Club](/orgs/movie-club)
+11. [Music Club](/orgs/music-club)
+12. [Photog](/orgs/photog)
+13. [Quiz Club](/orgs/quiz-club)
+14. [SaFL](/orgs/safl)
+15. [Shades](/orgs/shades)
+16. [Swaranjali](/orgs/swaranjali)
+17. [VFX](/orgs/vfx)
+18. [Wall Street](/orgs/wall-street)
+19. [CRUx](/orgs/crux)
 # Departments
-1. [DoTA](/orgs/dota) - The department that handles websites, posters and apps related to fests.
-2. [DoSM](/orgs/dosm) - in charge of negotiating with sponsors for fests
-3. [DePP](/orgs/depp) - in charge of Publicity and Public Relations
+1. [DoTA](/orgs/dota)
+2. [DoSM](/orgs/dosm)
+3. [DePP](/orgs/depp)
 4. [DoPE](/orgs/dope)
 5. [DoRA](/orgs/dora) 
 6. [DoVE](/orgs/dove) 
-7. [DoPy](/orgs/dopy) - in charge of Photography on campus 
+7. [DoPy](/orgs/dopy)
 8. [LSD](/orgs/lsd)
 
 # Discipline Associations
@@ -44,6 +44,9 @@ Clubs on campus today are:
 9.  [PhOEnix](/orgs/phoenix)
 
 # Other
+1. [Admission Division](/orgs/ad)
+2. [IPC Student Nucleus](/orgs/ipc-nucleus)
+3. [Student Welfare Department Student Nucleus](/orgs/swd-nucleus)
 1. [RAF](/orgs/raf)
 2. [BITS Embryo](/orgs/embryo)
 3. [BITSMUN Society](/orgs/bitsmun-society)
