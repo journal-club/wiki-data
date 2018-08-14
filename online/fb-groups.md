@@ -15,7 +15,7 @@
 11. [T-shirts exchange@bphc](https://www.facebook.com/groups/151193905723197/): With the alarming number of T-shirts that are brought out by the different bodies in campus, there is a chance that you might order the wrong size. But don't worry! Post it on this group and you may find someone to exchange your shirt with to get your correct size. 
 
 -----
-
+# References
 <sup>1</sup> [Dog Days](https://wiki.bits-hyd.org/news/oped/dog-days)
 
 *Note: If you're a newcomer (fresher) to BITS, make sure to use your real name and add "BITS Hyderabad" as your place of education on your Facebook profile. This'll make it quicker for admins to verify and approve your entry to these groups.*
