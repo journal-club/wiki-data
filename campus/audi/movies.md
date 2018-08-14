@@ -1,7 +1,7 @@
 <!-- TITLE: List of Movies Screened in the Auditorium -->
 <!-- SUBTITLE: List of movies, sorted by date of screening.   -->
 
-Movie screenings in the auditorium are organised by RAF. They usually happen on Saturdays at 8PM. 
+Movie screenings in the auditorium are organised by RAF. They usually happen on Saturdays at 8PM. Till date, only Hindi movies have been screened in the auditorium by the institute. 
 
 # Academic Year 2018-19
 <center>
