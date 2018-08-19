@@ -12,5 +12,4 @@ The rainy season was not unexpected. However, the sheer volume of rainfall has n
 The relief forces are working to the very best of their abilities hoping that the rains cease at the earliest. Although most dams have been opened, continued rains will affect the existing structures, which may cause even further catastrophe. There has been relief aid from other states as well as private parties and the affected offer their gratitude for the help in these dire circumstances, many citing that this is a test of their faith, with massive prayer groups being held at the refugee camps. 
 
 -----
-
 *Article by an anonymous mallu. Edited by Siddharth Sampath. Originally published on 19/August/2018.*
