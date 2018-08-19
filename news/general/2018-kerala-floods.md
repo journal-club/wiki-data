@@ -1,5 +1,5 @@
 <!-- TITLE: Zeus' Fury -->
-<!-- SUBTITLE: On the severe flooding that devastat -->
+<!-- SUBTITLE: On the severe flooding that devastated Kerala. -->
 
 For a state that is branded as God’s Own Country, the monsoon season this year has definitely turned it about into the Devil’s Playground. With an unprecedented increase in the rainfall this year in Kerala, there has been widespread chaos and floods throughout the entire state. Amongst all the terror and confusion caused, one begets the question. How did this happen?
 
