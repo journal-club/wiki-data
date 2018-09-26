@@ -34,6 +34,8 @@ This year too, we find ourselves in a similar situation. After all is said and d
 
 
 # Footnotes & References
+insert footnote next to veto and quote "He/she may fix an amount to be charged from the members of the Union for any activity organized by the Council with the approval of the Associate Dean, Student Welfare Division (SWD) and the same shall have to be ratified by at least two-thirds of the Council. The Union must be informed about this decision within 24 hours. The Union reserves the right to propose a motion against this deduction within a week of the decision’s notice being made public. The motion must be initiated by one-third of the Union and passed by two-thirds of the Union."
+
 
 
 
