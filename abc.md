@@ -48,3 +48,5 @@ This year too, we find ourselves in a similar situation. After all is said and d
 6. [Notice For Second GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1980889525488039/?type=3&theater)
 7. [Notice For Third GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1999930620250596/?type=3&theater)
 8. [Minutes of Third GBM 2017](https://docs.google.com/document/d/132Kl8DturvxpCSYASHejX7LJNGdqQUwMkG5UZO3vv0I)
+
+*Published 26th September, 2018. Article by a concerned member of the general body.*
