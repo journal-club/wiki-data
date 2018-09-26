@@ -1,13 +1,10 @@
 <!-- TITLE: The Real Hike? -->
 <!-- SUBTITLE: Fests are an important aspect of every student’s college life, albeit they may prove to be a little expensive sometimes. As BPHC gears up for the GBM tomorrow, this opinion editorial brings to you a brief on the deductions over the past years. -->
-
+# What’s the GBM About?
+The General Body Meet (GBM) that is scheduled for tomorrow (27th September, 2018)<sup>1</sup>  proposes mandatory deductions from all first, second and third yearites to organize the fests of our college - ATMOS, Arena and Pearl. While this is something that has been happening year after year, the amount being deducted over the last few years has shot up, as has the ‘apparent’ grandeur. Before we take a look at the deductions proposed this year, let’s take a step back and see what happened last year. 
 <center>
 <img src="https://wiki.bits-hyd.org/uploads/news/2017-fest-deductions.png">
 </center>
-
-# What’s the GBM About?
-The General Body Meet (GBM) that is scheduled for tomorrow (27th September, 2018)<sup>1</sup>  proposes mandatory deductions from all first, second and third yearites to organize the fests of our college - ATMOS, Arena and Pearl. While this is something that has been happening year after year, the amount being deducted over the last few years has shot up, as has the ‘apparent’ grandeur. Before we take a look at the deductions proposed this year, let’s take a step back and see what happened last year. 
-
 # A Look at Last Year
 **ATMOS 2017** was one of the most financially successful fests our campus has seen. With profits of around Rs. 15.32L, it was a moment of pride for the Students Union (SU). However, part of that “profit”, as it’s often referred to, comes at a cost that every one of us bears. In ATMOS 2017, around Rs. 5.12L was collected. from the general body as **mandatory** deductions from other advances.. Even without this Rs. 5L deduction from all of us, ATMOS would’ve been in a profit of around Rs. 10L. <sup>2</sup>
 
