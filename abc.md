@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Abc -->
 
 # What’s the GBM About?
-The General Body Meet (GBM) that is scheduled for tomorrow (27th September, 2018)[1][https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/2200014776908845/?type=3&theater]  proposes mandatory deductions from all first, second and third yearites to organize the fests of our college - ATMOS, Arena and Pearl. While this is something that has been happening year after year, the amount being deducted over the last few years has shot up, as has the ‘apparent’ grandeur. Before we take a look at the deductions proposed this year, let’s take a step back and see what happened last year. 
+The General Body Meet (GBM) that is scheduled for tomorrow (27th September, 2018)<sup>1</sup>  proposes mandatory deductions from all first, second and third yearites to organize the fests of our college - ATMOS, Arena and Pearl. While this is something that has been happening year after year, the amount being deducted over the last few years has shot up, as has the ‘apparent’ grandeur. Before we take a look at the deductions proposed this year, let’s take a step back and see what happened last year. 
 
 # A Look at Last Year
 **ATMOS 2017** was one of the most financially successful fests our campus has seen. With profits of around Rs. 15.32L, it was a moment of pride for the Students Union (SU). However, part of that “profit”, as it’s often referred to, comes at a cost that every one of us bears. In ATMOS 2017, around Rs. 5.12L was collected. from the general body as **mandatory** deductions from other advances.. Even without this Rs. 5L deduction from all of us, ATMOS would’ve been in a profit of around Rs. 10L. (all figures stated from CRC : [https://docs.google.com/document/d/1ooZlZcqhv9NQtOj002SDTrMUc7Shy103b5nx92Nlgp4/edit] & [https://m.facebook.com/groups/121969974532289?view=permalink&id=1827585167304086]) 
@@ -34,6 +34,8 @@ This year too, we find ourselves in a similar situation. After all is said and d
 
 
 # Footnotes & References
+
+1. [Post by Election Commission on Facebook Announcing GBM on 27th September, 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/2200014776908845/?type=3&theater)
 insert footnote next to veto and quote "He/she may fix an amount to be charged from the members of the Union for any activity organized by the Council with the approval of the Associate Dean, Student Welfare Division (SWD) and the same shall have to be ratified by at least two-thirds of the Council. The Union must be informed about this decision within 24 hours. The Union reserves the right to propose a motion against this deduction within a week of the decision’s notice being made public. The motion must be initiated by one-third of the Union and passed by two-thirds of the Union."
 
 
