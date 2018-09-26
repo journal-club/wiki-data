@@ -41,7 +41,7 @@ This year too, we find ourselves in a similar situation. After all is said and d
 4. [Notice For First GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1977871535789838/?type=3&theater)
 5.  Quoted from Constitution Section IV(a)4 "He/she may fix an amount to be charged from the members of the Union for any activity organized by the Council with the approval of the Associate Dean, Student Welfare Division (SWD) and the same shall have to be ratified by at least two-thirds of the Council. The Union must be informed about this decision within 24 hours. The Union reserves the right to propose a motion against this deduction within a week of the decision’s notice being made public. The motion must be initiated by one-third of the Union and passed by two-thirds of the Union."
 6. [Notice For Second GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1980889525488039/?type=3&theater)
-7.[Notice For Third GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1999930620250596/?type=3&theater)
+7. [Notice For Third GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1999930620250596/?type=3&theater)
 8. [Minutes of Third GBM 2017](https://docs.google.com/document/d/132Kl8DturvxpCSYASHejX7LJNGdqQUwMkG5UZO3vv0I)
 
 
