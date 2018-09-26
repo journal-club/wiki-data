@@ -1,5 +1,5 @@
-<!-- TITLE: Abc -->
-<!-- SUBTITLE: A quick summary of Abc -->
+<!-- TITLE: The Real Hike ?-->
+<!-- SUBTITLE: Fests are an important aspect of every student’s college life, albeit they may prove to be a little expensive sometimes. As BPHC gears up for the GBM tomorrow, this opinion editorial brings to you a brief of the deductions over the past years. -->
 
 # What’s the GBM About?
 The General Body Meet (GBM) that is scheduled for tomorrow (27th September, 2018)<sup>1</sup>  proposes mandatory deductions from all first, second and third yearites to organize the fests of our college - ATMOS, Arena and Pearl. While this is something that has been happening year after year, the amount being deducted over the last few years has shot up, as has the ‘apparent’ grandeur. Before we take a look at the deductions proposed this year, let’s take a step back and see what happened last year. 
@@ -15,11 +15,15 @@ While today a few hundred bucks might not seem like that huge an amount, just as
 # Why Deductions?
 The SUC already receives funding from us in a lot of ways, some direct and other indirect. Firstly, the institute (ie administration) deposits around Rs. 7.5L [every year into the Student Union account for the SU to spend. On top of that, all of us pay a yearly fee of Rs. 450, the Student Union Fund, which also goes to the SU account. All this money goes into a common pool which is ideally supposed to be used for year-round events, and overall development of the campus. Yet, we see a disproportionate amount of it being spent for our fests. 
 
-And this isn’t all. T-Shirt sales generate significant revenue for the fests. Last Atmos, Rs. 1.3L revenue was made on T-Shirt sales. Over last year, around Rs. 6.46L was earned through T-Shirt sales for the fests - a majority of which are bought by us, BITSians.<sup>3</sup> Another source of revenue for the SU during fests is food stalls - the SU gets a cut for every purchase made in the food stalls that are set up for fests. A sizeable percentage of sales come from BITSians - especially from last year. BITSians generally don’t pay for food in fests with cash - they pay them using the SmartCampus app. The SmartCampus app lets you pay for stuff from your Other Advances account - just like how deductions for TShirts work, making it easy for BITSians to spend more even when you’re broke.
+And this isn’t all. T-Shirt sales generate significant revenue for the fests. Last Atmos, Rs. 1.3L revenue was made on T-Shirt sales. Over last year, around Rs. 6.46L was earned through T-Shirt sales for the fests - a majority of which are bought by us, BITSians.<sup>3</sup> 
+
+Another source of revenue for the SU during fests is food stalls - the SU gets a cut for every purchase made in the food stalls that are set up for fests. A sizeable percentage of sales come from BITSians - especially from last year. BITSians generally don’t pay for food in fests with cash - they pay them using the SmartCampus app. The SmartCampus app lets you pay for stuff from your Other Advances account - just like how deductions for TShirts work, making it easy for BITSians to spend more even when you’re broke.
 
 Last but definitely not the least - the pro-shows. Even *after* deductions, all the proshows aren’t open to BITSians for free. Typically, one or two proshows (generally the Stand-up performance in the auditorium) are ticketed, and even BITSians need to buy a ticket (albeit at a slightly discounted rate). 
 
-We already contribute to fests in more ways than one. And we do it voluntarily. **Why do we need mandatory deductions for EVERYONE when people are ready to contribute and are contributing towards fests in other ways?**
+We already contribute to fests in more ways than one. And we do it voluntarily. 
+
+**Why do we need mandatory deductions for EVERYONE when people are ready to contribute and are contributing?**
 
 # What Happens Next?
 
