@@ -2,7 +2,6 @@
 <!-- SUBTITLE: Fests are an important aspect of every student’s college life, albeit they may prove to be a little expensive sometimes. As BPHC gears up for the GBM tomorrow, this opinion editorial brings to you a brief on the deductions over the past years. -->
 
 <center>
-
 <img src="https://wiki.bits-hyd.org/uploads/news/2017-fest-deductions.png">
 </center>
 
@@ -39,6 +38,7 @@ This year too, we find ourselves in a similar situation. After all is said and d
 
 
 # Footnotes & References
+*Notes on graph:* Pearl 2016 gave the options of multiple payment levels: 750, 550 and zero INR respectively. The payers were given incentives depending on the amount given through ‘free’ pro-show coupons. Arena 2016 gave the option of paying Rs. 100 or Rs. 0. Only the maximum amounts collected were represented pictorially.
 
 1. [Post by Election Commission on Facebook Announcing GBM on 27th September, 2018](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/2200014776908845/?type=3&theater)
 2.  [Figures Stated By CRC](https://docs.google.com/document/d/1ooZlZcqhv9NQtOj002SDTrMUc7Shy103b5nx92Nlgp4/edit) & [More Stats](https://m.facebook.com/groups/121969974532289?view=permalink&id=1827585167304086) 
@@ -48,12 +48,3 @@ This year too, we find ourselves in a similar situation. After all is said and d
 6. [Notice For Second GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1980889525488039/?type=3&theater)
 7. [Notice For Third GBM of Academic year 2017](https://www.facebook.com/ElectionCommissionBPHC/photos/a.1722458891331105/1999930620250596/?type=3&theater)
 8. [Minutes of Third GBM 2017](https://docs.google.com/document/d/132Kl8DturvxpCSYASHejX7LJNGdqQUwMkG5UZO3vv0I)
-
-
-
-
-
-
-
-
-
