@@ -1,5 +1,5 @@
-<!-- TITLE:  Student Organisations -->
-<!-- SUBTITLE: List of student organisations at BITS Hyderabad. -->
+<!-- TITLE:  Organisations at BITS Hyderabad -->
+<!-- SUBTITLE: List of student and official organisations/bodies at BITS Hyderabad. -->
 
 Student organisations at BITS Hyderabad are mostly of three types - clubs, which are usually focussed on extracurricular activities like dance, music, and drama; departments, which primarily work for the fests ARENA, ATMOS, and Pearl; Tech Associations which are mainly focussed on working in a specific area of science or technology. Other than this, there are official bodies like the Election Commission and CRC, divisions that help the administration in working with students (SWD/AD/IPC) and other societies. 
 # Clubs
