@@ -47,8 +47,13 @@ Student organisations at BITS Hyderabad are mostly of three types - clubs, which
 1. [Admission Division](/orgs/ad)
 2. [IPC Student Nucleus](/orgs/ipc-nucleus)
 3. [Student Welfare Department Student Nucleus](/orgs/swd-nucleus)
-1. [RAF](/orgs/raf)
-2. [BITS Embryo](/orgs/embryo)
-3. [BITSMUN Society](/orgs/bitsmun-society)
+4. [RAF](/orgs/raf)
+5. [BITS Embryo](/orgs/embryo)
+6. [BITSMUN Society](/orgs/bitsmun-society)
 
-The list will keep expanding.
+# Official Bodies
+1. [Election Commission](/orgs/ec)
+2. [Corroboration and Review Committee](/orgs/crc)
+
+
+*This list may be incomplete. Please contribute by adding missing clubs/departments/associations.*
