@@ -1,5 +1,5 @@
 <!-- TITLE: A Look at Some Bodies Behind ATMOS -->
-<!-- SUBTITLE: These are the workings of technical associations and clubs which work tirelessly for ATMOS every year. -->
+<!-- SUBTITLE: We take a look at the bodies that organise Atmos and what they've done so far and their plans for the year. -->
 
 The technical associations of the campus are an integral part of the Fest Organizing Body for ATMOS. They plan for months to come up with interesting events and workshops during the fest and conduct multiple pre-ATMOS events to offer a glimpse of the upcoming events. The members of the assoc work throughout the year in a bid to nurture the tech culture on campus. Assocs do this by collaborating with faculty to give proper exposure of the subject and conduct various talk and workshops to explore the possibilities of the subject beyond the curriculum.
 
@@ -60,15 +60,3 @@ Starting off the year with talks on Capitalist Globalization and Gandhian Econom
 The Programming and Computing Club of the campus started the semester with orientations and workshops for providing basic knowledge about programming to complete beginners. ‘ATMOS Codedash’ the premier competitive coding event, ‘Capture the flag’- a security challenge, ‘Binary Battles’- a tournament style competitive coding event in association with CSA and the 3rd edition of ‘PyBITS’ are the events which are being organized by the club this ATMOS. The two-day event ‘PyBITS’ comprising of workshops for all levels of Python enthusiasts, a conference and a developer sprint will be conducted.
 
 Apart from the events throughout the year, Crux has been organizing workshops on different domains such as Python, JavaScript, competitive programming, web development, etc. The club’s Facebook groups regularly upload tutorials and assignments thus increasing the activity. Though it’s usually the club members working on open source projects, the club is open to and expects participation from all students in these projects and other peer-to-peer learning sessions. With hackathons conducted by the club and other external companies throughout the year, there is a lot of scope for the improvement in participation. The students take part in world renowned events like ACM ICPC, GSoC, etc. and prestigious hackathons and the output gets better each year. Crux is of the opinion that though there is a lot of participation in coding activities, the tech culture can improve multiple fold if things are done together as a community with a lot of interaction and engagement.
-
-
-
-
-
-
-
-
-
-
-
-
