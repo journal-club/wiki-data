@@ -14,6 +14,7 @@ As Kumar puts it, people who get selected for GSoC  become a beacon for other pe
 On the other hand, Rohitt started coding early and fell in love with it. By the time he joined college, he had already started exploring the world of open source coding. He started off with java and all that he was able to learn and create was because of other people posting open source codes on sites like github. This is what got him to plunge deeper into open source coding.
 
 ![Kumar Prasun](/uploads/news/kumarp.jpg)
+Kumar Prasun
 
 # What is the main difference between open source coding and competitive coding?
 Both of them tried to explain open source coding to us in layman’s terms. In open source coding, one basically makes his/her own project and uploads it on web based services like github. This enables the entire github community to be able to view his project.  In a case where somebody wants an extra feature in the project ( or if somebody finds a bug), he/she can make the required changes in the code to implement that feature. In this way, the initial code is now optimized and also has new features.
@@ -28,6 +29,16 @@ A mentor’s role varies widely across different organisations and students. Whe
 Although mentoring is usually unpaid, it also has huge perks associated with it. For starters, some mentors get to attend a 4-day mentor summit at the google’s mountain view and San Francisco campuses. The summit in itself, is an entirely different experience. One gets to meet other mentors and admins of various organizations and also Google employees associated with the open source world. In addition to this, there are cool merchandise and goodies on offer. Rohitt also happened to mentor for Google Code-In (GCI), which is basically a GSoC type event for high school students. GCI also has similar perks attached to it.
 
 ![Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).](/uploads/news/rohitt.jpg)
+Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).
+
+# What advice would you like to give to people who are inclined towards contributing to open source code?
+Both of them agree on the fact that dedication is the key to excel in the field of open source coding. There are times when one may be stuck on a piece of code for several days altogether, at this point one should not give up. There is immense satisfaction when your code is accepted for the first time. That very point where people tend to give up, acts like a threshold. All one has to do is to cross that one threshold.
+Rohitt also suggests that one must start contributing to college projects. While contributing to college projects, even if somebody makes a mistake in their code, it is not scrutinised unlike the real world. Rather, seniors in the campus would be happy to help and guide you. Contributing to college projects can be seen as a first step before going on to contribute to other open source projects.
+
+
+*We are extremely thankful to Rohitt Vashishtha and Kumar Prasun for sharing with us, their experiences, without which this document would not have been possible.*
+
+
 
 
 
