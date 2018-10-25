@@ -14,7 +14,7 @@ But think of it this way: What would you like to see?
 </center>
 
 <center>
-or 
+<b>or</b> 
 </center>
 
 <center>
