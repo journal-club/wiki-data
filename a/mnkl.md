@@ -1,7 +1,22 @@
 <!-- TITLE: Technocrat 2018: The Atmos Magazine -->
 <!-- SUBTITLE: Technocrat 2018 is here with the first issue of the magazine, a pre-fest release. -->
 
-# Freshers Expectation of Atmos'18
+# Editors Note
+ATMOS has been known across universities for a plethora of workshops and exciting competitions, specifically aimed at developing and cultivating interest for technology among those attending it. Over the years, ATMOS carved out a niche for itself among the many tech-fests in India.  Honoring its glorious past, ATMOS’18 has been organized in such a way that its going to live up to the high expectations on it which keep growing higher every year.
+
+We at the Journal Club present to you Beyond the Continuum. I can only thank the writers and editors for their dedication to bring you this magazine.  Finally, let’s brace ourselves for entering a new dimension of reality, one which comprises of an Assimilation of Technically Motivated Souls.
+
+*Siddharth Sampath*
+Editor-in-Chief, Technocrat 2018
+# Articles
+1. [Interview with Yash Chokani](), the technical secretary of BPHC 2018-19.
+2. [GSoC: A Peek Into Open Source Coding](), an interview with Kumar Prasun and Rohitt Vashshishta
+3. 
+
+
+# Hopes From The Sixth Dimension
+**A look at Freshers Expectation of Atmos'18**:
+
 * I’m excited for the competitions-especially Robowars, MiniGP and Game of Drones. Can’t wait for the pro-shows either as I’ve never been to one before. ***-Tarun Agarwal***
 
 * I believe that our first fest is a great opportunity for us to bond with our batch-mates as well as seniors through department and clubs. It’s also a great learning experience for people coming from varied backgrounds. I can’t wait to go for the pro-shows, dandiya night, stand-up and the magic show. I’m hoping all my expectations coming true. ***-Anirudh Parekh***
