@@ -15,6 +15,20 @@ On the other hand, Rohitt started coding early and fell in love with it. By the 
 
 ![Kumar Prasun](/uploads/news/kumarp.jpg)
 
+# What is the main difference between open source coding and competitive coding?
+Both of them tried to explain open source coding to us in layman’s terms. In open source coding, one basically makes his/her own project and uploads it on web based services like github. This enables the entire github community to be able to view his project.  In a case where somebody wants an extra feature in the project ( or if somebody finds a bug), he/she can make the required changes in the code to implement that feature. In this way, the initial code is now optimized and also has new features.
+Competitive coding on the other hand, enables you to dig deeper into one specific language and helps you develop problem solving skills. It helps one to churn out code faster and get good at analyzing and solving problems quickly.
+
+# How rigorous were those three months of GSoC/ZSoC? To what extent were your limits pushed?
+
+Both Rohitt and Kumar were selected for ZSoC / GSoC at the end of their second year, which meant that had their PS1 along with this. They described their experience to be both good and bad at the same time. Both of them had to face a lot of problems at their PS stations, and managing their work week along with close to 40 hrs of coding per week proved to be a tad bit hectic for them. Albeit, they thoroughly enjoyed the time when they used to code and thinking of those days brings a smile on their face. They made valuable contacts and interacted with several people.
+
+# What does a mentor do and what are the perks associated with mentorship?
+A mentor’s role varies widely across different organisations and students. When the student gets stuck on piece of code, often it is the mentor who tells him where he went wrong or what material he/she should be learning to rectify their mistakes. Also, the primary goal of a mentor is to review the code written by the student , to eradicate all the small mistakes and bugs.
+Although mentoring is usually unpaid, it also has huge perks associated with it. For starters, some mentors get to attend a 4-day mentor summit at the google’s mountain view and San Francisco campuses. The summit in itself, is an entirely different experience. One gets to meet other mentors and admins of various organizations and also Google employees associated with the open source world. In addition to this, there are cool merchandise and goodies on offer. Rohitt also happened to mentor for Google Code-In (GCI), which is basically a GSoC type event for high school students. GCI also has similar perks attached to it.
+
+![Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).](/uploads/news/rohitt.jpg)
+
 
 
 
