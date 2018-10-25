@@ -11,9 +11,9 @@ But think of it this way: What would you like to see?
 
 
 ![88140 Fresher 20 Under](/uploads/news/alleventbad.jpg)
-![88140 Fresher 20 Under](/uploads/news/alleventgood.jpg)
+<img src=https://wiki.bits-hyd.org/uploads/news/alleventgood.jpg" width=300px>
 ![88140 Fresher 20 Under](/uploads/news/djnitebad.jpg)
-![88140 Fresher 20 Under](/uploads/news/djnitegood.jpg)
+<img src="https://wiki.bits-hyd.org/uploads/news/djnitegood.jpg" width=300px>
 
 Now compare these all event posters. Which is more preferable on our fest pages? 
 
