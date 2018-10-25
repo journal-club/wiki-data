@@ -1,5 +1,5 @@
-<!-- TITLE: A look at some Bodies Behind ATMOS -->
-<!-- SUBTITLE: These are the workings of  technical associations and clubs which work tirelessly for ATMOS every year. -->
+<!-- TITLE: A Look at Some Bodies Behind ATMOS -->
+<!-- SUBTITLE: These are the workings of technical associations and clubs which work tirelessly for ATMOS every year. -->
 
 The technical associations of the campus are an integral part of the Fest Organizing Body for ATMOS. They plan for months to come up with interesting events and workshops during the fest and conduct multiple pre-ATMOS events to offer a glimpse of the upcoming events. The members of the assoc work throughout the year in a bid to nurture the tech culture on campus. Assocs do this by collaborating with faculty to give proper exposure of the subject and conduct various talk and workshops to explore the possibilities of the subject beyond the curriculum.
 
