@@ -3,4 +3,4 @@
 
 # Header
 
-![Kumar Prasun GSocian _/\_](/uploads/news/Kumar-Prasun-GSoc.png)
+![](/uploads/news/kumar-prasun-gsoc.png)
