@@ -1,7 +1,7 @@
 <!-- TITLE: Technocrat 2018: The Atmos Magazine -->
 <!-- SUBTITLE: Technocrat 2018 is here with the first issue of the magazine, a pre-fest release. -->
 
-# What Freshers Expect
+# Freshers Expectation of Atmos'18
 * I’m excited for the competitions-especially Robowars, MiniGP and Game of Drones. Can’t wait for the pro-shows either as I’ve never been to one before. ***-Tarun Agarwal***
 
 * I believe that our first fest is a great opportunity for us to bond with our batch-mates as well as seniors through department and clubs. It’s also a great learning experience for people coming from varied backgrounds. I can’t wait to go for the pro-shows, dandiya night, stand-up and the magic show. I’m hoping all my expectations coming true. ***-Anirudh Parekh***
