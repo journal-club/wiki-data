@@ -32,8 +32,10 @@ Although mentoring is usually unpaid, it also has huge perks associated with it.
 <center>
 <img src ="https://wiki.bits-hyd.org/uploads/news/rohitt.jpg" width = 300px>
 </center>
-Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).
 
+<center>
+Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).
+</center>
 ## What advice would you like to give to people who are inclined towards contributing to open source code?
 Both of them agree on the fact that dedication is the key to excel in the field of open source coding. There are times when one may be stuck on a piece of code for several days altogether, at this point one should not give up. There is immense satisfaction when your code is accepted for the first time. That very point where people tend to give up, acts like a threshold. All one has to do is to cross that one threshold. Rohitt also suggests that one must start contributing to college projects. While contributing to college projects, even if somebody makes a mistake in their code, it is not scrutinised unlike the real world. Rather, seniors in the campus would be happy to help and guide you. Contributing to college projects can be seen as a first step before going on to contribute to other open source projects.
 
