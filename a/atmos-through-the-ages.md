@@ -21,6 +21,5 @@ ATMOS 2017, centred around the theme ‘A Neon Dystopia’, had more than 132 co
 
 As ATMOS 2018 draws closer, we look forward to delve into The Sixth Dimension and see what this edition holds for us.
 
-
-
+**Notes**:
 1 - The very first edition of ATMOS here, refers to the overall second technical fest and the first ever technical fest under the name of ATMOS.
