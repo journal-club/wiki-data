@@ -1,4 +1,4 @@
-<!-- TITLE: Design, well-done.-->
+![Bon Voyage Budget 2018](/uploads/news/bon-voyage-budget-2018.png "Bon Voyage Budget 2018")<!-- TITLE: Design, well-done.-->
 <!-- SUBTITLE: A quick summary of Design Review -->
 
 All of us have seen posters and artworks from the ATMOS, ARENA and Pearl pages published over the years. All of these are well appreciated by everyone who sees them. They often bring up thoughts along the lines of “How can one make such beautiful designs?” The people working behind the scenes are not your average designers.
@@ -11,7 +11,7 @@ What would you like to see?
 
 <Terrible design> or <good design>
 
-
+![Burn It All Tale Of Dump](/uploads/news/allevent_good.jpg)
 
 Which is more preferable on our fest pages? <Similar example>
 
