@@ -9,7 +9,7 @@ We at the Journal Club present to you the very first edition of **Technocrat**, 
 Editor-in-Chief, Technocrat 2018
 # Articles
 1. [Interview with Yash Chokani](/news/fests/atmos-18/ts-interview), the technical secretary of BPHC 2018-19.
-2. [GSoC: A Peek Into Open Source Coding](), an interview with Kumar Prasun and Rohitt Vashshishta
+2. [GSoC: A Peek Into Open Source Coding](/news/fests/atmos-18/gsoc-open-source), an interview with Kumar Prasun and Rohitt Vashshishta
 3. [A Ditch in Time](/news/fests/atmos-18/ditch-in-time)
 4. [Design, Well Done](), article by ex-Secretary of [Da](/orgs/da) reviewing the design of Atmos posters. 
 5. [Through The Ages](/news/fests/atmos-18/through-ages), a look at ATMOS through the years, and how its changed.
