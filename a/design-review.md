@@ -5,21 +5,8 @@ All of us have seen posters and artworks from the ATMOS, ARENA and Pearl pages p
  
 The Department of Technical Arts, or DoTA, as we call it, is the department which is responsible for a lot of things related to these fests. A usual misunderstanding amongst people is that this department just designs the logo, the posters and the website. This is just a small part of branding fests, the department does a lot more than that. DoTA’s work involves creating a sponsorship brochure, which is used by DoSM for pitching. It also manages the creation of event posters, banners and passes which DePP uses to publicise the fest more effectively. The fest based merchandise designs for BPHC are also made by the department. DoTA has played a pivotal role in making the design culture on campus flourish. This is supplemented by the fact that it always tries to improve upon the quality of the content it puts out every year. This article tries to throw some light on how this culture grew and why it's important to keep up this growth for subsequent years.
 
-For a long time, designs made by students on campus lacked both purpose and quality. That was brought to a close during Pearl 2015. One of the major misconceptions when it comes to designing is that throwing in a lot of colours and various fonts can make anything attractive. But think of it this way: 
+For a long time, designs made by students on campus lacked both purpose and quality. That was brought to a close during Pearl 2015. One of the major misconceptions when it comes to designing is that throwing in a lot of colours and various fonts can make anything attractive.
 
-What would you like to see? 
-
-![](/uploads/news/allevb.jpg)
-or 
-![](/uploads/news/allevent-good.jpg)
-
-Which is more preferable on our fest pages? 
-
-![](/uploads/news/djnb.jpg)
-
-<Similar example>
-
-![](/uploads/news/djng.jpg) 
 
 One of the golden rules followed by professional graphic designers is that design should serve the purpose of showing required information in a minimalistic fashion, using low amounts of text and colours to avoid overcrowding. This was noted by our seniors, like Mohammad Owais Shaik, Andey Harsha, to name a few. Consequently, they started to learn and use the design practices followed by professional graphic designers.  This helped them express creative ideas through superior technique, the results were encouraging. There was a telling improvement in those posters when compared to previous years. This inspired them to improve themselves, thereby improving the overall quality in the works produced by DoTA.
 
