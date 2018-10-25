@@ -11,7 +11,7 @@ Editor-in-Chief, Technocrat 2018
 1. [Interview with Yash Chokani](/news/fests/atmos-18/ts-interview), the technical secretary of BPHC 2018-19.
 2. [GSoC: A Peek Into Open Source Coding](/news/fests/atmos-18/gsoc-open-source), an interview with Kumar Prasun and Rohitt Vashshishta
 3. [A Ditch in Time](/news/fests/atmos-18/ditch-in-time)
-4. [Design, Well Done](), article by ex-Secretary of [Da](/orgs/da) reviewing the design of Atmos posters. 
+4. [Design, Well Done](/news/fests/atmos-18/design-review), article by ex-Secretary of [Da](/orgs/da) reviewing the design of Atmos posters. 
 5. [Through The Ages](/news/fests/atmos-18/through-ages), a look at ATMOS through the years, and how its changed.
 6. [Organisations Behind Atmos](/news/fests/atmos-18/bodies-behind-atmos), a look at the associations and clubs that work in an attempt to improve technical culture on campus.  
 
