@@ -1,5 +1,5 @@
 <!-- TITLE: A Ditch In Time -->
-<!-- SUBTITLE: A take on recent developments on the ISRO spy case.-->
+<!-- SUBTITLE: Innocents can be tormented by the apparent power of 'justice'. Two ISRO scientists, found themselves in a horrifying tale of political intrigue and anti-national accusations and so much more, while being bound by the shackles of time. 24 long years. Time waits for no one indeed.-->
 
 A stitch in time saves nine. But, can a stitch really be enough to repair the tear of continuous torment and accusations in life for over 24 years? A stitch? The time? 24 years.
 Innocent until proven guilty was not a strong factor in this case.
