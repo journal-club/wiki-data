@@ -11,12 +11,7 @@ But think of it this way: What would you like to see?
 
 <img src="https://wiki.bits-hyd.org/uploads/news/djnitegood.jpg" width=300px>
 
-<img src="https://wiki.bits-hyd.org/uploads/news/djnitegood.jpg" width=300px>
-
-
-
-
-
+<img src="https://wiki.bits-hyd.org/uploads/news/djnitebad.jpg" width=300px>
 
 Now compare these all event posters. Which is more preferable on our fest pages? 
 
