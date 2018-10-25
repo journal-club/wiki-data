@@ -9,13 +9,17 @@ For a long time, designs made by students on campus lacked both purpose and qual
 
 What would you like to see? 
 
-![Campaigns And Elections](/uploads/news/allevb.jpg)
+![](/uploads/news/allevb.jpg)
 or 
-![Campaigns And Elections](/uploads/news/allevent-good.jpg)
+![](/uploads/news/allevent-good.jpg)
 
+Which is more preferable on our fest pages? 
 
+![](/uploads/news/djnb.jpg)
 
-Which is more preferable on our fest pages? <Similar example>
+<Similar example>
+
+![](/uploads/news/djng.jpg) 
 
 One of the golden rules followed by professional graphic designers is that design should serve the purpose of showing required information in a minimalistic fashion, using low amounts of text and colours to avoid overcrowding. This was noted by our seniors, like Mohammad Owais Shaik, Andey Harsha, to name a few. Consequently, they started to learn and use the design practices followed by professional graphic designers.  This helped them express creative ideas through superior technique, the results were encouraging. There was a telling improvement in those posters when compared to previous years. This inspired them to improve themselves, thereby improving the overall quality in the works produced by DoTA.
 
