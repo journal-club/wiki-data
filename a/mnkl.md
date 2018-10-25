@@ -1,6 +1,5 @@
- and <!-- TITLE: Technocrat 2018: The Atmos Magazine -->
+<!-- TITLE: Technocrat 2018: The Atmos Magazine -->
 <!-- SUBTITLE: Technocrat 2018 is here with the first issue of the magazine, a pre-fest release. -->
-
 # Editors Note
 ATMOS has been known across universities for a plethora of workshops and exciting competitions, specifically aimed at developing and cultivating interest for technology among those attending it. Over the years, ATMOS carved out a niche for itself among the many tech-fests in India.  Honoring its glorious past, ATMOS’18 has been organized in such a way that its going to live up to the high expectations on it which keep growing higher every year.
 
