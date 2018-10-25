@@ -1,16 +1,16 @@
 <!-- TITLE: Technocrat 2018: The Atmos Magazine -->
 <!-- SUBTITLE: Technocrat 2018 is here with the first issue of the magazine, a pre-fest release. -->
 # Editors Note
-ATMOS has been known across universities for a plethora of workshops and exciting competitions, specifically aimed at developing and cultivating interest for technology among those attending it. Over the years, ATMOS carved out a niche for itself among the many tech-fests in India.  Honoring its glorious past, ATMOS’18 has been organized in such a way that its going to live up to the high expectations on it which keep growing higher every year.
+ATMOS has been known across universities for a plethora of workshops and exciting competitions, specifically designed to develop and cultivate interest for technology among those attending it. Over the years, ATMOS carved out a niche for itself among the many tech-fests in India. Honoring its glorious past, ATMOS’18 has been organized in such a way that its going to live up to the high expectations on it, which keep growing higher every year.
 
-We at the Journal Club present to you Beyond the Continuum. I can only thank the writers and editors for their dedication to bring you this magazine.  Finally, let’s brace ourselves for entering a new dimension of reality, one which comprises of an Assimilation of Technically Motivated Souls.
+We at the Journal Club present to you the very first edition of **Technocrat**, The ATMOS Magazine. I can only thank the writers and editors for their dedication to bring you this magazine. Finally, let’s brace ourselves for entering a new dimension of reality, one which comprises of an Assimilation of Technically Motivated Souls.
 
 *Siddharth Sampath*
 Editor-in-Chief, Technocrat 2018
 # Articles
-1. [Interview with Yash Chokani](), the technical secretary of BPHC 2018-19.
+1. [Interview with Yash Chokani](/news/fests/atmos-18/ts-interview), the technical secretary of BPHC 2018-19.
 2. [GSoC: A Peek Into Open Source Coding](), an interview with Kumar Prasun and Rohitt Vashshishta
-3. [A Ditch in Time]()
+3. [A Ditch in Time](/news/fests/atmos-18/ditch-in-time)
 4. [Design, Well Done](), article by ex-Secretary of [Da](/orgs/da) reviewing the design of Atmos posters. 
 5. [Through The Ages](), a look at ATMOS through the years, and how its changed.
 6. [Organisations Behind Atmos](), a look at the associations and clubs that work in an attempt to improve technical culture on campus.  
