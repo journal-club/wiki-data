@@ -1,7 +1,6 @@
 <!-- TITLE: GSoC: A Peek into Open Source Coding -->
 <!-- SUBTITLE: An interview with Rohitt and Kumar Prasun -->
-
-# Introduction
+## Introduction
 Google Summer of Code (popularly abbreviated as GSoC) is a global program which provides a platform for students to contribute to open source software development. It was founded by none other than Google’s founders, Larry Page and Sergey Brin in 2005.
 Participating in GSoC has so many perks that it would be completely pointless to even try to name them all. For starters it includes a neat $2400 cheque, but more important ones would be the GSoC tag (which is a hallmark for open source coders), and the valuable friends a student makes during GSoC days, which go a long way. Some of the people the student gets to know during his/her GSoC days are so famous and influential that a letter of recommendation from them  would be an extremely valuable asset !
 
@@ -19,6 +18,7 @@ Competitive coding on the other hand, enables you to dig deeper into one specifi
 
 <center>
 <img src="https://wiki.bits-hyd.org/uploads/news/kumarp.jpg" width = 300px>
+Kumar Prasun
 </center>
 ## How rigorous were those three months of GSoC/ZSoC? To what extent were your limits pushed?
 
@@ -31,8 +31,9 @@ Although mentoring is usually unpaid, it also has huge perks associated with it.
 
 <center>
 <img src ="https://wiki.bits-hyd.org/uploads/news/rohitt.jpg" width = 300px>
-*Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).*
+Rohitt Vashishtha with Marco Burstein (15) at the Google Code-In grand prize winner’s trip to Google’s San Francisco office (2017).
 </center>
+
 ## What advice would you like to give to people who are inclined towards contributing to open source code?
 Both of them agree on the fact that dedication is the key to excel in the field of open source coding. There are times when one may be stuck on a piece of code for several days altogether, at this point one should not give up. There is immense satisfaction when your code is accepted for the first time. That very point where people tend to give up, acts like a threshold. All one has to do is to cross that one threshold. Rohitt also suggests that one must start contributing to college projects. While contributing to college projects, even if somebody makes a mistake in their code, it is not scrutinised unlike the real world. Rather, seniors in the campus would be happy to help and guide you. Contributing to college projects can be seen as a first step before going on to contribute to other open source projects.
 
