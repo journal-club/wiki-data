@@ -12,8 +12,8 @@ Editor-in-Chief, Technocrat 2018
 2. [GSoC: A Peek Into Open Source Coding](), an interview with Kumar Prasun and Rohitt Vashshishta
 3. [A Ditch in Time](/news/fests/atmos-18/ditch-in-time)
 4. [Design, Well Done](), article by ex-Secretary of [Da](/orgs/da) reviewing the design of Atmos posters. 
-5. [Through The Ages](), a look at ATMOS through the years, and how its changed.
-6. [Organisations Behind Atmos](), a look at the associations and clubs that work in an attempt to improve technical culture on campus.  
+5. [Through The Ages](/news/fests/atmos-18/through-ages), a look at ATMOS through the years, and how its changed.
+6. [Organisations Behind Atmos](/news/fests/atmos-18/bodies-behind-atmos), a look at the associations and clubs that work in an attempt to improve technical culture on campus.  
 
 
 # Hopes From The Sixth Dimension
