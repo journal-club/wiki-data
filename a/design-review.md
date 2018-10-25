@@ -9,14 +9,21 @@ For a long time, designs made by students on campus lacked both purpose and qual
 
 But think of it this way: What would you like to see? 
 
-<img src="https://wiki.bits-hyd.org/uploads/news/alleventbad.jpg" width=300px>
-<img src=https://wiki.bits-hyd.org/uploads/news/alleventgood.jpg" width=300px>
 <img src="https://wiki.bits-hyd.org/uploads/news/djnitegood.jpg" width=300px>
+
 <img src="https://wiki.bits-hyd.org/uploads/news/djnitegood.jpg" width=300px>
+
+
+
+
+
 
 Now compare these all event posters. Which is more preferable on our fest pages? 
 
 **Poster #1**
+
+<img src="https://wiki.bits-hyd.org/uploads/news/alleventbad.jpg" width=300px>
+<img src="https://wiki.bits-hyd.org/uploads/news/alleventgood.jpg" width=300px>
 
 **Poster #2**
 
