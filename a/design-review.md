@@ -7,6 +7,21 @@ The Department of Technical Arts, or DoTA, as we call it, is the department whic
 
 For a long time, designs made by students on campus lacked both purpose and quality. That was brought to a close during Pearl 2015. One of the major misconceptions when it comes to designing is that throwing in a lot of colours and various fonts can make anything attractive.
 
+ But think of it this way: 
+What would you like to see? 
+
+![Fernweh Jc Pearl 18 Mag Cover](/uploads/news/alleventsbad.jpg)
+
+or 
+
+<good design>
+
+Which is more preferable on our fest pages? 
+
+
+<Similar example>
+
+
 
 One of the golden rules followed by professional graphic designers is that design should serve the purpose of showing required information in a minimalistic fashion, using low amounts of text and colours to avoid overcrowding. This was noted by our seniors, like Mohammad Owais Shaik, Andey Harsha, to name a few. Consequently, they started to learn and use the design practices followed by professional graphic designers.  This helped them express creative ideas through superior technique, the results were encouraging. There was a telling improvement in those posters when compared to previous years. This inspired them to improve themselves, thereby improving the overall quality in the works produced by DoTA.
 
