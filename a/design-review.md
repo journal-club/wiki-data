@@ -9,6 +9,12 @@ For a long time, designs made by students on campus lacked both purpose and qual
 
 But think of it this way: What would you like to see? 
 
+
+![88140 Fresher 20 Under](/uploads/news/alleventbad.jpg)
+![88140 Fresher 20 Under](/uploads/news/alleventgood.jpg)
+![88140 Fresher 20 Under](/uploads/news/djnitebad.jpg)
+![88140 Fresher 20 Under](/uploads/news/djnitegood.jpg)
+
 <center>
 <img src="https://lh4.googleusercontent.com/lvY67KEBlsR697vxkIYLs8U0F-hDpjYPRi_aYeDgFaaB_a2Xe1P36VSI3VsMxW35MwFuuJ5dlkJlwFDMQWt0JqhrQtCOLuLdSzkxTyHOvxH2Hjjp_-Y=w773" width = 300px>
 </center>
