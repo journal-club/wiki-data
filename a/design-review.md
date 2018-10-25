@@ -15,31 +15,11 @@ But think of it this way: What would you like to see?
 ![88140 Fresher 20 Under](/uploads/news/djnitebad.jpg)
 ![88140 Fresher 20 Under](/uploads/news/djnitegood.jpg)
 
-<center>
-<img src="https://lh4.googleusercontent.com/lvY67KEBlsR697vxkIYLs8U0F-hDpjYPRi_aYeDgFaaB_a2Xe1P36VSI3VsMxW35MwFuuJ5dlkJlwFDMQWt0JqhrQtCOLuLdSzkxTyHOvxH2Hjjp_-Y=w773" width = 300px>
-</center>
-
-<center>
-<b>or</b> 
-</center>
-
-<center>
-<img src="https://lh5.googleusercontent.com/JqZri78WJKQw3YODZXDSk_k7atIBaaHrAtbOgGoDNZmG39dgSFHfXRSmzHuCnK1uy-2YauG7R3C-bmCLuAHpXkqhvWYdEZ2gkK5Ype94Z1xonpdgbr0=w371" width= 300px>
-</center>
-
 Now compare these all event posters. Which is more preferable on our fest pages? 
 
 **Poster #1**
 
-<center>
-<img src="https://lh5.googleusercontent.com/0ECD8HaLGfwr6U5nn1vh12HelscUGVTcf_qYMRZkmcOuhVX-XW0cF2hXUH42rzsyrFDaZrPrdxYIwO_pEICAnk6YMnv4HI0dA2_kbpsPTSSx8QxluxIC=w572" width=300px>
-</center>
-
 **Poster #2**
-
-<center>
-<img src="https://lh6.googleusercontent.com/SRmtH8-zAY7ir9luhBAbLL-CVKEUTCgdrvi42o2K4gQi6t1gn9nZs08Z6a2Dw8LVk81y5wcAPhpngjhAd-KzUCT1BrOikFDCVDd0NfnHZBY-bc0HSs_u=w572" width=300px>
-</center>
 
 One of the golden rules followed by professional graphic designers is that design should serve the purpose of showing required information in a minimalistic fashion, using **low amounts of text and colours** to avoid overcrowding. This was noted by our seniors, like Mohammad Owais Shaik and Andey Harsha, to name a few. Consequently, they started to learn and use the design practices followed by professional graphic designers.  This helped them express creative ideas through superior technique, the results were encouraging. There was a telling improvement in those posters when compared to previous years. This inspired them to improve themselves, thereby improving the overall quality in the works produced by DoTA.
 
