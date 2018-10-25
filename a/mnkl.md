@@ -1,4 +1,4 @@
-<!-- TITLE: Technocrat 2018: The Atmos Magazine -->
+ and <!-- TITLE: Technocrat 2018: The Atmos Magazine -->
 <!-- SUBTITLE: Technocrat 2018 is here with the first issue of the magazine, a pre-fest release. -->
 
 # Editors Note
@@ -11,7 +11,10 @@ Editor-in-Chief, Technocrat 2018
 # Articles
 1. [Interview with Yash Chokani](), the technical secretary of BPHC 2018-19.
 2. [GSoC: A Peek Into Open Source Coding](), an interview with Kumar Prasun and Rohitt Vashshishta
-3. 
+3. [A Ditch in Time]()
+4. [Design, Well Done](), article by ex-Secretary of [Da](/orgs/da) reviewing the design of Atmos posters. 
+5. [Through The Ages](), a look at ATMOS through the years, and how its changed.
+6. [Organisations Behind Atmos](), a look at the associations and clubs that work in an attempt to improve technical culture on campus.  
 
 
 # Hopes From The Sixth Dimension
