@@ -29,11 +29,11 @@ Now compare these all event posters. Which is more preferable on our fest pages?
 <img src="https://wiki.bits-hyd.org/uploads/news/alleventbad.jpg" width=300px>
 </center>
 
+**Poster #2**
+
 <center>
 <img src="https://wiki.bits-hyd.org/uploads/news/alleventgood.jpg" width=300px>
 </center>
-
-**Poster #2**
 
 One of the golden rules followed by professional graphic designers is that design should serve the purpose of showing required information in a minimalistic fashion, using **low amounts of text and colours** to avoid overcrowding. This was noted by our seniors, like Mohammad Owais Shaik and Andey Harsha, to name a few. Consequently, they started to learn and use the design practices followed by professional graphic designers.  This helped them express creative ideas through superior technique, the results were encouraging. There was a telling improvement in those posters when compared to previous years. This inspired them to improve themselves, thereby improving the overall quality in the works produced by DoTA.
 
