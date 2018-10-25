@@ -20,6 +20,7 @@ Competitive coding on the other hand, enables you to dig deeper into one specifi
 <img src="https://wiki.bits-hyd.org/uploads/news/kumarp.jpg" width = 300px>
 Kumar Prasun
 </center>
+
 ## How rigorous were those three months of GSoC/ZSoC? To what extent were your limits pushed?
 
 Both Rohitt and Kumar were selected for ZSoC / GSoC at the end of their second year, which meant that had their PS1 along with this. They described their experience to be both good and bad at the same time. Both of them had to face a lot of problems at their PS stations, and managing their work week along with close to 40 hrs of coding per week proved to be a tad bit hectic for them. Albeit, they thoroughly enjoyed the time when they used to code and thinking of those days brings a smile on their face. They made valuable contacts and interacted with several people.
