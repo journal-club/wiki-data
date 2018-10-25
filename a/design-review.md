@@ -1,5 +1,5 @@
 <!-- TITLE: Design, well-done.-->
-<!-- SUBTITLE: A quick summary of Design Review -->
+<!-- SUBTITLE: -->
 
 All of us have seen posters and artworks from the ATMOS, ARENA and Pearl pages published over the years. All of these are well appreciated by everyone who sees them. They often bring up thoughts along the lines of “How can one make such beautiful designs?” The people working behind the scenes are not your average designers.
  
@@ -10,7 +10,7 @@ For a long time, designs made by students on campus lacked both purpose and qual
  But think of it this way: 
 What would you like to see? 
 
-![Fernweh Jc Pearl 18 Mag Cover](/uploads/news/alleventsbad.jpg)
+<terrible design>
 
 or 
 
