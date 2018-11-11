@@ -1,7 +1,7 @@
 <!-- TITLE: Sabarimala Verdict  -->
 <!-- SUBTITLE: A historic step forward? Ot the opening of the Pandora's Box? A detailed analysis of the controversy surrounding Sabarimala. -->
 
-# Religion and Equality
+# Against: Religion and Equality
 The Sabarimala shrine is dedicated to the deity Lord Ayyappa in his ‘Naishtik Brahmachari’, that is, the form of a celibate, which is just one out of the many forms he takes. In Kerala alone, there exist more than 1000 places of worship for Lord Ayyappa not restricting anyone’s entry. Yet this one shrine that bars entry to a certain group of women, due to the nature of the deity seated within, has been the subject of major debate throughout the country in the last month.
 
 This issue has surfaced and dipped irregularly over the last three decades. On 28th September 2018, however, there was a landmark development in this issue, when the Supreme Court, in a controversial verdict delivered by a 5-judge panel, sought to eradicate this tradition of keeping women between menarche and menopause from entering Sabarimala to worship the deity. Ironically, the verdict was supported by the four male judges on the panel and opposed by the one female judge in the 4-1 ruling.
@@ -20,7 +20,7 @@ Hinduism is a liberal religion, allowing every one of its followers a right to c
 
 The shrine is one of many unique ones in the country. As the Sabarimala shrine disallows women of menstruating age to enter, there are temples and rituals which men are not permitted to enter and witness. They contribute to the diversity that this country is proud of. If such a decision as in the case of Sabarimala is not revised, it will have a vast impact for the practitioners of all religions and will lift the faith of religious persons from the Constitution.
 
-# The Verdict For Women
+# For: The Verdict For Women
 > “Irony of society is to impose a rule, however unjustified, and then justify the rule. Historically, women have been treated unequally. No philosophy has so far convinced the large population of this country to open up and accept women as equal partners… ” - (Former) Chief Justice of India Dipak Misra and Justice Khanwilkar, passing the judgement for women entry in Sabarimala.
 
 The issue of Sabarimala being open to women has caused a lot of unrest in the state of Kerala especially for the women of the state. Social media is floating with hashtags like #ReadyToWait, #SaveSabarimala. 
