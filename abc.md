@@ -49,3 +49,9 @@ Before going to Sabarimala people were expected to keep a 41-day penance and had
 Also with modernisation, as mentioned, the path to Sabarimala is no longer a rigorous one and can be easily covered by any individual. In addition, Hindu tradition also dictates that for monthly pooja at Sabarimala no ‘Vrathams’ are necessary. Then what were the women initiating #ReadyToWait and #SaveShabrimala waiting for? They have not realized the legend completely and are just following what was being told down the generations blindly. They have not realized that God is not a human who discriminates between genders, caste, creed, and even religion.
 
 This issue at the end of the day has shown the entire country that no matter how much we try women can’t be stopped from progressing. They are a force that is breaking the boundaries between male and female roles and it is in the best interest for everyone to give this force as much support as we can as this will determine the path to our future. This issue gave us another chance to prove this… 
+
+
+
+-----
+
+*Article by Prajjwal Vijaywargiya and Tarun Agrawal. Edited by Aditya Venkatraman.*
