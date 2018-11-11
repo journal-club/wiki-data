@@ -1,5 +1,5 @@
 <!-- TITLE: Sabarimala Verdict  -->
-<!-- SUBTITLE: A historic step forward? Ot the opening of the Pandora's Box? A detailed analysis of the controversy surrounding Sabarimala. -->
+<!-- SUBTITLE: A historic step forward? Or the opening of the Pandora's Box? A detailed analysis of the controversy surrounding Sabarimala. -->
 
 # Against: Religion and Equality
 The Sabarimala shrine is dedicated to the deity Lord Ayyappa in his ‘Naishtik Brahmachari’, that is, the form of a celibate, which is just one out of the many forms he takes. In Kerala alone, there exist more than 1000 places of worship for Lord Ayyappa not restricting anyone’s entry. Yet this one shrine that bars entry to a certain group of women, due to the nature of the deity seated within, has been the subject of major debate throughout the country in the last month.
