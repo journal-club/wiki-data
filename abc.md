@@ -20,9 +20,9 @@ Hinduism is a liberal religion, allowing every one of its followers a right to c
 
 The shrine is one of many unique ones in the country. As the Sabarimala shrine disallows women of menstruating age to enter, there are temples and rituals which men are not permitted to enter and witness. They contribute to the diversity that this country is proud of. If such a decision as in the case of Sabarimala is not revised, it will have a vast impact for the practitioners of all religions and will lift the faith of religious persons from the Constitution.
 
-# THE VERDICT OF WOMEN
-`“Irony of society is to impose a rule, however unjustified, and then justify the rule. Historically, women have been treated unequally. No philosophy has so far convinced the large population of this country to open up and accept women as equal partners… ” 
-(Former) Chief Justice of India Dipak Misra and Justice Khanwilkar, passing the judgement for women entry in Sabarimala.`
+# The Verdict For Women
+“Irony of society is to impose a rule, however unjustified, and then justify the rule. Historically, women have been treated unequally. No philosophy has so far convinced the large population of this country to open up and accept women as equal partners… ” 
+(Former) Chief Justice of India Dipak Misra and Justice Khanwilkar, passing the judgement for women entry in Sabarimala.
 
 The issue of Sabarimala being open to women has caused a lot of unrest in the state of Kerala especially for the women of the state. Social media is floating with hashtags like #ReadyToWait, #SaveSabarimala. 
 
@@ -30,12 +30,11 @@ But what are they saving Sabarimala from? Let’s have a look at the basis of th
 
 The counter affidavit, in this case, was issued by the Travancore Devaswom Board (TDB), the authority responsible for running the temples in Kerala according to the Hindu Traditions, which clearly stated:-
 
-” …women used to visit the temple though very rarely. The Maharaja of Travancore accompanied by the Maharani and the Divan had visited the temple in 1115 M.E. There was thus no prohibition for women to enter the Sabarimala temple in olden days, but women in large number were not visiting the temple. That was not because of any prohibition imposed by Hindu religion but because of other non-religious factors. In recent years, many worshippers had gone to the temple with lady worshippers within the age group 10 to 50 for the first rice-feeding ceremony of their children...
-…For the last 20 years, women irrespective of their age were allowed to visit the temple when it opens for monthly poojas. 
-… Many female worshippers of the age group of 10 to 50 used to go to the temple during these days…”
-                           ------ Para 7,8 & 43, S. Mahendran v/s The Secretary, Travancore Devaswom Board, Kerala High Court on April 5, 1991
-
+`” …women used to visit the temple though very rarely. The Maharaja of Travancore accompanied by the Maharani and the Divan had visited the temple in 1115 M.E. There was thus no prohibition for women to enter the Sabarimala temple in olden days, but women in large number were not visiting the temple. That was not because of any prohibition imposed by Hindu religion but because of other non-religious factors. In recent years, many worshippers had gone to the temple with lady worshippers within the age group 10 to 50 for the first rice-feeding ceremony of their children… For the last 20 years, women irrespective of their age were allowed to visit the temple when it opens for monthly poojas... Many female worshippers of the age group of 10 to 50 used to go to the temple during these days…”
+- Para 7,8 & 43, S. Mahendran v/s The Secretary, Travancore Devaswom Board, Kerala High Court on April 5, 1991
+`
 The non-religious factors that the TDB mentioned, were the difficulties of the path that affected women to travel for long days in the olden times. They stated:-
+
 “After pointing out the difficulties experienced by pilgrims in olden days to trek the entire distance through thick forests, it is stated that transport facilities had improved in the recent past resulting inflow of pilgrims in large numbers from all over Kerala and outside. Scientific advancement and its influence in the modernisation of human life is bound to bring about changes in the old customs and practices………..”
                            ------ S. Mahendran v/s The Secretary, Travancore Devaswom Board, Kerala High Court on Apri 5l, 1991
 The body responsible for dictating religions and traditions to the temple stated the above arguments in Court, still, the High Court not finding its rule in violation with Article 15, 25 and 26 gave the judgement of barring the entry of women in Sabarimala. The issue started there, a flawed decision.
