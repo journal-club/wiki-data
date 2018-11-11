@@ -21,8 +21,7 @@ Hinduism is a liberal religion, allowing every one of its followers a right to c
 The shrine is one of many unique ones in the country. As the Sabarimala shrine disallows women of menstruating age to enter, there are temples and rituals which men are not permitted to enter and witness. They contribute to the diversity that this country is proud of. If such a decision as in the case of Sabarimala is not revised, it will have a vast impact for the practitioners of all religions and will lift the faith of religious persons from the Constitution.
 
 # The Verdict For Women
-“Irony of society is to impose a rule, however unjustified, and then justify the rule. Historically, women have been treated unequally. No philosophy has so far convinced the large population of this country to open up and accept women as equal partners… ” 
-(Former) Chief Justice of India Dipak Misra and Justice Khanwilkar, passing the judgement for women entry in Sabarimala.
+> “Irony of society is to impose a rule, however unjustified, and then justify the rule. Historically, women have been treated unequally. No philosophy has so far convinced the large population of this country to open up and accept women as equal partners… ” - (Former) Chief Justice of India Dipak Misra and Justice Khanwilkar, passing the judgement for women entry in Sabarimala.
 
 The issue of Sabarimala being open to women has caused a lot of unrest in the state of Kerala especially for the women of the state. Social media is floating with hashtags like #ReadyToWait, #SaveSabarimala. 
 
