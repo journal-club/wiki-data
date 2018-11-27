@@ -57,7 +57,7 @@ Another obstacle for the ICC stated by the chairperson, is the lack of interest 
 
 The lack of awareness among students is another thing that is preventing ICC from functioning to its true function. The chairperson said that this is despite several attempts by the ICC to spread awareness regarding these issues.   
 
-## Concern for False Accusation/ Providing Evidence
+## Concern for False Accusation/ Collecting Evidence
 ### Determining legitimacy of a claim
 The ICC checks legitimacy by monitoring the accused’s behaviour over a period of time. This monitoring is attempted to be done covertly and without bias. 
 
