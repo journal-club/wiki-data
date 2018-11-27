@@ -35,7 +35,8 @@ Also it has to spread awareness among the students and staff about the mechanism
 The ICC should have three student representatives who shall be enrolled  at UG, master’s and Ph.D respectively through transparent election procedure. The other members include faculty, non teaching staff as well as a member from an NGO outside.   
 
 It has to complete the inquiry within 90 days of the receiving the complaint and submit a final report to the Institute Head within 10 days thereafter.
-The ICC on our campus
+
+### The ICC on our campus
 The ICC at our campus mainly handles complaints of sexual harassment by faculty and staff.
 
 The cases of sexual harassment by students are usually handled by the Disciplinary Committee. But if any such case approaches the ICC, they are responsible for its resolution and inquiry.
