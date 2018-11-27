@@ -2,7 +2,10 @@
 <!-- SUBTITLE: The working of the ICC on Campus -->
 
 # Sexual Harassment in Universities
-![ICC Sexual Harrassment](/uploads/news/sexualharrasmenticc.jpg)
+
+<center>
+<img src = "https://wiki.bits-hyd.org/uploads/news/sexualharrasmenticc.jpg" width = 250px>
+</center>
 
 Sexual harassment is frighteningly common. The UGC reported a 50% increase in the number of cases since 2017. A total of 188 cases were reported from institutions across the country in 2017. 
 
