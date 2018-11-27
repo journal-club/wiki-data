@@ -87,4 +87,3 @@ ICC members (as of 2018)-
 [https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fa%2Fbits-pilani.ac.in%2Ffile%2Fd%2F1l7ze0jCBJ-UPgmjf58aGtMVyKcTsdMNL%2Fview%3Fusp%3Ddrivesdk%26fbclid%3DIwAR3dkoqawp09eFkpdLzOcDufA7Os_d_ei2ni9wTa-jkffnGSsXU-GEFu584&h=AT0xy4FmoMo0azH3JmsiH895Z03OBhzTTOQT0kIn05Xo3KJjRrEG4_I-bjjugvrjp6MxUdYr0nyZo1QUes05Re2VCXPQdIQrRxPkxvur5O34FkJNhUlDhWDTsYVRZPTTkgpOOA](http://)
 
 *Written by: Tarun Agarwal, Niharika Shankar, Aditya Gayatri Sastry Kaipa*
-*Poster credit: Shubhani Paliwal*
