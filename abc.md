@@ -81,5 +81,5 @@ The UGC rule and the Govt. Handbook-
 https://www.ugc.ac.in/ugc_notices.aspx?id=1433
 
 *Written by: Tarun Agarwal, Niharika Shankar, Aditya Gayatri Sastry Kaipa
-
-Poster credits: Shubhani Paliwal*
+*
+*Poster credits: Shubhani Paliwal*
