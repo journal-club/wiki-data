@@ -21,7 +21,7 @@ As per the Handbook on Sexual Harassment of Women at the Workplace, the key elem
 
 ## ICC Functioning in BITS Hyderabad
 ### Key features of the ICC
-the ICC’s responsibility is to keep a check of sexual harassment occurring in the campus. Which includes teaching and non teaching staff, students as well as outsiders who might visit the campus.
+The ICC’s responsibility is to keep a check of sexual harassment occurring in the campus. Which includes teaching and non teaching staff, students as well as outsiders who might visit the campus.
 
 To investigate and take action on any complaint of sexual harassment brought to its notice, directly by the victim or through the victim’s trusted friend/aide in a neutral, non-biased way.
 
@@ -76,11 +76,15 @@ The chairperson of the ICC states that cases are hardly reported. The ICC has ye
 The reality is, sexual harassment is far more common than false accusations. 
 
 ## The Way Forward
+The present ICC is set to continue to function in the coming years. (The term is three years, with effect from 2017). The contacts of the members are detailed in the notice linked below. If anyone is undergoing sexual harassment, they musn't hesitate to resolve the matter. 
 With the fate of the ICC in doubt, it is unclear whether a new body (if any) will have the same provisions. In any case, it is hoped that our systems evolve into strong mechanisms that hold wrongdoers accountable for their actions. Our universities must become places where we flourish, learn and grow. Not places that breed and harbour disrespectful, dehumanising and illegal behavior. 
 
 ## Links
 The UGC rule and the Govt. Handbook- 
-https://www.ugc.ac.in/ugc_notices.aspx?id=1433
+[https://www.ugc.ac.in/ugc_notices.aspx?id=1433](http://)
+
+ICC members (as of 2018)-
+[https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fa%2Fbits-pilani.ac.in%2Ffile%2Fd%2F1l7ze0jCBJ-UPgmjf58aGtMVyKcTsdMNL%2Fview%3Fusp%3Ddrivesdk%26fbclid%3DIwAR3dkoqawp09eFkpdLzOcDufA7Os_d_ei2ni9wTa-jkffnGSsXU-GEFu584&h=AT0xy4FmoMo0azH3JmsiH895Z03OBhzTTOQT0kIn05Xo3KJjRrEG4_I-bjjugvrjp6MxUdYr0nyZo1QUes05Re2VCXPQdIQrRxPkxvur5O34FkJNhUlDhWDTsYVRZPTTkgpOOA](http://)
 
 *Written by: Tarun Agarwal, Niharika Shankar, Aditya Gayatri Sastry Kaipa*
 *Poster credit: Shubhani Paliwal*
