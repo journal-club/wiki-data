@@ -1,9 +1,8 @@
-![ICC Sexual Harrassment](/uploads/news/sexualharrasmenticc.jpg)
-
 <!-- TITLE: Sexual Harassment on Campus -->
 <!-- SUBTITLE: The working of the ICC on Campus -->
 
 # Sexual Harassment in Universities
+![ICC Sexual Harrassment](/uploads/news/sexualharrasmenticc.jpg)
 
 Sexual harassment is frighteningly common. The UGC reported a 50% increase in the number of cases since 2017. A total of 188 cases were reported from institutions across the country in 2017. 
 
@@ -67,7 +66,7 @@ The ICC checks legitimacy by monitoring the accused’s behaviour over a period 
 To quote the Prevention of Sexual Harassment Act  - 
 “In order to ensure that the protections...are not misused, provisions for action against “false or malicious” complainants have been included...that the allegation made by the complainant is false or malicious or the complaint has been made knowing it to be untrue or forged or misleading information has been provided during the inquiry, disciplinary action in accordance with the service rules of the organisation can be taken against such complainant.”
 
-### The likelihood of a false accusation
+### The Likelihood of a False Accusation
 It is worth reiterating here that both the accused and the accuser’s identities are kept confidential. Every claim is closely examined and punishments if found guilty, have included a warning, and in another cases, a fine. 
 
 It is also worth noting that a formal complaint is not immediately filed as soon as a person approaches the ICC. Only when attempts at reconciliation and warnings do not suffice, is the complaint formalized. All the while maintaining anonymity.
@@ -82,11 +81,9 @@ The present ICC is set to continue to function in the coming years. (The term is
 With the fate of the ICC in doubt, it is unclear whether a new body (if any) will have the same provisions. In any case, it is hoped that our systems evolve into strong mechanisms that hold wrongdoers accountable for their actions. Our universities must become places where we flourish, learn and grow. Not places that breed and harbour disrespectful, dehumanising and illegal behavior. 
 
 ## Links
-The UGC rule and the Govt. Handbook- 
-[https://www.ugc.ac.in/ugc_notices.aspx?id=1433](http://)
+1. [The UGC rule and the Govt. Handbook](https://www.ugc.ac.in/ugc_notices.aspx?id=1433)
+2. [ICC members (as of 2018)](https://drive.google.com/file/d/1l7ze0jCBJ-UPgmjf58aGtMVyKcTsdMNL/view) 
 
-ICC members (as of 2018)-
-[https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fa%2Fbits-pilani.ac.in%2Ffile%2Fd%2F1l7ze0jCBJ-UPgmjf58aGtMVyKcTsdMNL%2Fview%3Fusp%3Ddrivesdk%26fbclid%3DIwAR3dkoqawp09eFkpdLzOcDufA7Os_d_ei2ni9wTa-jkffnGSsXU-GEFu584&h=AT0xy4FmoMo0azH3JmsiH895Z03OBhzTTOQT0kIn05Xo3KJjRrEG4_I-bjjugvrjp6MxUdYr0nyZo1QUes05Re2VCXPQdIQrRxPkxvur5O34FkJNhUlDhWDTsYVRZPTTkgpOOA](http://)
 
 *Written by: Tarun Agarwal, Niharika Shankar, Aditya Gayatri Sastry Kaipa*
 *Picture credits: Shubhani Paliwal*
