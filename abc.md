@@ -12,10 +12,11 @@ To protect students from such harm, the UGC in 2015 made it compulsory for all c
 The fact that the ICC is such a little-known body on campus, sticks out like a sore thumb. While all other committees, their functions and procedures that help students (Anti-ragging, counsellors, SWD, etc.) are explicitly made known to us, the ICC has never been publicized as much, save for a poster on the HSS notice board.  
 
 This is not surprising, because the existence of sexual harassment is something nobody wants to acknowledge. It would do no favour to anyone to talk about it, except perhaps for the victim, who would be aware of an option available to him/her. And perhaps for potential perpetrators, who would be wary of possible punishment.  
-What is Sexual Harassment?
+
+## What is Sexual Harassment?
 So, what is sexual harassment? Most people conjure up images of rape and molestation of women. However, physical abuse isn’t the whole picture. The government defines any unwelcome physical, verbal or non-verbal conduct of a sexual nature as sexual harassment, whether directly or by implication. 
 
-As per the Handbook on Sexual Harassment of Women at the Workplace, the key elements of sexual harassment are that it is “sexual, unwelcome and the experience is subjective. It is the impact and not the intent that matters.”
+As per the Handbook on Sexual Harassment of Women at the Workplace, the key elements of sexual harassment are that it is “sexual, unwelcome and the experience is subjective. **It is the impact and not the intent that matters.**”
 
 
 ## ICC Functioning in BITS Hyderabad
