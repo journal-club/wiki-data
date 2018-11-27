@@ -1,4 +1,4 @@
-![ICC Sexual Harrassment](/uploads/news/SexualHarrasmentICC.jpg)
+![ICC Sexual Harrassment](/uploads/news/sexualharrasmenticc.jpg)
 
 <!-- TITLE: Sexual Harassment on Campus -->
 <!-- SUBTITLE: The working of the ICC on Campus -->
