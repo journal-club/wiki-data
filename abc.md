@@ -56,7 +56,7 @@ The greatest challenge to the ICC today is the lack of complaints they receive. 
 
 Most students are too afraid to lodge a formal complaint with anyone. Horrifying and dehumanising experiences stay within circles of friends, becoming the shared, common knowledge that is expected to be brushed under the carpet and ignored. It is far easier to be silent than to vocalize trauma that will in all likelihood increase when they attempt to hold the perpetrator accountable.
 
-According to the chairperson of ICC at BPHC, most cases among staff and faculty don’t reach the ICC as they are resolved among their respectively departments under the HoD.
+According to the chairperson of ICC at BPHC, most cases among staff and faculty don’t reach the ICC as they are resolved among their respective departments under the HoD.
 
 Another obstacle for the ICC stated by the chairperson, is the lack of interest among students regarding these issues. There were events organised in this context by the ICC which witnessed very poor attendance by students.
 
