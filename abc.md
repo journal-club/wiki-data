@@ -6,6 +6,7 @@ The Cultural Secretaries are responsible for all intra-college cultural activiti
 Here is an in-depth analysis of each of the Cultural Secretary’s manifesto points:
 
 <center>
+| Manifesto Point | Status | 
 |--|--|
 | Cultural Book of BPHC |  Not Fulfilled |
 | Regional Grub         | Fulfilled  |
