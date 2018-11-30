@@ -35,7 +35,7 @@ Both Renaissance and Caza de Talentos have been planned for next semester as pre
 # Theme Based Weekends: Not Fulfilled
 When it comes to theme based weekends, this semester saw a solitary Halloween-themed weekend with a single event that was conducted by the Fashion Society. The Cultural Secretary plans on working with the clubs on campus towards having more theme-based weekends next semester on a fortnightly or monthly basis. While this isn’t the original weekly frequency that was promised, he claims that it will definitely happen during the next semester.
 
-# Streamling Open Mics: Fulfilled
+# Streamlining Open Mics: Fulfilled
 This semester saw several open mics and similar events being conducted by various clubs on campus for the benefit of the general student body. The semester began with an open mic being conducted for the freshers by the Comedy Club. Throughout the course of the semester ELAS conducted slam poetry events at C3 and Nescafe lawns, the Music Club conducted a musical jam at Amul and Geetanjali conducted a Cultural Night on the occasion of Ashtami to name a few.
 
 
