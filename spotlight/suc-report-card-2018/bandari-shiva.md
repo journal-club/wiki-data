@@ -13,11 +13,11 @@ The Cultural Secretaries are responsible for all intra-college cultural activiti
 | Excursions and Trips | Not Fulfilled |
 | Streamlining Renaissance and Caza de Talentos | In Progress |
 | Theme Based Weekends | Not Fulfilled |
-| Streamling Open Mics | Fulfilled |
+| Streamlining Open Mics | Fulfilled |
 
 </center>
 
-We know look at each point of the manifesto in detail. A copy of the complete manifesto can be found on the Election Commission, BPHC Facebook Page ([click here](https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&album_id=2073505522893105)).
+We now look at each point of the manifesto in detail. A copy of the complete manifesto can be found on the Election Commission, BPHC Facebook Page ([click here](https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&album_id=2073505522893105)).
 
 # Cultural Book of BPHC: Not Fulfilled
 The idea behind the Cultural Book of BPHC was to create an archive for all the cultural activities conducted by the regional associations and clubs over the course of an academic semester. All the clubs and the regional associations on campus have been asked to document the events that they conduct over the course of the year. During the next semester, the Cultural Secretary plans on enlisting the help of the Journal Club to create a polished first draft of the Book. However, the Journal Club has not been approached about this endeavour yet. He hopes to release it to the general body with the incoming batch of 2019. However, since the [SU website](https://su.bits-hyd.org) has not even been updated to reflect the names of the current post holders of the SUC, where the Book will be published remains to be seen. It should be noted that this is a point common to both cultural secretaries. However, an intention to collaborate hasn’t been specified.
