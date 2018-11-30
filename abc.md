@@ -1,7 +1,7 @@
 <!-- TITLE: SUC Report Card: Shiva Sai Bandari -->
 <!-- SUBTITLE: With the semester almost at a close, we take a look back to promises made by the current SU during elections last semester. -->
 
-The Cultural Secretaries are responsible for all intra-college cultural activities and initiating cultural exchange programmes with other institutions. The Cultural Secretary (Boys), Bandari Siva Sai Krishna’s manifesto listed 7 distinct points, with specific details on how he planned to execute all of them. Of these seven points, **2 have been achieved, 1 is in progress and 4 have not been fulfilled yet.**
+The Cultural Secretaries are responsible for all intra-college cultural activities and initiating cultural exchange programmes with other institutions. The Cultural Secretary (Boys), Bandari Shiva Sai Krishna’s manifesto listed 7 distinct points, with specific details on how he planned to execute all of them. Of these seven points, **2 have been achieved, 1 is in progress and 4 have not been fulfilled yet.**
 
 <center>
 
