@@ -1,4 +1,4 @@
-<!-- TITLE: SUC Report Card: SHiva Sai Bhandari -->
+<!-- TITLE: SUC Report Card: Shiva Sai Bhandari -->
 <!-- SUBTITLE: A quick summary of Abc -->
 
 The Cultural Secretaries are responsible for all intra-college cultural activities and initiating cultural exchange programmes with other institutions. The Cultural Secretary (Boys), Bandari Siva Sai Krishna’s manifesto listed 7 distinct points, with specific details on how he planned to execute all of them. Of these seven points, **2 have been achieved, 1 is in progress and 4 have not been fulfilled yet.**
