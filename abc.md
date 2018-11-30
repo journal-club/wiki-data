@@ -1,5 +1,5 @@
-<!-- TITLE: SUC Report Card: Shiva Sai Bhandari -->
-<!-- SUBTITLE: A quick summary of Abc -->
+<!-- TITLE: SUC Report Card: Shiva Sai Bandari -->
+<!-- SUBTITLE: With the semester almost at a close, we take a look back to promises made by the current SU during elections last semester. -->
 
 The Cultural Secretaries are responsible for all intra-college cultural activities and initiating cultural exchange programmes with other institutions. The Cultural Secretary (Boys), Bandari Siva Sai Krishna’s manifesto listed 7 distinct points, with specific details on how he planned to execute all of them. Of these seven points, **2 have been achieved, 1 is in progress and 4 have not been fulfilled yet.**
 
@@ -17,7 +17,7 @@ The Cultural Secretaries are responsible for all intra-college cultural activiti
 
 </center>
 
-We know look at each point of the manifesto in detail. A copyof the complete manifesto can be found on the Election Commission, BPHC Facebook Page ([click here]()).
+We know look at each point of the manifesto in detail. A copy of the complete manifesto can be found on the Election Commission, BPHC Facebook Page ([click here](https://www.facebook.com/pg/ElectionCommissionBPHC/photos/?tab=album&album_id=2073505522893105)).
 
 # Cultural Book of BPHC: Not Fulfilled
 The idea behind the Cultural Book of BPHC was to create an archive for all the cultural activities conducted by the regional associations and clubs over the course of an academic semester. 
@@ -42,7 +42,6 @@ This semester saw several open mics and similar events being conducted by variou
 
 -----
 
-
-Apart from the manifesto points, the Cultural Secretary plans on motivating the clubs to increase their inter-collegiate participation by having a Best Club Award (which will be a monetary prize for the winning club) at the end of the semester. He also stated that he had been in talks with the Indywood Talent Club for certification. 
+Apart from the manifesto points, the Cultural Secretary plans on motivating the clubs to increase their inter-collegiate participation by having a Best Club Award (which will be a monetary prize for the winning club) at the end of the semester. He also stated that he had been in talks with the Indywood Talent Club for certification. While some work has happened so far in a semester, a lot of the plans in the manifesto are yet to even begin being implememented. 
 
 *Article by Mohammed Burk and Yogitha Garlapati. Published 30th November, 2018*
