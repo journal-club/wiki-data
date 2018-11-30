@@ -3,8 +3,6 @@
 
 The Cultural Secretaries are responsible for all intra-college cultural activities and initiating cultural exchange programmes with other institutions. The Cultural Secretary (Boys), Bandari Siva Sai Krishna’s manifesto listed 7 distinct points, with specific details on how he planned to execute all of them. Of these seven points, **2 have been achieved, 1 is in progress and 4 have not been fulfilled yet.**
 
-Here is an in-depth analysis of each of the Cultural Secretary’s manifesto points:
-
 <center>
 
 | Manifesto Point | Status | 
@@ -18,6 +16,8 @@ Here is an in-depth analysis of each of the Cultural Secretary’s manifesto poi
 | Streamling Open Mics | Fulfilled |
 
 </center>
+
+We know look at each point of the manifesto in detail. A copyof the complete manifesto can be found on the Election Commission, BPHC Facebook Page ([click here]()).
 
 # Cultural Book of BPHC: Not Fulfilled
 The idea behind the Cultural Book of BPHC was to create an archive for all the cultural activities conducted by the regional associations and clubs over the course of an academic semester. 
