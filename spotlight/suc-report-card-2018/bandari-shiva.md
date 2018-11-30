@@ -41,6 +41,6 @@ This semester saw several open mics and similar events being conducted by variou
 
 -----
 
-Apart from the manifesto points, the Cultural Secretary plans on motivating the clubs to increase their inter-collegiate participation by having a Best Club Award (which will be a monetary prize for the winning club) at the end of the semester. He also stated that he had been in talks with the Indywood Talent Club for certification. While some work has happened so far in a semester, a lot of the plans in the manifesto are yet to even begin being implememented. 
+Apart from the manifesto points, the Cultural Secretary plans on motivating the clubs to increase their inter-collegiate participation by having a Best Club Award (which will be a monetary prize for the winning club) at the end of the semester. He also stated that he had been in talks with the Indywood Talent Club for certification. While some work has happened so far in a semester, a lot of the plans in the manifesto are yet to even begin being implemented. 
 
 *Article by Mohammed Burk and Yogitha Garlapati. Design by Rohit Dwivedula. Published 30th November, 2018*
