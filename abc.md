@@ -76,7 +76,7 @@ The Cultural Secretary wants to create a portal similar to one on the SWD websit
 In order to increase participation, there is a plan of incentivising literary events during Renaissance, where additional points can be traded in for merchandise. 
 
 ## Production House: Not Fulfilled
-The production house was primarily intended to be a space for the performing clubs. This is still unfulfilled due to phase 2 of SAC construction still being in progress. The Cultural Secretary was confident that a room would be allocated for it once the construction is complete. 
+The production house was primarily intended to be a space for the performing clubs. This is still unfulfilled due to a lack of space. The Cultural Secretary was confident that a room would be allocated for it if she manages to find space for it. 
 
 ## ME Freshers' Night 2018: Not Fulfilled
 The ME fresher night wasn’t conducted due to certain issues that arose with the postponement of the BE freshers’. She also claims to have spoken to a few ME students who have expressed hectic academic schedules as a reason for their lack of participation in the club-related activities on campus. Thus, a lack of incentives prevented this event from happening.
