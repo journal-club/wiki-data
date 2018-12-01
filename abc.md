@@ -10,7 +10,7 @@ The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 po
 | Collaborate With Clubs for Workshops |  Fulfilled |
 | Automatic Vending Machines for Sanitary Napkins | Fulfilled |
 | Cultural/Sanskriti magazine | In Progress | 
-| Creating a culture of martial arts for females | In Progress | 
+| Culture of Martial Arts for Females | In Progress | 
 | Professionals offering classes for special skills | In Progress |
 | Introduction of a mini-comic con and conducting a Prom Night | In Progress |
 | Increasing the scale of informal events and conducting Shangrila | In Progress |
@@ -68,18 +68,18 @@ She claims that this hasn't been fulfilled so far due to a lack of participation
 ## Movies in Common Room: Not Fulfilled
 The chances of this being fulfilled are bleak mainly due to the issue of piracy. This was a concern that was also raised during Soapbox before elections last year. The only alternative offered by the candidate was to stream movies from YouTube.
 
-## Portal to Record Participation in Clubs: Not Fulfilled ****
+## Portal to Record Participation in Clubs: Not Fulfilled
 
-This refers to the page on the SWD portal wherein the achievements are recorded, and there can be incentives such as travel reimbursement for the winners (it’s currently 50%), if the budget permits. However, the SWD achievements section is something that has existed before the start of this year, and has not been used much so far.
+The Cultural Secretary wants to create a portal similar to one on the SWD website wherein achievements are recorded. She also hopes to increase the travel imbursement for the winners (currently 50%) if budget permits. However, the SWD achievements section is something that has existed before the start of this year, and has not been used much so far.
 
 ## Increase Participation in Literary Events During Renaissance: In Progress 
 In order to increase participation, there is a plan of incentivising literary events during Renaissance, where additional points can be traded in for merchandise. 
 
 ## Production House: Not Fulfilled
-The production house was primarily intended to be a space for the performing clubs. This is still unfulfilled due to the lack of space in the SAC.  The Cultural Secretary 
+The production house was primarily intended to be a space for the performing clubs. This is still unfulfilled due to phase 2 of SAC construction still being in progress. The Cultural Secretary was confident that a room would be allocated for it once the construction is complete. 
 
 ## ME Freshers' Night 2018: Not Fulfilled
-The ME fresher night wasn’t conducted to certain issues that arose in the same period before the BE freshers’ leading to the postponing of the orientations and other events and the candidate cited that obtaining necessary permissions would have been hard. She also claims to have spoken to a few ME students who have expressed workload as a reason for their lack of participation in the club-related activities.
+The ME fresher night wasn’t conducted due to certain issues that arose with the postponement of the BE freshers’. She also claims to have spoken to a few ME students who have expressed hectic academic schedules as a reason for their lack of participation in the club-related activities on campus. Thus, a lack of incentives prevented this event from happening.
 
 ## Incentivising Pearl: In Progress
 To improve participation in Pearl, there is a plan to award points to all the winners *besides the prize money* which can be traded off with Pearl merchandise against a fixed price. 
