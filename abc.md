@@ -13,7 +13,7 @@ The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 po
 | Creating a culture of martial arts for females | In Progress | 
 | Professionals offering classes for special skills | In Progress |
 | Introduction of a mini-comic con and conducting a Prom Night | In Progress |
-| Increasing the scale of informal events and conducting Shangrila | In progress |
+| Increasing the scale of informal events and conducting Shangrila | In Progress |
 | Initiation of ethnic food fest | In Progress | 
 | Updating the GB on Cultural Activites | Not Fulfilled |
 | More Magazine Subscriptions & Sanskriti Magazine | Not Fulfilled |
