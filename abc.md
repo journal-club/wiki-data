@@ -1,7 +1,7 @@
 <!-- TITLE: SUC Report Card: Yashasvi Chennawar -->
 <!-- SUBTITLE: A talk with the Cultural Secretary (Girls) on progress over this semester. -->
 
-The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 points out of which 3 were fulfilled, 9 are under progress and 6 have not begun work (not fulfilled) at the moment.
+The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 points out of which 3 were fulfilled, 8 are under progress and 7 have not been fulfilled yet.
 
 <center>
 
