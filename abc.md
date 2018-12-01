@@ -35,7 +35,7 @@ The motive was to familiarise the freshers with the working of various clubs on 
 ## Automatic Vending Machines for Sanitary Napkins: Fulfilled
 This point is common to the manifestos of both, the Cultural Secretary (Girls) and the President. The necessary contacts were claimed to have been procured by the President and upon mutual agreement, the matter was taken forward by the President while the candidate was asked to look after the Orientation programme. A sanitary napkin dispenser has been installed in the washroom in the library.
 
-## Cultural/Sanskriti Magazine: In Progress
+## Cultural and Sanskriti Magazines: In Progress
 To celebrate the cultural diversity on campus and to bring out more participation from the regional associations, a team has been set up which has been set into working and bringing out a magazine which has faculty giving a few inputs. The magazine aims to document all the cultural events. This magazine is independent of Journal Club, and the Cultural Secretary claims she has assembled a separate team for it. 
 
 ## Creating a Culture of Martial Arts for Females: In Progress
@@ -54,7 +54,7 @@ The candidate intends to conduct various informal nights viz. dramatics, music, 
 The candidate intended to have food trucks which cater food celebrating various cultures during Shangrila or Sanskriti. She claims to have procured contacts and tried her best to bring in food trucks during Sanskriti, as a result of which there was a dosa and *chaat* stall amongst the other fast food stalls. While this was not exactly the promised "ethnic food fest", it was a good start. 
 
 ## Updating the GB on Cultural Activites: Not Fulfilled
-The candidate said that a group [Culturals@BPHC](https://www.facebook.com/groups/414477292081168/) already exists. that is not very active as of now due to the lack of awareness amongst the general body. She plans to float a notice regarding the same on BPHC Shoutbox in the beginning of the next semester. Here, the general body will be informed of all the cultural events taking place on campus. However, considering the fact that almost half the tenure of the SUC is done, and the page is yet to be active, this point clearly haasn't been fulfilled this semester. 
+The candidate said that a group [Culturals@BPHC](https://www.facebook.com/groups/414477292081168/) already exists. that is not very active as of now due to the lack of awareness amongst the general body. She plans to float a notice regarding the same on BPHC Shoutbox in the beginning of the next semester and make the page active during Pearl. Here, the general body will be informed of all the cultural events taking place on campus. However, considering the fact that almost half the tenure of the SUC is done, and the page is yet to be active, this point clearly haasn't been fulfilled this semester. 
 
 ## More Magazine Subscriptions & Sanskriti Magazine: Not Fulfilled
 The Cultural Secretary intended to take subscriptions for magazines in hostels, similar to the existing newspapers in Bhawans. This hasn't manifested yet. The Sanskriti Magazine being referred to in this point has been included in a previous point. 
@@ -84,7 +84,7 @@ The ME fresher night wasn’t conducted due to certain issues that arose with th
 ## Incentivising Pearl: In Progress
 To improve participation in Pearl, there is a plan to award points to all the winners *besides the prize money* which can be traded off with Pearl merchandise against a fixed price. 
 
-Besides working on her manifesto, the candidates said that she worked on a variety of other initiatives, like installation of solar panels, promoting stand-up club and cooking club (which set up a stall during Atmos this year, and also got permission to use the kitchen). Apart from this, she also helped in organising the logistics involved in Comic Con (Hyderabad) and sending a contingent from BPHC to Waves. 
+Besides working on her manifesto, the candidates said that she worked on a variety of other initiatives, like installation of solar panels, providing travel reimbursements, promoting stand-up club and cooking club (which set up a stall during Atmos this year, and also got permission to use the kitchen). Apart from this, she also helped in organising the logistics involved in Comic Con (Hyderabad) and sending a contingent from BPHC to Waves. 
 
 -----
 
