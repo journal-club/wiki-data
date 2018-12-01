@@ -91,7 +91,6 @@ Besides working on the points in her manifesto, Chennawar said that she worked o
 * helping in organising the logistics involved in Comic Con (Hyderabad)
 * sending a contingent from BPHC to Waves.
 * RO Water Purifiers (the SU has apparently been pushing this for a while)
-* Installation of solar panels.  
 
 -----
 
