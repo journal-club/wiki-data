@@ -9,7 +9,7 @@ The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 po
 |--|--|
 | Collaborate With Clubs for Workshops |  Fulfilled |
 | Automatic Vending Machines for Sanitary Napkins | Fulfilled |
-| Cultural/Sanskriti magazine | In Progress | 
+| Cultural/Sanskriti Magazine | In Progress | 
 | Culture of Martial Arts for Females | In Progress | 
 | Professionals offering classes for special skills | In Progress |
 | Introduction of a mini-comic con and conducting a Prom Night | In Progress |
@@ -18,7 +18,7 @@ The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 po
 | Updating the GB on Cultural Activites | Not Fulfilled |
 | More Magazine Subscriptions & Sanskriti Magazine | Not Fulfilled |
 | Anaemia Screening for Girls | Fulfilled |
-| Women Specific Hack-a-thons, Marathons and More | Not Fulfilled | 
+| Women Specific Hackathons, Marathons and More | Not Fulfilled | 
 | Movies in Common Room | Not Fulfilled |
 | Portal to Record Participation in Clubs | Not Fulfilled |
 | Increase Participation in Literary Events During Renaissance | In Progress | 
@@ -62,7 +62,7 @@ The Cultural Secretary intended to take subscriptions for magazines in hostels, 
 ## Anaemia Screening for Girls: Fulfilled
 Anaemia screening was done in the first semester by the NSS in association with the Lions’ Club. The Cultural Secretary mentioned that she is ready to collaborate with NSS for the same and hopes to conduct a few more screening sessions in the next semester. The result of the first screening showed that the number of anaemic girls was zero and hence no food counter was set-up. If necessary the candidate seemed confident of pushing for a separate counter specifically for the anaemic people. Such a counter (with green leafy vegetables) was set up last year as well, after a screening identifed low iron levels during her tenure as an SMC member.
 
-## Women Specific Hack-a-thons, Marathons and More: Not Fulfilled 
+## Women Specific Hackathons, Marathons and More: Not Fulfilled 
 She claims that this hasn't been fulfilled so far due to a lack of participation and a packed schedule this semster. She is ready to conduct such events in the next semester if there is enough participation. 
 
 ## Movies in Common Room: Not Fulfilled
