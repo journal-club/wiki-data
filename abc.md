@@ -14,10 +14,10 @@ The Cultural Secretary (Female), Yashasvi Chennawar’s manifesto spoke of 18 po
 | Professionals offering classes for special skills | In Progress |
 | Introduction of a mini-comic con and conducting a Prom Night | In Progress |
 | Increasing the scale of informal events and conducting Shangrila | In progress |
-| Initiation of ethnic food fest | Fulfilled to an extent | 
+| Initiation of ethnic food fest | In Progress | 
 | Updating the GB on Cultural Activites | Not Fulfilled |
 | More Magazine Subscriptions & Sanskriti Magazine | Not Fulfilled |
-| Anaemia Screening for Girls | In Progress |
+| Anaemia Screening for Girls | Fulfilled |
 | Women Specific Hack-a-thons, Marathons and More | Not Fulfilled | 
 | Movies in Common Room | Not Fulfilled |
 | Portal to Record Participation in Clubs | Not Fulfilled |
@@ -59,8 +59,8 @@ The candidate claims that a page has been created on Facebook (Culturals@BPHC) t
 ## More Magazine Subscriptions & Sanskriti Magazine: Not Fulfilled
 The Cultural Secretary intended to take subscriptions for magazines in hostels, similar to how the newspaper stands currently are. This hasn't manifested yet. The Sanskriti Magazine,  
 
-## Anaemia Screening for Girls: In Progress
-Anaemia screening was done in the first semester by the NSS in association with the Lions’ Club, the candidate mentioned that she is ready to collaborate with the NSS for the same and hopes to conduct a few more screening sessions in the next semester. The result of the first screening showed that the number of anaemic girls was 0, hence no food counter was set-up, if necessary the candidate seem confident of pushing for a separate counter specifically for the anaemic people. Such a counter (with green leafy vegetables) was set up last year as well, after a screening identifed low iron levels during her tenure as an SMC member last year.
+## Anaemia Screening for Girls: Fulfilled
+Anaemia screening was done in the first semester by the NSS in association with the Lions’ Club. The Cultural Secretary mentioned that she is ready to collaborate with NSS for the same and hopes to conduct a few more screening sessions in the next semester. The result of the first screening showed that the number of anaemic girls was zero and hence no food counter was set-up. If necessary the candidate seemed confident of pushing for a separate counter specifically for the anaemic people. Such a counter (with green leafy vegetables) was set up last year as well, after a screening identifed low iron levels during her tenure as an SMC member.
 
 ## Women Specific Hack-a-thons, Marathons and More: Not Fulfilled 
 She claims that this hasn't been fulfilled so far due to a lack of participation and a packed schedule this semster. She is ready to conduct such events in the next semester if there is enough participation. 
