@@ -84,7 +84,7 @@ The ME fresher night wasn’t conducted due to certain issues that arose with th
 ## Incentivising Pearl: In Progress
 To improve participation in Pearl, there is a plan to award points to all the winners *besides the prize money* which can be traded off with Pearl merchandise against a fixed price. 
 
-Besides working on the points in her manifesto, the Chennawar said that she worked on a variety of other initiatives, like installation of solar panels, providing travel reimbursements, promoting stand-up club and cooking club (which set up a stall during Atmos this year, and also got permission to use the kitchen). Apart from this, she also helped in organising the logistics involved in Comic Con (Hyderabad) and sending a contingent from BPHC to Waves. 
+Besides working on the points in her manifesto, Chennawar said that she worked on a variety of other initiatives, like installation of solar panels, providing travel reimbursements, promoting stand-up club and cooking club (which set up a stall during Atmos this year, and also got permission to use the kitchen). Apart from this, she also helped in organising the logistics involved in Comic Con (Hyderabad) and sending a contingent from BPHC to Waves. 
 
 -----
 
