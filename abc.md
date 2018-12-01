@@ -70,7 +70,7 @@ The chances of this being fulfilled are bleak mainly due to the issue of piracy.
 
 ## Portal to Record Participation in Clubs: Not Fulfilled
 
-The Cultural Secretary wants to create a portal similar to one on the SWD website wherein achievements are recorded. She also hopes to increase the travel imbursement for the winners (currently 50%) if budget permits. However, the SWD achievements section is something that has existed before the start of this year, and has not been used much so far.
+The Cultural Secretary wants to create a portal similar to one on the SWD website wherein achievements are recorded. She also hopes to increase the travel reimbursement for the winners (currently 50%) if budget permits. However, the SWD achievements section is something that has existed before the start of this year, and has not been used much so far.
 
 ## Increase Participation in Literary Events During Renaissance: In Progress 
 In order to increase participation, there is a plan of incentivising literary events during Renaissance, where additional points can be traded in for merchandise. 
@@ -84,7 +84,7 @@ The ME fresher night wasn’t conducted due to certain issues that arose with th
 ## Incentivising Pearl: In Progress
 To improve participation in Pearl, there is a plan to award points to all the winners *besides the prize money* which can be traded off with Pearl merchandise against a fixed price. 
 
-Besides working on the points in her manifesto, Chennawar said that she worked on a variety of other initiatives, like installation of solar panels, providing travel reimbursements, promoting stand-up club and cooking club (which set up a stall during Atmos this year, and also got permission to use the kitchen). Apart from this, she also helped in organising the logistics involved in Comic Con (Hyderabad) and sending a contingent from BPHC to Waves. 
+Besides working on the points in her manifesto, Chennawar said that she worked on a variety of other initiatives, like installation of solar panels, promoting stand-up club and cooking club (which set up a stall during Atmos this year, and also got permission to use the kitchen). Apart from this, she also helped in organising the logistics involved in Comic Con (Hyderabad) and sending a contingent from BPHC to Waves. 
 
 -----
 
