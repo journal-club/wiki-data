@@ -10,7 +10,8 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Student Health Council | Not Fulfilled |
 | Mental Health | In Progress | 
 | Physical Health | Fulfilled | 
-| **Skill Development Program** | Not Fulfilled |
+| **Skill Development Program** | |
+| Professional Classes | Not Fulfilled |
 | **Food Standards Improvement** | |
 | Food Outlet Committee | Fulfilled | 
 | **Improving Living Standards** | |
