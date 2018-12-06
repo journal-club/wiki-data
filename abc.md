@@ -81,18 +81,13 @@ This was supposed to come up on the SU Portal which is still under development. 
 ## Intranet Podcast (In Progress)
 According to the General Secretary, the Intranet Podcast is almost ready. Trials are going on and he is positive that it will become functional at the start of next semester. Through the podcasts anyone on campus will be able to voice their opinions on SU or in general. He claims the SUC will connect to campus though these podcasts. As stated already in his manifesto, the General Secretary hopes that it will be a good platform for seniors to share their experiences and also for clubs or societies to hold weekly programs. 
 # Outside The Manifesto
-Sharing Minutes of SU/SMC weekly (Not Fulfilled)
 
-In the General Secretary’s duties, he mentioned that the SUC will have fixed weekly meeting to discuss work progress and upcoming initiatives. He also claimed that some of the elected representatives from the SUC or SMC would be nominated to form a committee that will keep the general body updated about the the minutes from the weekly meetings of the SUC or the SMC. But as per the General Secretary, the SUC never had a formal meet till date and that they will start this practise once they have one. He also claims that the Intranet Podcasts will be used by the SUC to inform the general body about the same.
-
-
-
-Other than working on points from his manifesto, the General Secretary said that he worked on these initiatives on campus as well:
+Other than working on points from his manifesto, the General Secretary said that he worked on these initiatives on campus as well, apart from working for fests:
 * The drains surrounding the football and hockey fields have been covered with grills in the wake of serious injuries to people who fell in them accidentally.
 * The number of solar panels on old hostels is being increased to ensure better supply of hot water in hostels.
 * Swiggy was brought to campus. 
 
-
+On another note, Section IV(b)(1) of the [Students' Union Constitution](https://docs.google.com/document/d/177LOz3a5zophMyz03k1Lu8A7ovHJDRoa6bea6oyJVvw/edit) mandates that the "keeping minutes of the same and publishing them within two working days of the adjournment of the meeting". Point (7) of the same section also mandates that the General Secretary "shall convene at least four Union Council meetings every semester." Even the manifesto also mentions at the end that regular SUC and SMC meets would be conducted and to discuss work progress and upcoming initiatives. He also claimed that some of the elected representatives from the SUC or SMC would be nominated to form a committee that will keep the general body updated about the the minutes from the weekly meetings of the SUC or the SMC. But as per the General Secretary, the SUC never had a formal meet till date and that they will start this practise once they have one. He also claims that the Intranet Podcasts will be used by the SUC to inform the general body about the same.
 
 -----
 
