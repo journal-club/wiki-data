@@ -11,7 +11,7 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | **Campus Health Improvement** |  |
 | Student Health Council | Not Fulfilled |
 | Mental Health | In Progress | 
-| Physical Health | Fulfilled | 
+| Physical Health | In Progress | 
 | **Skill Development Program** | |
 | Professional Classes | Not Fulfilled |
 | **Food Standards Improvement** | |
@@ -38,12 +38,12 @@ The intent behind the formation of this committee was to spread awareness and en
 ## Mental Health (In Progress)
 This point in the manifesto talked about increasing the availability of the counsellor, and that the process to take an appointment would be simplified. While the availability of the counsellor seems to have improved, the process for taking an appointment even today appears to involve taking a form physically from the SWD Office. The General Secretary stated that the SU had been in talks with psychologists who can train the faculty in handling students with mental stress and depression. This manifesto point also talked of an "anonymous portal" that would be added to the "SU Website for people to address their problems". However, with the [SU website](https://su.bits-hyd.org) still appearing to be under construction, progress on this front seems unsure. However, the General Secretary did say that **an app is being developed** to hear the grievances of any student facing mental trauma. This will directly connect the student to a faculty trained for handling such situations and that the student shall remain anonymous.
 
-## Physical Health  (Fulfilled) 
-Various health camps were organised. Blood Donation drive in collaboration with NSS and Eye-Check up Camp in collaboration with Administration.
+## Physical Health  (In Progress) 
+This point in the manifesto stated that the student representative would take initiative to organize health camps. A Blood Donation drive (in collaboration with NSS) and an Eye-Check-up Camp (with the Administration's help) were organised. This point also stated that "articles would be published on seasonal health awareness" and that "regular surveys" would be conducted and the information from surveys would be given to the MedC and the Faculty-in-Charge. While health camps did happen over the semester, the latter two parts of this manifesto are yet to happen completely.
 
 # Skill Development Program 
 ## Professional Classes (Not Fulfilled)
-The original plan was to conduct a survey with the general body regarding their interests and skills and thus invite professionals/teachers to take up classes for the same, for example, if a majority of the General Body wanted to learn Guitar, arrangements for the same would have been accordingly. It was not taken up this semester due to other engagements of the General Secretary.
+The General Secretary stated that the plan was to conduct a survey with the general body regarding their interests and skills and organized (paid) classes by professional teachers, based on what a majority of the General Body wants to learn. The General Secretary stated that he could not take this up this semester due to other engagements. While the General Secretary on 22nd November did put up a [post on ShoutBox](https://www.facebook.com/groups/bphcshoutbox/permalink/2127743913954875/) regarding this, this point has clearly not been satisfied yet.
 # Food Standards Improvement:
 ## Food Outlet Committee (Fulfilled)                                                                           
 A formal committee was constituted to look into the matters related to the eateries on campus. The committee consists of all the H-Reps and has so far issued notices to food outlets through the Administration mostly related to hygiene issues. They are also looking to bring better food outlets on campus.
