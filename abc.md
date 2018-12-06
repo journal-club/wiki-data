@@ -62,7 +62,7 @@ The point aims at understanding the problems or shortcomings faced by the shops 
 The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts and to ensure that delivery of TShirts happens on time. While the Atmos merchandise this year was delivered more or less on time, the first SU TShirt of the year faced significant delays. The General Secretary said that the delays were caused due to funds not being released by the Accounts Division, which took more than 43 days to disburse the funds. However, with the Atmos TShirts being released on schedule, the General Secretary assured that the issues have been sorted out.
 
 ## SAC (Not Fulfilled)
-The General Secretary put forth this agenda point many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional and open throughout the day and also to extend the gym timings. Both haven't really happened yet. 
+The General Secretary put forth this agenda point many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional and open throughout the day and also to extend the gym timings. Although the General Secretary has tried to make this happen the authourities have rejected this proposal citing a shortage of staff. 
 
 ## Academic Awards (Not Fulfilled Yet)
 The proposal was to introduce new awards during the convocation ceremony namely:
@@ -71,21 +71,23 @@ The proposal was to introduce new awards during the convocation ceremony namely:
 * ‘Best Thesis’ award to Ph.D students from each department.
 The General Secretary has said that he will start working on this from next semester and that it needs a little more work from the administration's side. 
 
-## Research Portal (Not Fulfilled)
-The aim was to set up an independant database to maintain the repository of profiles of the profiles and information regarding research works of the students and faculty. A plan has been formulated for the same, it will most likely be in action by the next semester.
-
-## Platform for Alumni Relations and Feedback (Not Fulfilled) 
-This was supposed to come up on the SU Portal which is still under development. This point was aimed at making a database of all the experiences and suggestions of Seniors or Alumni. This was intended to be a seperate section SU portal which would make it easier to find information than fishing through Facebook groups and posts.  
+## Research Portal and Platform for Alumni Relations and Feedback (In Progress)
+This project has been taken up by a team of seven students namely Ranjan GSK, Veresh Kande, Vishwak Reddy, Vineeth Pothu, Vinay J, Naveen Bathula, Tejo Makineni. WIth the help of Dr. Odelu Vanga from the Department of CSIS they will be setting up a LinkedIn like platform for this purpose.
 
 # Campus Culture:
 ## Intranet Podcast (In Progress)
-According to the General Secretary, the Intranet Podcast is almost ready. Trials are going on and he is positive that it will become functional at the start of next semester. Through the podcasts anyone on campus will be able to voice their opinions on SU or in general. He claims the SUC will connect to campus though these podcasts. As stated already in his manifesto, the General Secretary hopes that it will be a good platform for seniors to share their experiences and also for clubs or societies to hold weekly programs. 
+According to the General Secretary, the Intranet Podcast is almost ready. Trials are going on and he is positive that it will become functional at the start of next semester. A total fund of 2.4L of equipment was brought from the administration under this project. A studio room is also being built. A committee of students and constitution for this committee which comprises of a tech team and content team was formed unofficially (inductions will be held next sem).  Through the podcasts anyone on campus will be able to voice their opinions on SU or in general. He claims the SUC will connect to campus though these podcasts. As stated already in his manifesto, the General Secretary hopes that it will be a good platform for seniors to share their experiences and also for clubs or societies to hold weekly programs. 
 # Outside The Manifesto
 
 Other than working on points from his manifesto, the General Secretary said that he worked on these initiatives on campus as well, apart from working for fests:
 * The drains surrounding the football and hockey fields have been covered with grills in the wake of serious injuries to people who fell in them accidentally.
 * The number of solar panels on old hostels is being increased to ensure better supply of hot water in hostels.
-* Swiggy was brought to campus. 
+* Swiggy was brought to campus.
+* Passport mela
+* Paytm KYC
+* Fixing of auto prices 
+* Hostel drains are also being covered
+* Setting up of RO water filters
 
 On another note, Section IV(b)(1) of the [Students' Union Constitution](https://docs.google.com/document/d/177LOz3a5zophMyz03k1Lu8A7ovHJDRoa6bea6oyJVvw/edit) on responsibilites of the General Secretary mandates that he should be "keeping minutes of the [SUC Council Meets] and publishing them within two working days of the adjournment of the meeting". Point (7) of the same sub-section also mandates the General Secretary to "convene at least four Union Council meetings every semester." Considering the fact that over the years, not a single report has been published, atleast in public domain, is concerning as it is part of the basic responsibilities that come with the post.
 
