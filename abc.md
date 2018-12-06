@@ -35,7 +35,8 @@ The  SU has been in talks with psychologists who can train the faculty in handli
 ## Physical Health  (Fulfilled) 
 Various health camps were organised. Blood Donation drive in collaboration with NSS and Eye-Check up Camp in collaboration with Administration.
 
-# Skill Development Program (Not Fulfilled)
+# Skill Development Program 
+## Professional Classes (Not Fulfilled)
 The original plan was to conduct a survey with the general body regarding their interests and skills and thus invite professionals/teachers to take up classes for the same, for example, if a majority of the General Body wanted to learn Guitar, arrangements for the same would have been accordingly. It was not taken up this semester due to other engagements of the General Secretary.
 # Food Standards Improvement:
 ## Food Outlet Committee (Fulfilled)                                                                           
