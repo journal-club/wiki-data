@@ -21,7 +21,7 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Internet Connectivity on Campus | In Progress |
 | Survey in CP | In Progress |
 | **General Issues** |  |
-| Proper Scheduling of T-Shirts | In Progress/Partially Fulfilled |
+| Proper Scheduling of T-Shirts | In Progress |
 | SAC | Not Fulfilled |
 | Academic Awards | Not Fulfilled |
 | Research Portal | Not Fulfilled |
@@ -58,8 +58,8 @@ Providing WoFi in Ram and Krishna Bhavans. New routers have been installed and t
 The point aims at understanding the problems or shortcomings faced by the shops at CP by being in constant communication with them. Recently, a survey was conducted in CP. An issue came up regarding the laundry service. Currently the washing machines in use are coin operated and there seem to be some problems regarding the same. Replacing these machines is being thought of as an alternative. 
 
 # General Issues:
-## Proper Scheduling of T-Shirts (Fulfilled)
-The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts. This will be done at the the beginning of the year. 
+## Proper Scheduling of T-Shirts (In Progress)
+The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts and to ensure that delivery of TShirts happens on time. While the Atmos merchandise this year was delivered more or less on time, the first SU TShirt of the year faced significant delays. The General Secretary said that the delays were caused due to funds not being released by the Accounts Division, which took more than 43 days to disburse the funds. 
 
 ## SAC (Not Fulfilled)
 The General Secretary put forth this agenda point many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional and open throughout the day and also to extend the gym timings. Both haven't really happened yet. 
@@ -75,7 +75,7 @@ The General Secretary has said that he will start working on this from next seme
 The aim was to set up an independant database to maintain the repository of profiles of the profiles and information regarding research works of the students and faculty. A plan has been formulated for the same, it will most likely be in action by the next semester.
 
 ## Platform for Alumni Relations and Feedback (Not Fulfilled) 
-This was supposed to come up on the SU Portal. The Portal is still under development. This point was actually aimed at helping out students by making a database of all the experiences and suggestions of Seniors or Alumni through a seperate section made in the SU portal solely for this purpose instead of fishing through platforms like Facebook about them.  
+This was supposed to come up on the SU Portal which is still under development. This point was aimed at making a database of all the experiences and suggestions of Seniors or Alumni. This was intended to be a seperate section SU portal which would make it easier to find information than fishing through Facebook groups and posts.  
 
 # Campus Culture:
 ## Intranet Podcast (In Progress)
