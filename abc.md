@@ -3,6 +3,14 @@
 
 
 The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on.
+
+| Manifesto Point | Status | 
+|--|--|
+| **Campus Health Improvement** |  |
+| Automatic Vending Machines for Sanitary Napkins | Fulfilled |
+| Cultural/Sanskriti Magazine | In Progress | 
+| Culture of Martial Arts for Females | In Progress | 
+| Professionals offering classes for special skills | In Progress |
 # Campus Health Improvement
 ## Student Health Council (Not Fulfilled)
 A formal committee is not yet constituted. The work of this committee was to spread awareness and ensure proper healthcare of the students on campus.
@@ -60,3 +68,9 @@ Other than working on points from his manifesto, the General Secretary said that
 * The drains surrounding the football and hockey fields have been covered with grills in the wake of serious injuries to people who fell in them accidentally.
 * The number of solar panels on old hostels is being increased to ensure better supply of hot water in hostels.
 * Swiggy was brought to campus. 
+
+
+
+-----
+
+*Article by Tarun Agarwal and Sanath Salil. Edited by Vedika Kulkarni and Shanmukh Kali Prasad.*
