@@ -4,6 +4,8 @@
 
 The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on: Campus Health Improvement, Skill Development, Food Standards Improvement, Living Standards Improvement, Campus Culture and other general issues. Out of X manifesto points, Y were fulfilled and Z are in progress.
 
+<center>
+
 | Manifesto Point | Status | 
 |--|--|
 | **Campus Health Improvement** |  |
@@ -26,6 +28,9 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Platform for Alumni Relations and Feedback | Not Fulfilled |
 | **Campus Culture** | |
 | Intranet Podcast | In Progress |
+
+</center>
+
 # Campus Health Improvement
 ## Student Health Council (Not Fulfilled)
 The intent behind the formation of this committee was to spread awareness and ensure proper healthcare of the students on campus. The manifesto stated that ""a team of student representative swill be inducted at the beginning of the semester along with a faculty in-charge to overlook the procedure". However, a formal committee has not yet been constituted, and no inductions have been announced for this yet. 
