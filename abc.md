@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A talk with the General Secretary on progress over this semester.-->
 
 
-The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on: Campus Health Improvement, Skill Development, Food Standards Improvement, Living Standards Improvement, Campus Culture and other general issues. Out of 13 manifesto points, 2 were fulfilled and 7 are in progress. 
+The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on: Campus Health Improvement, Skill Development, Food Standards Improvement, Living Standards Improvement, Campus Culture and other general issues. Out of 13 manifesto points, 2 were fulfilled and 6 are in progress. 
 
 <center>
 
@@ -19,7 +19,7 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | **Improving Living Standards** | |
 | Common Room Meets | Not Fulfilled |
 | Internet Connectivity on Campus | In Progress |
-| Survey in CP | In Progress |
+| Survey in CP | Not Fulfilled |
 | **General Issues** |  |
 | Scheduling of T-Shirts | Fulfilled |
 | SAC | Not Fulfilled |
@@ -55,8 +55,8 @@ The manifesto of the Secretary promised frequent common room meetings to know th
 ## Internet Connectivity on Campus (In Progress) 
 Providing WoFi in Ram and Krishna Bhavans. New routers have been installed and the bandwidth increased from 675mbps to 1gbps. Work is going on to replace the old network switches (which is about 25% completed), after which the speed is expected to increase. Also, Cyberoam is being replaced with another software for better internet connectivity. While significant work appears to have been done regarding this, it is not exactly clear how much involvement the SUC might have in this front as this something that comes under the responsibilities of the institute and CCIT as well. 
 
-## Survey in CP (In Progress)
-The point aims at understanding the problems or shortcomings faced by the shops at CP by being in constant communication with them. Recently, a survey was conducted in CP. An issue came up regarding the laundry service. Currently the washing machines in use are coin operated and there seem to be some problems regarding the same. Replacing these machines is being thought of as an alternative. 
+## Survey in CP (Not Fulfilled)
+The point aims at understanding the problems or shortcomings faced by the shops at CP by being in constant communication with them. Although a survey of the food outlets was done, this hasn't been extended to all the shops in CP yet. With regard to CP a new coin based laundry service is planned on being set up.
 
 # General Issues:
 ## Proper Scheduling of T-Shirts (Fulfilled)
