@@ -13,7 +13,7 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Mental Health | In Progress | 
 | Physical Health | In Progress | 
 | **Skill Development Program** | |
-| Professional Classes | Not Fulfilled |
+| Professional Classes | In Progress |
 | **Food Standards Improvement** | |
 | Food Outlet Committee | Fulfilled | 
 | **Improving Living Standards** | |
@@ -42,12 +42,11 @@ This point in the manifesto talked about increasing the availability of the coun
 This point in the manifesto stated that the student representative would take initiative to organize health camps. A Blood Donation drive (in collaboration with NSS) and an Eye-Check-up Camp (with the Administration's help) were organised. This point also stated that "articles would be published on seasonal health awareness" and that "regular surveys" would be conducted and the information from surveys would be given to the MedC and the Faculty-in-Charge. While health camps did happen over the semester, the latter two parts of this manifesto are yet to happen completely.
 
 # Skill Development Program 
-## Professional Classes (Not Fulfilled)
-The General Secretary stated that the plan was to conduct a survey with the general body regarding their interests and skills and organized (paid) classes by professional teachers, based on what a majority of the General Body wants to learn. The General Secretary stated that he could not take this up this semester due to other engagements. While the General Secretary on 22nd November did put up a [post on ShoutBox](https://www.facebook.com/groups/bphcshoutbox/permalink/2127743913954875/) regarding this, this point has clearly not been satisfied yet.
+## Professional Classes (In Progress)
+The General Secretary stated that the plan was to conduct a survey with the general body regarding their interests and skills and organized (paid) classes by professional teachers, based on what a majority of the General Body wants to learn. The General Secretary stated that he could not take this up this semester due to other engagements. While the General Secretary on 22nd November did put up a [post on ShoutBox](https://www.facebook.com/groups/bphcshoutbox/permalink/2127743913954875/) regarding this, this point has not been fulfilled yet. He did however, say that plans were in place to start work on this in the upcoming semester.
 # Food Standards Improvement:
 ## Food Outlet Committee (Fulfilled)                                                                           
-A formal committee was constituted to look into the matters related to the eateries on campus. The committee consists of all the H-Reps and has so far issued notices to food outlets through the Administration mostly related to hygiene issues. They are also looking to bring better food outlets on campus.
-
+A formal committee was constituted to look into the matters related to the eateries on campus. ([notice on SHoutBox](https://www.facebook.com/groups/bphcshoutbox/permalink/2034445656618035/)). The committee, which is headed by the GenSec, consists of H-Reps of all the Bhawans and a Convener (this year's convener is Arjun Lokireddy). The committee has so far issued notices to food outlets through the Administration mostly related to hygiene issues. The General Secretary are also looking to bring better food outlets on campus. [Link to the FOC Charter](https://drive.google.com/file/d/1RaDgIGpLMFCHsZS9QQfbFGsYPEucPyb5/view)
 # Improving Living Standards:
 ## Common Room Meets (Not asked)
 The manifesto of the Secretary promised frequent common room meetings to know the grievances of the general body on matters regarding the campus in general or about their bhavans. This was planned to happen under the supervision of the warden. No such meetings seem to have taken place.
