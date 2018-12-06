@@ -24,7 +24,7 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Scheduling of T-Shirts | Fulfilled |
 | SAC | Not Fulfilled |
 | Academic Awards | Not Fulfilled |
-| Research Portal and Platform for Alumni Relations and Feedback | Not Fulfilled |
+| Research Portal and Platform for Alumni Relations and Feedback | In Progress |
 | **Campus Culture** | |
 | Intranet Podcast | In Progress |
 
