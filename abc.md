@@ -14,13 +14,13 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | **Food Standards Improvement** | |
 | Food Outlet Committee | Fulfilled | 
 | **Improving Living Standards** | |
-| Common Room Meets | {STATUS UNKNOWN} |
+| Common Room Meets | STATUS_UNKNOWN |
 | Internet Connectivity on Campus | In Progress |
 | Survey in CP | In Progress |
 | **General Issues** |  |
-| Proper Scheduling of T-Shirts | {STATUS_UNKNOWN} |
-| SAC | {STATUS_UNKNOWN} |
-| Academic Awards | {STATUS_UNKNOWN} |
+| Proper Scheduling of T-Shirts | STATUS_UNKNOWN |
+| SAC | STATUS_UNKNOWN |
+| Academic Awards | STATUS_UNKNOWN |
 | Research Portal | Not Fulfilled |
 | Platform for Alumni Relations and Feedback | Not Fulfilled |
 | **Campus Culture** | |
