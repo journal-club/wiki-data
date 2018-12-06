@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A talk with the General Secretary on progress over this semester.-->
 
 
-The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on: Campus Health Improvement, Skill Development, Food Standards Improvement, Living Standards Improvement, Campus Culture and other general issues. Out of 14 manifesto points, 2 were fulfilled and 6 are in progress. 
+The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on: Campus Health Improvement, Skill Development, Food Standards Improvement, Living Standards Improvement, Campus Culture and other general issues. Out of 13 manifesto points, 2 were fulfilled and 7 are in progress. 
 
 <center>
 
