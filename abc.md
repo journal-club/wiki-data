@@ -28,10 +28,10 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Intranet Podcast | In Progress |
 # Campus Health Improvement
 ## Student Health Council (Not Fulfilled)
-A formal committee is not yet constituted. The work of this committee was to spread awareness and ensure proper healthcare of the students on campus.
+The intent behind the formation of this committee was to spread awareness and ensure proper healthcare of the students on campus. The manifesto stated that ""a team of student representative swill be inducted at the beginning of the semester along with a faculty in-charge to overlook the procedure". However, a formal committee has not yet been constituted, and no inductions have been announced for this yet. 
 
 ## Mental Health (In Progress)
-The  SU has been in talks with psychologists who can train the faculty in handling students with mental stress and depression. An app is being developed to hear the grievances of any student facing mental trauma. This will directly connect the student to a faculty trained for handling such situations and the student shall remain anonymous.
+This point in the manifesto talked about increasing the availability of the counsellor, and that the process to take an appointment would be simplified. While the availability of the counsellor seems to have improved, the process for taking an appointment even today appears to involve taking a form physically from the SWD Office. The General Secretary stated that the SU had been in talks with psychologists who can train the faculty in handling students with mental stress and depression. This manifesto point also talked of an "anonymous portal" that would be added to the "SU Website for people to address their problems". However, with the [SU website](https://su.bits-hyd.org) still appearing to be under construction, progress on this front seems unsure. However, the General Secretary did say that **an app is being developed** to hear the grievances of any student facing mental trauma. This will directly connect the student to a faculty trained for handling such situations and that the student shall remain anonymous.
 
 ## Physical Health  (Fulfilled) 
 Various health camps were organised. Blood Donation drive in collaboration with NSS and Eye-Check up Camp in collaboration with Administration.
@@ -89,4 +89,4 @@ Other than working on points from his manifesto, the General Secretary said that
 
 -----
 
-*Article by Tarun Agarwal and Sanath Salil. Edited by Vedika Kulkarni and Shanmukh Kali Prasad.*
+*Article by Tarun Agarwal and Sanath Salil. Edited by Vedika Kulkarni and Rohit Dwivedula.*
