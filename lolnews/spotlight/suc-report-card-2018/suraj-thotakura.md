@@ -83,7 +83,6 @@ According to the General Secretary, the Intranet Podcast is **almost ready**. Tr
 Other than working on points from his manifesto, the General Secretary said that he worked on these initiatives on campus as well, apart from working for fests:
 * The drains surrounding the football and hockey fields have been covered with grills in the wake of serious injuries to people who fell in them accidentally.
 * The number of solar panels on old hostels is being increased to ensure better supply of hot water in hostels.
-* Swiggy was brought to campus.
 * Passport mela
 * Paytm KYC
 * Fixing of auto prices 
