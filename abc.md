@@ -21,7 +21,7 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | Internet Connectivity on Campus | In Progress |
 | Survey in CP | In Progress |
 | **General Issues** |  |
-| Proper Scheduling of T-Shirts | In Progress |
+| Scheduling of T-Shirts | Fulfilled |
 | SAC | Not Fulfilled |
 | Academic Awards | Not Fulfilled |
 | Research Portal | Not Fulfilled |
@@ -58,8 +58,8 @@ Providing WoFi in Ram and Krishna Bhavans. New routers have been installed and t
 The point aims at understanding the problems or shortcomings faced by the shops at CP by being in constant communication with them. Recently, a survey was conducted in CP. An issue came up regarding the laundry service. Currently the washing machines in use are coin operated and there seem to be some problems regarding the same. Replacing these machines is being thought of as an alternative. 
 
 # General Issues:
-## Proper Scheduling of T-Shirts (In Progress)
-The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts and to ensure that delivery of TShirts happens on time. While the Atmos merchandise this year was delivered more or less on time, the first SU TShirt of the year faced significant delays. The General Secretary said that the delays were caused due to funds not being released by the Accounts Division, which took more than 43 days to disburse the funds. 
+## Proper Scheduling of T-Shirts (Fulfilled)
+The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts and to ensure that delivery of TShirts happens on time. While the Atmos merchandise this year was delivered more or less on time, the first SU TShirt of the year faced significant delays. The General Secretary said that the delays were caused due to funds not being released by the Accounts Division, which took more than 43 days to disburse the funds. However, with the Atmos TShirts being released on schedule, the General Secretary assured that the issues have been sorted out.
 
 ## SAC (Not Fulfilled)
 The General Secretary put forth this agenda point many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional and open throughout the day and also to extend the gym timings. Both haven't really happened yet. 
