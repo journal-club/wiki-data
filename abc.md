@@ -2,15 +2,29 @@
 <!-- SUBTITLE: A talk with the General Secretary on progress over this semester.-->
 
 
-The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on.
+The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503136226677/2073503149560009/?type=1&theater) was categorised broadly into 6 categories based on the type of the problem he wanted to work on: Campus Health Improvement, Skill Development, Food Standards Improvement, Living Standards Improvement, Campus Culture and other general issues. Out of X manifesto points, Y were fulfilled and Z are in progress.
 
 | Manifesto Point | Status | 
 |--|--|
 | **Campus Health Improvement** |  |
-| Automatic Vending Machines for Sanitary Napkins | Fulfilled |
-| Cultural/Sanskriti Magazine | In Progress | 
-| Culture of Martial Arts for Females | In Progress | 
-| Professionals offering classes for special skills | In Progress |
+| Student Health Council | Not Fulfilled |
+| Mental Health | In Progress | 
+| Physical Health | Fulfilled | 
+| **Skill Development Program** | Not Fulfilled |
+| **Food Standards Improvement** | |
+| Food Outlet Committee | Fulfilled | 
+| **Improving Living Standards** | |
+| Common Room Meets | {STATUS UNKNOWN} |
+| Internet Connectivity on Campus | In Progress |
+| Survey in CP | In Progress |
+| **General Issues** |  |
+| Proper Scheduling of T-Shirts | {STATUS_UNKNOWN} |
+| SAC | {STATUS_UNKNOWN} |
+| Academic Awards | {STATUS_UNKNOWN} |
+| Research Portal | Not Fulfilled |
+| Platform for Alumni Relations and Feedback | Not Fulfilled |
+| **Campus Culture** | |
+| Intranet Podcast | In Progress |
 # Campus Health Improvement
 ## Student Health Council (Not Fulfilled)
 A formal committee is not yet constituted. The work of this committee was to spread awareness and ensure proper healthcare of the students on campus.
@@ -31,7 +45,7 @@ A formal committee was constituted to look into the matters related to the eater
 ## Common Room Meets (Not asked)
 The manifesto of the Secretary promised frequent common room meetings to know the grievances of the general body on matters regarding the campus in general or about their bhavans. This was planned to happen under the supervision of the warden. No such meetings seem to have taken place.
 
-## Improve internet connectivity on campus (In Progress) 
+## Internet Connectivity on Campus (In Progress) 
 Providing WIFI in Ram and Krishna Bhavans. New routers have been installed and the bandwidth increased from 675 mbps to 1 gbps. Work is going on to replace the old network switches (25% completed). After which the speed is expected to increase. Cyberoam is being replaced with another software for better internet connectivity.
 
 ## Survey in CP (In Progress)
@@ -41,7 +55,7 @@ The point aims at understanding the problems or shortcomings faced by the shops 
 ## Proper Scheduling of T-Shirts (No Update)
 The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts. This will be done at the the beginning of the year. 
 
-## Sac (No Update)
+## SAC (No Update)
 The Secretary put forth this agenda many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional throughout the day and also extend the gym timings.
 
 ## Academic Awards (Not asked)
