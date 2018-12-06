@@ -17,13 +17,13 @@ The General Secretary's [manifesto](https://www.facebook.com/ElectionCommissionB
 | **Food Standards Improvement** | |
 | Food Outlet Committee | Fulfilled | 
 | **Improving Living Standards** | |
-| Common Room Meets | STATUS_UNKNOWN |
+| Common Room Meets | Not Fulfilled |
 | Internet Connectivity on Campus | In Progress |
 | Survey in CP | In Progress |
 | **General Issues** |  |
-| Proper Scheduling of T-Shirts | STATUS_UNKNOWN |
-| SAC | STATUS_UNKNOWN |
-| Academic Awards | STATUS_UNKNOWN |
+| Proper Scheduling of T-Shirts | In Progress/Partially Fulfilled |
+| SAC | Not Fulfilled |
+| Academic Awards | Not Fulfilled |
 | Research Portal | Not Fulfilled |
 | Platform for Alumni Relations and Feedback | Not Fulfilled |
 | **Campus Culture** | |
@@ -48,27 +48,28 @@ The General Secretary stated that the plan was to conduct a survey with the gene
 ## Food Outlet Committee (Fulfilled)                                                                           
 A formal committee was constituted to look into the matters related to the eateries on campus. ([notice on SHoutBox](https://www.facebook.com/groups/bphcshoutbox/permalink/2034445656618035/)). The committee, which is headed by the GenSec, consists of H-Reps of all the Bhawans and a Convener (this year's convener is Arjun Lokireddy). The committee has so far issued notices to food outlets through the Administration mostly related to hygiene issues. The General Secretary are also looking to bring better food outlets on campus. [Link to the FOC Charter](https://drive.google.com/file/d/1RaDgIGpLMFCHsZS9QQfbFGsYPEucPyb5/view)
 # Improving Living Standards:
-## Common Room Meets (Not asked)
-The manifesto of the Secretary promised frequent common room meetings to know the grievances of the general body on matters regarding the campus in general or about their bhavans. This was planned to happen under the supervision of the warden. No such meetings seem to have taken place.
+## Common Room Meets (Not Fulfilled)
+The manifesto of the Secretary promised frequent common room meetings to know the grievances of the general body on matters regarding the campus in general or about their bhavans. This was planned to happen under the supervision of the warden. Such meetings have not really taken place. The General Secretary did mention that they attempted to conduct meets in Ram Bhawan, but that nobody showed up. The manifesto point however promised "frequent" meets, which clearly didn't happen.
 
 ## Internet Connectivity on Campus (In Progress) 
-Providing WIFI in Ram and Krishna Bhavans. New routers have been installed and the bandwidth increased from 675 mbps to 1 gbps. Work is going on to replace the old network switches (25% completed). After which the speed is expected to increase. Cyberoam is being replaced with another software for better internet connectivity.
+Providing WoFi in Ram and Krishna Bhavans. New routers have been installed and the bandwidth increased from 675mbps to 1gbps. Work is going on to replace the old network switches (which is about 25% completed), after which the speed is expected to increase. Also, Cyberoam is being replaced with another software for better internet connectivity. While significant work appears to have been done regarding this, it is not exactly clear how much involvement the SUC might have in this front as this something that comes under the responsibilities of the institute and CCIT as well. 
 
 ## Survey in CP (In Progress)
 The point aims at understanding the problems or shortcomings faced by the shops at CP by being in constant communication with them. Recently, a survey was conducted in CP. An issue came up regarding the laundry service. Currently the washing machines in use are coin operated and there seem to be some problems regarding the same. Replacing these machines is being thought of as an alternative. 
 
 # General Issues:
-## Proper Scheduling of T-Shirts (No Update)
+## Proper Scheduling of T-Shirts (Fulfilled)
 The plan was to draft a schedule for all the clubs, departments and associations to release their T-Shirts. This will be done at the the beginning of the year. 
 
-## SAC (No Update)
-The Secretary put forth this agenda many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional throughout the day and also extend the gym timings.
+## SAC (Not Fulfilled)
+The General Secretary put forth this agenda point many times during his campaigning period, promising to speak to the concerned authorities to keep the SAC functional and open throughout the day and also to extend the gym timings. Both haven't really happened yet. 
 
-## Academic Awards (Not asked)
-The proposal was to introduce new awards during the convocation ceremony namely - 
-‘Best Undergraduate Research Project’ award from each Department.
-‘Best Post - Graduate Research Project’ award.
-‘Best Thesis’ award to Ph.D students from each department.  
+## Academic Awards (Not Fulfilled Yet)
+The proposal was to introduce new awards during the convocation ceremony namely:
+* ‘Best Undergraduate Research Project’ award from each Department.
+* ‘Best Post - Graduate Research Project’ award.
+* ‘Best Thesis’ award to Ph.D students from each department.
+The General Secretary has said that he will start working on this from next semester and that it needs a little more work from the administration's side. 
 
 ## Research Portal (Not Fulfilled)
 The aim was to set up an independant database to maintain the repository of profiles of the profiles and information regarding research works of the students and faculty. A plan has been formulated for the same, it will most likely be in action by the next semester.
@@ -78,12 +79,14 @@ This was supposed to come up on the SU Portal. The Portal is still under develop
 
 # Campus Culture:
 ## Intranet Podcast (In Progress)
-According to the General Secretary, the Intranet Podcast is almost ready. Trials are going on and he is positive that it will become functional at the start of next semester. Through the podcasts anyone on campus will be able to voice their opinions on SU or in general. He claims the SUC will connect to campus though these podcasts. As stated already in his manifesto, it will be a good platform for seniors to share their experiences and also for clubs or societies to hold weekly programs. 
-
+According to the General Secretary, the Intranet Podcast is almost ready. Trials are going on and he is positive that it will become functional at the start of next semester. Through the podcasts anyone on campus will be able to voice their opinions on SU or in general. He claims the SUC will connect to campus though these podcasts. As stated already in his manifesto, the General Secretary hopes that it will be a good platform for seniors to share their experiences and also for clubs or societies to hold weekly programs. 
+# Outside The Manifesto
 Sharing Minutes of SU/SMC weekly (Not Fulfilled)
+
 In the General Secretary’s duties, he mentioned that the SUC will have fixed weekly meeting to discuss work progress and upcoming initiatives. He also claimed that some of the elected representatives from the SUC or SMC would be nominated to form a committee that will keep the general body updated about the the minutes from the weekly meetings of the SUC or the SMC. But as per the General Secretary, the SUC never had a formal meet till date and that they will start this practise once they have one. He also claims that the Intranet Podcasts will be used by the SUC to inform the general body about the same.
 
-# Outside The Manifesto
+
+
 Other than working on points from his manifesto, the General Secretary said that he worked on these initiatives on campus as well:
 * The drains surrounding the football and hockey fields have been covered with grills in the wake of serious injuries to people who fell in them accidentally.
 * The number of solar panels on old hostels is being increased to ensure better supply of hot water in hostels.
