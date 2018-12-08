@@ -1,5 +1,5 @@
 <!-- TITLE: SUC Report Card: President -->
-<!-- SUBTITLE: A look at the manifesto of the current president, Aman Syed,   -->
+<!-- SUBTITLE: A talk with Aman Syed, President SUC on progress over this semester. -->
 
 The President’s manifesto consisted of 13 ideas, some of which aimed at improving existing systems on campus and others which were completely novel initiatives. At the end of the first semester of 2018-19, 1 has been fulfilled, 6 of these are still in progress and 6 of these have not been fulfilled. [Click here](https://www.facebook.com/ElectionCommissionBPHC/posts/2073502346226756) to view the manifesto on the Election Commission page. 
 
