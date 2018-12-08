@@ -11,9 +11,9 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [Sanitary Pad Dispensers](#sanitary-pad-dispensers-fulfilled) | Fulfilled |
 | [Students’ Emergency Fund](#students-emergency-fund-not-fulfilled) | Not Fulfilled |  
 | [SU Tech Team](#su-tech-team-in-progress) | In Progress |
-| [Parking Space for Higher Degree Students](#Parking-Space-for-Higher-Degree-Students) | Not Fulfilled |  
-| [Accommodation and PS Resources](#Accommodation-and-PS-Resources-Not-Fulfilled) | Not Fulfilled |
-| [Freelancers Cell](#Freelancers-Cell-In-Progress) | In Progress |  
+| [Parking Space for Higher Degree Students](#parking-space-for-higher-degree-students-not-fulfilled) | Not Fulfilled |  
+| [Accommodation and PS Resources](#accommodation-and-ps-resources-not-fulfilled) | Not Fulfilled |
+| [Freelancers Cell](#freelancers-cell-in-progress) | In Progress |  
 | [Alumni Connect](#Alumni-Connect-Not-fulfilled) | Not Fulfilled |
 | [Health](#Health-In-Progress) | In Progress |
 | [Build to Sell](#build-to-sell-not-fulfilled) | Not Fulfilled |  
