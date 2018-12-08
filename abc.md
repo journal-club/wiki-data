@@ -24,7 +24,6 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [Skill Development](#Skill-Development-In-Progress) | In Progress |
 | [Codifying DISCO rules](#Codifying-DISCO-rules-in-progress) | In Progress |  
 | [Aman ki Baat](#Aman-ki-Baat-Not-Fulfilled) | Not Fulfilled |
-| [SU Tech Team](#su-tech-team-in-progress) | In Progress |
 
 </center>
 
