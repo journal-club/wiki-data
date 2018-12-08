@@ -17,13 +17,13 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [SU Tech Team](#SU-Tech-Team-In-Progress) | In Progress |
 | [Parking Space for Higher Degree Students](#Parking-Space-for-Higher-Degree-Students) | Not Fulfilled |  
 | [Accommodation and PS Resources](#Accommodation-and-PS-Resources-Not-Fulfilled) | Not Fulfilled |
-| Freelancers Cell | In Progress |  
-| Alumni Connect | Not Fulfilled |
-| Health | In Progress |
-| Build to Sell | Not Fulfilled |  
-| Skill Development | In Progress |
-| Codifying DISCO rules | In Progress |  
-| Aman ki Baat | Not Fulfilled |
+| [Freelancers Cell](#Freelancers-Cell-In-Progress) | In Progress |  
+| [Alumni Connect](#Alumni-Connect-Not-fulfilled) | Not Fulfilled |
+| [Health](#Health-In-Progress) | In Progress |
+| [Build to Sell](#build-to-sell-not-fulfilled) | Not Fulfilled |  
+| [Skill Development](#Skill-Development-In-Progress) | In Progress |
+| [Codifying DISCO rules](#Codifying-DISCO-rules-in-progress) | In Progress |  
+| [Aman ki Baat](#Aman-ki-Baat-Not-Fulfilled) | Not Fulfilled |
 | [SU Tech Team](#su-tech-team-in-progress) | In Progress |
 
 </center>
