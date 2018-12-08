@@ -14,7 +14,7 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [Parking Space for Higher Degree Students](#parking-space-for-higher-degree-students-not-fulfilled) | Not Fulfilled |  
 | [Accommodation and PS Resources](#accommodation-and-ps-resources-not-fulfilled) | Not Fulfilled |
 | [Freelancers Cell](#freelancers-cell-in-progress) | In Progress |  
-| [Alumni Connect](#alumni-connect-not-fulfilled) | Not Fulfilled |
+| [Alumni Connect](#alumni-connect-in-progress) | In Progress |
 | [Health](#health-in-progress) | In Progress |
 | [Build to Sell](#build-to-sell-not-fulfilled) | Not Fulfilled |  
 | [Skill Development](#skill-development-in-progress) | In Progress |
@@ -42,7 +42,7 @@ The President’s manifesto aimed at negotiating with YHAI (Youth Hostels Associ
 # Freelancers Cell: In Progress  
 With a large number of students on campus interested in freelancing opportunities, especially in the fields of design and photography, the President planned to bring freelancing opportunities to interested students through the freelancers cell.  The SUC has been talks with companies who are interested in extending their freelancing opportunities to college students such as a freelance design firm as well as Telangana Tourism.  However without a functional SU Portal, due to a lack of formal structure, the idea cannot be properly implemented.
 
-# Alumni Connect: Not Fulfilled
+# Alumni Connect: In Progress
 The idea behind Alumni Connect was to have a platform where alumni of the campus could fund projects or provide mentoring for students. Due to the absence of a functional SU Portal, the idea has not been implemented. However, outside of the SUC initiatives have begun to reach out to alumni, such as the Student Alumni Relations Cell, headed by Prof. V. Meenakshi which aims to keep in touch with alumni through frequent articles and interactive events, including a reunion for the 2008 and 2009 batch which has been planned for the 12th of January, 2019. 
 
 This in contrast to Alumni Connect, whose primary objective was technical assistance and monetary funding.
