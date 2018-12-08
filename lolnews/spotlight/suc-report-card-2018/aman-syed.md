@@ -1,7 +1,7 @@
 <!-- TITLE: SUC Report Card: President -->
 <!-- SUBTITLE: A talk with Aman Syed, President SUC on progress over this semester. -->
 
-The President’s manifesto consisted of 13 ideas, some of which aimed at improving existing systems on campus and others which were completely novel initiatives. At the end of the first semester of 2018-19, 1 has been fulfilled, 6 of these are still in progress and 6 of these have not been fulfilled. [Click here](https://www.facebook.com/ElectionCommissionBPHC/posts/2073502346226756) to view the manifesto on the Election Commission page. 
+The President’s manifesto consisted of 13 ideas, some of which aimed at improving existing systems on campus and others which were completely novel initiatives. At the end of the first semester of 2018-19, 1 has been fulfilled, 7 of these are still in progress and 6 of these have not been fulfilled. [Click here](https://www.facebook.com/ElectionCommissionBPHC/posts/2073502346226756) to view the manifesto on the Election Commission page. 
 
 <center>
 
@@ -43,9 +43,9 @@ The President’s manifesto aimed at negotiating with YHAI (Youth Hostels Associ
 With a large number of students on campus interested in freelancing opportunities, especially in the fields of design and photography, the President planned to bring freelancing opportunities to interested students through the freelancers cell.  The SUC has been talks with companies who are interested in extending their freelancing opportunities to college students such as a freelance design firm as well as Telangana Tourism.  However without a functional SU Portal, due to a lack of formal structure, the idea cannot be properly implemented.
 
 # Alumni Connect: In Progress
-The idea behind Alumni Connect was to have a platform where alumni of the campus could fund projects or provide mentoring for students. Due to the absence of a functional SU Portal, the idea has not been implemented. However, outside of the SUC initiatives have begun to reach out to alumni, such as the Student Alumni Relations Cell, headed by Prof. V. Meenakshi which aims to keep in touch with alumni through frequent articles and interactive events, including a reunion for the 2008 and 2009 batch which has been planned for the 12th of January, 2019. 
+The idea behind Alumni Connect was to have a platform where alumni of the campus could fund projects or provide mentoring for students. Due to the absence of a functional SU Portal, the idea has not been implemented yet. However, [a similar idea](/news/spotlight/suc-report-card-2018/suraj-thotakura#research-portal-and-platform-for-alumni-relations-and-feedback-in-progress) which was also a part of the General Secretary's manifesto appears to be under progress. 
 
-This in contrast to Alumni Connect, whose primary objective was technical assistance and monetary funding.
+However, outside of the SUC initiatives have begun to reach out to alumni, such as the Student Alumni Relations Cell, headed by Prof. V. Meenakshi which aims to keep in touch with alumni through frequent articles and interactive events, including a reunion for the 2008 and 2009 batch which has been planned for the 12th of January, 2019. This in contrast to Alumni Connect, whose primary objective was technical assistance and monetary funding.
 # Health: In Progress
 This year, the SUC conducted one blood donation drive, along with NSS during ATMOS and plans to conduct more such drives. Talks with hospitals, about having a greater number of specialists visit campus as well as having student discounts for BITSians are still in progress, and the SUC plans to make headway with this initiative over the winter break.  As of now BITSians can still avail a discount at Yashoda Hospital, an agreement which has been in place, prior to the tenure of the current SUC.
 # Build to Sell: Not Fulfilled  
