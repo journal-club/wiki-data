@@ -18,7 +18,7 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [Health](#health-in-progress) | In Progress |
 | [Build to Sell](#build-to-sell-not-fulfilled) | Not Fulfilled |  
 | [Skill Development](#skill-development-in-progress) | In Progress |
-| [Codifying DISCO rules](#codifying-disco-rules-in-progress) | In Progress |  
+| [Codifying DisCo rules](#codifying-dis-co-rules-in-progress) | In Progress |  
 | [Aman ki Baat](#aman-ki-baat-not-fulfilled) | Not Fulfilled |
 
 </center>
