@@ -7,6 +7,8 @@ President’s Manifesto Analysis:
 
 The President’s manifesto consisted of 13 ideas, some of which aimed at improving existing systems on campus and others which were completely novel initiatives. At the end of the first semester of 2018-19, x of these has been fulfilled, y of these are still in progress and z of these have not been fulfilled. 
 
+<center>
+
 | Manifesto Point | Status | 
 |--|--|
 | [Improving Mental Health](#improving-mental-health-in-progress) | In Progress |
@@ -14,7 +16,7 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [Students’ Emergency Fund](#students-emergency-fund-not-fulfilled) | Not Fulfilled |  
 | [SU Tech Team](#SU-Tech-Team-In-Progress) | In Progress |
 | [Parking Space for Higher Degree Students](#Parking-Space-for-Higher-Degree-Students) | Not Fulfilled |  
-| Accommodation and PS Resources | Not Fulfilled |
+| [Accommodation and PS Resources](#Accommodation-and-PS-Resources-Not-Fulfilled) | Not Fulfilled |
 | Freelancers Cell | In Progress |  
 | Alumni Connect | Not Fulfilled |
 | Health | In Progress |
@@ -22,8 +24,10 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | Skill Development | In Progress |
 | Codifying DISCO rules | In Progress |  
 | Aman ki Baat | Not Fulfilled |
-
 | [SU Tech Team](#su-tech-team-in-progress) | In Progress |
+
+</center>
+
 # Improving Mental Health: In Progress
 With only two psychiatrists visiting the campus twice a week, the SUC recognises that it is not sufficient. The SUC aims to have a panel consisting of students and faculty and has contacts of agencies who deal with mental health issues and can teach faculty on how to handle such cases.  An app, which is currently in its beta phase, was built as a messenger platform, where students can anonymously share their issues, and then receive help from the panel who has been trained by the agency on how to deal with mental issues at a basic level.  
 
