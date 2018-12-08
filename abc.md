@@ -1,11 +1,7 @@
 <!-- TITLE: SUC Report Card: President -->
-<!-- SUBTITLE: Voted into power  -->
+<!-- SUBTITLE: A look at the manifesto of the current president, Aman Syed,   -->
 
-The Student Union is a representative of the entire student body. During elections, candidates promise the betterment of the campus, as their primary aim, through various initiatives and plans that they include in their manifesto. As the first half of their term draws to a close, we take a closer look at the major achievements of the SUC this semester, as well as the promises the current elected body had made at the time of the elections in their manifesto, and to what extent these ideas have been implemented.
-
-President’s Manifesto Analysis:  
-
-The President’s manifesto consisted of 13 ideas, some of which aimed at improving existing systems on campus and others which were completely novel initiatives. At the end of the first semester of 2018-19, x of these has been fulfilled, y of these are still in progress and z of these have not been fulfilled. 
+The President’s manifesto consisted of 13 ideas, some of which aimed at improving existing systems on campus and others which were completely novel initiatives. At the end of the first semester of 2018-19, 1 has been fulfilled, 6 of these are still in progress and 6 of these have not been fulfilled. 
 
 <center>
 
@@ -56,8 +52,8 @@ This year, the SUC conducted one blood donation drive, along with NSS during ATM
 The SUC intended to build a program which would students to solve real life problems faced by different organizations where SUC would work to get internship opportunities with companies which sponsor the fests in the campus and wish to associate with the campus.  However without a functional SU Portal, no progress has been made on this front.
 # Skill Development: In Progress
 The SUC aims to encourage students to explore different fields of interest through the Skill Development Program. With the idea of training of Civil Services and soft skills for interview training, the plan included conducting talks, workshops and sessions with people experienced in such fields. This semester, the SUC was unable to fulfill this particular initiative.  However, the SUC has already started to make plans to implement this initiative in full swing by the next semester.
-# Codifying DISCO rules: In Progress  
-While all DISCO hearings already have a set of rules and guidelines that are to be followed, the SUC has proposed some changes in the procedure. One such change being planned by the SUC is including community service in the punishment, such as working a stipulated number of hours in the library. Another proposition is to have counselling for repeated offenders, in order to reduce the number of disciplinary cases in the campus, as a whole.
+# Codifying DisCo rules: In Progress  
+While DisCo hearings already have a set of rules and guidelines that are to be followed, the SUC has proposed some changes in the procedure. One such change being planned by the SUC is the inclusion of community service in the punishment, such as working a stipulated number of hours in the library. Another proposition is to have counselling for repeated offenders, in order to reduce the number of disciplinary cases in the campus, as a whole.
 
 # Aman ki Baat: Not Fulfilled.  
 In order to keep in touch with General Body, the President had proposed a monthly newsletter that would provide a summary of the happenings on campus for the month, as well as include a proposal for the initiatives of the next month. He had also planned on conducting common room meetings, in order to provide a more accessible platform for the General Body to air their concerns and queries. However with the hectic schedule of this semester, neither initiative was implemented.  Next semester, the SUC plans to release such a newsletter, twice a month as well as conduct regular podcasts, subject to the functionality of the LAN radio.
