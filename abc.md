@@ -10,7 +10,7 @@ The President’s manifesto consisted of 13 ideas, some of which aimed at improv
 | [Improving Mental Health](#improving-mental-health-in-progress) | In Progress |
 | [Sanitary Pad Dispensers](#sanitary-pad-dispensers-fulfilled) | Fulfilled |
 | [Students’ Emergency Fund](#students-emergency-fund-not-fulfilled) | Not Fulfilled |  
-| [SU Tech Team](#SU-Tech-Team-In-Progress) | In Progress |
+| [SU Tech Team](#su-tech-team-in-progress) | In Progress |
 | [Parking Space for Higher Degree Students](#Parking-Space-for-Higher-Degree-Students) | Not Fulfilled |  
 | [Accommodation and PS Resources](#Accommodation-and-PS-Resources-Not-Fulfilled) | Not Fulfilled |
 | [Freelancers Cell](#Freelancers-Cell-In-Progress) | In Progress |  
