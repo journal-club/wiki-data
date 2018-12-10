@@ -5,6 +5,7 @@
 <center>
 
 | Date | Manifesto Analysis |
+|-|-|
 | 30/Nov/2018 | [Cultural Secretary (Boys): Bandari Shiva Sai Krishna](/news/spotlight/suc-report-card-2018/bandari-shiva) | 
 | 1/Dec/2018 | [Cultural Secretary (Girls): Yashasvi Chennawar](/news/spotlight/suc-report-card-2018/yashasvi-chennawar) | 
 | 6/Dec/2018 | [General Secretary: Suraj Thorakura](news/spotlight/suc-report-card-2018/suraj-thotakura) | 
