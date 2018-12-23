@@ -50,6 +50,7 @@ The Sports Secretary also talked to us about other general issues on compus.
 * **SAC Equipment Changes**: This year the administration has put in a lot of effort with changing and adding gym equipment.
 * **Red Bull Tournament**: The two sports secretaries together helped organise the Futsal and Badminton tournaments in collaboration with RedBull.
 * **Devil’s Circuit Campus Frenzy**: This semester Devil’s circuit saw participation from a BITS contingent 
+* Teachers' day matches were held for football, volleyball, tennis and badminton
 
 The Sports Secretary also said that she believes that our sports teams are improving - BPHC won every single one of the friendly matches with IITH. The medals earned by our sports teams are increasing exponentially, as they are encouraged to participate in more tournaments and events. The Sports Secretary also mentioned that in the budget for the next semester, the prize money for events during Arena has been increased.
 
