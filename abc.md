@@ -1,8 +1,7 @@
 <!-- TITLE: SUC Report Card: Kritika Kasliwal  -->
-<!-- SUBTITLE: A talk with the Cultural Secretary (Girls) on progress over this semester. -->
+<!-- SUBTITLE: A talk with the Sports Secretary (Girls) on progress over this semester. -->
 
-
-The Sport’s Secretary (Girls), Kritika Kasliwal’s manifesto put forth 9 points, of which 4 are fulfilled, 2 are in progress and 3 aren’t fulfilled. The manifesto is aimed at improvement of sports culture among the women on campus. 
+The Sport’s Secretary (Girls), Kritika Kasliwal’s manifesto put forth 9 points, of which 4 are fulfilled, 2 are in progress and 3 aren’t fulfilled. [Click here](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073503859559938/2073503892893268) to see the manifesto on the Election Commission Facebook page.  
 
 <center>
 
@@ -50,12 +49,14 @@ This was a reiterated point in the manifesto. Firstly, they couldn’t add the e
 Instead of the original point, the Secretary intends on conducting a Duathlon during arena which would not with be partnering with Cykul as they are not in touch anymore. Once a deal is worked out with, she intends to conduct two or three marathons.
 
 # Outside the Manifesto:
-* The participation during the Independence day run spiked from 40-50 participants to 200+.
-* SAC equipment changes: This year the administration has put in a lot of effort with changing and adding gym equipment.
-* Red Bull tournament: The two sports secretaries together helped organise the Futsal and badminton tournaments with RedBull.
-* Devil’s circuit campus frenzy: This semester Devil’s circuit saw participation from a BITS contingent 
+The Sports Secretary also talked to us about other general issues on compus. 
 
-The Sports Secretary also said that she believes our teams are improving, with more motivation coming from the sports secretaries and more practice. When the IITH friendly matches were organised, BPHC won every single one of them. The medals earned by our sports teams are increasing exponentially, as they are encouraged to participate in more tournaments and events. The Sports Secretary also mentioned that in the budget for the next semester, more prize money has been added for events during Arena.
+* The participation during the Independence Day Run spiked from 40-50 participants to 200+.
+* **SAC Equipment Changes**: This year the administration has put in a lot of effort with changing and adding gym equipment.
+* **Red Bull Tournament**: The two sports secretaries together helped organise the Futsal and Badminton tournaments in collaboration with RedBull.
+* **Devil’s Circuit Campus Frenzy**: This semester Devil’s circuit saw participation from a BITS contingent 
+
+The Sports Secretary also said that she believes that our sports teams are improving - BPHC won every single one of the friendly matches with IITH. The medals earned by our sports teams are increasing exponentially, as they are encouraged to participate in more tournaments and events. The Sports Secretary also mentioned that in the budget for the next semester, the prize money for events during Arena has been increased.
 
 -----
 *Article By: Asha Cherukuri*
