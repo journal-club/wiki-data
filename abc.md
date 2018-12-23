@@ -59,3 +59,6 @@ Instead of the original point, the Secretary intends on conducting a Duathlon du
 The Sports Secretary also said that she believes our teams are improving, with more motivation coming from the sports secretaries and more practice. When the IITH friendly matches were organised, BPHC won every single one of them. The medals earned by our sports teams are increasing exponentially, as they are encouraged to participate in more tournaments and events.
 The Sports Secretary also mentioned that in the budget for the next semester, more prize money has been added for events during Arena.
 
+*Article By : Asha Cherukuri*
+*Editors : Poornima Venkatapuram & Vamsi Nallapareddy*
+
