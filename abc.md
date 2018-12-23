@@ -1,5 +1,5 @@
 <!-- TITLE: Girls’ Sports Secretary Manifesto Analysis  -->
-<!-- SUBTITLE: This article discusses progress made by the female Sports Secretary after a conversation with her. -->
+<!-- SUBTITLE: This article discusses progress made by the female Sports Secretary on her manifesto after a conversation with her. -->
 
 
 The Sport’s Secretary (Female), Kritika Kasliwal’s manifesto put forth 9 points, of which 4 are fulfilled, 2 are in progress and 3 aren’t fulfilled. The manifesto is aimed at improvement of sports culture among the women on campus. 
