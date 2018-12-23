@@ -20,34 +20,29 @@ The Sport’s Secretary (Girls), Kritika Kasliwal’s manifesto put forth 9 poin
 </center>
 
 # Help Initialization: In Progress
-The idea behind this was to ease the introduction of new sports on campus. We now have a Tennis girls team (although it only consists of two girls), they continue to practice and participate. This point on the manifesto also includes helping those sports which have started out quite recently, like the Ultimate Frisbee team. Steps have been taken to initiate a Futsal team as well.
-
+The idea behind this was to ease the introduction of new sports on campus (Girls' Football, Tennis and Ultimate Frisbee) by "organising workshops" and focussing on  "coaching and provision of required equipment", ideas which are slightly similar to [points 4](#sports-in-hostel-in-progress) and [5](#coach-fulfilled) in this manifesto. This year a Tennis Girls' team (consisting of only two girls) was formed, and the Sports' Secretary (girls) said that steps have been taken to initiate a Futsal team as well.
 # Orientation: Fulfilled
-A separate day was held in the 3-day campus orientation for the freshers to introduce them to the sports culture on campus. The Secretary also promised to conduct a minimum of two workshops per sport to improve the existing culture and to get build the sports spirit among the freshers.
+This manifesto point proposed to organize "at least 2 workshops for each sport in the first month...". The Sports Secretary said that this would improve the existing culture and build the sports spirit among the freshers. Workshops for most the sports were organized, and a detailed timetable of the workshops was also uploaded to BPHC ShoutBox. The Sports Secretary said that one whole day was dedicated to discussing sports on campus during the Freshmen Orientation 2018. (this point is slightly similar to the next point, which also talks about workshops)
 
 # Workshops: Fulfilled
-All the girls’ sports teams conducted workshops that went on for multiple days. A timetable was devised and was posted on the Free Expression Group for the women on campus to participate. [Link to timetable](https://www.facebook.com/groups/bphcshoutbox/permalink/1993918424004092/)
-
+The Sports Secretary proposed that a "well tabulated calendar" be made for organizing sports workshops on campus. All the girls’ sports teams conducted workshops that went on for multiple days and timetable was devised and was posted on BPHC ShoutBoxx for students on campus to participate. [Link to timetable](https://www.facebook.com/groups/bphcshoutbox/permalink/1993918424004092/)
 
 # Sports in Hostel: In Progress
-The courts are being maintained regularly along with the inventory for Throwball, Volleyball and Carrom. Apart from this, the Table Tennis tables have been replaced but the only shortcoming in this segment is the inventory for Table Tennis and Badminton under the premise that the students might misuse them. The indoor sports segment including Martial Arts, Yoga, Zumba instructors were not factored into this semester’s budget and hence **could not be fulfilled**.
+The Sports Secretary said that the courts in girls' hostels are being maintained regularly, as are the inventory for Throwball, Volleyball and Carrom. Apart from this, the Sports Secretary said that the Table Tennis tables have been replaced. The only shortcoming in this segment is the inventory for Table Tennis and Badminton, which couldn't be replaced over apprehensions that students might misuse them. The manifesto also talked about indoor sports and activitiessuch as "Martial Arts, Self Defence, Yoga, and Zumba", which haven't manifested yet. The Sports Secretary said that instructors for these were not factored into this semester’s budget and hence this could not be fulfilled.
 
 # Coach: Fulfilled
-Almost all the teams except for badminton have a coach. However, some teams have a coach on an on-call basis.
+This point on the manifesto proposed for "provision of trained coaches specifically for girls' sports teams". Almost all the teams except for badminton have a coach. However, some teams have a coach on an on-call basis.
 
 # Gym: Not Fulfilled
-This point refers to the provision of a separate gym for girls on the ground floor of SAC and separate gym timings for girls along with a female gym instructor. The secretary feels that this point is not feasible because the administration wants all the facilities to be equal among students. As a result, it was decided to put cardio on the first floor and weight training below because girls would rather work on cardio. New treadmills are being installed on the first floor to accommodate for the higher crowd that cardio garners.
-
-
+This point proposed the provision of a separate gym for girls on the ground floor of SAC and "separate [gym] timings on some days of the week for girls" along with a female gym instructor. The secretary feels that this point is not feasible because the administration wants all the facilities to be equal among students. As a result, it was decided to put cardio on the first floor and weight training below because girls would rather work on cardio. New treadmills are being installed on the first floor to accommodate for the higher crowd that cardio garners.  
 # Increase Outside Participation: Fulfilled
 The sports captains have a calendar of all tournaments and events coming in the semester. This increased outside participation, with prior information, there was good practice. Our teams attended BOSM, MEC, CBIT, and IITH. We have also seen an increase in medals this semester. Our teams have earned 14 medals over the course of this semester, which they usually earn over the duration of a year.
 
 # Dietician and Nutritionist: Not Fulfilled
-This was a reiterated point in the manifesto. Firstly, they couldn’t add the expense to the budget for the first semester. Secondly, women dieticians/nutritionists aren’t ready to come as far as our campus when they were reached out. 
+This point proposed a nutritionist to be available in college for help in setting "diet for sports players". This couldn't happen so far as this expense wasn't a partof the budget for the first semester. The Sports Secretary (Girls) also mentioned that women dieticians/nutritionists aren’t ready to come as far as our campus when they were reached out. 
 
 # Cycle Marathons: Not Fulfilled
-Instead of the original point, the Secretary intends on conducting a Duathlon during arena which would not with be partnering with Cykul as they are not in touch anymore. Once a deal is worked out with, she intends to conduct two or three marathons.
-
+This manifesto point talked about introducing "monthly cycle marathons in collaboration with Cykul" which haven't happened yet.  The Sports Secretary said that the plan to conduct Cycle Marathons was now replaced with a Duathlon which would be conducted during Arena. (Duathlon is not a new event this Arena - even [Arena 2018 had this event](https://www.facebook.com/bits.arena/photos/a.168611119958361/933692286783570)). She also mentioned that they would not with be partnering with Cykul as they are not in touch with them anymore. Once a deal is worked out with, she intends to conduct two or three marathons. The manifesto point however clearly mentioned "monthly cycle marathons" which have clearly not happened yet.
 # Outside the Manifesto:
 The Sports Secretary also talked to us about other general issues on compus. 
 
