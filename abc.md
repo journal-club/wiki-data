@@ -4,6 +4,22 @@
 
 The Sport’s Secretary (Female), Kritika Kasliwal’s manifesto put forth 9 points, of which 4 are fulfilled, 2 are in progress and 3 aren’t fulfilled. The manifesto is aimed at improvement of sports culture among the women on campus. 
 
+<center>
+
+| Manifesto Point | Status | 
+|--|--|
+| [Help Initialization](#help-initialization-in-progress) | In Progress |
+| [Orientation](#orientation-fulfilled) | Fulfilled |
+| [Workshops](#workshops-fulfilled) | Fulfilled |  
+| [Sports in Hostel](#sports-in-hostel-in-progress) | In Progress |
+| [Coach](#coach-fulfilled) | Fulfilled |  
+| [Gym](#gym-not-fulfilled) | Not Fulfilled |
+| [Increase Outside Participation](#increase-outside-participation-fulfilled) | Fulfilled |  
+| [Dietician and Nutritionist](#dietician-and-nutritionist-not-fulfilled) | Not Fulfilled |
+| [Cycle Marathons](#cycle-marathons-not-fulfilled) | Not Fulfilled |
+
+</center>
+
 # Help Initialization: In Progress
 The idea behind this was to ease the introduction of new sports on campus. We now have a Tennis girls team (although it only consists of two girls), they continue to practice and participate. This point on the manifesto also includes helping those sports which have started out quite recently, like the Ultimate Frisbee team. Steps have been taken to initiate a Futsal team as well.
 
