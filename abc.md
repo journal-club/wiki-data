@@ -8,7 +8,7 @@ The Boys’ Sports Secretary, Sohith Deva’s manifesto aimed at the overall enh
 | Manifesto Point | Status | 
 |--|--|
 | [Sports Organizing Committee](#sports-organizing-committee-soc-fulfilled) | Fulfilled |
-| [Professionalism to Sports on Campus](#professionalism-to-sports-on-campus-in-progress) | In Progress |
+| [Professionalism to Sports on Campus](#professionalism-to-sports-on-campus-fulfilled) | Fulfilled |
 | [Arena Curtain-Riser](#arena-curtain-riser-fulfilled) | Fulfilled | 
 | [Enhancing the Sports Culture on Campus](#enhancing-the-sports-culture-on-campus-in-progress) | In Progress |
 | [Improving the Athletics Culture](#improving-the-athletics-culture-fulfilled) | Fulfilled |  
@@ -22,9 +22,8 @@ The Boys’ Sports Secretary, Sohith Deva’s manifesto aimed at the overall enh
 # Sports Organizing Committee (SOC): Fulfilled
 A committee consisting of one representative from each sports team has been created to organize intra college fests such as Rixa and Blitzkrieg. As a result of the formation of this committee, the burden of conducting intra college fests has been removed from the team captains who now have more time to focus on their teams. The SOC managed to conduct 7 events this year when compared to 2 events last year in Rixa. They also handled the logistics for the sports contingents who participated in colleges outside.
 
- # Professionalism to Sports on Campus: In Progress
-The Secretary has spoken to HCA and they are ready to play with the cricket team of our campus but the main match has been postponed to the *next semester*. The Chess Clubs are being called before Arena for practice. The Basketball team has played matches with the Secunderabad Club. 
-*Instead* of 3 on 3 Basketball tournaments, Red Bull Badminton happened this semester postponing Basketball to the next semester. In addition, the 5 on 5 Football tournaments have also taken place.
+ # Professionalism to Sports on Campus: Fulfilled
+This point in the manifesto planned to "conduct friendly matches with sports clubs and associations like HCA". The Sports Secretary said that he has spoken to HCA and they are ready to play with the cricket team of our campus but the main match has been postponed to the *next semester*. The Chess Clubs are being called before Arena for practice. The Basketball team has played matches with the Secunderabad Club.  The manifesto point also talked of organising events in collaboration with RedBull (such as 3v3 Basketball and [5v5 Football](https://www.facebook.com/groups/bphcshoutbox/permalink/2102112443184689/)). The manifesto point also talked of conducting Box Cricket matches in collaboration with GroundWaala - the Sports Secretary said that this event happened this semester and posted [online notices](https://www.facebook.com/photo.php?fbid=1006905282846127&set=gm.1743896439066871&type=3&theater) about the same. 
 
 # Arena Curtain-Riser: Fulfilled
 As a segment of pre-Arena events, a contingent from IIT Hyderabad came to our campus along with a couple of sports matches which were played against CBIT. In the first week of the next semester, there is going to be a contingent from NIFT Hyderabad which is going to be coming in. 
