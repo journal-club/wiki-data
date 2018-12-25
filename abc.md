@@ -1,7 +1,7 @@
 <!-- TITLE: SUC Report Card: Sohith Deva -->
 <!-- SUBTITLE: A talk with the Sports Secretary (Boys) on progress over this semester. -->
 
-The Boys’ Sports Secretary, Sohith Deva’s manifesto aimed at the overall enhancement of the Sports culture on campus along with improvements to Arena. The manifesto spoke of 9 points out of which, 5 are fulfilled, 3 are in progress and 1 has not been fulfilled yet. Click here to view the manifesto on the [Election Commission Facebook Page](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073504839559840/2073504859559838/). 
+The Boys’ Sports Secretary, Sohith Deva’s manifesto aimed at the overall enhancement of the Sports culture on campus along with improvements to Arena. The manifesto spoke of 9 points out of which, 6 are fulfilled, 2 are in progress and 1 has not been fulfilled yet. Click here to view the manifesto on the [Election Commission Facebook Page](https://www.facebook.com/ElectionCommissionBPHC/photos/a.2073504839559840/2073504859559838/). 
 
 <center>
 
